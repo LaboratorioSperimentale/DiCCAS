@@ -2,18 +2,18 @@ from lxml import etree
 import re
 
 ARABIC_LETTERS = r"[\u0600-\u06FF]+"
-DIACRITICS = re.compile(r"[\u064B-\u0652]")  # Arabic diacritics
+DIACRITICS = re.compile(r"[\u064B-\u0652]")
 
 
 def tei_to_vrt(input_file, output_file):
-    tree = etree.parse(input_file)
+    parser = etree.XMLParser(recover=True)  # Allow recovery from broken XML
+    tree = etree.parse(input_file, parser=parser)
     root = tree.getroot()
     ns = {"tei": "http://www.tei-c.org/ns/1.0"}
 
     with open(output_file, "w", encoding="utf-8") as out:
         for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
             book_num = book_div.get("n", "_")
-
             div1_list = book_div.xpath(".//tei:div1", namespaces=ns)
             if div1_list:
                 for div1 in div1_list:
@@ -54,8 +54,7 @@ def handle_div4(parent_div, out, ns, book_num, div1_num, div2_num, div3_num):
 
 
 def clean_translation(text):
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def write_paragraphs(out, div, book_num, div1_num, div2_num, div3_num, div4_num, ns):
@@ -63,33 +62,40 @@ def write_paragraphs(out, div, book_num, div1_num, div2_num, div3_num, div4_num,
     for p in div.xpath(".//tei:p", namespaces=ns):
         glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
         translation_attr = clean_translation(glosses[0]) if glosses else "_"
-
-        if not p.xpath(".//text()[not(ancestor::tei:gloss)]", namespaces=ns):
+        p_copy = etree.fromstring(etree.tostring(p), parser=etree.XMLParser(recover=True))
+        for gloss in p_copy.xpath(".//tei:gloss", namespaces=ns):
+            gloss.getparent().remove(gloss)
+        text_nodes = list(p_copy.iter())
+        if not text_nodes:
             continue
         out.write(f'<s translation="{translation_attr}">\n')
-        out.write(process_tokens(p, ns))
+        out.write(process_tokens_list(text_nodes, ns))
         out.write("</s>\n")
     out.write("</doc>\n")
 
 
-def process_tokens(p, ns):
+def process_tokens_list(nodes, ns):
     tokens_output = []
-    # Iterate over child nodes manually to avoid non-element objects with no .tag
-    for node in p.iter():
-        if node.tag == f"{{{ns['tei']}}}term":
-            term_text = "".join(node.xpath(".//text()", namespaces=ns)).strip()
-            term_type = node.get("type", "_")
-            term_translation = node.get("translation", "_")
-            for token in arabic_tokenize(term_text):
-                tokens_output.append(f"{token}\t{term_type}\t{term_translation}")
-        elif node.tag not in (f"{{{ns['tei']}}}p", f"{{{ns['tei']}}}term", f"{{{ns['tei']}}}gloss"):
-            # Process text nodes of non-term elements
-            if node.text:
-                for token in arabic_tokenize(node.text):
+    for node in nodes:
+        if isinstance(node, etree._Element):
+            if node.tag == f"{{{ns['tei']}}}term":
+                term_text = "".join(node.xpath(".//text()", namespaces=ns)).strip()
+                term_type = node.get("type", "_")
+                term_translation = node.get("translation", "_")
+                for token in arabic_tokenize(term_text):
+                    tokens_output.append(f"{token}\t{term_type}\t{term_translation}")
+            else:
+                if node.text and node.tag != f"{{{ns['tei']}}}gloss":
+                    for token in arabic_tokenize(node.text):
+                        tokens_output.append(f"{token}\t_\t_")
+        else:
+            text_str = str(node).strip()
+            if text_str:
+                for token in arabic_tokenize(text_str):
                     tokens_output.append(f"{token}\t_\t_")
-            if node.tail:
-                for token in arabic_tokenize(node.tail):
-                    tokens_output.append(f"{token}\t_\t_")
+        if isinstance(node, etree._Element) and node.tail:
+            for token in arabic_tokenize(node.tail):
+                tokens_output.append(f"{token}\t_\t_")
     return "\n".join(tokens_output) + "\n"
 
 

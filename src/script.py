@@ -1,8 +1,11 @@
 from lxml import etree
 import re
+import os
+from lxml.etree import _Element
 
 ARABIC_LETTERS = r"[\u0600-\u06FF]+"
 DIACRITICS = re.compile(r"[\u064B-\u0652]")
+SENTENCE_SPLIT_REGEX = re.compile(r"(?<=[.؟!])\s+")
 
 # Keep track of used structure tags for .vrt.struct
 div_tags_used = set()
@@ -13,70 +16,46 @@ def tei_to_vrt(input_file, output_file):
     root = tree.getroot()
     ns = {"tei": "http://www.tei-c.org/ns/1.0"}
 
+    vrt_lines = []
+    conllu_lines = []
+
+    sentence_id = 1
+
+    for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
+        book_num = book_div.get("n", "_")
+        book_title = get_head_text(book_div, ns)
+        vrt_lines.append(f'<book n="{book_num}" title="{book_title}">')
+        div_tags_used.add("book")
+        sentence_id = handle_divs(book_div, vrt_lines, conllu_lines, ns, sentence_id, {"book": (book_num, book_title)})
+        vrt_lines.append(f'</book>\n')
+
     with open(output_file, "w", encoding="utf-8") as out:
-        for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
-            book_num = book_div.get("n", "_")
-            book_title = get_head_text(book_div, ns)
-            out.write(f'<book n="{book_num}" title="{book_title}">\n')
-            div_tags_used.add("book")
-            div1_list = book_div.xpath(".//tei:div1", namespaces=ns)
-            if div1_list:
-                for div1 in div1_list:
-                    div1_type = div1.get("type", "div1")
-                    div1_num = div1.get("n", "_")
-                    div1_title = get_head_text(div1, ns)
-                    out.write(f'<{div1_type} n="{div1_num}" title="{div1_title}">\n')
-                    div_tags_used.add(div1_type)
-                    handle_div2(div1, out, ns)
-                    out.write(f'</{div1_type}>\n')
-            else:
-                write_paragraphs(out, book_div, ns)
-            out.write(f'</book>\n')
+        out.write("\n".join(vrt_lines))
+
+    with open("corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
+        f.write("\n".join(conllu_lines))
 
     write_vrt_idx("corpus_DiCCAS.vrt.idx")
     write_vrt_struct("corpus_DiCCAS.vrt.struct")
 
-def handle_div2(parent_div, out, ns):
-    div2_list = parent_div.xpath(".//tei:div2", namespaces=ns)
-    if div2_list:
-        for div2 in div2_list:
-            div2_type = div2.get("type", "div2")
-            div2_num = div2.get("n", "_")
-            div2_title = get_head_text(div2, ns)
-            out.write(f'<{div2_type} n="{div2_num}" title="{div2_title}">\n')
-            div_tags_used.add(div2_type)
-            handle_div3(div2, out, ns)
-            out.write(f'</{div2_type}>\n')
-    else:
-        write_paragraphs(out, parent_div, ns)
-
-def handle_div3(parent_div, out, ns):
-    div3_list = parent_div.xpath(".//tei:div3", namespaces=ns)
-    if div3_list:
-        for div3 in div3_list:
-            div3_type = div3.get("type", "div3")
-            div3_num = div3.get("n", "_")
-            div3_title = get_head_text(div3, ns)
-            out.write(f'<{div3_type} n="{div3_num}" title="{div3_title}">\n')
-            div_tags_used.add(div3_type)
-            handle_div4(div3, out, ns)
-            out.write(f'</{div3_type}>\n')
-    else:
-        write_paragraphs(out, parent_div, ns)
-
-def handle_div4(parent_div, out, ns):
-    div4_list = parent_div.xpath(".//tei:div4", namespaces=ns)
-    if div4_list:
-        for div4 in div4_list:
-            div4_type = div4.get("type", "div4")
-            div4_num = div4.get("n", "_")
-            div4_title = get_head_text(div4, ns)
-            out.write(f'<{div4_type} n="{div4_num}" title="{div4_title}">\n')
-            div_tags_used.add(div4_type)
-            write_paragraphs(out, div4, ns)
-            out.write(f'</{div4_type}>\n')
-    else:
-        write_paragraphs(out, parent_div, ns)
+def handle_divs(parent, vrt_lines, conllu_lines, ns, sentence_id, context):
+    for child in parent:
+        if not isinstance(child.tag, str):
+            continue  # skip comments, processing instructions, etc.
+        tag = etree.QName(child.tag).localname
+        if tag.startswith("div"):
+            div_type = child.get("type", tag)
+            div_num = child.get("n", "_")
+            div_title = get_head_text(child, ns)
+            div_tags_used.add(div_type)
+            vrt_lines.append(f'<{div_type} n="{div_num}" title="{div_title}">')
+            new_context = context.copy()
+            new_context[div_type] = (div_num, div_title)
+            sentence_id = handle_divs(child, vrt_lines, conllu_lines, ns, sentence_id, new_context)
+            vrt_lines.append(f'</{div_type}>\n')
+        elif tag == "p":
+            sentence_id = write_paragraph(child, vrt_lines, conllu_lines, ns, sentence_id, context)
+    return sentence_id
 
 def get_head_text(div, ns):
     head = div.find("tei:head", namespaces=ns)
@@ -90,69 +69,95 @@ def get_head_text(div, ns):
 def clean_translation(text):
     return re.sub(r"\s+", " ", text).strip()
 
-def write_paragraphs(out, div, ns):
-    for p in div.xpath(".//tei:p", namespaces=ns):
-        glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
-        translation_attr = clean_translation(glosses[0]) if glosses else "_"
-        p_copy = etree.fromstring(etree.tostring(p), parser=etree.XMLParser(recover=True))
+def walk_node(node, current_role="_", current_term_type="_", current_term_translation="_", ns=None):
+    tokens = []
+    if not isinstance(node, _Element):
+        return tokens
 
-        for gloss in p_copy.xpath(".//tei:gloss", namespaces=ns):
-            gloss.getparent().remove(gloss)
+    tag = node.tag if isinstance(node.tag, str) else ""
 
-        for hi in p_copy.xpath(".//tei:hi", namespaces=ns):
-            parent = hi.getparent()
-            index = parent.index(hi)
-            if hi.text:
-                text_node = etree.Element("span")
-                text_node.text = hi.text
-                parent.insert(index, text_node)
-            for child in list(hi):
-                parent.insert(index, child)
-            if hi.tail:
-                hi.tail = " " + hi.tail
-            parent.remove(hi)
+    if tag.endswith("gloss"):
+        return tokens
 
-        text_nodes = list(p_copy.iter())
-        if not text_nodes:
-            continue
-        out.write(f'<p translation="{translation_attr}">\n')
-        div_tags_used.add("p")
-        out.write(process_tokens_list(text_nodes, ns))
-        out.write("</p>\n")
+    if tag.endswith("term"):
+        current_term_type = node.get("type", "_")
+        current_term_translation = node.get("translation", current_term_translation)
 
-def process_tokens_list(nodes, ns):
-    tokens_output = []
-    current_role = "_"
-    for node in nodes:
-        if isinstance(node, etree._Element):
-            if node.tag == f"{{{ns['tei']}}}term":
-                term_text = "".join(node.xpath(".//text()", namespaces=ns)).strip()
-                term_type = node.get("type", "_")
-                term_translation = node.get("translation", "_")
-                for token in arabic_tokenize(term_text):
-                    tokens_output.append(f"{token}\t{term_type}\t{term_translation}")
-            elif node.tag == f"{{{ns['tei']}}}persName":
-                current_role = node.get("role", "_")
-                inner_text = "".join(node.xpath(".//text()", namespaces=ns)).strip()
-                for token in arabic_tokenize(inner_text):
-                    tokens_output.append(f"{token}\t{current_role}\t_")
-                current_role = "_"
-            elif node.text and node.tag != f"{{{ns['tei']}}}gloss":
-                for token in arabic_tokenize(node.text):
-                    tokens_output.append(f"{token}\t_\t_")
-        else:
-            text_str = str(node).strip()
-            if text_str:
-                for token in arabic_tokenize(text_str):
-                    tokens_output.append(f"{token}\t_\t_")
-        if isinstance(node, etree._Element) and node.tail:
-            for token in arabic_tokenize(node.tail):
-                tokens_output.append(f"{token}\t_\t_")
-    return "\n".join(tokens_output) + "\n"
+    if tag.endswith("persName"):
+        local_role = node.get("role", current_role)
+        if node.text:
+            for word in arabic_tokenize(node.text):
+                tokens.append((word, local_role, current_term_type, current_term_translation))
+        for child in node:
+            tokens.extend(walk_node(child, local_role, current_term_type, current_term_translation, ns))
+            if child.tail:
+                for word in arabic_tokenize(child.tail):
+                    tokens.append((word, current_role, current_term_type, current_term_translation))
+        return tokens
+
+    if node.text:
+        for word in arabic_tokenize(node.text):
+            tokens.append((word, current_role, current_term_type, current_term_translation))
+
+    for child in node:
+        tokens.extend(walk_node(child, current_role, current_term_type, current_term_translation, ns))
+        if child.tail:
+            for word in arabic_tokenize(child.tail):
+                tokens.append((word, current_role, current_term_type, current_term_translation))
+
+    return tokens
+
+def write_paragraph(p, vrt_lines, conllu_lines, ns, sentence_id, context):
+    glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
+    translation_attr = clean_translation(glosses[0]) if glosses else "_"
+    p_copy = etree.fromstring(etree.tostring(p), parser=etree.XMLParser(recover=True))
+
+    for hi in p_copy.xpath(".//tei:hi", namespaces=ns):
+        hi.tag = "span"
+
+    token_tuples = walk_node(p_copy, ns=ns)
+
+    sentences = []
+    current_sentence = []
+    for tok in token_tuples:
+        current_sentence.append(tok)
+        if tok[0] in ['.', '؟', '!']:
+            sentences.append(current_sentence)
+            current_sentence = []
+    if current_sentence:
+        sentences.append(current_sentence)
+
+    vrt_lines.append(f'<p translation="{translation_attr}">')
+    div_tags_used.add("p")
+
+    for sentence in sentences:
+        vrt_lines.append("<s>")
+        conllu_lines.append(f"# sent_id = s{sentence_id}")
+        conllu_lines.append(f"# translation = {translation_attr}")
+        for k, (num, title) in context.items():
+            conllu_lines.append(f"# {k} = {num}")
+            conllu_lines.append(f"# {k}_title = {title}")
+        for idx, (token, role, term_type, term_translation) in enumerate(sentence, 1):
+            vrt_lines.append(f"{token}\t{role}\t{term_type}\t{term_translation}")
+            misc = []
+            if role != "_":
+                misc.append(f"Role={role}")
+            if term_type != "_":
+                misc.append(f"TermType={term_type}")
+            if term_translation != "_":
+                misc.append(f"TermTranslation={term_translation}")
+            misc_str = "|".join(misc) if misc else "_"
+            conllu_lines.append(f"{idx}\t{token}\t_\t_\t_\t_\t_\t_\t_\t{misc_str}")
+        vrt_lines.append("</s>")
+        conllu_lines.append("")
+        sentence_id += 1
+
+    vrt_lines.append("</p>")
+    return sentence_id
 
 def arabic_tokenize(text):
     text = DIACRITICS.sub('', text)
-    text = re.sub(r'([.,!?؛،:"«»()\[\]{}])', r' \1 ', text)
+    text = re.sub(r'([.,!?؛،:\"«»()\[\]{}])', r' \1 ', text)
     text = re.sub(r'\b([وفبكل])(?=' + ARABIC_LETTERS + ')', r'\1 ', text)
     text = re.sub(r'\b(ال)(?=' + ARABIC_LETTERS + ')', r'\1 ', text)
     return text.split()

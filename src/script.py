@@ -6,7 +6,7 @@ DIACRITICS = re.compile(r"[\u064B-\u0652]")
 
 
 def tei_to_vrt(input_file, output_file):
-    parser = etree.XMLParser(recover=True)  # Allow recovery from broken XML
+    parser = etree.XMLParser(recover=True)
     tree = etree.parse(input_file, parser=parser)
     root = tree.getroot()
     ns = {"tei": "http://www.tei-c.org/ns/1.0"}
@@ -14,51 +14,64 @@ def tei_to_vrt(input_file, output_file):
     with open(output_file, "w", encoding="utf-8") as out:
         for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
             book_num = book_div.get("n", "_")
+            out.write(f'<book n="{book_num}">\n')
             div1_list = book_div.xpath(".//tei:div1", namespaces=ns)
             if div1_list:
                 for div1 in div1_list:
+                    div1_type = div1.get("type", "div1")
                     div1_num = div1.get("n", "_")
-                    handle_div2(div1, out, ns, book_num, div1_num)
+                    out.write(f'<{div1_type} n="{div1_num}">\n')
+                    handle_div2(div1, out, ns)
+                    out.write(f'</{div1_type}>\n')
             else:
-                write_paragraphs(out, book_div, book_num, "_", "_", "_", "_", ns)
+                write_paragraphs(out, book_div, ns)
+            out.write(f'</book>\n')
 
 
-def handle_div2(parent_div, out, ns, book_num, div1_num):
+def handle_div2(parent_div, out, ns):
     div2_list = parent_div.xpath(".//tei:div2", namespaces=ns)
     if div2_list:
         for div2 in div2_list:
+            div2_type = div2.get("type", "div2")
             div2_num = div2.get("n", "_")
-            handle_div3(div2, out, ns, book_num, div1_num, div2_num)
+            out.write(f'<{div2_type} n="{div2_num}">\n')
+            handle_div3(div2, out, ns)
+            out.write(f'</{div2_type}>\n')
     else:
-        write_paragraphs(out, parent_div, book_num, div1_num, "_", "_", "_", ns)
+        write_paragraphs(out, parent_div, ns)
 
 
-def handle_div3(parent_div, out, ns, book_num, div1_num, div2_num):
+def handle_div3(parent_div, out, ns):
     div3_list = parent_div.xpath(".//tei:div3", namespaces=ns)
     if div3_list:
         for div3 in div3_list:
+            div3_type = div3.get("type", "div3")
             div3_num = div3.get("n", "_")
-            handle_div4(div3, out, ns, book_num, div1_num, div2_num, div3_num)
+            out.write(f'<{div3_type} n="{div3_num}">\n')
+            handle_div4(div3, out, ns)
+            out.write(f'</{div3_type}>\n')
     else:
-        write_paragraphs(out, parent_div, book_num, div1_num, div2_num, "_", "_", ns)
+        write_paragraphs(out, parent_div, ns)
 
 
-def handle_div4(parent_div, out, ns, book_num, div1_num, div2_num, div3_num):
+def handle_div4(parent_div, out, ns):
     div4_list = parent_div.xpath(".//tei:div4", namespaces=ns)
     if div4_list:
         for div4 in div4_list:
+            div4_type = div4.get("type", "div4")
             div4_num = div4.get("n", "_")
-            write_paragraphs(out, div4, book_num, div1_num, div2_num, div3_num, div4_num, ns)
+            out.write(f'<{div4_type} n="{div4_num}">\n')
+            write_paragraphs(out, div4, ns)
+            out.write(f'</{div4_type}>\n')
     else:
-        write_paragraphs(out, parent_div, book_num, div1_num, div2_num, div3_num, "_", ns)
+        write_paragraphs(out, parent_div, ns)
 
 
 def clean_translation(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def write_paragraphs(out, div, book_num, div1_num, div2_num, div3_num, div4_num, ns):
-    out.write(f'<doc book="{book_num}" div1="{div1_num}" div2="{div2_num}" div3="{div3_num}" div4="{div4_num}">\n')
+def write_paragraphs(out, div, ns):
     for p in div.xpath(".//tei:p", namespaces=ns):
         glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
         translation_attr = clean_translation(glosses[0]) if glosses else "_"
@@ -68,10 +81,9 @@ def write_paragraphs(out, div, book_num, div1_num, div2_num, div3_num, div4_num,
         text_nodes = list(p_copy.iter())
         if not text_nodes:
             continue
-        out.write(f'<s translation="{translation_attr}">\n')
+        out.write(f'<p translation="{translation_attr}">\n')
         out.write(process_tokens_list(text_nodes, ns))
-        out.write("</s>\n")
-    out.write("</doc>\n")
+        out.write("</p>\n")
 
 
 def process_tokens_list(nodes, ns):

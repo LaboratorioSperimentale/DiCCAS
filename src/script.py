@@ -32,11 +32,11 @@ def tei_to_vrt(input_file, output_file):
     with open(output_file, "w", encoding="utf-8") as out:
         out.write("\n".join(vrt_lines))
 
-    with open("corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
+    with open("data/corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
         f.write("\n".join(conllu_lines))
 
-    write_vrt_idx("corpus_DiCCAS.vrt.idx")
-    write_vrt_struct("corpus_DiCCAS.vrt.struct")
+    write_vrt_idx("data/corpus_DiCCAS.vrt.idx")
+    write_vrt_struct("data/corpus_DiCCAS.vrt.struct")
 
 def handle_divs(parent, vrt_lines, conllu_lines, ns, sentence_id, context):
     for child in parent:
@@ -178,4 +178,4 @@ def write_vrt_struct(struct_file):
                 f.write(f"{tag}\tattributes:n,title\n")
 
 # Example usage
-tei_to_vrt("corpus_DiCCAS.xml", "corpus_DiCCAS.vert")
+tei_to_vrt("data/250917corpus_DiCCAS.xml", "data/250917corpus_DiCCAS.vert")

@@ -8,7 +8,7 @@ def merge_vert_and_conllu_preserve_structure(vert_file, conllu_file, output_file
                 continue
             fields = line.split("\t")
             if len(fields) == 10:
-                conllu_tokens.append((fields[2], fields[3]))  # lemma, upos
+                conllu_tokens.append((fields[2], fields[3], fields[4]))  # lemma, upos, xpos
 
     # Step 2: Open vert and write merged output
     with open(vert_file, "r", encoding="utf-8") as fin, open(output_file, "w", encoding="utf-8") as fout:
@@ -19,10 +19,12 @@ def merge_vert_and_conllu_preserve_structure(vert_file, conllu_file, output_file
                 # Structural or blank line
                 fout.write(line + "\n")
             else:
+                line = line.split("\t")
+                adversity = ';'.join([x.strip() for x in line[3].split(",")])
                 if token_index >= len(conllu_tokens):
                     raise ValueError("More token lines in .vert than in .conllu")
-                lemma, upos = conllu_tokens[token_index]
-                fout.write(f"{line}\t{lemma}\t{upos}\n")
+                lemma, upos, xpos = conllu_tokens[token_index]
+                fout.write(f"{line[0]}\t{lemma}\t{upos}\t{xpos}\t{adversity}\n")
                 token_index += 1
 
     print(f"✅ Merged file written to: {output_file}")
@@ -30,7 +32,7 @@ def merge_vert_and_conllu_preserve_structure(vert_file, conllu_file, output_file
 
 
 merge_vert_and_conllu_preserve_structure(
-    vert_file="corpus_DiCCAS.vert",
-    conllu_file="corpus_annotated.conllu",
-    output_file="corpus_DiCCAS_merged.vert"
+    vert_file="data/250917corpus_DiCCAS.vert",
+    conllu_file="data/DICCAS1.conllu",
+    output_file="data/corpus_DiCCAS_merged.vert"
 )

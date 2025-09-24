@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 
 
 
-tree = ET.parse('corpus_DiCCAS.xml')
+tree = ET.parse('data/250917corpus_DiCCAS.xml')
 root = tree.getroot()
 ns = {'ns': root.tag.split('}')[0].strip('{')}
 books = root.findall("ns:text", ns)[0].findall("ns:body", ns)[0].findall("ns:div", ns)

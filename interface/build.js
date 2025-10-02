@@ -1,4 +1,4 @@
-const jsonUrl = 'https://raw.githubusercontent.com/UniDive/corpus-annotation-tools/refs/heads/main/data/latest_export.json';
+const jsonUrl = "https://raw.githubusercontent.com/LaboratorioSperimentale/DiCCAS/refs/heads/interface/interface/data.json";
 
 
 async function fetchJSON() {

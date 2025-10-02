@@ -1,0 +1,35 @@
+body{
+	height: 100%;
+	overflow-y: hidden;
+}
+
+.header {
+	background-color: beige;
+	height: 30vh;
+	margin: 1rem;
+	padding: 1rem;
+	display: flex;
+	align-items: center;
+}
+
+.choices {
+	background-color: rgb(184, 220, 192);
+	width: 50%;
+	height: 20vh;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.full-context {
+	background-color: rgb(242, 193, 180);
+	width: 50%;
+	height: 20vh;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.kwic {
+	height: 70%;
+	margin: 1rem;
+	padding: 1rem;
+}

@@ -1,0 +1,10 @@
+book	attributes:n,title
+chapter	attributes:n,title
+div3	attributes:n,title
+p	attributes:translation
+section	attributes:n,title
+sub-chapter	attributes:n,title
+sub-sub-chapter	attributes:n,title
+subchapter	attributes:n,title
+subsubchapter	attributes:n,title
+sura	attributes:n,title

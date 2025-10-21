@@ -196,7 +196,6 @@ def walk_node(node, current_role="_", current_term_type="_", current_term_transl
                 print(triplet, file=file_output_prova)
         print("", file=file_output_prova)
 
-        # for word in arabic_tokenize(node.text):
     for child in node:
         tokens.extend(walk_node(child, current_role, current_term_type, current_term_translation, ns))
         if child.tail:
@@ -216,8 +215,6 @@ def walk_node(node, current_role="_", current_term_type="_", current_term_transl
                     tokens.append((word, pos, lemma, current_role, current_term_type, current_term_translation))
                     print(triplet, file=file_output_prova)
             print("", file=file_output_prova)
-            # for word in arabic_tokenize(child.tail):
-            #     tokens.append((word, current_role, current_term_type, current_term_translation))
     return tokens
 
 
@@ -323,7 +320,7 @@ def write_vrt_struct(struct_file):
 
 if __name__ == "__main__":
     # Example usage
-    tei_to_vrt("data/250917corpus_DiCCAS.xml", "data/250917corpus_DiCCAS.vert")
+    tei_to_vrt("data/251006corpus_DiCCAS.xml", "data/251006corpus_DiCCAS.vert")
 
 
 # NUMERI arabo

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DiCCAS-interface",
+			"path": "interfaccia/DiCCAS-interface"
+		}
+	],
+	"settings": {}
+}

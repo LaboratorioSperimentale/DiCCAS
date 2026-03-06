@@ -26,3 +26,8 @@ python src/tab2vert.py --input_file data/output/DiCCAS.vrt --output_file data/ou
 
 As far as Part of Speech tags are concerned, we rely on camel_tools for the analysis of Arabic text. For more information on the tagset, see the camel_tools documentation: https://camel-tools.readthedocs.io/
 These are converted to one-letter tags in the final VRT file, following the mapping provided in the `pos_map.py` dictionary in `src/`.
+
+
+-----
+
+Everything is released under CC-BY-NC-SA 4.0.

@@ -1,15 +1,12 @@
-from lxml import etree
 import re
-import os
-import json
 import unicodedata as ud
+from lxml import etree
 from lxml.etree import _Element
 
 from camel_tools.utils.normalize import normalize_unicode
 from camel_tools.utils.dediac import dediac_ar
 from camel_tools.tokenizers.word import simple_word_tokenize
 from camel_tools.disambig.mle import MLEDisambiguator
-from camel_tools.disambig.bert import BERTUnfactoredDisambiguator
 from camel_tools.tagger.default import DefaultTagger
 
 
@@ -36,6 +33,14 @@ def strip_arabic_diacritics(text, *,
 							remove_supersubs=True,
 							remove_small_letters=True,
 							remove_quranic_signs=True):
+	"""Removes Arabic diacritics and optionally other marks from the input text.
+	By default, it removes:
+	- Harakat (Fatha, Damma, Kasra, etc.)
+	- Tatweel (kashida)
+	- Superscript and subscript characters
+	- Arabic "small letters" (like SMALL WAW and SMALL YEH)
+	- Common Qur'anic signs that aren't categorized as Mn (like END OF AYAH)
+	"""
 	# Decompose so base letters + marks separate
 	t = ud.normalize('NFD', text)
 	out = []
@@ -69,7 +74,7 @@ def strip_arabic_diacritics(text, *,
 
 	return ud.normalize('NFC', ''.join(out))
 
-file_output_prova = open("data/prova.txt", "w", encoding="utf-8")
+# file_output_prova = open("data/prova.txt", "w", encoding="utf-8")
 
 # Keep track of used structure tags for .vrt.struct
 div_tags_used = set()
@@ -77,6 +82,10 @@ div_tags_used = set()
 def handle_divs(parent,
 				vrt_lines,
 				ns, sentence_id, context):
+	"""
+	Recursively processes nested <div> elements in the TEI XML,
+	extracting relevant information and writing to VRT lines.
+	"""
 
 	for child in parent:
 
@@ -93,12 +102,10 @@ def handle_divs(parent,
 			div_title = get_head_text(child, ns)
 			div_tags_used.add(div_type)
 
-			# vrt_lines.append(f'<{div_type} n="{div_num}" title="{div_title}">')
 			vrt_lines.append(f'@{div_type.upper()}@\tn="{div_num}"\t{div_type}_title="{div_title}"')
 			new_context = context.copy()
 			new_context[div_type] = (div_num, div_title)
 			sentence_id = handle_divs(child, vrt_lines, ns, sentence_id, new_context)
-			# vrt_lines.append(f'</{div_type}>\n')
 
 		elif tag == "p":
 			sentence_id = write_paragraph(child, vrt_lines,
@@ -108,6 +115,10 @@ def handle_divs(parent,
 
 
 def get_head_text(div, ns):
+	"""
+	Extracts and cleans the text from the <head> element of a TEI <div>.
+	If no <head> or <title> is found, returns "_".
+	"""
 	head = div.find("tei:head", namespaces=ns)
 	if head is not None:
 		title = head.find("tei:title", namespaces=ns)
@@ -118,6 +129,9 @@ def get_head_text(div, ns):
 
 
 def clean_translation(text):
+	"""
+	Cleans translation text by normalizing whitespace and replacing double quotes with single quotes.
+	"""
 	ret = re.sub(r"\s+", " ", text).strip()
 	ret = re.sub(r'"', "'", ret)
 	return ret
@@ -126,6 +140,11 @@ def clean_translation(text):
 def walk_node(node,
 			current_role="_", current_term_type="_", current_term_subtype = "_",
 			current_term_translation=["_"], ns=None):
+	"""
+	Recursively walks an XML node, extracting tokens and their annotations.
+	Handles page breaks, glosses, terms, and place names, and applies morphological analysis
+	to the text content. Returns a list of token tuples with their annotations.
+	"""
 	page_numbers = []
 	tokens = []
 	if not isinstance(node, _Element):
@@ -151,8 +170,8 @@ def walk_node(node,
 		current_term_translation = [x.strip() for x in node.get("translation", "_").split(',')]
 
 	if node.text:
-		print(node.text, file=file_output_prova)
-		print(strip_arabic_diacritics(re.sub(r"\s+", ' ', node.text)), file=file_output_prova)
+		# print(node.text, file=file_output_prova)
+		# print(strip_arabic_diacritics(re.sub(r"\s+", ' ', node.text)), file=file_output_prova)
 		text_stripped = strip_arabic_diacritics(re.sub(r"\s+", ' ', node.text))
 		text = dediac_ar(normalize_unicode(text_stripped))
 		text = simple_word_tokenize(text)
@@ -161,11 +180,8 @@ def walk_node(node,
 			diacritized = [d.analyses[0].analysis['diac'] for d in disambig]
 			pos_tags = [d.analyses[0].analysis['pos'] for d in disambig]
 			lemmas = [d.analyses[0].analysis['lex'] for d in disambig]
-			# print(text)
 			for triplet in zip(diacritized, pos_tags, lemmas):
 				word, pos, lemma = triplet
-				# print(word, pos, lemma)
-				# input()
 				tokens.append((word, pos, lemma,
 						current_role, current_term_type,
 				  		current_term_subtype,
@@ -174,8 +190,8 @@ def walk_node(node,
 	for child in node:
 		tokens.extend(walk_node(child, current_role, current_term_type, current_term_subtype, current_term_translation, ns))
 		if child.tail:
-			print(child.tail, file=file_output_prova)
-			print(strip_arabic_diacritics(re.sub(r"\s+", ' ', child.tail)), file=file_output_prova)
+			# print(child.tail, file=file_output_prova)
+			# print(strip_arabic_diacritics(re.sub(r"\s+", ' ', child.tail)), file=file_output_prova)
 
 			text_stripped = strip_arabic_diacritics(re.sub(r"\s+", ' ', child.tail))
 			text = dediac_ar(normalize_unicode(text_stripped))
@@ -191,8 +207,11 @@ def walk_node(node,
 
 	return tokens
 
-
-def write_paragraph(p, vrt_lines, ns, sentence_id, context):
+def write_paragraph(p, vrt_lines, ns, sentence_id):
+	"""
+	Processes a <p> element, extracting tokens and their annotations,
+	and appending them to the VRT lines. Also handles page breaks and paragraph-level metadata
+	"""
 
 	pos_map = {
 		"abbrev": "b",
@@ -247,71 +266,25 @@ def write_paragraph(p, vrt_lines, ns, sentence_id, context):
 
 	pos_paragraph = len(vrt_lines)
 	paragraph_pages = []
-	# vrt_lines.append(f'<p id="{p_id}" n="{p_n}" translation="{translation_attr}">')
 	vrt_lines.append(f'@P@\tn="{p_n}"\tid="{p_id}"\ttranslation="{translation_attr}"')
-
-	# div_tags_used.add("p")
 
 	last_seen_page = "_"
 	for sentence in sentences:
 		sent_pages = [pos for (token, pos, lemma, role, term_type, term_subtype, term_translation) in sentence if token == "[PAGEBREAK]"]
 		paragraph_pages.extend(sent_pages)
 
-		# if len(sent_pages):
-			# vrt_lines.append(f'<s pages="{",".join(sent_pages)}">')
-		# else:
-			# vrt_lines.append("<s>")
-
-
-		# conllu_lines.append(f"# sent_id = s{sentence_id}")
-		# if len(sent_pages):
-		#     conllu_lines.append(f'# pages = "{",".join(sent_pages)}"')
-		# conllu_lines.append(f"# translation = {translation_attr}")
-		# for k, (num, title) in context.items():
-		#     conllu_lines.append(f"# {k} = {num}")
-		#     conllu_lines.append(f"# {k}_title = {title}")
-
 		for idx, (token, pos, lemma, role, term_type, term_subtype, term_translation) in enumerate(sentence):
 			if token == "[PAGEBREAK]" and not pos == "_":
 				last_seen_page = int(pos)
-				# print(ud.name(last_seen_page[0]))
-				# last_seen_page = str(int(last_seen_page))
-				# print(ud.name(last_seen_page[0]))
-				# input()
-
 			else:
 				ded_token = dediac_ar(token)
-				# vrt_lines.append('\t'.join([ded_token, pos, lemma, term_type, ';'.join(term_translation), f"{last_seen_page}", f"{ded_token}-{pos}", f"{lemma}-{pos}"]))
 				if term_subtype != "_":
 					term_type = term_type+":"+term_subtype
-				# vrt_lines.append('\t'.join([ded_token, pos, lemma, term_type, ';'.join(term_translation), f"{ded_token}-{pos_map[pos]}", f"{lemma}-{pos_map[pos]}"]))
 				vrt_lines.append('\t'.join([ded_token, pos, lemma, term_type, ';'.join(term_translation), f"{ded_token}-{pos_map[pos]}", f"{lemma}-{pos_map[pos]}"]))
-				# print(pos)
-
-				# misc = []
-				# if role != "_":
-				# 	misc.append(f"Role={role}")
-				# if term_type != "_":
-				# 	if term_subtype != "_":
-				# 		misc.append(f"TermType={term_type}:{term_subtype}")
-				# 	else:
-				# 		misc.append(f"TermType={term_type}")
-				# if term_translation != "_":
-				# 	misc.append(f"TermTranslation={';'.join(term_translation)}")
-				# misc.append(f"Page={last_seen_page}")
-				# misc_str = "|".join(misc) if misc else "_"
-				# conllu_lines.append('\t'.join([str(idx), token, lemma, pos, misc_str]))
-				# f"{idx}\t{token}\t{lemma}\t{pos}\t_\t_\t_\t_\t_\t{misc_str}")
-
-		# vrt_lines.append("</s>")
-		# conllu_lines.append("")
 		sentence_id += 1
 
 	if len(paragraph_pages):
-		# vrt_lines[pos_paragraph] = f'<p translation="{translation_attr}" pages="{",".join(paragraph_pages)}">'
 		vrt_lines[pos_paragraph] += f'\tpages="{",".join(paragraph_pages)}"'
-	# vrt_lines.append("</p>")
-
 	return sentence_id
 
 
@@ -324,6 +297,11 @@ def write_vrt_idx(idx_file):
 
 
 def write_vrt_struct(struct_file):
+	"""
+	Writes the .vrt.struct file based on the div tags used in the TEI XML.
+	For <p> tags, it includes the 'translation' attribute.
+	For other div types, it includes 'n' and 'title' attributes.
+	"""
 	with open(struct_file, "w", encoding="utf-8") as f:
 		for tag in sorted(div_tags_used):
 			if tag == "p":
@@ -333,6 +311,9 @@ def write_vrt_struct(struct_file):
 
 
 def tei_to_vrt(input_file, output_file):
+	"""Main function to convert TEI XML to VRT format.
+	Parses the XML, processes the structure, and writes the output.
+	"""
 
 	parser = etree.XMLParser(recover=True)
 	tree = etree.parse(input_file, parser=parser)
@@ -340,40 +321,28 @@ def tei_to_vrt(input_file, output_file):
 	ns = {"tei": "http://www.tei-c.org/ns/1.0"}
 
 	vrt_lines = []
-	# conllu_lines = []
-	# json_lines = []
 
 	sentence_id = 1
 
-	print("1.  ###########")
+	print("1.  ###########", "Processing books...")
 
 	for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
 		book_num = book_div.get("n", "-")
 		book_type = book_div.get("ana", "-")
 		book_title = get_head_text(book_div, ns)
 
-		# vrt_lines.append(f'<book n="{book_num}" title="{book_title}" type="{book_type}">')
 		vrt_lines.append(f'@BOOK@\tn="{book_num}"\tbook_title="{book_title}"\tbook_type="{book_type}"')
-		# div_tags_used.add("book")
 
 		sentence_id = handle_divs(book_div, vrt_lines,
 								ns, sentence_id,
 								{"book": (book_num, book_title, book_type)})
 
-		# vrt_lines.append(f'</book>\n')
-
-	print("2.  ###########")
+	print("2.  ###########", "Finished processing. Writing output...")
 	with open(output_file, "w", encoding="utf-8") as out:
 		out.write("\n".join(vrt_lines))
 
-	# with open("data/corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
-	# 	f.write("\n".join(conllu_lines))
-
-	# with open("data/corpus_DiCCAS.json", "w", encoding="utf-8") as f:
-	# 	f.write("\n".join(json_lines))
-
 	write_vrt_idx("data/corpus_DiCCAS.vrt.idx")
-	# write_vrt_struct("data/corpus_DiCCAS.vrt.struct")
+
 
 if __name__ == "__main__":
 	import argparse

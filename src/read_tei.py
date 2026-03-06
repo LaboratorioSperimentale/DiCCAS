@@ -25,7 +25,6 @@ OTHER_DIACRITICS = re.compile(r"[\u0616\u06D6\u06D7\u0615\u0617\u06D8\u06D9\u06D
 SENTENCE_SPLIT_REGEX = re.compile(r"(?<=[.؟!])\s+")
 QUOTE_SET = "\"'‘’“”«»‹›„‟‚‛＂＇`´ˈʹˋˮ"
 
-
 ARABIC_SMALL_LETTERS = {'\u06E5', '\u06E6'}  # SMALL WAW, SMALL YEH
 ARABIC_QURANIC_SIGNS = {
     '\u06DD',  # END OF AYAH (Cf)
@@ -33,7 +32,6 @@ ARABIC_QURANIC_SIGNS = {
     '\u06E9',  # PLACE OF SAJDAH (So)
     '\u08E2',  # DISPUTED END OF AYAH (Cf)
 }
-
 
 def strip_arabic_diacritics(text, *,
                             remove_tatweel=True,
@@ -78,62 +76,34 @@ file_output_prova = open("data/prova.txt", "w", encoding="utf-8")
 # Keep track of used structure tags for .vrt.struct
 div_tags_used = set()
 
+def handle_divs(parent,
+                vrt_lines, conllu_lines, json_lines,
+                ns, sentence_id, context):
 
-def tei_to_vrt(input_file, output_file):
-    parser = etree.XMLParser(recover=True)
-    tree = etree.parse(input_file, parser=parser)
-    root = tree.getroot()
-    ns = {"tei": "http://www.tei-c.org/ns/1.0"}
-
-    vrt_lines = []
-    conllu_lines = []
-    json_lines = []
-
-    sentence_id = 1
-
-    print("1.  ###########")
-
-    for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
-        book_num = book_div.get("n", "_")
-        book_title = get_head_text(book_div, ns)
-
-        vrt_lines.append(f'<book n="{book_num}" title="{book_title}">')
-        div_tags_used.add("book")
-        sentence_id = handle_divs(book_div, vrt_lines, conllu_lines, json_lines, ns, sentence_id, {"book": (book_num, book_title)})
-        vrt_lines.append(f'</book>\n')
-
-    print("2.  ###########")
-
-    with open(output_file, "w", encoding="utf-8") as out:
-        out.write("\n".join(vrt_lines))
-
-    with open("data/corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
-        f.write("\n".join(conllu_lines))
-
-    with open("data/corpus_DiCCAS.json", "w", encoding="utf-8") as f:
-        f.write("\n".join(json_lines))
-
-    write_vrt_idx("data/corpus_DiCCAS.vrt.idx")
-    write_vrt_struct("data/corpus_DiCCAS.vrt.struct")
-
-
-def handle_divs(parent, vrt_lines, conllu_lines, json_lines, ns, sentence_id, context):
     for child in parent:
         if not isinstance(child.tag, str):
             continue  # skip comments, processing instructions, etc.
         tag = etree.QName(child.tag).localname
+
         if tag.startswith("div"):
+
             div_type = child.get("type", tag)
-            div_num = child.get("n", "_")
+            div_num = child.get("n", "-")
+
             div_title = get_head_text(child, ns)
             div_tags_used.add(div_type)
+            
             vrt_lines.append(f'<{div_type} n="{div_num}" title="{div_title}">')
             new_context = context.copy()
             new_context[div_type] = (div_num, div_title)
             sentence_id = handle_divs(child, vrt_lines, conllu_lines, json_lines, ns, sentence_id, new_context)
             vrt_lines.append(f'</{div_type}>\n')
+
         elif tag == "p":
-            sentence_id = write_paragraph(child, vrt_lines, conllu_lines, json_lines, ns, sentence_id, context)
+            sentence_id = write_paragraph(child, vrt_lines,
+                                        conllu_lines, json_lines,
+                                        ns, sentence_id, context)
+
     return sentence_id
 
 
@@ -153,7 +123,9 @@ def clean_translation(text):
     return ret
 
 
-def walk_node(node, current_role="_", current_term_type="_", current_term_translation=["_"], ns=None):
+def walk_node(node,
+            current_role="_", current_term_type="_",
+            current_term_translation=["_"], ns=None):
     page_numbers = []
     tokens = []
     if not isinstance(node, _Element):
@@ -190,11 +162,14 @@ def walk_node(node, current_role="_", current_term_type="_", current_term_transl
             diacritized = [d.analyses[0].analysis['diac'] for d in disambig]
             pos_tags = [d.analyses[0].analysis['pos'] for d in disambig]
             lemmas = [d.analyses[0].analysis['lex'] for d in disambig]
+            # print(text)
             for triplet in zip(diacritized, pos_tags, lemmas):
                 word, pos, lemma = triplet
+                # print(word, pos, lemma)
+                # input()
                 tokens.append((word, pos, lemma, current_role, current_term_type, current_term_translation))
-                print(triplet, file=file_output_prova)
-        print("", file=file_output_prova)
+                # print(triplet, file=file_output_prova)
+        # print("", file=file_output_prova)
 
     for child in node:
         tokens.extend(walk_node(child, current_role, current_term_type, current_term_translation, ns))
@@ -213,8 +188,8 @@ def walk_node(node, current_role="_", current_term_type="_", current_term_transl
                 for triplet in zip(diacritized, pos_tags, lemmas):
                     word, pos, lemma = triplet
                     tokens.append((word, pos, lemma, current_role, current_term_type, current_term_translation))
-                    print(triplet, file=file_output_prova)
-            print("", file=file_output_prova)
+                    # print(triplet, file=file_output_prova)
+            # print("", file=file_output_prova)
     return tokens
 
 
@@ -270,13 +245,10 @@ def write_paragraph(p, vrt_lines, conllu_lines, json_lines, ns, sentence_id, con
                 # input()
 
             else:
+                ded_token = dediac_ar(token)
+                # vrt_lines.append('\t'.join([ded_token, pos, lemma, term_type, ';'.join(term_translation), f"{last_seen_page}", f"{ded_token}-{pos}", f"{lemma}-{pos}"]))
 
-                # vrt_lines.append('\t'.join([token, pos, lemma, term_type, ';'.join(term_translation), last_seen_page]))
-                # vrt_lines.append('\t'.join([token, pos, lemma, term_type, ';'.join(term_translation)]))
-                vrt_lines.append('\t'.join([token, pos, lemma, term_type, ';'.join(term_translation), f"{last_seen_page}"]))
-
-                # f"{token}\t{pos}\t{lemma}\t{term_type}\t{';'.join(term_translation)}\t{last_seen_page}"
-                # vrt_lines.append(f"{token}\t{pos}\t{lemma}")
+                vrt_lines.append('\t'.join([ded_token, pos, lemma, term_type, ';'.join(term_translation), f"{last_seen_page}", f"{lemma}-{pos}"]))
 
                 misc = []
                 if role != "_":
@@ -318,9 +290,47 @@ def write_vrt_struct(struct_file):
                 f.write(f"{tag}\tattributes:n,title\n")
 
 
+def tei_to_vrt(input_file, output_file):
+
+    parser = etree.XMLParser(recover=True)
+    tree = etree.parse(input_file, parser=parser)
+    root = tree.getroot()
+    ns = {"tei": "http://www.tei-c.org/ns/1.0"}
+
+    vrt_lines = []
+    conllu_lines = []
+    json_lines = []
+
+    sentence_id = 1
+
+    print("1.  ###########")
+
+    for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
+        book_num = book_div.get("n", "-")
+        book_type = book_div.get("ana", "-")
+        book_title = get_head_text(book_div, ns)
+
+        vrt_lines.append(f'<book n="{book_num}" title="{book_title}" type="{book_type}">')
+        div_tags_used.add("book")
+
+        sentence_id = handle_divs(book_div, vrt_lines, conllu_lines,
+                                json_lines, ns, sentence_id,
+                                {"book": (book_num, book_title, book_type)})
+
+        vrt_lines.append(f'</book>\n')
+
+    print("2.  ###########")
+    with open(output_file, "w", encoding="utf-8") as out:
+        out.write("\n".join(vrt_lines))
+
+    with open("data/corpus_DiCCAS.conllu", "w", encoding="utf-8") as f:
+        f.write("\n".join(conllu_lines))
+
+    with open("data/corpus_DiCCAS.json", "w", encoding="utf-8") as f:
+        f.write("\n".join(json_lines))
+
+    write_vrt_idx("data/corpus_DiCCAS.vrt.idx")
+    write_vrt_struct("data/corpus_DiCCAS.vrt.struct")
+
 if __name__ == "__main__":
-    # Example usage
-    tei_to_vrt("data/251006corpus_DiCCAS.xml", "data/251006corpus_DiCCAS.vert")
-
-
-# NUMERI arabo
+    tei_to_vrt("data/251111corpus_DiCCAS.xml", "data/251111corpus_DiCCAS.vert")

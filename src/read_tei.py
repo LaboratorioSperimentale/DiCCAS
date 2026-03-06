@@ -247,7 +247,12 @@ def write_paragraph(p, vrt_lines, ns, sentence_id):
 	glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
 	translation_attr = clean_translation(glosses[0]) if glosses else "_"
 	p_id = p.get("id", "-")
-	p_n = p.get("n", "-")
+	p_n = p.get("n", "")
+
+	# if p_id == "-":
+	# 	print("WARNING: <p> without id attribute found.")
+	# 	print(etree.tostring(p, pretty_print=True, encoding="unicode"))
+	# 	input()
 	p_copy = etree.fromstring(etree.tostring(p), parser=etree.XMLParser(recover=True))
 
 	for hi in p_copy.xpath(".//tei:hi", namespaces=ns):

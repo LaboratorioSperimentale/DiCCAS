@@ -1,0 +1,80 @@
+مصر 	Egypt
+القاهرة 	Cairo
+دمشق 	Damascus
+حلب 	Aleppo
+بغداد 	Baghdad
+الإسكندرية 	Alexandria
+حماة 	Hama
+طرابلس 	 tripoli
+حلبا 	Halba
+غزّة 	Gaza
+أنطاكية 	Antioch
+ماردين 	Mardin
+ديار بكر 	Diyarbakir
+صفد 	Safed
+القدس 	Jerusalem
+الكرك 	Karak
+نابلس 	Nablus
+الرملة 	Ramla
+جنين 	Jenin
+معرّة النعمان 	Ma'arrat al-Numan
+شيزر 	Shaizar
+حارما 	Harim
+جبال ابن قرمان 	Mountains of Ibn Qurman
+قيصرية 	Caesarea
+سيس 	Sis
+بدّعرش 	Baddarash
+قطيا 	Qatiya
+بدعرش 	Baddarash
+دمهور 	Damhur
+تروجة 	Taruga
+البرلس 	Barlus
+نستراوة 	Nastrawa
+المحلة 	al-Mahalla
+بلبيس 	Bilbeis
+الغور 	al-Ghawr/Jordan Valley
+بيسان 	Beisan/Beit She'an
+أسوان 	Aswan
+الصعيد 	Upper Egypt
+أسيوط 	Asyut
+ناى 	Nay
+طنان 	Tanan
+سنباط 	Sanbat
+سمنود 	Samannud
+بوصير 	Bousir
+سنهور 	Sanhoor
+الغربية 	al-Gharbiyya
+الشرقية 	al-Sharqiyya
+الوجه البحري 	Lower Egypt/Delta
+الوجه القبلي 	Upper Egypt
+القرافة 	al-Qarafa, Cairo necropolis
+خولان 	Khawlan
+سرياقوس 	Sariakous
+باب زويلة 	Bab Zuweila
+باب النصر 	Bab al-Nasr
+باب المحروق 	Bab al-Mahrouq
+باب البحر 	Bab al-Bahr
+الحسينية 	al-Husayniyya
+الصليبة 	al-Saliba
+جامع ابن طولون 	Ibn Tulun Mosque
+جامع قوصون 	Qawsun Mosque
+برمودة 	Barmuda, Coptic month
+الجيزة 	Giza
+المنار 	al-Manar, Alexandria Lighthouse
+بولاق 	Bulaq
+الروضة 	al-Rawda
+سخا 	Sakha
+قوص 	Qus
+دمنهور 	Damanhur
+أذربيجان 	Azerbaijan
+شام 	Sham
+شراز 	Shiraz
+أرمينية 	Armenia
+خراسان 	Khorasan
+فارس 	Persia
+اليمن 	Yemen
+الأردن 	Jordan
+فلسطين 	Palestine
+السويس 	Suez
+العراق 	Iraq
+القادسية 	Qadisiyya

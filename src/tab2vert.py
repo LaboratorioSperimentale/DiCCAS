@@ -82,7 +82,7 @@ def main(in_path: str, out_path: str):
 
 	with open(in_path, "r", encoding="utf-8") as fin, \
 		 open(out_path, "w", encoding="utf-8") as fout:
-		fout.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+		# fout.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 		for raw_line in fin:
 			line = raw_line.rstrip('\n')
 
@@ -94,7 +94,7 @@ def main(in_path: str, out_path: str):
 
 				# Any new header closes an open <p>
 				if in_p:
-					fout.write("</p>\n")
+					fout.write("</s>\n</p>\n")
 					in_p = False
 
 				if tag == "BOOK":
@@ -114,7 +114,7 @@ def main(in_path: str, out_path: str):
 						"n": context["book_n"],
 						"book_title": context["book_title"],
 					}
-					fout.write(f'<book {build_attr_string(book_attrs)}>\n')
+					fout.write(f'<text type="book" {build_attr_string(book_attrs)}>\n')
 					in_book = True
 
 					# Reset lower-level context when a new book starts
@@ -202,20 +202,13 @@ def main(in_path: str, out_path: str):
 					if subsubchapter_title and not subsubchapter_title in ["_", "-"]:
 						p_attrs["subsubchapter_title"] = subsubchapter_title
 
-		#             # Optionally include section_title too (comment out if unwanted)
-		#             if context.get("section_title"):
-		#                 p_attrs["section_title"] = context["section_title"]
-
 		#             # Keep translation if present
 					if "translation" in attrs and not attrs["translation"] in ["_", "-"]:
 						p_attrs["translation"] = attrs["translation"]
 
 					fout.write(f"<p {build_attr_string(p_attrs)}>\n")
+					fout.write("<s>\n")
 					in_p = True
-
-		#         else:
-		#             # Unknown header: ignore (or extend)
-		#             pass
 
 			else:
 				# Normal/token line
@@ -227,9 +220,10 @@ def main(in_path: str, out_path: str):
 
 		# Close any open tags at EOF
 		if in_p:
-			fout.write("</p>\n")
+			# fout.write("</s>\n")
+			fout.write("</s>\n</p>\n")
 		if in_book:
-			fout.write("</book>\n")
+			fout.write("</text>\n")
 
 if __name__ == "__main__":
 	if len(sys.argv) != 3:

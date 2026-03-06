@@ -108,8 +108,7 @@ def handle_divs(parent,
 			sentence_id = handle_divs(child, vrt_lines, ns, sentence_id, new_context)
 
 		elif tag == "p":
-			sentence_id = write_paragraph(child, vrt_lines,
-										ns, sentence_id, context)
+			sentence_id = write_paragraph(child, vrt_lines, ns, sentence_id)
 
 	return sentence_id
 

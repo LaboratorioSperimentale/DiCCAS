@@ -1,5 +1,8 @@
 # DiCCAS
 
+## Description:
+The corpus contains overall extracts from 10 books, for a total of 889 paragraphs and 289,035 tokens. The original TEI XML files were processed to create verticalized VRT files, which include Part of Speech tags for each token. The pipeline consists of two main steps: first, the TEI XML is converted into an intermediate VRT format; then, this VRT file is further processed to add POS tags and produce the final VRT file.
+
 ## Pipeline:
 
 1. Create virtual environment and install dependencies:

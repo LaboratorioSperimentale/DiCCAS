@@ -16,13 +16,13 @@ pip install -r requirements.txt
 2. Create intermediate VRT file from TEI XML:
 
 ```bash
-python src/read_tei.py --input_file data/input/DiCCAS.xml --output_file data/output/DiCCAS.vrt
+python src/read_tei.py --input_file data/input/DiCCAS_tei.xml --output_file data/output/DiCCAS.txt
 ```
 
 3. Create final VRT file with POS tags:
 
 ```bash
-python src/tab2vert.py --input_file data/output/DiCCAS.vrt --output_file data/output/DiCCAS_final.vrt
+python src/tab2vert.py --input_file data/output/DiCCAS.txt --output_file data/output/DiCCAS_final.vert
 ```
 
 ## Tagsets

@@ -164,7 +164,7 @@ def walk_node(node,
 		current_term_subtype = node.get("subtype", "_")
 		current_term_translation = [x.strip() for x in node.get("translation", "_").split(',')]
 
-	if tag.endswith("placename"):
+	if tag.endswith("placeName"):
 		current_term_type = 'place'
 		current_term_translation = [x.strip() for x in node.get("translation", "_").split(',')]
 
@@ -246,7 +246,7 @@ def write_paragraph(p, vrt_lines, ns, sentence_id):
 
 	glosses = p.xpath(".//tei:gloss/text()", namespaces=ns)
 	translation_attr = clean_translation(glosses[0]) if glosses else "_"
-	p_id = p.get("id", "-")
+	p_id = p.get("{http://www.w3.org/XML/1998/namespace}id", "-")
 	p_n = p.get("n", "")
 
 	# if p_id == "-":
@@ -330,7 +330,7 @@ def tei_to_vrt(input_file, output_file):
 
 	print("1.  ###########", "Processing books...")
 
-	for book_div in root.xpath(".//tei:div[@type='book']", namespaces=ns):
+	for book_div in root.xpath(".//tei:div1[@type='book']", namespaces=ns):
 		book_num = book_div.get("n", "-")
 		book_type = book_div.get("ana", "-")
 		book_title = get_head_text(book_div, ns)

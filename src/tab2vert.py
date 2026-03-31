@@ -153,7 +153,6 @@ def main(in_path: str, out_path: str):
 						p_n = '/'.join(p_n)
 						p_n += f"({p_id})"
 					else:
-						print("WARNING: p_n is empty", line)
 						p_n = f"({p_id})"
 					combined_n = ""
 					# Combine sura_n + p_n if sura_n exists, else keep p_n
@@ -227,6 +226,6 @@ def main(in_path: str, out_path: str):
 
 if __name__ == "__main__":
 	if len(sys.argv) != 3:
-		print("Usage: python convert_to_xml.py input.txt output.xml")
+		print("Usage: python tab2vert.py input.txt output.xml")
 		sys.exit(1)
 	main(sys.argv[1], sys.argv[2])

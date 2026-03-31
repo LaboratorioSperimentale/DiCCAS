@@ -5,13 +5,19 @@ The corpus contains overall extracts from 10 books, for a total of 889 paragraph
 
 The tools used to annotate the corpus linguistically are part of the [Camel Tools suite](https://github.com/CAMeL-Lab/camel_tools), specifically [v1.5.7](https://github.com/CAMeL-Lab/camel_tools/tree/v1.5.7)
 
+## Generate HTML:
+
+```bash
+xsltproc data/diccas.xsl data/input/DiCCAS_tei.xml > data/DiCCAS.html
+```
+
 ## Pipeline:
 
 1. Create virtual environment and install dependencies:
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -24,7 +30,7 @@ python src/read_tei.py --input_file data/input/DiCCAS_tei.xml --output_file data
 3. Create final VRT file with POS tags:
 
 ```bash
-python src/tab2vert.py --input_file data/output/DiCCAS.txt --output_file data/output/DiCCAS_final.vert
+python src/tab2vert.py data/output/DiCCAS.txt data/output/DiCCAS_final.vert
 ```
 
 ## Tagsets

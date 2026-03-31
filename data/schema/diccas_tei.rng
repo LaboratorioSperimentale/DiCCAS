@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Simplified RELAX NG schema for DiCCAS (Disaster Corpus in Classical Arabic Sources)
+  Generated from the elements and attributes actually present in DiCCAS_tei.xml.
+  Covers TEI P5 elements used in this corpus only.
+-->
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
+         xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+         ns="http://www.tei-c.org/ns/1.0">
+
+  <!-- ============================================================ -->
+  <!-- Root                                                          -->
+  <!-- ============================================================ -->
+
+  <start>
+    <ref name="TEI"/>
+  </start>
+
+  <define name="TEI">
+    <element name="TEI">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="xml:lang"/></optional>
+      <ref name="teiHeader"/>
+      <ref name="text"/>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Header                                                        -->
+  <!-- ============================================================ -->
+
+  <define name="teiHeader">
+    <element name="teiHeader">
+      <ref name="fileDesc"/>
+    </element>
+  </define>
+
+  <define name="fileDesc">
+    <element name="fileDesc">
+      <ref name="titleStmt"/>
+      <ref name="publicationStmt"/>
+      <ref name="sourceDesc"/>
+    </element>
+  </define>
+
+  <define name="titleStmt">
+    <element name="titleStmt">
+      <ref name="title"/>
+      <zeroOrMore>
+        <ref name="editor"/>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="publicationStmt">
+    <element name="publicationStmt">
+      <interleave>
+        <optional><ref name="publisher"/></optional>
+        <optional><ref name="date"/></optional>
+        <optional><ref name="availability"/></optional>
+      </interleave>
+    </element>
+  </define>
+
+  <define name="availability">
+    <element name="availability">
+      <ref name="licence"/>
+    </element>
+  </define>
+
+  <define name="licence">
+    <element name="licence">
+      <text/>
+    </element>
+  </define>
+
+  <define name="sourceDesc">
+    <element name="sourceDesc">
+      <oneOrMore>
+        <ref name="msDesc"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Manuscript description                                        -->
+  <!-- ============================================================ -->
+
+  <define name="msDesc">
+    <element name="msDesc">
+      <optional><attribute name="n"/></optional>
+      <ref name="msIdentifier"/>
+      <optional><ref name="physDesc"/></optional>
+      <optional><ref name="additional"/></optional>
+    </element>
+  </define>
+
+  <define name="msIdentifier">
+    <element name="msIdentifier">
+      <ref name="msName"/>
+    </element>
+  </define>
+
+  <define name="msName">
+    <element name="msName">
+      <text/>
+    </element>
+  </define>
+
+  <define name="physDesc">
+    <element name="physDesc">
+      <ref name="objectDesc"/>
+    </element>
+  </define>
+
+  <define name="objectDesc">
+    <element name="objectDesc">
+      <ref name="p"/>
+    </element>
+  </define>
+
+  <define name="additional">
+    <element name="additional">
+      <ref name="listBibl"/>
+    </element>
+  </define>
+
+  <define name="listBibl">
+    <element name="listBibl">
+      <oneOrMore>
+        <ref name="bibl"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="bibl">
+    <element name="bibl">
+      <zeroOrMore>
+        <choice>
+          <ref name="author"/>
+          <ref name="title"/>
+          <ref name="editor"/>
+          <ref name="publisher"/>
+          <ref name="pubPlace"/>
+          <ref name="date"/>
+          <ref name="ref"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Text body                                                     -->
+  <!-- ============================================================ -->
+
+  <define name="text">
+    <element name="text">
+      <ref name="body"/>
+    </element>
+  </define>
+
+  <define name="body">
+    <element name="body">
+      <oneOrMore>
+        <ref name="div1"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="div1">
+    <element name="div1">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <optional><attribute name="ana"/></optional>
+      <ref name="divContent"/>
+      <zeroOrMore>
+        <ref name="div2"/>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="div2">
+    <element name="div2">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <ref name="divContent"/>
+      <zeroOrMore>
+        <ref name="div3"/>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="div3">
+    <element name="div3">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <ref name="divContent"/>
+      <zeroOrMore>
+        <ref name="div4"/>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="div4">
+    <element name="div4">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <ref name="divContent"/>
+      <zeroOrMore>
+        <ref name="div5"/>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="div5">
+    <element name="div5">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <ref name="divContent"/>
+    </element>
+  </define>
+
+  <!-- Shared content model for div elements -->
+  <define name="divContent">
+    <zeroOrMore>
+      <choice>
+        <ref name="head"/>
+        <ref name="p"/>
+        <ref name="l"/>
+        <ref name="lb"/>
+        <ref name="pb"/>
+        <ref name="byline"/>
+      </choice>
+    </zeroOrMore>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Block-level elements                                          -->
+  <!-- ============================================================ -->
+
+  <define name="head">
+    <element name="head">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <optional><attribute name="rend"/></optional>
+      <optional><attribute name="rendition"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="p">
+    <element name="p">
+      <optional><attribute name="n"/></optional>
+      <optional><attribute name="type"/></optional>
+      <optional><attribute name="ana"/></optional>
+      <optional><attribute name="rend"/></optional>
+      <optional><attribute name="rendition"/></optional>
+      <optional><attribute name="xml:id"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="l">
+    <element name="l">
+      <optional><attribute name="n"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="byline">
+    <element name="byline">
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Milestone elements                                            -->
+  <!-- ============================================================ -->
+
+  <define name="lb">
+    <element name="lb">
+      <optional><attribute name="n"/></optional>
+      <empty/>
+    </element>
+  </define>
+
+  <define name="pb">
+    <element name="pb">
+      <optional><attribute name="n"/></optional>
+      <empty/>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Inline elements                                               -->
+  <!-- ============================================================ -->
+
+  <!-- Shared inline content model -->
+  <define name="inline">
+    <zeroOrMore>
+      <choice>
+        <text/>
+        <ref name="gloss"/>
+        <ref name="hi"/>
+        <ref name="name"/>
+        <ref name="persName"/>
+        <ref name="placeName"/>
+        <ref name="term"/>
+        <ref name="title"/>
+        <ref name="ref"/>
+        <ref name="date"/>
+        <ref name="l"/>
+        <ref name="lb"/>
+        <ref name="pb"/>
+      </choice>
+    </zeroOrMore>
+  </define>
+
+  <define name="gloss">
+    <element name="gloss">
+      <optional><attribute name="ana"/></optional>
+      <optional><attribute name="rend"/></optional>
+      <optional><attribute name="xml:lang"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="hi">
+    <element name="hi">
+      <optional><attribute name="rend"/></optional>
+      <optional><attribute name="rendition"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="name">
+    <element name="name">
+      <optional><attribute name="type"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="persName">
+    <element name="persName">
+      <optional><attribute name="role"/></optional>
+      <optional><attribute name="translitteration"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="placeName">
+    <element name="placeName">
+      <optional><attribute name="translation"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="term">
+    <element name="term">
+      <optional><attribute name="type"/></optional>
+      <optional><attribute name="subtype"/></optional>
+      <optional><attribute name="translation"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="ref">
+    <element name="ref">
+      <optional><attribute name="target"/></optional>
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <!-- ============================================================ -->
+  <!-- Bibliographic / metadata leaf elements                        -->
+  <!-- ============================================================ -->
+
+  <define name="title">
+    <element name="title">
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="editor">
+    <element name="editor">
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="persName"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+
+  <define name="author">
+    <element name="author">
+      <text/>
+    </element>
+  </define>
+
+  <define name="publisher">
+    <element name="publisher">
+      <text/>
+    </element>
+  </define>
+
+  <define name="pubPlace">
+    <element name="pubPlace">
+      <ref name="inline"/>
+    </element>
+  </define>
+
+  <define name="date">
+    <element name="date">
+      <optional><attribute name="type"/></optional>
+      <optional><attribute name="when"/></optional>
+      <text/>
+    </element>
+  </define>
+
+</grammar>

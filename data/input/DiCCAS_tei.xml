@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model
-  href="../schema/tei_all.rng"
+  href="../schema/diccas_tei.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
 <!-- <?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css"?> -->

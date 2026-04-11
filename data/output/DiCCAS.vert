@@ -1,5 +1,5 @@
-<text type="book" book_type="religious" n="1" book_title="The Noble Quran">
-<p n="2.0.155(12)" id="12" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="We will certainly test you with a touch of fear and famine and loss of property, life, and crops. Give good news to those who patiently endure">
+<text type="book" book_type="#religious" n="1" book_title="The Noble Quran">
+<p n="2.0.155(p12)" id="p12" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="We will certainly test you with a touch of fear and famine and loss of property, life, and crops. Give good news to those who patiently endure">
 <s>
 ولنبلونكم	noun_prop	ولنبلونكم	_	_	ولنبلونكم-o	ولنبلونكم-o
 بشيء	noun	شَيْء	_	_	بشيء-n	شَيْء-n
@@ -15,7 +15,7 @@
 الصبرين	noun_prop	الصبرين	_	_	الصبرين-o	الصبرين-o
 </s>
 </p>
-<p n="2.0.156(13)" id="13" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="Who say, when struck by a disaster, “Surely to Allah we belong and to Him we will ˹all˺return.”">
+<p n="2.0.156(p13)" id="p13" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="Who say, when struck by a disaster, “Surely to Allah we belong and to Him we will ˹all˺return.”">
 <s>
 الذين	pron_rel	الَّذِي	_	_	الذين-g	الَّذِي-g
 إذا	conj	إِذا	_	_	إذا-c	إِذا-c
@@ -30,7 +30,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.0.214(14)" id="14" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="Do you think you will be admitted into Paradise without being tested like those before you? They were afflicted with suffering and adversity and were so ˹violently˺ shaken that ˹even˺ the Messenger and the believers with him cried out, “When will Allah’s help come?” Indeed, Allah’s help is ˹always˺ near.">
+<p n="2.0.214(p14)" id="p14" book_title="The Noble Quran" sura_title="al-Baqara" section_title="Introduction" translation="Do you think you will be admitted into Paradise without being tested like those before you? They were afflicted with suffering and adversity and were so ˹violently˺ shaken that ˹even˺ the Messenger and the believers with him cried out, “When will Allah’s help come?” Indeed, Allah’s help is ˹always˺ near.">
 <s>
 أم	conj	أَم	_	_	أم-c	أَم-c
 حسبتم	verb	حَسِب	_	_	حسبتم-v	حَسِب-v
@@ -64,7 +64,7 @@
 قريب	adj	قَرِيب	_	_	قريب-a	قَرِيب-a
 </s>
 </p>
-<p n="3.0.117(15)" id="15" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="The likeness of that which they spend in this life of the world is as the likeness of a biting, icy wind which smiteth the harvest of a people who have wronged themselves, and devastateth it. Allah wronged them not, but they do wrong themselves.">
+<p n="3.0.117(p15)" id="p15" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="The likeness of that which they spend in this life of the world is as the likeness of a biting, icy wind which smiteth the harvest of a people who have wronged themselves, and devastateth it. Allah wronged them not, but they do wrong themselves.">
 <s>
 مثل	noun	مِثْل	_	_	مثل-n	مِثْل-n
 ما	pron_rel	ما	_	_	ما-g	ما-g
@@ -90,7 +90,7 @@
 يظلمون	verb	ٱِظَّلَم	_	_	يظلمون-v	ٱِظَّلَم-v
 </s>
 </p>
-<p n="3.0.165(16)" id="16" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="Why is it when you suffered casualties ˹at Uḥud˺—although you had made your enemy suffer twice as much ˹at Badr˺—you protested, “How could this be?”? Say, ˹O Prophet,˺ “It is because of your disobedience.” Surely Allah is Most Capable of everything.">
+<p n="3.0.165(p16)" id="p16" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="Why is it when you suffered casualties ˹at Uḥud˺—although you had made your enemy suffer twice as much ˹at Badr˺—you protested, “How could this be?”? Say, ˹O Prophet,˺ “It is because of your disobedience.” Surely Allah is Most Capable of everything.">
 <s>
 أولما	verb	أَوْلَم	_	_	أولما-v	أَوْلَم-v
 أصبتكم	verb	أَصاب	_	_	أصبتكم-v	أَصاب-v
@@ -114,7 +114,7 @@
 قدير	adj	قَدِير	_	_	قدير-a	قَدِير-a
 </s>
 </p>
-<p n="3.0.172(17)" id="17" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="˹As for˺ those who responded to the call of Allah and His Messenger after their injury,1 those of them who did good and were mindful ˹of Allah˺ will have a great reward.">
+<p n="3.0.172(p17)" id="p17" book_title="The Noble Quran" sura_title="Al-Imrān" section_title="Introduction" translation="˹As for˺ those who responded to the call of Allah and His Messenger after their injury,1 those of them who did good and were mindful ˹of Allah˺ will have a great reward.">
 <s>
 الذين	pron_rel	الَّذِي	_	_	الذين-g	الَّذِي-g
 استجابوا	verb	ٱِسْتَجاب	_	_	استجابوا-v	ٱِسْتَجاب-v
@@ -133,7 +133,7 @@
 عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
 </s>
 </p>
-<p n="4.0.62(18)" id="18" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="How ˹horrible˺ will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”">
+<p n="4.0.62(p18)" id="p18" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="How ˹horrible˺ will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”">
 <s>
 فكيف	adv_interrog	كَيْفَ	_	_	فكيف-i	كَيْفَ-i
 إذا	conj	إِذا	_	_	إذا-c	إِذا-c
@@ -150,7 +150,7 @@
 وتوفيقا	noun	تَوْفِيق	_	_	وتوفيقا-n	تَوْفِيق-n
 </s>
 </p>
-<p n="4.0.72(19)" id="19" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”">
+<p n="4.0.72(p19)" id="p19" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”">
 <s>
 وأن	conj_sub	أَنَّ	_	_	وأن-k	أَنَّ-k
 منكم	prep	مِن	_	_	منكم-p	مِن-p
@@ -171,7 +171,7 @@
 شهيدا	noun	شَهِيد	_	_	شهيدا-n	شَهِيد-n
 </s>
 </p>
-<p n="4.0.78(20)" id="20" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, ˹O Prophet,˺ “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything!">
+<p n="4.0.78(p20)" id="p20" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, ˹O Prophet,˺ “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything!">
 <s>
 أينما	conj	أَيْنَما	_	_	أينما-c	أَيْنَما-c
 تكونوا	verb	كان	_	_	تكونوا-v	كان-v
@@ -211,7 +211,7 @@
 حديثا	adj	حَدِيث	_	_	حديثا-a	حَدِيث-a
 </s>
 </p>
-<p n="4.0.79(21)" id="21" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="Whatever good befalls you is from Allah and whatever evil befalls you is from yourself.1 We have sent you ˹O Prophet˺ as a messenger to ˹all˺ people. And Allah is sufficient as a Witness.">
+<p n="4.0.79(p21)" id="p21" book_title="The Noble Quran" sura_title=".al-Nisā͗" section_title="Introduction" translation="Whatever good befalls you is from Allah and whatever evil befalls you is from yourself.1 We have sent you ˹O Prophet˺ as a messenger to ˹all˺ people. And Allah is sufficient as a Witness.">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 أصابك	verb	أَصاب	_	_	أصابك-v	أَصاب-v
@@ -233,7 +233,7 @@
 شهيدا	noun	شَهِيد	_	_	شهيدا-n	شَهِيد-n
 </s>
 </p>
-<p n="5.0.49(22)" id="22" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="And judge between them ˹O Prophet˺ by what Allah has revealed, and do not follow their desires. And beware, so they do not lure you away from some of what Allah has revealed to you. If they turn away ˹from Allah’s judgment˺, then know that it is Allah’s Will to repay them for some of their sins, and that many people are indeed rebellious.">
+<p n="5.0.49(p22)" id="p22" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="And judge between them ˹O Prophet˺ by what Allah has revealed, and do not follow their desires. And beware, so they do not lure you away from some of what Allah has revealed to you. If they turn away ˹from Allah’s judgment˺, then know that it is Allah’s Will to repay them for some of their sins, and that many people are indeed rebellious.">
 <s>
 وأن	conj_sub	أَنَّ	_	_	وأن-k	أَنَّ-k
 أحكم	verb	حَكَم	_	_	أحكم-v	حَكَم-v
@@ -270,7 +270,7 @@
 لفسقون	noun_prop	لفسقون	_	_	لفسقون-o	لفسقون-o
 </s>
 </p>
-<p n="5.0.52(23)" id="23" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="You see those with sickness in their hearts racing for their guardianship, saying ˹in justification˺, “We fear a turn of fortune will strike us.” But perhaps Allah will bring about ˹your˺ victory or another favour by His command, and they will regret what they have hidden in their hearts.">
+<p n="5.0.52(p23)" id="p23" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="You see those with sickness in their hearts racing for their guardianship, saying ˹in justification˺, “We fear a turn of fortune will strike us.” But perhaps Allah will bring about ˹your˺ victory or another favour by His command, and they will regret what they have hidden in their hearts.">
 <s>
 فترى	verb	راوَنْد	_	_	فترى-v	راوَنْد-v
 الذين	pron_rel	الَّذِي	_	_	الذين-g	الَّذِي-g
@@ -302,7 +302,7 @@
 ندمين	noun_prop	ندمين	_	_	ندمين-o	ندمين-o
 </s>
 </p>
-<p n="5.0.106(24)" id="24" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="O believers! When death approaches any of you, call upon two just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if you are afflicted with death while on a journey.1 If you doubt ˹their testimony˺, keep them after prayer and let them testify under oath ˹saying˺, “By Allah! We would never sell our testimony for any price, even in favour of a close relative, nor withhold the testimony of Allah. Otherwise, we would surely be sinful.”">
+<p n="5.0.106(p24)" id="p24" book_title="The Noble Quran" sura_title="al-Mā͗ida" section_title="Introduction" translation="O believers! When death approaches any of you, call upon two just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if you are afflicted with death while on a journey.1 If you doubt ˹their testimony˺, keep them after prayer and let them testify under oath ˹saying˺, “By Allah! We would never sell our testimony for any price, even in favour of a close relative, nor withhold the testimony of Allah. Otherwise, we would surely be sinful.”">
 <s>
 يايها	noun	ياي	_	_	يايها-n	ياي-n
 الذين	pron_rel	الَّذِي	_	_	الذين-g	الَّذِي-g
@@ -357,7 +357,7 @@
 الإثمين	noun	إِثْم	_	_	الإثمين-n	إِثْم-n
 </s>
 </p>
-<p n="6.0.124(25)" id="25" book_title="The Noble Quran" sura_title="al-An͑ām" section_title="Introduction" translation="Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.">
+<p n="6.0.124(p25)" id="p25" book_title="The Noble Quran" sura_title="al-An͑ām" section_title="Introduction" translation="Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.">
 <s>
 وإذا	conj	إِذا	_	_	وإذا-c	إِذا-c
 جاءتهم	verb	جاء	_	_	جاءتهم-v	جاء-v
@@ -390,7 +390,7 @@
 يمكرون	verb	مَكَر	_	_	يمكرون-v	مَكَر-v
 </s>
 </p>
-<p n="7.0.78(26)" id="26" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Then an ˹overwhelming˺ earthquake struck them, and they fell lifeless in their homes.">
+<p n="7.0.78(p26)" id="p26" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Then an ˹overwhelming˺ earthquake struck them, and they fell lifeless in their homes.">
 <s>
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
 الرجفة	noun	رَجْفَة	catastrophe	earthquake	الرجفة-n	رَجْفَة-n
@@ -400,7 +400,7 @@
 جثمين	noun_prop	جثمين	_	_	جثمين-o	جثمين-o
 </s>
 </p>
-<p n="7.0.91(27)" id="27" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Then an ˹overwhelming˺ earthquake struck them, and they fell lifeless in their homes.">
+<p n="7.0.91(p27)" id="p27" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Then an ˹overwhelming˺ earthquake struck them, and they fell lifeless in their homes.">
 <s>
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
 الرجفة	noun	رَجْفَة	_	_	الرجفة-n	رَجْفَة-n
@@ -410,7 +410,7 @@
 جثمين	noun_prop	جثمين	_	_	جثمين-o	جثمين-o
 </s>
 </p>
-<p n="7.0.100(28)" id="28" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Is it not clear to those who take over the land after ˹the destruction of˺ its former residents that—if We will—We can punish them ˹too˺ for their sins and seal their hearts so they will not hear ˹the truth˺?">
+<p n="7.0.100(p28)" id="p28" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Is it not clear to those who take over the land after ˹the destruction of˺ its former residents that—if We will—We can punish them ˹too˺ for their sins and seal their hearts so they will not hear ˹the truth˺?">
 <s>
 أولم	verb	أَوْلَم	_	_	أولم-v	أَوْلَم-v
 يهد	verb	أَهْدَى	_	_	يهد-v	أَهْدَى-v
@@ -433,7 +433,7 @@
 يسمعون	verb	أَسْمَع	_	_	يسمعون-v	أَسْمَع-v
 </s>
 </p>
-<p n="7.0.131(29)" id="29" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him.1 Surely all is destined by Allah. Yet most of them did not know.">
+<p n="7.0.131(p29)" id="p29" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him.1 Surely all is destined by Allah. Yet most of them did not know.">
 <s>
 فإذا	conj	إِذا	_	_	فإذا-c	إِذا-c
 جاءتهم	verb	جاء	_	_	جاءتهم-v	جاء-v
@@ -459,7 +459,7 @@
 يعلمون	verb	عَلِم	_	_	يعلمون-v	عَلِم-v
 </s>
 </p>
-<p n="7.0.155(30)" id="30" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Moses chose seventy men from among his people for Our appointment and, when they were seized by an earthquake,1 he cried, “My Lord! Had You willed, You could have destroyed them long ago, and me as well. Will You destroy us for what the foolish among us have done? This is only a test from You—by which You allow whoever you will to stray and guide whoever You will. You are our Guardian. So forgive us and have mercy on us. You are the best forgiver.">
+<p n="7.0.155(p30)" id="p30" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Moses chose seventy men from among his people for Our appointment and, when they were seized by an earthquake,1 he cried, “My Lord! Had You willed, You could have destroyed them long ago, and me as well. Will You destroy us for what the foolish among us have done? This is only a test from You—by which You allow whoever you will to stray and guide whoever You will. You are our Guardian. So forgive us and have mercy on us. You are the best forgiver.">
 <s>
 وأختار	verb	ٱِخْتار	_	_	وأختار-v	ٱِخْتار-v
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -504,7 +504,7 @@
 الغفرين	noun_prop	الغفرين	_	_	الغفرين-o	الغفرين-o
 </s>
 </p>
-<p n="7.0.156(31)" id="31" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Ordain for us what is good in this life and the next. Indeed, we have turned to You ˹in repentance˺.” Allah replied, “I will inflict My torment on whoever I will. But My mercy encompasses everything. I will ordain mercy for those who shun evil, pay alms-tax, and believe in Our revelations.">
+<p n="7.0.156(p31)" id="p31" book_title="The Noble Quran" sura_title="al-A͑rāf" section_title="Introduction" translation="Ordain for us what is good in this life and the next. Indeed, we have turned to You ˹in repentance˺.” Allah replied, “I will inflict My torment on whoever I will. But My mercy encompasses everything. I will ordain mercy for those who shun evil, pay alms-tax, and believe in Our revelations.">
 <s>
 وأكتب	verb	كَتَب	_	_	وأكتب-v	كَتَب-v
 لنا	prep	لِ	_	_	لنا-p	لِ-p
@@ -538,7 +538,7 @@
 يومنون	noun_prop	يومنون	_	_	يومنون-o	يومنون-o
 </s>
 </p>
-<p n="8.0.25(32)" id="32" book_title="The Noble Quran" sura_title="al-Anfāl" section_title="Introduction" translation="Beware of a trial that will not only affect the wrongdoers among you. And know that Allah is severe in punishment.">
+<p n="8.0.25(p32)" id="p32" book_title="The Noble Quran" sura_title="al-Anfāl" section_title="Introduction" translation="Beware of a trial that will not only affect the wrongdoers among you. And know that Allah is severe in punishment.">
 <s>
 واتقوا	verb	ٱِتَّقَى	_	_	واتقوا-v	ٱِتَّقَى-v
 فتنة	noun	فِتْنَة	_	_	فتنة-n	فِتْنَة-n
@@ -555,7 +555,7 @@
 العقاب	noun	عِقاب	_	_	العقاب-n	عِقاب-n
 </s>
 </p>
-<p n="9.0.50(33)" id="33" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="If a blessing befalls you ˹O Prophet˺, they grieve, but if a disaster befalls you, they say, “We took our precaution in advance,” and turn away, rejoicing.">
+<p n="9.0.50(p33)" id="p33" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="If a blessing befalls you ˹O Prophet˺, they grieve, but if a disaster befalls you, they say, “We took our precaution in advance,” and turn away, rejoicing.">
 <s>
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
 تصبك	verb	أَصاب	_	_	تصبك-v	أَصاب-v
@@ -575,7 +575,7 @@
 فرحون	noun_prop	فرحون	_	_	فرحون-o	فرحون-o
 </s>
 </p>
-<p n="9.0.51(34)" id="34" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Say, “Nothing will ever befall us except what Allah has destined for us. He is our Protector.” So in Allah let the believers put their trust.">
+<p n="9.0.51(p34)" id="p34" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Say, “Nothing will ever befall us except what Allah has destined for us. He is our Protector.” So in Allah let the believers put their trust.">
 <s>
 قل	verb	قال	_	_	قل-v	قال-v
 لن	part_neg	لَن	_	_	لن-e	لَن-e
@@ -593,7 +593,7 @@
 المومنون	noun_prop	المومنون	_	_	المومنون-o	المومنون-o
 </s>
 </p>
-<p n="9.0.52(35)" id="35" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”">
+<p n="9.0.52(p35)" id="p35" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”">
 <s>
 قل	verb	قال	_	_	قل-v	قال-v
 هل	part_interrog	هَل	_	_	هل-j	هَل-j
@@ -619,7 +619,7 @@
 متربصون	noun	مُتَرَبِّص	_	_	متربصون-n	مُتَرَبِّص-n
 </s>
 </p>
-<p n="9.0.85(36)" id="36" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="And let neither their wealth nor children impress you ˹O Prophet˺. Allah only intends to torment them through these things in this world, and ˹then˺ their souls will depart while they are disbelievers.">
+<p n="9.0.85(p36)" id="p36" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="And let neither their wealth nor children impress you ˹O Prophet˺. Allah only intends to torment them through these things in this world, and ˹then˺ their souls will depart while they are disbelievers.">
 <s>
 ولا	part_neg	لا	_	_	ولا-e	لا-e
 تعجبك	verb	أَعْجَب	_	_	تعجبك-v	أَعْجَب-v
@@ -639,7 +639,7 @@
 كفرون	noun_prop	كفرون	_	_	كفرون-o	كفرون-o
 </s>
 </p>
-<p n="9.0.90(37)" id="37" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Some nomadic Arabs ˹also˺ came with excuses, seeking exemption. And those who were untrue to Allah and His Messenger remained behind ˹with no excuse˺. The unfaithful among them will be afflicted with a painful punishment.">
+<p n="9.0.90(p37)" id="p37" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="Some nomadic Arabs ˹also˺ came with excuses, seeking exemption. And those who were untrue to Allah and His Messenger remained behind ˹with no excuse˺. The unfaithful among them will be afflicted with a painful punishment.">
 <s>
 وجاء	verb	جاء	_	_	وجاء-v	جاء-v
 المعذرون	noun_prop	المعذرون	_	_	المعذرون-o	المعذرون-o
@@ -660,7 +660,7 @@
 أليم	noun	أَلِيم	_	_	أليم-n	أَلِيم-n
 </s>
 </p>
-<p n="9.0.120(38)" id="38" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="It was not ˹proper˺ for the people of Medina and the nomadic Arabs around them to avoid marching with the Messenger of Allah or to prefer their own lives above his. That is because whenever they suffer from thirst, fatigue, or hunger in the cause of Allah; or tread on a territory, unnerving the disbelievers; or inflict any loss on an enemy—it is written to their credit as a good deed. Surely Allah never discounts the reward of the good-doers.">
+<p n="9.0.120(p38)" id="p38" book_title="The Noble Quran" sura_title="al-Tawba" section_title="Introduction" translation="It was not ˹proper˺ for the people of Medina and the nomadic Arabs around them to avoid marching with the Messenger of Allah or to prefer their own lives above his. That is because whenever they suffer from thirst, fatigue, or hunger in the cause of Allah; or tread on a territory, unnerving the disbelievers; or inflict any loss on an enemy—it is written to their credit as a good deed. Surely Allah never discounts the reward of the good-doers.">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 كان	verb	كان	_	_	كان-v	كان-v
@@ -716,7 +716,7 @@
 المحسنين	noun	مُحَسِّن	_	_	المحسنين-n	مُحَسِّن-n
 </s>
 </p>
-<p n="10.0.22(39)" id="39" book_title="The Noble Quran" sura_title="Yūnus" section_title="Introduction" translation="He is the One Who enables you to travel through land and sea. And it so happens that you are on ships, sailing with a favourable wind, to the passengers’ delight. Suddenly, the ships are overcome by a gale wind and those on board are overwhelmed by waves from every side, and they assume they are doomed. They cry out to Allah ˹alone˺ in sincere devotion, “If You save us from this, we will certainly be grateful.”">
+<p n="10.0.22(p39)" id="p39" book_title="The Noble Quran" sura_title="Yūnus" section_title="Introduction" translation="He is the One Who enables you to travel through land and sea. And it so happens that you are on ships, sailing with a favourable wind, to the passengers’ delight. Suddenly, the ships are overcome by a gale wind and those on board are overwhelmed by waves from every side, and they assume they are doomed. They cry out to Allah ˹alone˺ in sincere devotion, “If You save us from this, we will certainly be grateful.”">
 <s>
 هو	pron	هُوَ	_	_	هو-f	هُوَ-f
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
@@ -761,7 +761,7 @@
 الشكرين	noun_prop	الشكرين	_	_	الشكرين-o	الشكرين-o
 </s>
 </p>
-<p n="10.0.107(40)" id="40" book_title="The Noble Quran" sura_title="Yūnus" section_title="Introduction" translation="and ‘If Allah touches you with harm, none can undo it except Him. And if He intends good for you, none can withhold His bounty. He grants it to whoever He wills of His servants. And He is the All-Forgiving, Most Merciful.’”">
+<p n="10.0.107(p40)" id="p40" book_title="The Noble Quran" sura_title="Yūnus" section_title="Introduction" translation="and ‘If Allah touches you with harm, none can undo it except Him. And if He intends good for you, none can withhold His bounty. He grants it to whoever He wills of His servants. And He is the All-Forgiving, Most Merciful.’”">
 <s>
 وأن	conj_sub	أَنَّ	_	_	وأن-k	أَنَّ-k
 يمسسك	verb	مَسّ	_	_	يمسسك-v	مَسّ-v
@@ -789,7 +789,7 @@
 الرحيم	noun_prop	رَحِيم	_	_	الرحيم-o	رَحِيم-o
 </s>
 </p>
-<p n="11.0.67(41)" id="41" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="And the (awful) Cry overtook those who did wrong, so that morning found them prostrate in their dwellings,">
+<p n="11.0.67(p41)" id="p41" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="And the (awful) Cry overtook those who did wrong, so that morning found them prostrate in their dwellings,">
 <s>
 وأخذ	verb	أَخَذ	_	_	وأخذ-v	أَخَذ-v
 الذين	pron_rel	الَّذِي	_	_	الذين-g	الَّذِي-g
@@ -801,7 +801,7 @@
 جثمين	noun_prop	جثمين	_	_	جثمين-o	جثمين-o
 </s>
 </p>
-<p n="11.0.81(42)" id="42" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="The angels said, “O Lot! We are the messengers of your Lord. They will never reach you. So travel with your family in the dark of night, and do not let any of you look back, except your wife. She will certainly suffer the fate of the others.1 Their appointed time is the morning. Is the morning not near?”">
+<p n="11.0.81(p42)" id="p42" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="The angels said, “O Lot! We are the messengers of your Lord. They will never reach you. So travel with your family in the dark of night, and do not let any of you look back, except your wife. She will certainly suffer the fate of the others.1 Their appointed time is the morning. Is the morning not near?”">
 <s>
 قالوا	verb	قال	_	_	قالوا-v	قال-v
 يلوط	verb	لاط	_	_	يلوط-v	لاط-v
@@ -834,7 +834,7 @@
 بقريب	adj	قَرِيب	_	_	بقريب-a	قَرِيب-a
 </s>
 </p>
-<p n="11.0.89(43)" id="43" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="O my people! Do not let your opposition to me lead you to a fate similar to that of the people of Noah, or Hûd, or Ṣâliḥ. And the people of Lot are not far from you">
+<p n="11.0.89(p43)" id="p43" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="O my people! Do not let your opposition to me lead you to a fate similar to that of the people of Noah, or Hûd, or Ṣâliḥ. And the people of Lot are not far from you">
 <s>
 ويقوم	verb	قام	_	_	ويقوم-v	قام-v
 لا	part_neg	لا	_	_	لا-e	لا-e
@@ -860,7 +860,7 @@
 ببعيد	adj	بَعِيد	_	_	ببعيد-a	بَعِيد-a
 </s>
 </p>
-<p n="11.0.94(44)" id="44" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="When Our command came, We saved Shu’aib and those who believed with him by a mercy from Us. And the ˹mighty˺ blast overtook the wrongdoers, so they fell lifeless in their homes,">
+<p n="11.0.94(p44)" id="p44" book_title="The Noble Quran" sura_title="Hūd" section_title="Introduction" translation="When Our command came, We saved Shu’aib and those who believed with him by a mercy from Us. And the ˹mighty˺ blast overtook the wrongdoers, so they fell lifeless in their homes,">
 <s>
 ولما	conj	لَمّا	_	_	ولما-c	لَمّا-c
 جاء	verb	جاء	_	_	جاء-v	جاء-v
@@ -882,7 +882,7 @@
 جثمين	noun_prop	جثمين	_	_	جثمين-o	جثمين-o
 </s>
 </p>
-<p n="13.0.13(45)" id="45" book_title="The Noble Quran" sura_title="al-Ra͑d" section_title="Introduction" translation="The thunder glorifies His praises, as do the angels in awe of Him. He sends thunderbolts, striking with them whoever He wills. Yet they dispute about Allah. And He is tremendous in might.">
+<p n="13.0.13(p45)" id="p45" book_title="The Noble Quran" sura_title="al-Ra͑d" section_title="Introduction" translation="The thunder glorifies His praises, as do the angels in awe of Him. He sends thunderbolts, striking with them whoever He wills. Yet they dispute about Allah. And He is tremendous in might.">
 <s>
 ويسبح	verb	سَبَح	_	_	ويسبح-v	سَبَح-v
 الرعد	noun	رَعْد	_	_	الرعد-n	رَعْد-n
@@ -905,7 +905,7 @@
 المحال	noun	مَحَلّ	_	_	المحال-n	مَحَلّ-n
 </s>
 </p>
-<p n="13.0.31(46)" id="46" book_title="The Noble Quran" sura_title="al-Ra͑d" section_title="Introduction" translation="If there were a recitation that could cause mountains to move, or the earth to split, or the dead to speak, ˹it would have been this Quran˺. But all matters are by Allah’s Will. Have the believers not yet realized that had Allah willed, He could have guided all of humanity? And disasters will continue to afflict the disbelievers or strike close to their homes for their misdeeds, until Allah’s promise comes to pass. Surely Allah never fails in His promise.">
+<p n="13.0.31(p46)" id="p46" book_title="The Noble Quran" sura_title="al-Ra͑d" section_title="Introduction" translation="If there were a recitation that could cause mountains to move, or the earth to split, or the dead to speak, ˹it would have been this Quran˺. But all matters are by Allah’s Will. Have the believers not yet realized that had Allah willed, He could have guided all of humanity? And disasters will continue to afflict the disbelievers or strike close to their homes for their misdeeds, until Allah’s promise comes to pass. Surely Allah never fails in His promise.">
 <s>
 ولو	conj	لَو	_	_	ولو-c	لَو-c
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -960,21 +960,21 @@
 الميعاد	noun	مِيعاد	_	_	الميعاد-n	مِيعاد-n
 </s>
 </p>
-<p n="15.0.73(47)" id="47" book_title="The Noble Quran" sura_title="al-Ḥiǧr" section_title="Introduction" translation="So the ˹mighty˺ blast overtook them at sunrise.">
+<p n="15.0.73(p47)" id="p47" book_title="The Noble Quran" sura_title="al-Ḥiǧr" section_title="Introduction" translation="So the ˹mighty˺ blast overtook them at sunrise.">
 <s>
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
 الصيحة	noun	صَيْحَة	catastrophe	explosion;great cry	الصيحة-n	صَيْحَة-n
 مشرقين	adj	مُشْرِق	_	_	مشرقين-a	مُشْرِق-a
 </s>
 </p>
-<p n="15.0.83(48)" id="48" book_title="The Noble Quran" sura_title="al-Ḥiǧr" section_title="Introduction" translation="But the ˹mighty˺ blast overtook them in the morning,">
+<p n="15.0.83(p48)" id="p48" book_title="The Noble Quran" sura_title="al-Ḥiǧr" section_title="Introduction" translation="But the ˹mighty˺ blast overtook them in the morning,">
 <s>
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
 الصيحة	noun	صَيْحَة	catastrophe	explosion;great cry	الصيحة-n	صَيْحَة-n
 مصبحين	noun_prop	مصبحين	_	_	مصبحين-o	مصبحين-o
 </s>
 </p>
-<p n="16.0.34(49)" id="49" book_title="The Noble Quran" sura_title="al-Naḥl" section_title="Introduction" translation="Then the evil ˹consequences˺ of their deeds overtook them, and they were overwhelmed by what they used to ridicule.">
+<p n="16.0.34(p49)" id="p49" book_title="The Noble Quran" sura_title="al-Naḥl" section_title="Introduction" translation="Then the evil ˹consequences˺ of their deeds overtook them, and they were overwhelmed by what they used to ridicule.">
 <s>
 فأصابهم	verb	أَصاب	_	_	فأصابهم-v	أَصاب-v
 سيأت	verb	أَتَى	_	_	سيأت-v	أَتَى-v
@@ -988,7 +988,7 @@
 يستهزءون	noun_prop	يستهزءون	_	_	يستهزءون-o	يستهزءون-o
 </s>
 </p>
-<p n="16.0.112(50)" id="50" book_title="The Noble Quran" sura_title="al-Naḥl" section_title="Introduction" translation="Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith,1 but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.">
+<p n="16.0.112(p50)" id="p50" book_title="The Noble Quran" sura_title="al-Naḥl" section_title="Introduction" translation="Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith,1 but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.">
 <s>
 وضرب	noun	ضَرْب	_	_	وضرب-n	ضَرْب-n
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -1017,7 +1017,7 @@
 ١١٢	digit	١١٢	_	_	١١٢-0	١١٢-0
 </s>
 </p>
-<p n="17.0.68(51)" id="51" book_title="The Noble Quran" sura_title="al-Isrā͗" section_title="Introduction" translation="Do you feel secure that He will not cause the land to swallow you up, or unleash upon you a storm of stones? Then you will find none to protect you.">
+<p n="17.0.68(p51)" id="p51" book_title="The Noble Quran" sura_title="al-Isrā͗" section_title="Introduction" translation="Do you feel secure that He will not cause the land to swallow you up, or unleash upon you a storm of stones? Then you will find none to protect you.">
 <s>
 افامنتم	noun_prop	افامنتم	_	_	افامنتم-o	افامنتم-o
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -1036,7 +1036,7 @@
 وكيلا	noun	وَكِيل	_	_	وكيلا-n	وَكِيل-n
 </s>
 </p>
-<p n="17.0.69(52)" id="52" book_title="The Noble Quran" sura_title="al-Isrā͗" section_title="Introduction" translation="Or do you feel secure that He will not send you back to sea once again, and send upon you a violent storm, drowning you for your denial? Then you will find none to avenge you against Us.">
+<p n="17.0.69(p52)" id="p52" book_title="The Noble Quran" sura_title="al-Isrā͗" section_title="Introduction" translation="Or do you feel secure that He will not send you back to sea once again, and send upon you a violent storm, drowning you for your denial? Then you will find none to avenge you against Us.">
 <s>
 أم	conj	أَم	_	_	أم-c	أَم-c
 أمنتم	verb	أَمَّن	_	_	أمنتم-v	أَمَّن-v
@@ -1062,7 +1062,7 @@
 تبيعا	verb	باع	_	_	تبيعا-v	باع-v
 </s>
 </p>
-<p n="21.0.81(53)" id="53" book_title="The Noble Quran" sura_title="al-Anbiyā͗" section_title="Introduction" translation="And to Solomon We subjected the raging winds, blowing by his command to the land We had showered with blessings. It is We Who know everything.">
+<p n="21.0.81(p53)" id="p53" book_title="The Noble Quran" sura_title="al-Anbiyā͗" section_title="Introduction" translation="And to Solomon We subjected the raging winds, blowing by his command to the land We had showered with blessings. It is We Who know everything.">
 <s>
 ولسليمن	noun_prop	ولسليمن	_	_	ولسليمن-o	ولسليمن-o
 الريح	noun	رِيح	catastrophe	wind	الريح-n	رِيح-n
@@ -1080,7 +1080,7 @@
 علمين	noun	عَلَم	_	_	علمين-n	عَلَم-n
 </s>
 </p>
-<p n="22.0.1(54)" id="54" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="O humanity! Fear your Lord, for the ˹violent˺ quaking at the Hour is surely a dreadful thing.">
+<p n="22.0.1(p54)" id="p54" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="O humanity! Fear your Lord, for the ˹violent˺ quaking at the Hour is surely a dreadful thing.">
 <s>
 يايها	noun	ياي	_	_	يايها-n	ياي-n
 الناس	noun	ناس	_	_	الناس-n	ناس-n
@@ -1093,7 +1093,7 @@
 عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
 </s>
 </p>
-<p n="22.0.11(55)" id="55" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="And there are some who worship Allah on the verge ˹of faith˺: if they are blessed with something good, they are content with it; but if they are afflicted with a trial, they relapse ˹into disbelief˺,1 losing this world and the Hereafter. That is ˹truly˺ the clearest loss.">
+<p n="22.0.11(p55)" id="p55" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="And there are some who worship Allah on the verge ˹of faith˺: if they are blessed with something good, they are content with it; but if they are afflicted with a trial, they relapse ˹into disbelief˺,1 losing this world and the Hereafter. That is ˹truly˺ the clearest loss.">
 <s>
 ومن	prep	مِن	_	_	ومن-p	مِن-p
 الناس	noun	ناس	_	_	الناس-n	ناس-n
@@ -1122,7 +1122,7 @@
 المبين	noun	مُبَيِّن	_	_	المبين-n	مُبَيِّن-n
 </s>
 </p>
-<p n="22.0.31(56)" id="56" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.">
+<p n="22.0.31(p56)" id="p56" book_title="The Noble Quran" sura_title="al-Ḥaǧǧ" section_title="Introduction" translation="Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.">
 <s>
 حنفاء	noun	حَنِيف	_	_	حنفاء-n	حَنِيف-n
 لله	noun_prop	اللَّه	_	_	لله-o	اللَّه-o
@@ -1147,7 +1147,7 @@
 سحيق	adj	سَحِيق	_	_	سحيق-a	سَحِيق-a
 </s>
 </p>
-<p n="23.0.41(57)" id="57" book_title="The Noble Quran" sura_title="al-Mu͗minūn" section_title="Introduction" translation="Then the ˹mighty˺ blast overtook them with justice, and We reduced them to rubble. So away with the wrongdoing people!">
+<p n="23.0.41(p57)" id="p57" book_title="The Noble Quran" sura_title="al-Mu͗minūn" section_title="Introduction" translation="Then the ˹mighty˺ blast overtook them with justice, and We reduced them to rubble. So away with the wrongdoing people!">
 <s>
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
 الصيحة	noun	صَيْحَة	catastrophe	explosion;great cry	الصيحة-n	صَيْحَة-n
@@ -1159,7 +1159,7 @@
 الظلمين	noun_prop	الظلمين	_	_	الظلمين-o	الظلمين-o
 </s>
 </p>
-<p n="24.0.43(58)" id="58" book_title="The Noble Quran" sura_title="al-Nūr" section_title="Introduction" translation="Do you not see that Allah gently drives the clouds, then joins them together, piling them up into masses, from which you see raindrops come forth? And He sends down from the sky mountains ˹of clouds˺ loaded with hail, pouring it on whoever He wills and averting it from whoever He wills. The flash of the clouds’ lightning nearly takes away eyesight.">
+<p n="24.0.43(p58)" id="p58" book_title="The Noble Quran" sura_title="al-Nūr" section_title="Introduction" translation="Do you not see that Allah gently drives the clouds, then joins them together, piling them up into masses, from which you see raindrops come forth? And He sends down from the sky mountains ˹of clouds˺ loaded with hail, pouring it on whoever He wills and averting it from whoever He wills. The flash of the clouds’ lightning nearly takes away eyesight.">
 <s>
 آلم	noun	آلَم	_	_	آلم-n	آلَم-n
 تر	verb	راوَنْد	_	_	تر-v	راوَنْد-v
@@ -1201,7 +1201,7 @@
 بالأبصر	noun	أَبْصَر	_	_	بالأبصر-n	أَبْصَر-n
 </s>
 </p>
-<p n="24.0.63(59)" id="59" book_title="The Noble Quran" sura_title="al-Nūr" section_title="Introduction" translation="Do not treat the Messenger’s summons to you ˹as lightly˺ as your summons to one another.1 Allah certainly knows those of you who slip away, hiding behind others.2 So let those who disobey his orders beware, for an affliction may befall them, or a painful torment may overtake them.">
+<p n="24.0.63(p59)" id="p59" book_title="The Noble Quran" sura_title="al-Nūr" section_title="Introduction" translation="Do not treat the Messenger’s summons to you ˹as lightly˺ as your summons to one another.1 Allah certainly knows those of you who slip away, hiding behind others.2 So let those who disobey his orders beware, for an affliction may befall them, or a painful torment may overtake them.">
 <s>
 لا	part_neg	لا	_	_	لا-e	لا-e
 تجعلوا	verb	جَعَل	_	_	تجعلوا-v	جَعَل-v
@@ -1232,7 +1232,7 @@
 أليم	noun	أَلِيم	_	_	أليم-n	أَلِيم-n
 </s>
 </p>
-<p n="28.0.47(60)" id="60" book_title="The Noble Quran" sura_title="al-Qaṣaṣ" section_title="Introduction" translation="Also so they would not say, if struck by an affliction for what their hands have done: “Our Lord! If only You had sent us a messenger, we would have followed Your revelations and become believers.”">
+<p n="28.0.47(p60)" id="p60" book_title="The Noble Quran" sura_title="al-Qaṣaṣ" section_title="Introduction" translation="Also so they would not say, if struck by an affliction for what their hands have done: “Our Lord! If only You had sent us a messenger, we would have followed Your revelations and become believers.”">
 <s>
 ولولا	conj	لَوْلا	_	_	ولولا-c	لَوْلا-c
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -1254,7 +1254,7 @@
 المومنين	noun_prop	المومنين	_	_	المومنين-o	المومنين-o
 </s>
 </p>
-<p n="29.0.37(61)" id="61" book_title="The Noble Quran" sura_title="al-͑Ankabūt" section_title="Introduction" translation="Moses responded, “My Lord knows best who has come with ˹true˺ guidance from Him and will fare best in the end. Indeed, the wrongdoers will never succeed.”">
+<p n="29.0.37(p61)" id="p61" book_title="The Noble Quran" sura_title="al-͑Ankabūt" section_title="Introduction" translation="Moses responded, “My Lord knows best who has come with ˹true˺ guidance from Him and will fare best in the end. Indeed, the wrongdoers will never succeed.”">
 <s>
 فكذبوه	verb	كَذَب	_	_	فكذبوه-v	كَذَب-v
 فأخذتهم	verb	أَخَذ	_	_	فأخذتهم-v	أَخَذ-v
@@ -1265,7 +1265,7 @@
 جثمين	noun_prop	جثمين	_	_	جثمين-o	جثمين-o
 </s>
 </p>
-<p n="29.0.40(62)" id="62" book_title="The Noble Quran" sura_title="al-͑Ankabūt" section_title="Introduction" translation="So We seized him and his soldiers, casting them into the sea. See then what was the end of the wrongdoers!">
+<p n="29.0.40(p62)" id="p62" book_title="The Noble Quran" sura_title="al-͑Ankabūt" section_title="Introduction" translation="So We seized him and his soldiers, casting them into the sea. See then what was the end of the wrongdoers!">
 <s>
 فكلا	interj	كَلّا	_	_	فكلا-1	كَلّا-1
 أخذنا	verb	أَخَذ	_	_	أخذنا-v	أَخَذ-v
@@ -1297,7 +1297,7 @@
 يظلمون	verb	ٱِظَّلَم	_	_	يظلمون-v	ٱِظَّلَم-v
 </s>
 </p>
-<p n="30.0.36(63)" id="63" book_title="The Noble Quran" sura_title="al-Rūm" section_title="Introduction" translation="If We give people a taste of mercy, they become prideful ˹because˺ of it. But if they are afflicted with an evil for what their hands have done, they instantly fall into despair.">
+<p n="30.0.36(p63)" id="p63" book_title="The Noble Quran" sura_title="al-Rūm" section_title="Introduction" translation="If We give people a taste of mercy, they become prideful ˹because˺ of it. But if they are afflicted with an evil for what their hands have done, they instantly fall into despair.">
 <s>
 وإذا	conj	إِذا	_	_	وإذا-c	إِذا-c
 أذقنا	verb	أَذاق	_	_	أذقنا-v	أَذاق-v
@@ -1316,7 +1316,7 @@
 يقنطون	verb	قَنِط	_	_	يقنطون-v	قَنِط-v
 </s>
 </p>
-<p n="30.0.48(64)" id="64" book_title="The Noble Quran" sura_title="al-Rūm" section_title="Introduction" translation="It is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, which He then spreads out in the sky or piles up into masses as He wills, from which you see rain come forth. Then as soon as He causes it to fall on whoever He wills of His servants, they rejoice,">
+<p n="30.0.48(p64)" id="p64" book_title="The Noble Quran" sura_title="al-Rūm" section_title="Introduction" translation="It is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, which He then spreads out in the sky or piles up into masses as He wills, from which you see rain come forth. Then as soon as He causes it to fall on whoever He wills of His servants, they rejoice,">
 <s>
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
@@ -1348,7 +1348,7 @@
 يستبشرون	verb	ٱِسْتَبْشَر	_	_	يستبشرون-v	ٱِسْتَبْشَر-v
 </s>
 </p>
-<p n="31.0.32(65)" id="65" book_title="The Noble Quran" sura_title="Luqmān" section_title="Introduction" translation="And as soon as they are overwhelmed by waves like mountains, they cry out to Allah ˹alone˺ in sincere devotion. But when He delivers them ˹safely˺ to shore, only some become relatively grateful. And none rejects Our signs except whoever is deceitful, ungrateful.">
+<p n="31.0.32(p65)" id="p65" book_title="The Noble Quran" sura_title="Luqmān" section_title="Introduction" translation="And as soon as they are overwhelmed by waves like mountains, they cry out to Allah ˹alone˺ in sincere devotion. But when He delivers them ˹safely˺ to shore, only some become relatively grateful. And none rejects Our signs except whoever is deceitful, ungrateful.">
 <s>
 وإذا	conj	إِذا	_	_	وإذا-c	إِذا-c
 غشيهم	verb	غَشِي	_	_	غشيهم-v	غَشِي-v
@@ -1374,7 +1374,7 @@
 كفور	noun	فَوْر	_	_	كفور-n	فَوْر-n
 </s>
 </p>
-<p n="32.0.21(66)" id="66" book_title="The Noble Quran" sura_title="al-Saǧda" section_title="Introduction" translation="We will certainly make them taste some of the minor torment ˹in this life˺ before the major torment ˹of the Hereafter˺, so perhaps they will return ˹to the Right Path˺.">
+<p n="32.0.21(p66)" id="p66" book_title="The Noble Quran" sura_title="al-Saǧda" section_title="Introduction" translation="We will certainly make them taste some of the minor torment ˹in this life˺ before the major torment ˹of the Hereafter˺, so perhaps they will return ˹to the Right Path˺.">
 <s>
 ولنذيقنهم	noun_prop	ولنذيقنهم	_	_	ولنذيقنهم-o	ولنذيقنهم-o
 من	prep	مِن	_	_	من-p	مِن-p
@@ -1387,7 +1387,7 @@
 يرجعون	verb	رَجَع	_	_	يرجعون-v	رَجَع-v
 </s>
 </p>
-<p n="33.0.11(67)" id="67" book_title="The Noble Quran" sura_title="al-Aḥzāb" section_title="Introduction" translation="Then and there the believers were put to the test, and were violently shaken.">
+<p n="33.0.11(p67)" id="p67" book_title="The Noble Quran" sura_title="al-Aḥzāb" section_title="Introduction" translation="Then and there the believers were put to the test, and were violently shaken.">
 <s>
 هنالك	adv	هُناكَ	_	_	هنالك-r	هُناكَ-r
 أبتلي	verb	ٱِبْتَلَى	_	_	أبتلي-v	ٱِبْتَلَى-v
@@ -1397,7 +1397,7 @@
 شديدا	adj	شَدِيد	_	_	شديدا-a	شَدِيد-a
 </s>
 </p>
-<p n="34.0.12(68)" id="68" book_title="The Noble Quran" sura_title="Sabāʾ" section_title="Introduction" translation="But they turned away. So We sent against them a devastating flood, and replaced their orchards with two others producing bitter fruit, fruitless bushes,1 and a few ˹sparse˺ thorny trees">
+<p n="34.0.12(p68)" id="p68" book_title="The Noble Quran" sura_title="Sabāʾ" section_title="Introduction" translation="But they turned away. So We sent against them a devastating flood, and replaced their orchards with two others producing bitter fruit, fruitless bushes,1 and a few ˹sparse˺ thorny trees">
 <s>
 ولسليمن	noun_prop	ولسليمن	_	_	ولسليمن-o	ولسليمن-o
 الريح	noun	رِيح	catastrophe	wind	الريح-n	رِيح-n
@@ -1428,7 +1428,7 @@
 السعير	noun	سَعِير	_	_	السعير-n	سَعِير-n
 </s>
 </p>
-<p n="34.0.16(69)" id="69" book_title="The Noble Quran" sura_title="Sabāʾ" section_title="Introduction" translation="And to Solomon ˹We subjected˺ the wind: its morning stride was a month’s journey and so was its evening stride. And We caused a stream of molten copper to flow for him, and ˹We subjected˺ some of the jinn to work under him by his Lord’s Will. And whoever of them deviated from Our command, We made them taste the torment of the blaze.">
+<p n="34.0.16(p69)" id="p69" book_title="The Noble Quran" sura_title="Sabāʾ" section_title="Introduction" translation="And to Solomon ˹We subjected˺ the wind: its morning stride was a month’s journey and so was its evening stride. And We caused a stream of molten copper to flow for him, and ˹We subjected˺ some of the jinn to work under him by his Lord’s Will. And whoever of them deviated from Our command, We made them taste the torment of the blaze.">
 <s>
 ولسليمن	noun_prop	ولسليمن	_	_	ولسليمن-o	ولسليمن-o
 الريح	noun	رِيح	catastrophe	wind	الريح-n	رِيح-n
@@ -1459,7 +1459,7 @@
 السعير	noun	سَعِير	_	_	السعير-n	سَعِير-n
 </s>
 </p>
-<p n="36.0.29(70)" id="70" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="All it took was one ˹mighty˺ blast, and they were extinguished at once.">
+<p n="36.0.29(p70)" id="p70" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="All it took was one ˹mighty˺ blast, and they were extinguished at once.">
 <s>
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -1471,7 +1471,7 @@
 خمدون	noun_prop	خمدون	_	_	خمدون-o	خمدون-o
 </s>
 </p>
-<p n="36.0.9(71)" id="71" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="They must be awaiting a single Blast,1 which will seize them while they are ˹entrenched˺ in ˹worldly˺ disputes.">
+<p n="36.0.9(p71)" id="p71" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="They must be awaiting a single Blast,1 which will seize them while they are ˹entrenched˺ in ˹worldly˺ disputes.">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 ينظرون	verb	نَظَر	_	_	ينظرون-v	نَظَر-v
@@ -1483,7 +1483,7 @@
 يخصمون	verb	خَصَم	_	_	يخصمون-v	خَصَم-v
 </s>
 </p>
-<p n="36.0.53(72)" id="72" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="It will only take one Blast, then at once they will all be brought before Us.">
+<p n="36.0.53(p72)" id="p72" book_title="The Noble Quran" sura_title="Yāʾ-Sīn" section_title="Introduction" translation="It will only take one Blast, then at once they will all be brought before Us.">
 <s>
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -1497,7 +1497,7 @@
 محضرون	adj	مُحَضَّر	_	_	محضرون-a	مُحَضَّر-a
 </s>
 </p>
-<p n="38.0.15(73)" id="73" book_title="The Noble Quran" sura_title="Ṣād" section_title="Introduction" translation="These ˹pagans˺ are awaiting nothing but a single Blast that cannot be stopped.">
+<p n="38.0.15(p73)" id="p73" book_title="The Noble Quran" sura_title="Ṣād" section_title="Introduction" translation="These ˹pagans˺ are awaiting nothing but a single Blast that cannot be stopped.">
 <s>
 أومآ	verb	أَوْمَأ	_	_	أومآ-v	أَوْمَأ-v
 ينظر	verb	نَظَر	_	_	ينظر-v	نَظَر-v
@@ -1511,7 +1511,7 @@
 فواق	noun	واقِي	_	_	فواق-n	واقِي-n
 </s>
 </p>
-<p n="38.0.36(74)" id="74" book_title="The Noble Quran" sura_title="Ṣād" section_title="Introduction" translation="So We subjected to him the wind, blowing gently at his command to wherever he pleased.">
+<p n="38.0.36(p74)" id="p74" book_title="The Noble Quran" sura_title="Ṣād" section_title="Introduction" translation="So We subjected to him the wind, blowing gently at his command to wherever he pleased.">
 <s>
 فسخرنا	verb	سَخَّر	_	_	فسخرنا-v	سَخَّر-v
 له	prep	لِ	_	_	له-p	لِ-p
@@ -1523,7 +1523,7 @@
 أصاب	verb	أَصاب	_	_	أصاب-v	أَصاب-v
 </s>
 </p>
-<p n="39.0.51(75)" id="75" book_title="The Noble Quran" sura_title="al-Zumar" section_title="Introduction" translation="So the evil ˹consequences˺ of their deeds overtook them. And the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺ of their deeds. And they will have no escape.">
+<p n="39.0.51(p75)" id="p75" book_title="The Noble Quran" sura_title="al-Zumar" section_title="Introduction" translation="So the evil ˹consequences˺ of their deeds overtook them. And the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺ of their deeds. And they will have no escape.">
 <s>
 فأصابهم	verb	أَصاب	_	_	فأصابهم-v	أَصاب-v
 سيأت	verb	أَتَى	_	_	سيأت-v	أَتَى-v
@@ -1542,7 +1542,7 @@
 بمعجزين	noun_prop	بمعجزين	_	_	بمعجزين-o	بمعجزين-o
 </s>
 </p>
-<p n="41.0.13(76)" id="76" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="If they turn away, then say, ˹O Prophet,˺ “I warn you of a ˹mighty˺ blast, like the one that befell ’Ȃd and Thamûd.”">
+<p n="41.0.13(p76)" id="p76" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="If they turn away, then say, ˹O Prophet,˺ “I warn you of a ˹mighty˺ blast, like the one that befell ’Ȃd and Thamûd.”">
 <s>
 فإن	verb_pseudo	إِنَّ	_	_	فإن-w	إِنَّ-w
 أعرضوا	verb	أَعْرَض	_	_	أعرضوا-v	أَعْرَض-v
@@ -1555,7 +1555,7 @@
 وثمود	noun_prop	وثمود	_	_	وثمود-o	وثمود-o
 </s>
 </p>
-<p n="41.0.16(77)" id="77" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="So We sent against them a furious wind,1 for ˹several˺ miserable days, to make them taste a humiliating punishment in this worldly life. But far more humiliating will be the punishment of the Hereafter. And they will not be helped.">
+<p n="41.0.16(p77)" id="p77" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="So We sent against them a furious wind,1 for ˹several˺ miserable days, to make them taste a humiliating punishment in this worldly life. But far more humiliating will be the punishment of the Hereafter. And they will not be helped.">
 <s>
 فأرسلنا	verb	أَرْسَل	_	_	فأرسلنا-v	أَرْسَل-v
 عليهم	prep	عَلَى	_	_	عليهم-p	عَلَى-p
@@ -1578,7 +1578,7 @@
 ينصرون	verb	نَصَر	_	_	ينصرون-v	نَصَر-v
 </s>
 </p>
-<p n="41.0.17(78)" id="78" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="As for Thamûd, We showed them guidance, but they preferred blindness over guidance. So the blast of a disgracing punishment overtook them for what they used to commit.">
+<p n="41.0.17(p78)" id="p78" book_title="The Noble Quran" sura_title="Fuṣṣilat" section_title="Introduction" translation="As for Thamûd, We showed them guidance, but they preferred blindness over guidance. So the blast of a disgracing punishment overtook them for what they used to commit.">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 ثمود	noun_prop	ثمود	_	_	ثمود-o	ثمود-o
@@ -1596,7 +1596,7 @@
 يكسبون	verb	كَسَب	_	_	يكسبون-v	كَسَب-v
 </s>
 </p>
-<p n="42.0.30(79)" id="79" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="Whatever affliction befalls you is because of what your own hands have committed. And He pardons much.">
+<p n="42.0.30(p79)" id="p79" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="Whatever affliction befalls you is because of what your own hands have committed. And He pardons much.">
 <s>
 وما	pron_rel	ما	_	_	وما-g	ما-g
 أصبكم	verb	صَبّ	_	_	أصبكم-v	صَبّ-v
@@ -1610,7 +1610,7 @@
 كثير	noun	كَثِير	_	_	كثير-n	كَثِير-n
 </s>
 </p>
-<p n="42.0.33(80)" id="80" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="If He wills, He can calm the wind, leaving the ships motionless on the water. Surely in this are signs for whoever is steadfast, grateful.">
+<p n="42.0.33(p80)" id="p80" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="If He wills, He can calm the wind, leaving the ships motionless on the water. Surely in this are signs for whoever is steadfast, grateful.">
 <s>
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
 يشأ	verb	شاء	_	_	يشأ-v	شاء-v
@@ -1629,7 +1629,7 @@
 شكور	noun	شُكْر	_	_	شكور-n	شُكْر-n
 </s>
 </p>
-<p n="42.0.48(81)" id="81" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="But if they turn away, We have not sent you ˹O Prophet˺ as a keeper over them. Your duty is only to deliver ˹the message˺. And indeed, when We let someone taste a mercy from Us, they become prideful ˹because˺ of it. But when afflicted with evil because of what their hands have done, then one becomes totally ungrateful.">
+<p n="42.0.48(p81)" id="p81" book_title="The Noble Quran" sura_title="al-Šūrà" section_title="Introduction" translation="But if they turn away, We have not sent you ˹O Prophet˺ as a keeper over them. Your duty is only to deliver ˹the message˺. And indeed, when We let someone taste a mercy from Us, they become prideful ˹because˺ of it. But when afflicted with evil because of what their hands have done, then one becomes totally ungrateful.">
 <s>
 فإن	verb_pseudo	إِنَّ	_	_	فإن-w	إِنَّ-w
 أعرضوا	verb	أَعْرَض	_	_	أعرضوا-v	أَعْرَض-v
@@ -1660,7 +1660,7 @@
 كفور	noun	فَوْر	_	_	كفور-n	فَوْر-n
 </s>
 </p>
-<p n="46.0.24(82)" id="82" book_title="The Noble Quran" sura_title="al-Aḥqāf" section_title="Introduction" translation="Then when they saw the torment as a ˹dense˺ cloud approaching their valleys, they said ˹happily˺, “This is a cloud bringing us rain.” ˹But Hûd replied,˺ “No, it is what you sought to hasten: a ˹fierce˺ wind carrying a painful punishment!”">
+<p n="46.0.24(p82)" id="p82" book_title="The Noble Quran" sura_title="al-Aḥqāf" section_title="Introduction" translation="Then when they saw the torment as a ˹dense˺ cloud approaching their valleys, they said ˹happily˺, “This is a cloud bringing us rain.” ˹But Hûd replied,˺ “No, it is what you sought to hasten: a ˹fierce˺ wind carrying a painful punishment!”">
 <s>
 فلما	conj	لَمّا	_	_	فلما-c	لَمّا-c
 رأوه	verb	راوَنْد	_	_	رأوه-v	راوَنْد-v
@@ -1682,7 +1682,7 @@
 أليم	noun	أَلِيم	_	_	أليم-n	أَلِيم-n
 </s>
 </p>
-<p n="50.0.42(83)" id="83" book_title="The Noble Quran" sura_title="Qāf" section_title="Introduction" translation="the Day all will hear the ˹mighty˺ Blast in ˹all˺ truth,1 that will be the Day of emergence ˹from the graves˺.">
+<p n="50.0.42(p83)" id="p83" book_title="The Noble Quran" sura_title="Qāf" section_title="Introduction" translation="the Day all will hear the ˹mighty˺ Blast in ˹all˺ truth,1 that will be the Day of emergence ˹from the graves˺.">
 <s>
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
 يسمعون	verb	أَسْمَع	_	_	يسمعون-v	أَسْمَع-v
@@ -1693,7 +1693,7 @@
 الخروج	noun	خُرُوج	_	_	الخروج-n	خُرُوج-n
 </s>
 </p>
-<p n="51.0.41(84)" id="84" book_title="The Noble Quran" sura_title="al-Ḏāriyāt" section_title="Introduction" translation="And in ˹the story of˺ ’Âd ˹was another lesson,˺ when We sent against them the devastating wind.">
+<p n="51.0.41(p84)" id="p84" book_title="The Noble Quran" sura_title="al-Ḏāriyāt" section_title="Introduction" translation="And in ˹the story of˺ ’Âd ˹was another lesson,˺ when We sent against them the devastating wind.">
 <s>
 وفى	verb	وَفَى	_	_	وفى-v	وَفَى-v
 عاد	verb	عاد	_	_	عاد-v	عاد-v
@@ -1704,7 +1704,7 @@
 العقيم	adj	عَقِيم	_	_	العقيم-a	عَقِيم-a
 </s>
 </p>
-<p n="51.0.44(85)" id="85" book_title="The Noble Quran" sura_title="al-Ḏāriyāt" section_title="Introduction" translation="Still they persisted in defying the commands of their Lord, so they were overtaken by a ˹mighty˺ blast while they were looking on.">
+<p n="51.0.44(p85)" id="p85" book_title="The Noble Quran" sura_title="al-Ḏāriyāt" section_title="Introduction" translation="Still they persisted in defying the commands of their Lord, so they were overtaken by a ˹mighty˺ blast while they were looking on.">
 <s>
 فعتوا	verb	عَتا	_	_	فعتوا-v	عَتا-v
 عن	prep	عَن	_	_	عن-p	عَن-p
@@ -1716,7 +1716,7 @@
 ينظرون	verb	نَظَر	_	_	ينظرون-v	نَظَر-v
 </s>
 </p>
-<p n="54.0.19(86)" id="86" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="Indeed, We sent against them a furious wind,1 on a day of unrelenting misery,">
+<p n="54.0.19(p86)" id="p86" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="Indeed, We sent against them a furious wind,1 on a day of unrelenting misery,">
 <s>
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
 أرسلنا	verb	أَرْسَل	_	_	أرسلنا-v	أَرْسَل-v
@@ -1729,7 +1729,7 @@
 مستمر	adj	مُسْتَمِرّ	_	_	مستمر-a	مُسْتَمِرّ-a
 </s>
 </p>
-<p n="54.0.31(87)" id="87" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving them like the twigs of fence-builders.">
+<p n="54.0.31(p87)" id="p87" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving them like the twigs of fence-builders.">
 <s>
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
 أرسلنا	verb	أَرْسَل	_	_	أرسلنا-v	أَرْسَل-v
@@ -1741,7 +1741,7 @@
 المحتظر	noun_prop	المحتظر	_	_	المحتظر-o	المحتظر-o
 </s>
 </p>
-<p n="54.0.34(88)" id="88" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn">
+<p n="54.0.34(p88)" id="p88" book_title="The Noble Quran" sura_title="Al-Qamar" section_title="Introduction" translation="We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn">
 <s>
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
 أرسلنا	verb	أَرْسَل	_	_	أرسلنا-v	أَرْسَل-v
@@ -1754,7 +1754,7 @@
 بسحر	noun_prop	سَحَر	_	_	بسحر-o	سَحَر-o
 </s>
 </p>
-<p n="57.0.22(89)" id="89" book_title="The Noble Quran" sura_title="al-Ḥadīd" section_title="Introduction" translation="No calamity ˹or blessing˺ occurs on earth or in yourselves without being ˹written˺ in a Record before We bring it into being. This is certainly easy for Allah.">
+<p n="57.0.22(p89)" id="p89" book_title="The Noble Quran" sura_title="al-Ḥadīd" section_title="Introduction" translation="No calamity ˹or blessing˺ occurs on earth or in yourselves without being ˹written˺ in a Record before We bring it into being. This is certainly easy for Allah.">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 أصاب	verb	أَصاب	_	_	أصاب-v	أَصاب-v
@@ -1779,7 +1779,7 @@
 يسير	verb	سار	_	_	يسير-v	سار-v
 </s>
 </p>
-<p n="63.0.4(90)" id="90" book_title="The Noble Quran" sura_title="al-Munāfiqūn" section_title="Introduction" translation="When you see them, their appearance impresses you. And when they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺ planks of wood leaned ˹against a wall˺. They think every cry is against them. They are the enemy, so beware of them. May Allah condemn them! How can they be deluded ˹from the truth˺?">
+<p n="63.0.4(p90)" id="p90" book_title="The Noble Quran" sura_title="al-Munāfiqūn" section_title="Introduction" translation="When you see them, their appearance impresses you. And when they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺ planks of wood leaned ˹against a wall˺. They think every cry is against them. They are the enemy, so beware of them. May Allah condemn them! How can they be deluded ˹from the truth˺?">
 <s>
 وإذا	conj	إِذا	_	_	وإذا-c	إِذا-c
 رأيتهم	verb	راوَنْد	_	_	رأيتهم-v	راوَنْد-v
@@ -1805,7 +1805,7 @@
 يوفكون	noun_prop	يوفكون	_	_	يوفكون-o	يوفكون-o
 </s>
 </p>
-<p n="64.0.11(91)" id="91" book_title="The Noble Quran" sura_title="al-Taġābun" section_title="Introduction" translation="No calamity befalls ˹anyone˺ except by Allah’s Will. And whoever has faith in Allah, He will ˹rightly˺ guide their hearts ˹through adversity˺. And Allah has ˹perfect˺ knowledge of all things.">
+<p n="64.0.11(p91)" id="p91" book_title="The Noble Quran" sura_title="al-Taġābun" section_title="Introduction" translation="No calamity befalls ˹anyone˺ except by Allah’s Will. And whoever has faith in Allah, He will ˹rightly˺ guide their hearts ˹through adversity˺. And Allah has ˹perfect˺ knowledge of all things.">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 أصاب	verb	أَصاب	_	_	أصاب-v	أَصاب-v
@@ -1825,7 +1825,7 @@
 عليم	noun	عَلِيم	_	_	عليم-n	عَلِيم-n
 </s>
 </p>
-<p n="67.0.17(92)" id="92" book_title="The Noble Quran" sura_title="Al-Mulk" section_title="Introduction" translation="Or do you feel secure that the One Who is in heaven will not unleash upon you a storm of stones. Only then would you know how ˹serious˺ My warning was!">
+<p n="67.0.17(p92)" id="p92" book_title="The Noble Quran" sura_title="Al-Mulk" section_title="Introduction" translation="Or do you feel secure that the One Who is in heaven will not unleash upon you a storm of stones. Only then would you know how ˹serious˺ My warning was!">
 <s>
 أم	conj	أَم	_	_	أم-c	أَم-c
 أمنتم	verb	أَمَّن	_	_	أمنتم-v	أَمَّن-v
@@ -1841,7 +1841,7 @@
 نذير	noun	نَذِير	_	_	نذير-n	نَذِير-n
 </s>
 </p>
-<p n="68.0.19(93)" id="93" book_title="The Noble Quran" sura_title="Al-Qalam" section_title="Introduction" translation="Then it was struck by a torment from your Lord while they slept,">
+<p n="68.0.19(p93)" id="p93" book_title="The Noble Quran" sura_title="Al-Qalam" section_title="Introduction" translation="Then it was struck by a torment from your Lord while they slept,">
 <s>
 فطاف	verb	طاف	_	_	فطاف-v	طاف-v
 عليها	prep	عَلَى	_	_	عليها-p	عَلَى-p
@@ -1852,7 +1852,7 @@
 نايمون	noun_prop	نايمون	_	_	نايمون-o	نايمون-o
 </s>
 </p>
-<p n="69.0.4(94)" id="94" book_title="The Noble Quran" sura_title="al-Ḥāqqa" section_title="Introduction" translation="˹Both˺ Thamûd and ’Ȃd denied the Striking Disaster.">
+<p n="69.0.4(p94)" id="p94" book_title="The Noble Quran" sura_title="al-Ḥāqqa" section_title="Introduction" translation="˹Both˺ Thamûd and ’Ȃd denied the Striking Disaster.">
 <s>
 كذبت	verb	كَذَب	_	_	كذبت-v	كَذَب-v
 ثمود	noun_prop	ثمود	_	_	ثمود-o	ثمود-o
@@ -1860,7 +1860,7 @@
 بالقارعة	noun	قارِعَة	catastrophe	calamity	بالقارعة-n	قارِعَة-n
 </s>
 </p>
-<p n="69.0.6(95)" id="95" book_title="The Noble Quran" sura_title="al-Ḥāqqa" section_title="Introduction" translation="And as for ’Ȃd, they were destroyed by a furious, bitter wind">
+<p n="69.0.6(p95)" id="p95" book_title="The Noble Quran" sura_title="al-Ḥāqqa" section_title="Introduction" translation="And as for ’Ȃd, they were destroyed by a furious, bitter wind">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 عاد	verb	عاد	_	_	عاد-v	عاد-v
@@ -1870,7 +1870,7 @@
 عاتية	noun	عاتِي	_	_	عاتية-n	عاتِي-n
 </s>
 </p>
-<p n="79.0.34(96)" id="96" book_title="The Noble Quran" sura_title="al-Nāziʿāt" section_title="Introduction" translation="But, when the Supreme Disaster comes to pass—">
+<p n="79.0.34(p96)" id="p96" book_title="The Noble Quran" sura_title="al-Nāziʿāt" section_title="Introduction" translation="But, when the Supreme Disaster comes to pass—">
 <s>
 فإذا	conj	إِذا	_	_	فإذا-c	إِذا-c
 جاءت	verb	جاء	_	_	جاءت-v	جاء-v
@@ -1878,7 +1878,7 @@
 الكبرى	adj	كُبْرَى	_	_	الكبرى-a	كُبْرَى-a
 </s>
 </p>
-<p n="88.0.(97)" id="97" book_title="The Noble Quran" sura_title="Al-Ghāshiyah" section_title="Introduction" translation="They will have no food except a foul, thorny shrub,">
+<p n="88.0.(p97)" id="p97" book_title="The Noble Quran" sura_title="Al-Ghāshiyah" section_title="Introduction" translation="They will have no food except a foul, thorny shrub,">
 <s>
 ليس	verb	لَيِس	_	_	ليس-v	لَيِس-v
 لهم	prep	لِ	_	_	لهم-p	لِ-p
@@ -1890,7 +1890,7 @@
 الكبرى	adj	كُبْرَى	_	_	الكبرى-a	كُبْرَى-a
 </s>
 </p>
-<p n="88.0.(98)" id="98" book_title="The Noble Quran" sura_title="Al-Ghāshiyah" section_title="Introduction" translation="neither nourishing nor satisfying hunger.">
+<p n="88.0.(p98)" id="p98" book_title="The Noble Quran" sura_title="Al-Ghāshiyah" section_title="Introduction" translation="neither nourishing nor satisfying hunger.">
 <s>
 لا	part_neg	لا	_	_	لا-e	لا-e
 يسمن	verb	وَسَم	_	_	يسمن-v	وَسَم-v
@@ -1902,7 +1902,7 @@
 الكبرى	adj	كُبْرَى	_	_	الكبرى-a	كُبْرَى-a
 </s>
 </p>
-<p n="89.0.13(99)" id="99" book_title="The Noble Quran" sura_title="al-Faǧr" section_title="Introduction" translation="So your Lord unleashed on them a scourge of punishment.">
+<p n="89.0.13(p99)" id="p99" book_title="The Noble Quran" sura_title="al-Faǧr" section_title="Introduction" translation="So your Lord unleashed on them a scourge of punishment.">
 <s>
 فصب	verb	صَبّ	_	_	فصب-v	صَبّ-v
 عليهم	prep	عَلَى	_	_	عليهم-p	عَلَى-p
@@ -1911,7 +1911,7 @@
 عذاب	noun	عَذاب	catastrophe	torture;punishment	عذاب-n	عَذاب-n
 </s>
 </p>
-<p n="90.0.(100)" id="100" book_title="The Noble Quran" sura_title="al-Balad" section_title="Introduction" translation="or to give food in times of famine">
+<p n="90.0.(p100)" id="p100" book_title="The Noble Quran" sura_title="al-Balad" section_title="Introduction" translation="or to give food in times of famine">
 <s>
 أو	conj	أَو	_	_	أو-c	أَو-c
 أطعم	verb	طَعِم	_	_	أطعم-v	طَعِم-v
@@ -1921,7 +1921,7 @@
 مسغبة	noun	مَسْغَبَة	catastrophe	famine	مسغبة-n	مَسْغَبَة-n
 </s>
 </p>
-<p n="99.0.1(101)" id="101" book_title="The Noble Quran" sura_title="al-Zalzala" section_title="Introduction" translation="When the earth is shaken ˹in˺ its ultimate quaking,">
+<p n="99.0.1(p101)" id="p101" book_title="The Noble Quran" sura_title="al-Zalzala" section_title="Introduction" translation="When the earth is shaken ˹in˺ its ultimate quaking,">
 <s>
 إذا	conj	إِذا	_	_	إذا-c	إِذا-c
 زلزلت	verb	زَلْزَل	catastrophe	earhquake	زلزلت-v	زَلْزَل-v
@@ -1929,18 +1929,18 @@
 زلزالها	noun	زِلْزال	catastrophe	earhquake	زلزالها-n	زِلْزال-n
 </s>
 </p>
-<p n="101.0.1(102)" id="102" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="The Striking Disaster!">
+<p n="101.0.1(p102)" id="p102" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="The Striking Disaster!">
 <s>
 القارعة	noun	قارِعَة	catastrophe	calamity	القارعة-n	قارِعَة-n
 </s>
 </p>
-<p n="101.0.2(103)" id="103" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="What is the Striking Disaster?">
+<p n="101.0.2(p103)" id="p103" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="What is the Striking Disaster?">
 <s>
 ما	pron_rel	ما	_	_	ما-g	ما-g
 القارعة	noun	قارِعَة	catastrophe	calamity	القارعة-n	قارِعَة-n
 </s>
 </p>
-<p n="101.0.3(104)" id="104" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="And what will make you realize what the Striking Disaster is?">
+<p n="101.0.3(p104)" id="p104" book_title="The Noble Quran" sura_title="al-Qāriʿa" section_title="Introduction" translation="And what will make you realize what the Striking Disaster is?">
 <s>
 وما	pron_rel	ما	_	_	وما-g	ما-g
 أدريك	verb	دَرَى	_	_	أدريك-v	دَرَى-v
@@ -1948,7 +1948,7 @@
 القارعة	noun	قارِعَة	catastrophe	calamity	القارعة-n	قارِعَة-n
 </s>
 </p>
-<p n="106.0.(105)" id="105" book_title="The Noble Quran" sura_title="al-Quraish" section_title="Introduction" translation="Who has fed them against hunger and made them secure against fear.">
+<p n="106.0.(p105)" id="p105" book_title="The Noble Quran" sura_title="al-Quraish" section_title="Introduction" translation="Who has fed them against hunger and made them secure against fear.">
 <s>
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
 أطعمهم	verb	طَعِم	_	_	أطعمهم-v	طَعِم-v
@@ -1962,7 +1962,7 @@
 </p>
 </book>
 <text type="book" book_type="religious" n="2" book_title="Ṣaḥīḥ Muslim">
-<p n="0.5B.63(106)" id="106" book_title="Ṣaḥīḥ Muslim" section_title="Introduction" chapter_title="Unveiling Defects of the Transmitters of Ḥadīth and Relaters of Reports and the Statements of the A’immah Regarding That" translation="Al-Faḍl bin Sahl narrated to me, he said Affān bin Muslim narrated to us, Hammām narrated to us, he said, Abū Dāwud al-A’mā came to us and began saying: ‘Al-Barā’ [bin Āzib, the Companion] narrated to us’; he said: ‘Zayd bin Arqam narrated to us’- and he mentioned that [those chains] to Qatādah. [Qatādah] said ‘He lied; he did not hear from them. He would beg the people asking [about Ḥadīth] at the time of the plague’ [circa 67H].">
+<p n="0.5B.63(p106)" id="p106" book_title="Ṣaḥīḥ Muslim" section_title="Introduction" chapter_title="Unveiling Defects of the Transmitters of Ḥadīth and Relaters of Reports and the Statements of the A’immah Regarding That" translation="Al-Faḍl bin Sahl narrated to me, he said Affān bin Muslim narrated to us, Hammām narrated to us, he said, Abū Dāwud al-A’mā came to us and began saying: ‘Al-Barā’ [bin Āzib, the Companion] narrated to us’; he said: ‘Zayd bin Arqam narrated to us’- and he mentioned that [those chains] to Qatādah. [Qatādah] said ‘He lied; he did not hear from them. He would beg the people asking [about Ḥadīth] at the time of the plague’ [circa 67H].">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 الفضل	noun	فَضْل	_	_	الفضل-n	فَضْل-n
@@ -2016,7 +2016,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="0.5B.(107)" id="107" book_title="Ṣaḥīḥ Muslim" section_title="Introduction" chapter_title="Unveiling Defects of the Transmitters of Ḥadīth and Relaters of Reports and the Statements of the A’immah Regarding That" translation="Hasan bin Alī al-Hulwānī narrated to me, he said Yazīd bin Hārūn narrated to us, Hammām informed us, he said ‘Abū Dāwud al-A’mā entered upon Qatādah and when he stood, they said: ‘Indeed this one alleges he has met eighteen of the warriors of the battle of Badr’. Qatādah said: ‘This one was barely asking [about Ḥadīth] before the plague; he did not attend to anything from [seeking Ḥadīth] and he did not speak [to any scholars] regarding it. By Allah, al-Hasan did not narrate to us from a witness of the battle of Badr without an intermediary; and Sa’īd bin al-Musayyib did not narrate to us from a witness of the battle of Badr without an intermediary except from Sa’d bin Mālik’.">
+<p n="0.5B.(p107)" id="p107" book_title="Ṣaḥīḥ Muslim" section_title="Introduction" chapter_title="Unveiling Defects of the Transmitters of Ḥadīth and Relaters of Reports and the Statements of the A’immah Regarding That" translation="Hasan bin Alī al-Hulwānī narrated to me, he said Yazīd bin Hārūn narrated to us, Hammām informed us, he said ‘Abū Dāwud al-A’mā entered upon Qatādah and when he stood, they said: ‘Indeed this one alleges he has met eighteen of the warriors of the battle of Badr’. Qatādah said: ‘This one was barely asking [about Ḥadīth] before the plague; he did not attend to anything from [seeking Ḥadīth] and he did not speak [to any scholars] regarding it. By Allah, al-Hasan did not narrate to us from a witness of the battle of Badr without an intermediary; and Sa’īd bin al-Musayyib did not narrate to us from a witness of the battle of Badr without an intermediary except from Sa’d bin Mālik’.">
 <s>
 .	punc	.	_	_	.-x	.-x
 وحدثني	verb	حَدَث	_	_	وحدثني-v	حَدَث-v
@@ -2096,7 +2096,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.10.27b(108)" id="108" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="It is narrated either on the authority of Abu Huraira or that of Abu Sa'id Khudri. The narrator A'mash has narrated this hadith with a little bit of doubt (about the name of the very first narrator who was in direct contact with the Holy Prophet. He was either Abu Huraira or Abu Sa'id Khudri. Both are equally reliable transmitters of the traditions). He (the narrator) said: During the time of Tabuk expedition, the (provisions) ran short and the men (of the army) suffered starvation; they said: Messenger of Allah, would you permit us to slay our camels? We would eat them and use their fat. The Messenger of Allah (ﷺ) said: Do as you please. He (the narrator) said: Then 'Umar came there and said: Messenger of Allah, if you do that (if you give your consent and the men begin to slay their camels), the riding animals would become short. But (I would suggest you to) summon them along with the provisions left with them Then invoke Allah's blessings on them (different items of the provisions) It is hoped Allah shall bless them. The Messenger of Allah replied in the affirmative. (the narrator) said: He called for a leather mat to be used as a table cloth and spread it out. Then he called people along with the remaining portions of their provisions. He (the narrator) said: Someone was coming with handful of mote, another was coming with a handful of dates, still another was coming with a portion of bread, till small quantities of these things were collected on the table cloth. He (the narrator said): Then the messenger of Allah invoked blessing (on them) and said: Fill your utensils with these provisions. He (the narrator) said: They filled their vessel to the brim with them, and no one amongst the army (which comprised of 30,000 persons) was left even with a single empty vessel. He (the narrator) aid: They ate to their fill, and there was still a surplus. Upon this the Messenger of Allah (ﷺ) remarked: I bear testimony that there is no god but Allah and I am the messenger of Allah. The man who meets his Lord without harboring any doubt about these two (truths) would never be kept away from Paradise.">
+<p n="1.10.27b(p108)" id="p108" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="The evidence that one who dies believing in tawhid will definitely enter paradise" translation="It is narrated either on the authority of Abu Huraira or that of Abu Sa'id Khudri. The narrator A'mash has narrated this hadith with a little bit of doubt (about the name of the very first narrator who was in direct contact with the Holy Prophet. He was either Abu Huraira or Abu Sa'id Khudri. Both are equally reliable transmitters of the traditions). He (the narrator) said: During the time of Tabuk expedition, the (provisions) ran short and the men (of the army) suffered starvation; they said: Messenger of Allah, would you permit us to slay our camels? We would eat them and use their fat. The Messenger of Allah (ﷺ) said: Do as you please. He (the narrator) said: Then 'Umar came there and said: Messenger of Allah, if you do that (if you give your consent and the men begin to slay their camels), the riding animals would become short. But (I would suggest you to) summon them along with the provisions left with them Then invoke Allah's blessings on them (different items of the provisions) It is hoped Allah shall bless them. The Messenger of Allah replied in the affirmative. (the narrator) said: He called for a leather mat to be used as a table cloth and spread it out. Then he called people along with the remaining portions of their provisions. He (the narrator) said: Someone was coming with handful of mote, another was coming with a handful of dates, still another was coming with a portion of bread, till small quantities of these things were collected on the table cloth. He (the narrator said): Then the messenger of Allah invoked blessing (on them) and said: Fill your utensils with these provisions. He (the narrator) said: They filled their vessel to the brim with them, and no one amongst the army (which comprised of 30,000 persons) was left even with a single empty vessel. He (the narrator) aid: They ate to their fill, and there was still a surplus. Upon this the Messenger of Allah (ﷺ) remarked: I bear testimony that there is no god but Allah and I am the messenger of Allah. The man who meets his Lord without harboring any doubt about these two (truths) would never be kept away from Paradise.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 سهل	noun	سَهْل	_	_	سهل-n	سَهْل-n
@@ -2321,7 +2321,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.46.106a(109)" id="109" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="It is narrated o the authority of Abu Dharr that the Messenger of Allah (may ace he upon him) observed: Three are the (persons) with whom Allah would neither speak on the Day of Resurrection, nor would look at them nor would absolve the and there is a painful chastisement for them. The Messenger of Allah (ﷺ) repeated it three times. Abu Dharr remarked: They failed and they lost; who are these persons, Messenger of Allah? Upon this he (the Holy) Prophet) observed: They are: the dragger of lower garment, the recounter of obligation the seller of goods by false oath.">
+<p n="1.46.106a(p109)" id="p109" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="Clarifying the emphatic prohibition of letting one's garment hang below the ankles (isbal), reminding others of one's gift and selling goods by means of a false oath; Mention of the three to whom Allah, Most High, will not speak on the day of resurrection, nor look at them, nor sanctify them, and theirs will be a painful torment" translation="It is narrated o the authority of Abu Dharr that the Messenger of Allah (may ace he upon him) observed: Three are the (persons) with whom Allah would neither speak on the Day of Resurrection, nor would look at them nor would absolve the and there is a painful chastisement for them. The Messenger of Allah (ﷺ) repeated it three times. Abu Dharr remarked: They failed and they lost; who are these persons, Messenger of Allah? Upon this he (the Holy) Prophet) observed: They are: the dragger of lower garment, the recounter of obligation the seller of goods by false oath.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -2420,7 +2420,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.46.108a(110)" id="110" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="Abu Huraira narrated on the authority of Abu Bakr that the Messenger of Allah (ﷺ) said: Three are the persons with whom Allah would neither speak on the Day of Resurrection, nor would He look towards them, nor would purify them (from sins), and there would be a tormenting chastisement for them: a person who in the waterless desert has more water (than his need) and he refuses to give it to the traveller and a person who sold a commodity to another person in the afternoon and took an oath of Allah that he had bought it at such and such price and he (the buyer) accepted it to be true though it was not a fact, and a person who pledged allegiance to the Imam but for the sake of the world (material gains). And if the Imam bestowed on him (something) out of that (worldly riches) he stood by his allegiance and if he did not give him, he did not fulfil the allegiance.">
+<p n="1.46.108a(p110)" id="p110" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="Clarifying the emphatic prohibition of letting one's garment hang below the ankles (isbal), reminding others of one's gift and selling goods by means of a false oath; Mention of the three to whom Allah, Most High, will not speak on the day of resurrection, nor look at them, nor sanctify them, and theirs will be a painful torment" translation="Abu Huraira narrated on the authority of Abu Bakr that the Messenger of Allah (ﷺ) said: Three are the persons with whom Allah would neither speak on the Day of Resurrection, nor would He look towards them, nor would purify them (from sins), and there would be a tormenting chastisement for them: a person who in the waterless desert has more water (than his need) and he refuses to give it to the traveller and a person who sold a commodity to another person in the afternoon and took an oath of Allah that he had bought it at such and such price and he (the buyer) accepted it to be true though it was not a fact, and a person who pledged allegiance to the Imam but for the sake of the world (material gains). And if the Imam bestowed on him (something) out of that (worldly riches) he stood by his allegiance and if he did not give him, he did not fulfil the allegiance.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -2523,7 +2523,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.65.276(111)" id="111" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="It is narrated on the authority of Hudhaifa: We were sitting in the company of Umar and he said: Who amongst you has heard the Messenger of Allah (ﷺ) talking about the turmoil? Some people said: It is we who heard it. Upon this be remarked: Perhaps by turmoil you presume the unrest of man in regard to his household or neighbour, they replied: Yes. He ('Umar) observed: Such (an unrest) would be done away with by prayer, fasting and charity. But who amongst you has heard from the Apostle (ﷺ) describing that turmoil which would come like the wave of the ocean. Hudhaifa said: The people hushed into silence, I replied: It is I. He ('Umar) said: Ye, well, your father was also very pious. Hudhaifa said: I heard the Messenger of Allah (may peace be, upon him ) observing: Temptations will be presented to men's hearts as reed mat is woven stick by stick and any heart which is impregnated by them will have a black mark put into it, but any heart which rejects them will have a white mark put in it. The result is that there will become two types of hearts: one white like a white stone which will not be harmed by any turmoil or temptation, so long as the heavens and the earth endure; and the other black and dust-coloured like a vessel which is upset, not recognizing what is good or rejecting what is abominable, but being impregnated with passion. Hudhaifa said: I narrated to him ('Umar): There is between you and that (turmoil) a closed door, but there is every likelihood of its being broken. 'Umar said: Would it be broken? You have, been rendered fatherless. Had it been opened, it would have been perhaps closed also. I said: No, it would be broken, and I narrated to him: Verily that door implies a person who would be killed or die. There is no mistake in this hadith. Abu Khalid narrated: I said to Sa'd, O Abu Malik, what do you mean by the term' Aswad Murbadda'? He replied: High degree of whiteness in blackness. I said: What is meant by' Alkoozu Mujakhiyyan'? He replied: A vessel turned upside down.">
+<p n="1.65.276(p111)" id="p111" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="Clarifying that Islam started as something strange, and will revert to being something strange, and it will retreat between the two Masajid" translation="It is narrated on the authority of Hudhaifa: We were sitting in the company of Umar and he said: Who amongst you has heard the Messenger of Allah (ﷺ) talking about the turmoil? Some people said: It is we who heard it. Upon this be remarked: Perhaps by turmoil you presume the unrest of man in regard to his household or neighbour, they replied: Yes. He ('Umar) observed: Such (an unrest) would be done away with by prayer, fasting and charity. But who amongst you has heard from the Apostle (ﷺ) describing that turmoil which would come like the wave of the ocean. Hudhaifa said: The people hushed into silence, I replied: It is I. He ('Umar) said: Ye, well, your father was also very pious. Hudhaifa said: I heard the Messenger of Allah (may peace be, upon him ) observing: Temptations will be presented to men's hearts as reed mat is woven stick by stick and any heart which is impregnated by them will have a black mark put into it, but any heart which rejects them will have a white mark put in it. The result is that there will become two types of hearts: one white like a white stone which will not be harmed by any turmoil or temptation, so long as the heavens and the earth endure; and the other black and dust-coloured like a vessel which is upset, not recognizing what is good or rejecting what is abominable, but being impregnated with passion. Hudhaifa said: I narrated to him ('Umar): There is between you and that (turmoil) a closed door, but there is every likelihood of its being broken. 'Umar said: Would it be broken? You have, been rendered fatherless. Had it been opened, it would have been perhaps closed also. I said: No, it would be broken, and I narrated to him: Verily that door implies a person who would be killed or die. There is no mistake in this hadith. Abu Khalid narrated: I said to Sa'd, O Abu Malik, what do you mean by the term' Aswad Murbadda'? He replied: High degree of whiteness in blackness. I said: What is meant by' Alkoozu Mujakhiyyan'? He replied: A vessel turned upside down.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -2752,7 +2752,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.89.208a(112)" id="112" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="It is reported on the authority of Ibn 'Abbas that when this verse was revealed: ' And warn thy nearest kindred' (and thy group of selected people among them) the Messenger of Allah (ﷺ) set off till he climbed Safa' and called loudly: Be on your guard! They said: Who is it calling aloud? They said: Muhammad. They gathered round him, and he said: O sons of so and so, O sons of so and so, O sons of 'Abd Manaf, O sons of 'Abd al-Muttalib, and they gathered around him. He (the Apostle) said: If I were to inform you that there were horsemen emerging out of the foot of this mountain, would you believe me? They said: We have not experienced any lie from you. He said: Well, I am a warner to you before a severe torment. He (the narrator) said that Abu Lahab then said: Destruction to you! Is it for this you have gathered us? He (the Holy Prophet) then stood up, and this verse was revealed:' Perish the hands of Abu Lahab, and he indeed perished' (cxi. 1). A'mash recited this to the end of the Sura.">
+<p n="1.89.208a(p112)" id="p112" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="Regarding the saying of Allah, the most High: 'And warn your tribe of near kindred." translation="It is reported on the authority of Ibn 'Abbas that when this verse was revealed: ' And warn thy nearest kindred' (and thy group of selected people among them) the Messenger of Allah (ﷺ) set off till he climbed Safa' and called loudly: Be on your guard! They said: Who is it calling aloud? They said: Muhammad. They gathered round him, and he said: O sons of so and so, O sons of so and so, O sons of 'Abd Manaf, O sons of 'Abd al-Muttalib, and they gathered around him. He (the Apostle) said: If I were to inform you that there were horsemen emerging out of the foot of this mountain, would you believe me? They said: We have not experienced any lie from you. He said: Well, I am a warner to you before a severe torment. He (the narrator) said that Abu Lahab then said: Destruction to you! Is it for this you have gathered us? He (the Holy Prophet) then stood up, and this verse was revealed:' Perish the hands of Abu Lahab, and he indeed perished' (cxi. 1). A'mash recited this to the end of the Sura.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -2907,7 +2907,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.91.211(113)" id="113" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="Abu Sa'id al-Khudri reported: Verily, the Messenger of Allah (ﷺ) said: The least tormented of the inhabitants of the Fire would be he who would wear two shoes of Fire and his brain would boil on account of the heat of the shoes.">
+<p n="1.91.211(p113)" id="p113" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="The least severely punished of the people of the Fire" translation="Abu Sa'id al-Khudri reported: Verily, the Messenger of Allah (ﷺ) said: The least tormented of the inhabitants of the Fire would be he who would wear two shoes of Fire and his brain would boil on account of the heat of the shoes.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -2971,7 +2971,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.91.212(114)" id="114" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="Ibn 'Abbas reported: The Prophet (ﷺ) said: Among the inhabitants of the Fire Abu Talib would have the least suffering, and he would be wearing two shoes (of Fire) which would boil his brain.">
+<p n="1.91.212(p114)" id="p114" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="The least severely punished of the people of the Fire" translation="Ibn 'Abbas reported: The Prophet (ﷺ) said: Among the inhabitants of the Fire Abu Talib would have the least suffering, and he would be wearing two shoes (of Fire) which would boil his brain.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -3025,7 +3025,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.94.220a(115)" id="115" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="Husain b. 'Abd al-Rahman reported: I was with Sa'id b. Jubair when he said: Who amongst you saw a star shooting last night? I said: It was I; then I said: I was in fact not (busy) in prayer, but was stung by a scorpion (and that is the reason why I was awake and had a glimpse of the shooting star). He said: Then what did you do? I said: I practised charm. He said: What urged you to do this? I said: (I did this according to the implied suggestion) of the hadith which al-Shu'ba narrated. He said: What did al-Shu'ba narrate to you? I said: Buraida b. Husaib al-Aslami narrated to us. The charm is of no avail except in case of the (evil influence) of an eye or the sting of a scorpion. He said: He who acted according to what he had heard (from the Holy Prophet) acted rightly, but Ibn 'Abbas narrated to us from the Messenger of Allah (ﷺ) that he said: There were brought before me the peoples and I saw an apostle and a small group (of his followers) along with him, another (apostle) and one or two persons (along with him) and (still another) apostle having no one with him. When a very large group was brought to me I conceived as if it were my Ummah. Then it was said to me: It is Moses and his people. You should look at the horizon, and I saw a very huge group. It was again said to me: See the other side of the horizon, and there was (also) a very huge group. It was said to me: This is your Ummah, and amongst them there were seventy thousand persons who would be made to enter Paradise without rendering any account and without (suffering) any torment. He then stood up and went to his house. Then the people began to talk about the people who would be admitted to Paradise without rendering any account and without (suffering) any torment. Some of them said: They may be those who (have had the good fortune of living) in the company of the Messenger of Allah (ﷺ) and some of them said: They be those who were born in Islam and did not associate anything with Allah. Some people mentioned other things. Thereupon came forth the Messenger of Allah (ﷺ) before them and he said: What was that which you were talking about? They informed him. He said: They are those persons who neither practise charm, nor ask others to practise it, nor do they take omens, and repose their trust in their Lord. Upon this 'Ukkasha b. Mihsan stood up and said: Supplicate for me that He should make me one among them. Upon this he (Messenger of Allah) said: Thou are one among them. Then another man stood up and said: Supplicate before Allah that He should make me one among them. Upon this he said: 'Ukkisha has preceded you.">
+<p n="1.94.220a(p115)" id="p115" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="The Evidence that groups of Muslims will enter Paradise without being called to account, and without being punished" translation="Husain b. 'Abd al-Rahman reported: I was with Sa'id b. Jubair when he said: Who amongst you saw a star shooting last night? I said: It was I; then I said: I was in fact not (busy) in prayer, but was stung by a scorpion (and that is the reason why I was awake and had a glimpse of the shooting star). He said: Then what did you do? I said: I practised charm. He said: What urged you to do this? I said: (I did this according to the implied suggestion) of the hadith which al-Shu'ba narrated. He said: What did al-Shu'ba narrate to you? I said: Buraida b. Husaib al-Aslami narrated to us. The charm is of no avail except in case of the (evil influence) of an eye or the sting of a scorpion. He said: He who acted according to what he had heard (from the Holy Prophet) acted rightly, but Ibn 'Abbas narrated to us from the Messenger of Allah (ﷺ) that he said: There were brought before me the peoples and I saw an apostle and a small group (of his followers) along with him, another (apostle) and one or two persons (along with him) and (still another) apostle having no one with him. When a very large group was brought to me I conceived as if it were my Ummah. Then it was said to me: It is Moses and his people. You should look at the horizon, and I saw a very huge group. It was again said to me: See the other side of the horizon, and there was (also) a very huge group. It was said to me: This is your Ummah, and amongst them there were seventy thousand persons who would be made to enter Paradise without rendering any account and without (suffering) any torment. He then stood up and went to his house. Then the people began to talk about the people who would be admitted to Paradise without rendering any account and without (suffering) any torment. Some of them said: They may be those who (have had the good fortune of living) in the company of the Messenger of Allah (ﷺ) and some of them said: They be those who were born in Islam and did not associate anything with Allah. Some people mentioned other things. Thereupon came forth the Messenger of Allah (ﷺ) before them and he said: What was that which you were talking about? They informed him. He said: They are those persons who neither practise charm, nor ask others to practise it, nor do they take omens, and repose their trust in their Lord. Upon this 'Ukkasha b. Mihsan stood up and said: Supplicate for me that He should make me one among them. Upon this he (Messenger of Allah) said: Thou are one among them. Then another man stood up and said: Supplicate before Allah that He should make me one among them. Upon this he said: 'Ukkisha has preceded you.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 سعيد	noun_prop	سَعِيد	_	_	سعيد-o	سَعِيد-o
@@ -3299,7 +3299,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.96.222a(116)" id="116" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" translation="Abu Sa'id reported: The Messenger of Allah (ﷺ) said: Allah, the High and Glorious, would say: O Adam I and he would say: At Thy service, at thy beck and call, O Lord, and the good is in Thy Hand. Allah would say: Bring forth the group of (the denizens of) Fire. He (Adam) would say: Who are the denizens of Hell? It would be said: They are out of every thousand nine hundred and ninety-nine. He (the Holy Prophet) said: It is at this juncture that every child would become white-haired and every pregnant woman would abort and you would see people in a state of intoxication, and they would not be in fact intoxicated but grievous will be the torment of Allah. He (the narrator) said: This had a very depressing effect upon them (upon the companions of the Holy Prophet) and they said: Messenger of Allah, who amongst us would be (that unfortunate) person (who would be doomed to Hell)? He said: Good tidings for you, Yajuj Majuj would be those thousands (who would be the denizens of Hell) and a person (selected for Paradise) would be amongst you. He (the narrator) further reported that he (the Messenger of Allah) again said: By Him in Whose Hand is thy life, I hope that you would constitute one-fourth of the inhabitants of Paradise. We extolled Allah and we glorified (Him). He (the Holy Prophet) again said: BY Him in Whose Hand is my life, I wish you would constitute one-third of the inhabitants of Paradise. We extolled Allah and Glorified (Him). He (the Holy Prophet) again said: By Him in Whose Hand is my life, I hope that you would constitute half of the inhabitants of Paradise. Your likeness among the people is the likeness of a white hair on the skin of a black ox or a strip on the foreleg of an ass.">
+<p n="1.96.222a(p116)" id="p116" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Faith" chapter_title="Allah will say to Adam: 'Bring out the Portion of the Fire; Nine Hundred and Ninety-Nine Out of Every Thousand.'" translation="Abu Sa'id reported: The Messenger of Allah (ﷺ) said: Allah, the High and Glorious, would say: O Adam I and he would say: At Thy service, at thy beck and call, O Lord, and the good is in Thy Hand. Allah would say: Bring forth the group of (the denizens of) Fire. He (Adam) would say: Who are the denizens of Hell? It would be said: They are out of every thousand nine hundred and ninety-nine. He (the Holy Prophet) said: It is at this juncture that every child would become white-haired and every pregnant woman would abort and you would see people in a state of intoxication, and they would not be in fact intoxicated but grievous will be the torment of Allah. He (the narrator) said: This had a very depressing effect upon them (upon the companions of the Holy Prophet) and they said: Messenger of Allah, who amongst us would be (that unfortunate) person (who would be doomed to Hell)? He said: Good tidings for you, Yajuj Majuj would be those thousands (who would be the denizens of Hell) and a person (selected for Paradise) would be amongst you. He (the narrator) further reported that he (the Messenger of Allah) again said: By Him in Whose Hand is thy life, I hope that you would constitute one-fourth of the inhabitants of Paradise. We extolled Allah and we glorified (Him). He (the Holy Prophet) again said: BY Him in Whose Hand is my life, I wish you would constitute one-third of the inhabitants of Paradise. We extolled Allah and Glorified (Him). He (the Holy Prophet) again said: By Him in Whose Hand is my life, I hope that you would constitute half of the inhabitants of Paradise. Your likeness among the people is the likeness of a white hair on the skin of a black ox or a strip on the foreleg of an ass.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عثمان	noun_prop	عُثْمان	_	_	عثمان-o	عُثْمان-o
@@ -3479,7 +3479,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.24.584(117)" id="117" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="'A'isha reported: The Prophet (ﷺ) entered my house when a Jewess was with me and she was saying: Do you know that you would be put to trial in the grave? The Messenger of Allah (ﷺ) trembled (on hearing this) and said: It is the Jews only who would-be put to trial. 'A'isha said: We passed some nights and then the Messenger of Allah (ﷺ) said: Do you know that it has been revealed to me:' You would be put to trial in the grave'? 'A'isha said: 1 heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this.">
+<p n="5.24.584(p117)" id="p117" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="It is recommended to seek refuge with Allah from the punishment of the grave, the punishment of hell, the trials of life and death, the tribulation of the Dajjal and from sin and debt between the tashah-hud and the taslim" translation="'A'isha reported: The Prophet (ﷺ) entered my house when a Jewess was with me and she was saying: Do you know that you would be put to trial in the grave? The Messenger of Allah (ﷺ) trembled (on hearing this) and said: It is the Jews only who would-be put to trial. 'A'isha said: We passed some nights and then the Messenger of Allah (ﷺ) said: Do you know that it has been revealed to me:' You would be put to trial in the grave'? 'A'isha said: 1 heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 هارون	noun_prop	هارُون	_	_	هارون-o	هارُون-o
@@ -3595,7 +3595,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.24.585(118)" id="118" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="Abu Huraira reported. I heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this (after the revelation).">
+<p n="5.24.585(p118)" id="p118" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="It is recommended to seek refuge with Allah from the punishment of the grave, the punishment of hell, the trials of life and death, the tribulation of the Dajjal and from sin and debt between the tashah-hud and the taslim" translation="Abu Huraira reported. I heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this (after the revelation).">
 <s>
 وحدثني	verb	حَدَث	_	_	وحدثني-v	حَدَث-v
 هارون	noun_prop	هارُون	_	_	هارون-o	هارُون-o
@@ -3654,7 +3654,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.24.586a(119)" id="119" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="'A'isha reported: There came to me two old women from the old Jewesses of Medina and said: The people of the grave are tormented in their graves. I contradicted them and I did not deem it proper to testify them. They went away and the Messenger of Allah (ﷺ) came to me and I said to him: Messenger of Allah I there came to me two old women from the old Jewesses of Medina and asserted that the people of the graves would be tormented therein. He (the Prophet) said: They told the truth; they would be tormented (so much) that the animals would listen to it. She ('A'isha) said: Never did I see him (the Holy Prophet) afterwards but seeking refuge from the torment of the grave in prayer.">
+<p n="5.24.586a(p119)" id="p119" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="It is recommended to seek refuge with Allah from the punishment of the grave, the punishment of hell, the trials of life and death, the tribulation of the Dajjal and from sin and debt between the tashah-hud and the taslim" translation="'A'isha reported: There came to me two old women from the old Jewesses of Medina and said: The people of the grave are tormented in their graves. I contradicted them and I did not deem it proper to testify them. They went away and the Messenger of Allah (ﷺ) came to me and I said to him: Messenger of Allah I there came to me two old women from the old Jewesses of Medina and asserted that the people of the graves would be tormented therein. He (the Prophet) said: They told the truth; they would be tormented (so much) that the animals would listen to it. She ('A'isha) said: Never did I see him (the Holy Prophet) afterwards but seeking refuge from the torment of the grave in prayer.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 زهير	noun_prop	زُهَيْر	_	_	زهير-o	زُهَيْر-o
@@ -3762,7 +3762,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.24.586b(120)" id="120" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="Masruq reported this hadith on the authority of 'A'isha who said: Never did he (the Holy Prophet) say prayer after this in which I did not hear him seeking refuge from the torment of the grave.">
+<p n="5.24.586b(p120)" id="p120" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="It is recommended to seek refuge with Allah from the punishment of the grave, the punishment of hell, the trials of life and death, the tribulation of the Dajjal and from sin and debt between the tashah-hud and the taslim" translation="Masruq reported this hadith on the authority of 'A'isha who said: Never did he (the Holy Prophet) say prayer after this in which I did not hear him seeking refuge from the torment of the grave.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 هناد	noun_prop	هناد	_	_	هناد-o	هناد-o
@@ -3803,7 +3803,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.25.588a(121)" id="121" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="Abu Huraira reported: The Messenger of Allah (way peace be upon him) said: When any one of you utters tashahhud (in prayer) he must seek refuge with Allah from four (trials) and should thus say:' O Allah! I seek refuge with Thee from the torment of the Hell, from the torment of the grave, from the trial of life and death and from the evil of the trial of Masih al-Dajjal' (Antichrist).">
+<p n="5.25.588a(p121)" id="p121" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="From what refuge is to be sought when in salat" translation="Abu Huraira reported: The Messenger of Allah (way peace be upon him) said: When any one of you utters tashahhud (in prayer) he must seek refuge with Allah from four (trials) and should thus say:' O Allah! I seek refuge with Thee from the torment of the Hell, from the torment of the grave, from the trial of life and death and from the evil of the trial of Masih al-Dajjal' (Antichrist).">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 نصر	noun_prop	نَصْر	_	_	نصر-o	نَصْر-o
@@ -3903,7 +3903,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.25.589(122)" id="122" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="'A'isha, the wife of the Messenger of Allah (ﷺ) reported: The Apostle of Allah (ﷺ) used to supplicate in prayer thus:' O Allah! I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of the Masih al-Dajjal (Antichrist) and I seek refuge with Thee from the trial of life and death. O Allah! I seek refuge with Thee from sin and debt.' She ('A'isha) reported: Someone said to him - (the Holy Prophet): Messenger of Allah! why is it that you so often seek refuge from debt? He said: When a (person) incurs debt, (he is obliged) to tell lies and break promise.">
+<p n="5.25.589(p122)" id="p122" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="From what refuge is to be sought when in salat" translation="'A'isha, the wife of the Messenger of Allah (ﷺ) reported: The Apostle of Allah (ﷺ) used to supplicate in prayer thus:' O Allah! I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of the Masih al-Dajjal (Antichrist) and I seek refuge with Thee from the trial of life and death. O Allah! I seek refuge with Thee from sin and debt.' She ('A'isha) reported: Someone said to him - (the Holy Prophet): Messenger of Allah! why is it that you so often seek refuge from debt? He said: When a (person) incurs debt, (he is obliged) to tell lies and break promise.">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -4004,7 +4004,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.25.590(123)" id="123" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" translation="Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to teach them this supplication (in the same spirit) with which he used to teach them a surah of the Qur'an. He would thus instruct us: 'Say, O Allah, we seek refuge with Thee from the torment of Hell. And I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of al-Masih ad-Dajjal, and I seek refuge with Thee from the trial of life and death.' Muslim b. Hajjaj said: It has reached me that Tawus said to his son: Did you make this supplication in prayer? He said: No. (Upon this) he (Tawus) said: Repeat the prayer. Tawus has narrated this hadith through three or four (transmitters) with words to the same effect.">
+<p n="5.25.590(p123)" id="p123" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Mosques and Places of Prayer" chapter_title="From what refuge is to be sought when in salat" translation="Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to teach them this supplication (in the same spirit) with which he used to teach them a surah of the Qur'an. He would thus instruct us: 'Say, O Allah, we seek refuge with Thee from the torment of Hell. And I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of al-Masih ad-Dajjal, and I seek refuge with Thee from the trial of life and death.' Muslim b. Hajjaj said: It has reached me that Tawus said to his son: Did you make this supplication in prayer? He said: No. (Upon this) he (Tawus) said: Repeat the prayer. Tawus has narrated this hadith through three or four (transmitters) with words to the same effect.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 قتيبه	noun_prop	قتيبه	_	_	قتيبه-o	قتيبه-o
@@ -4109,7 +4109,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.3.697(124)" id="124" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Travellers" translation="Ibn 'Umar announced Adhan for prayer on a cold, windy night. Then added: Pray in your dwellings; and then said: When it was a cold, rainy night, the Messenger of Allah (ﷺ) used to command the Mu'adhdhin to say' Pray in your dwellings.'">
+<p n="6.3.697(p124)" id="p124" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Travellers" chapter_title="Praying in dwellings when it is raining" translation="Ibn 'Umar announced Adhan for prayer on a cold, windy night. Then added: Pray in your dwellings; and then said: When it was a cold, rainy night, the Messenger of Allah (ﷺ) used to command the Mu'adhdhin to say' Pray in your dwellings.'">
 <s>
 .	punc	.	_	_	.-x	.-x
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
@@ -4168,7 +4168,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.2.897a(125)" id="125" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Rain" translation="Anas b. Malik reported that a person entered the mosque through the door situated on theside of Daral-Qada' during Friday (prayer) and the messenger of Allah (ﷺ) was delivering the sermon while standing. He came and stood in front of the Messenger of Allah (ﷺ) and said: Messenger of Allah, the camels died and the passages were blocked; so supplicate Allah to send down rain upon us. The Messenger of Allah (ﷺ) raised his hands and then said: (O Allah, send down rain upon us; O Allah, send dowp rain upon us; O Allah, send down rain upon us. Anas said: By Allah, we did not see any cloud or any patch of it, and there was neither any house or building standing between us and the (hillock) Sal'a. There appeared a cloud in the shape of a shield from behind it, and as it (came high) in the sky it spread and then there was a downpour of rain. By Allah, we did not see the sun throughout the week. Then (that very man) came on the coming Friday through the same door when the Messenger of Allah (ﷺ) was standing and delivering the sermon. He stood in front of him and said: Messenger of Allah, our animals died and the passages blocked. Supplicate Allah to stop the rain for us. The Messenger of Allah (ﷺ) again raised his hands and said: O Allah, let it (rain) fall in our suburbs and not on us, O Allah (send it down) on the hillocks and small mountains and the river-beds and at places where trees grow. The rain stopped, and as we stepped out we were walking in sun- shine. He (the narrator) said to Sharik: I asked Anas b. Malik if he was the same man. He said: I do not know.">
+<p n="9.2.897a(p125)" id="p125" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Rain" chapter_title="The Supplication When Praying For Rain" translation="Anas b. Malik reported that a person entered the mosque through the door situated on theside of Daral-Qada' during Friday (prayer) and the messenger of Allah (ﷺ) was delivering the sermon while standing. He came and stood in front of the Messenger of Allah (ﷺ) and said: Messenger of Allah, the camels died and the passages were blocked; so supplicate Allah to send down rain upon us. The Messenger of Allah (ﷺ) raised his hands and then said: (O Allah, send down rain upon us; O Allah, send dowp rain upon us; O Allah, send down rain upon us. Anas said: By Allah, we did not see any cloud or any patch of it, and there was neither any house or building standing between us and the (hillock) Sal'a. There appeared a cloud in the shape of a shield from behind it, and as it (came high) in the sky it spread and then there was a downpour of rain. By Allah, we did not see the sun throughout the week. Then (that very man) came on the coming Friday through the same door when the Messenger of Allah (ﷺ) was standing and delivering the sermon. He stood in front of him and said: Messenger of Allah, our animals died and the passages blocked. Supplicate Allah to stop the rain for us. The Messenger of Allah (ﷺ) again raised his hands and said: O Allah, let it (rain) fall in our suburbs and not on us, O Allah (send it down) on the hillocks and small mountains and the river-beds and at places where trees grow. The rain stopped, and as we stepped out we were walking in sun- shine. He (the narrator) said to Sharik: I asked Anas b. Malik if he was the same man. He said: I do not know.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -4389,7 +4389,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.3.899a(126)" id="126" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Rain" translation="'Ata' b. Abi Rabah reported that he heard 'A'isha, the wife of the Messenger of Allah (way peace be upon him), as saying: When there was on any day windstorm or dark cloud (its effects) could be read on the face of the Messenger of Allah (ﷺ), and he moved forward and backward (in a state of anxiety) ; and when it rained, he was delighted and it (the state of restlessness) disappeared. 'A'isha said: I asked him the reason of this anxiety and he said: I was afraid that it might be a calamity that might fall upon my Ummah, and when he saw rainfall he said: It is the mercy (of Allah).">
+<p n="9.3.899a(p126)" id="p126" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Rain" chapter_title="Seeking Refuge With Allah When Seeing Wind And Dark Clouds, And Rejoicing At The Rain" translation="'Ata' b. Abi Rabah reported that he heard 'A'isha, the wife of the Messenger of Allah (way peace be upon him), as saying: When there was on any day windstorm or dark cloud (its effects) could be read on the face of the Messenger of Allah (ﷺ), and he moved forward and backward (in a state of anxiety) ; and when it rained, he was delighted and it (the state of restlessness) disappeared. 'A'isha said: I asked him the reason of this anxiety and he said: I was afraid that it might be a calamity that might fall upon my Ummah, and when he saw rainfall he said: It is the mercy (of Allah).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -4483,7 +4483,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.2.918a(127)" id="127" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Funerals" translation="Umm Salama reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,' We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,' Allah will give him something better than it in exchange. When Abu Salama died she said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange. She said: The Messenger of Allah (ﷺ) sent Hatib b. Abu Balta'a to deliver me the message of marriage with him. I said to him: I have a daughter (as my dependant) and I am of jealous temperament. He (the Holy Prophet) said: So far as her daughter is concerned, we would supplicate Allah, that He may free her (of her responsibility) and I would also supplicate Allah to do away with (her) jealous (temperament).">
+<p n="11.2.918a(p127)" id="p127" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Funerals" chapter_title="What should be said at times of calamity?" translation="Umm Salama reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,' We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,' Allah will give him something better than it in exchange. When Abu Salama died she said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange. She said: The Messenger of Allah (ﷺ) sent Hatib b. Abu Balta'a to deliver me the message of marriage with him. I said to him: I have a daughter (as my dependant) and I am of jealous temperament. He (the Holy Prophet) said: So far as her daughter is concerned, we would supplicate Allah, that He may free her (of her responsibility) and I would also supplicate Allah to do away with (her) jealous (temperament).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -4647,7 +4647,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.2.918b(128)" id="128" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Funerals" translation="Umm Salama, the wife of the Messenger of Allah (ﷺ), reported Allah's Messenger (ﷺ) as saying: If any servant (of Allah) who suffers a calamity says:' We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,' ' Allah will give him reward for affliction, and would give him something better than it in exchange. She (Umm Salama) said: When Abu Salama died. I uttered (these very words) as I was commanded (to do) by the Messenger of Allah (ﷺ). So Allah gave me better in exchange than him. i. e. (I was taken as the wife of) the Messenger of Allah (ﷺ).">
+<p n="11.2.918b(p128)" id="p128" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Prayer - Funerals" chapter_title="What should be said at times of calamity?" translation="Umm Salama, the wife of the Messenger of Allah (ﷺ), reported Allah's Messenger (ﷺ) as saying: If any servant (of Allah) who suffers a calamity says:' We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,' ' Allah will give him reward for affliction, and would give him something better than it in exchange. She (Umm Salama) said: When Abu Salama died. I uttered (these very words) as I was commanded (to do) by the Messenger of Allah (ﷺ). So Allah gave me better in exchange than him. i. e. (I was taken as the wife of) the Messenger of Allah (ﷺ).">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -4757,7 +4757,7 @@
 وسلم	verb	سَلَّم	_	_	وسلم-v	سَلَّم-v
 </s>
 </p>
-<p n="15.87.1379(129)" id="129" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Pilgrimage" chapter_title="Al-Madinah is protected against the plague and the Dajjal entering it" translation="Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying: There are at the approaches of Medina angels so that plague and the Dajjal shall not penetrate into it.">
+<p n="15.87.1379(p129)" id="p129" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Pilgrimage" chapter_title="Al-Madinah is protected against the plague and the Dajjal entering it" translation="Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying: There are at the approaches of Medina angels so that plague and the Dajjal shall not penetrate into it.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -4800,7 +4800,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.10.1844a(130)" id="130" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="The obligation of fulfilling oaths of allegiance is owed to the first of two Caliphs" translation="It has been narrated on the authority of 'Abd al-Rahman b. Abd Rabb al-Ka'ba who said: I entered the mosque when 'Abdullah b. 'Amr b. al-'As was sitting in the shade of the Ka'ba and the people had gathered around him. I betook myself to them and sat near him. (Now) Abdullah said: I accompanied the Messenger of Allah (ﷺ) on a journey. We halted at a place. Some of us began to set right their tents, others began to compete with one another in shooting, and others began to graze their beasts, when an announcer of the Messenger of Allah (ﷺ) announced that the people should gather together for prayer, so we gathered around the Messenger of Allah (ﷺ). He said: It was the duty of every Prophet that has gone before me to guide his followers to what he knew was good for them and warn them against what he knew was bad for them; but this Umma of yours has its days of peace and (security) in the beginning of its career, and in the last phase of its existence it will be afflicted with trials and with things disagreeable to you. (In this phase of the Umma), there will be tremendous trials one after the other, each making the previous one dwindle into insignificance. When they would be afflicted with a trial, the believer would say: This is going to bring about my destruction. When at (the trial) is over, they would be afflicted with another trial, and the believer would say: This surely is going to be my end. Whoever wishes to be delivered from the fire and enter the garden should die with faith in Allah and the Last Day and should treat the people as he wishes to be treated by them. He who swears allegiance to a Caliph should give him the piedge of his hand and the sincerity of his heart (i. e. submit to him both outwardly as well as inwardly). He should obey him to the best of his capacity. It another man comes forward (as a claimant to Caliphate), disputing his authority, they (the Muslims) should behead the latter. The narrator says: I came close to him ('Abdullah b. 'Amr b. al-'As) and said to him: Can you say on oath that you heard it from the Messenger of Allah (ﷺ)? He pointed with his hands to his ears and his heart and said: My ears heard it and my mind retained it. I said to him: This cousin of yours, Mu'awiya, orders us to unjustly consume our wealth among ourselves and to kill one another, while Allah says:' O ye who believe, do not consume your wealth among yourselves unjustly, unless it be trade based on mutual agreement, and do not kill yourselves. Verily, God is Merciful to you' (iv. 29). The narrator says that (hearing this) Abdullah b. 'Amr b. al-As kept quiet for a while and then said: Obey him in so far as he is obedient to God; and diqobey him in matters involving disobedience to God.">
+<p n="33.10.1844a(p130)" id="p130" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="The obligation of fulfilling oaths of allegiance is owed to the first of two Caliphs" translation="It has been narrated on the authority of 'Abd al-Rahman b. Abd Rabb al-Ka'ba who said: I entered the mosque when 'Abdullah b. 'Amr b. al-'As was sitting in the shade of the Ka'ba and the people had gathered around him. I betook myself to them and sat near him. (Now) Abdullah said: I accompanied the Messenger of Allah (ﷺ) on a journey. We halted at a place. Some of us began to set right their tents, others began to compete with one another in shooting, and others began to graze their beasts, when an announcer of the Messenger of Allah (ﷺ) announced that the people should gather together for prayer, so we gathered around the Messenger of Allah (ﷺ). He said: It was the duty of every Prophet that has gone before me to guide his followers to what he knew was good for them and warn them against what he knew was bad for them; but this Umma of yours has its days of peace and (security) in the beginning of its career, and in the last phase of its existence it will be afflicted with trials and with things disagreeable to you. (In this phase of the Umma), there will be tremendous trials one after the other, each making the previous one dwindle into insignificance. When they would be afflicted with a trial, the believer would say: This is going to bring about my destruction. When at (the trial) is over, they would be afflicted with another trial, and the believer would say: This surely is going to be my end. Whoever wishes to be delivered from the fire and enter the garden should die with faith in Allah and the Last Day and should treat the people as he wishes to be treated by them. He who swears allegiance to a Caliph should give him the piedge of his hand and the sincerity of his heart (i. e. submit to him both outwardly as well as inwardly). He should obey him to the best of his capacity. It another man comes forward (as a claimant to Caliphate), disputing his authority, they (the Muslims) should behead the latter. The narrator says: I came close to him ('Abdullah b. 'Amr b. al-'As) and said to him: Can you say on oath that you heard it from the Messenger of Allah (ﷺ)? He pointed with his hands to his ears and his heart and said: My ears heard it and my mind retained it. I said to him: This cousin of yours, Mu'awiya, orders us to unjustly consume our wealth among ourselves and to kill one another, while Allah says:' O ye who believe, do not consume your wealth among yourselves unjustly, unless it be trade based on mutual agreement, and do not kill yourselves. Verily, God is Merciful to you' (iv. 29). The narrator says that (hearing this) Abdullah b. 'Amr b. al-As kept quiet for a while and then said: Obey him in so far as he is obedient to God; and diqobey him in matters involving disobedience to God.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 زهير	noun_prop	زُهَيْر	_	_	زهير-o	زُهَيْر-o
@@ -5086,7 +5086,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.51.1914(131)" id="131" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Abu Huraira that the, Messenger of Allah (ﷺ) said: While a man walks along a path, finds a thorny twig lying on the way and puts it aside, Allah would appreciate it and forgive him The Prophet (ﷺ) said: The martyrs are of five kinds: one who dies of plague; one who dies of diarrhoea (or cholera) ; one who is drowned; one who is buried under debris and one who dies fighting in the way of Allah.">
+<p n="33.51.1914(p131)" id="p131" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Abu Huraira that the, Messenger of Allah (ﷺ) said: While a man walks along a path, finds a thorny twig lying on the way and puts it aside, Allah would appreciate it and forgive him The Prophet (ﷺ) said: The martyrs are of five kinds: one who dies of plague; one who dies of diarrhoea (or cholera) ; one who is drowned; one who is buried under debris and one who dies fighting in the way of Allah.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -5152,7 +5152,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.51.1915a(132)" id="132" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Abu Huraira (through another chain of transmitters) that the Messenger of Allah (ﷺ) said: Whom do you consider to be a martyr among you? They (the Companions) said: Messenger, of Allah, one who is slain in the way of Allah is a martyr. He said: Then (if this is the definition of a martyr) the martyrs of my Umma will be small in number. They asked: Messenger of Allah, who are they? He said: One who is slain in the way of Allah is a martyr; one who dies in the way of Allah, is a martyr; one who dies of plague is a martyr; one who dies of cholera is a martyr. Ibn Miqsam said: I testify the truth of your father's statement (with regard to this tradition) that the Prophet (ﷺ) said: One who is drowned is a martyr.">
+<p n="33.51.1915a(p132)" id="p132" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Abu Huraira (through another chain of transmitters) that the Messenger of Allah (ﷺ) said: Whom do you consider to be a martyr among you? They (the Companions) said: Messenger, of Allah, one who is slain in the way of Allah is a martyr. He said: Then (if this is the definition of a martyr) the martyrs of my Umma will be small in number. They asked: Messenger of Allah, who are they? He said: One who is slain in the way of Allah is a martyr; one who dies in the way of Allah, is a martyr; one who dies of plague is a martyr; one who dies of cholera is a martyr. Ibn Miqsam said: I testify the truth of your father's statement (with regard to this tradition) that the Prophet (ﷺ) said: One who is drowned is a martyr.">
 <s>
 وحدثني	verb	حَدَث	_	_	وحدثني-v	حَدَث-v
 زهير	noun_prop	زُهَيْر	_	_	زهير-o	زُهَيْر-o
@@ -5260,7 +5260,7 @@
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="33.51.1916a(133)" id="133" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Hafsa daughter of Sirin who said: Anas b. Malik asked me the cause of death of Yahya b. 'Abu 'Amra. I said: (He died) of plague. He said: The Messenger of Allah (ﷺ) said that death by plague is martyrdom for a Muslim.">
+<p n="33.51.1916a(p133)" id="p133" book_title="Ṣaḥīḥ Muslim" section_title="The Book on Government" chapter_title="About the Martyrs" translation="It has been narrated on the authority of Hafsa daughter of Sirin who said: Anas b. Malik asked me the cause of death of Yahya b. 'Abu 'Amra. I said: (He died) of plague. He said: The Messenger of Allah (ﷺ) said that death by plague is martyrdom for a Muslim.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 حامد	noun_prop	حامِد	_	_	حامد-o	حامِد-o
@@ -5319,7 +5319,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.4.1935b(134)" id="134" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Hunting, Slaughter, and what may be Eaten" chapter_title="Permissibility of dead animals from the sea" translation="Jabir b. 'Abdullah reported: Allah's Messenger (may peace he upon him) sent us (on an expedition). We were three hundred riders and our chief (leader) was 'Ubaida b. al-Jarrah. We were on the look out for a caravan of the Quraish. So we stayed on the coast for half a month, and were so much afflicted by extreme hunger that we (were obliged) to eat leaves. That is why it was called the Detachment of the Leaves. The ocean cast out for us an animal which was called al-'Anbar (whale). We ate of that for half of the month and rubbed its fat on our (bodies) until our bodies became stout. Abu 'Ubaida caught hold of one of its ribs and fixed that up. He then cast a glance at the tallest man of the army and the highest of the camels. and then made him ride over that, and that-tnan passed beneath it (the rib), and many a man could sit in its eye-socket, and we extracted many pitchers of fat from the cavity of its eye. We had small bags containing dates with us (before finding the whale). 'Ubaida gave every person amongst us a handful of dates (and when the provision ran short), he then gave each one of us one date. And when that (stock) was exhausted, we felt its loss.">
+<p n="34.4.1935b(p134)" id="p134" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Hunting, Slaughter, and what may be Eaten" chapter_title="Permissibility of dead animals from the sea" translation="Jabir b. 'Abdullah reported: Allah's Messenger (may peace he upon him) sent us (on an expedition). We were three hundred riders and our chief (leader) was 'Ubaida b. al-Jarrah. We were on the look out for a caravan of the Quraish. So we stayed on the coast for half a month, and were so much afflicted by extreme hunger that we (were obliged) to eat leaves. That is why it was called the Detachment of the Leaves. The ocean cast out for us an animal which was called al-'Anbar (whale). We ate of that for half of the month and rubbed its fat on our (bodies) until our bodies became stout. Abu 'Ubaida caught hold of one of its ribs and fixed that up. He then cast a glance at the tallest man of the army and the highest of the camels. and then made him ride over that, and that-tnan passed beneath it (the rib), and many a man could sit in its eye-socket, and we extracted many pitchers of fat from the cavity of its eye. We had small bags containing dates with us (before finding the whale). 'Ubaida gave every person amongst us a handful of dates (and when the provision ran short), he then gave each one of us one date. And when that (stock) was exhausted, we felt its loss.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -5444,7 +5444,7 @@
 `	punc	`	_	_	`-x	`-x
 </s>
 </p>
-<p n="36.12.2014a(135)" id="135" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is recommended to cover vessels, tie up waterskins, close doors and mention the name of Allah over them, extinguish lamps and fires when going to sleep, and keep children and animals in after maghrib" translation="Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying: Cover the vessels and tie the waterskin, for there is a night in a year when pestilence descends, and it does not pass an uncovered vessel or an untied waterskin but some of that pestilence descending into it.">
+<p n="36.12.2014a(p135)" id="p135" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is recommended to cover vessels, tie up waterskins, close doors and mention the name of Allah over them, extinguish lamps and fires when going to sleep, and keep children and animals in after maghrib" translation="Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying: Cover the vessels and tie the waterskin, for there is a night in a year when pestilence descends, and it does not pass an uncovered vessel or an untied waterskin but some of that pestilence descending into it.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 عمرو	noun_prop	عَمْرو	_	_	عمرو-o	عَمْرو-o
@@ -5537,7 +5537,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.12.2014b(136)" id="136" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is recommended to cover vessels, tie up waterskins, close doors and mention the name of Allah over them, extinguish lamps and fires when going to sleep, and keep children and animals in after maghrib" translation="This hadith is reported on the authority of Laith b. Sa'd with the same chain of transmitters, but with a slight variation in wording (and that is that) he (the Holy Prophet) said: There is a day in a year when descends the pestilence; at the end of the hadith Laith said that the non Arabs save themselves from it in Kanun Awwal (this is the month of December).">
+<p n="36.12.2014b(p136)" id="p136" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is recommended to cover vessels, tie up waterskins, close doors and mention the name of Allah over them, extinguish lamps and fires when going to sleep, and keep children and animals in after maghrib" translation="This hadith is reported on the authority of Laith b. Sa'd with the same chain of transmitters, but with a slight variation in wording (and that is that) he (the Holy Prophet) said: There is a day in a year when descends the pestilence; at the end of the hadith Laith said that the non Arabs save themselves from it in Kanun Awwal (this is the month of December).">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 نصر	noun_prop	نَصْر	_	_	نصر-o	نَصْر-o
@@ -5586,7 +5586,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.20.2040h(137)" id="137" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is permissible to take someone else to the house of one who you are certain will approve of that and will not mind. It is recommended to gather to eat" translation="Anas b. Malik reported: I visited Allah's Messenger (ﷺ) one day and found him sitting in the company of his Companions and talking to them, and he had tied his belly with a bandage. Usama said: I am in doubt whether there was stone on that (his belly) or not. I asked some of his Companions why Allah's Messenger (ﷺ) had bandaged his belly. They said: (He has done that to relieve) his hunger. I went to Abu Talha, the husband of Umm Sulaim, the daughter of Milhan, and said to him: Father, I saw Allah's Messenger (ﷺ) having bandaged his belly. I asked some of his Companions (the reason of it) and they said that it was due to hunger. Abu Talha came to mv mother and said: Is there anything? She said: Yes, I have some pieces of bread with me and some dates. If Allah's Messenger (ﷺ) comes to us alone we can feed him to his fill, but if someone comes along with him this would be insufficient for them. The rest of the hadith is the same.">
+<p n="36.20.2040h(p137)" id="p137" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Drinks" chapter_title="It is permissible to take someone else to the house of one who you are certain will approve of that and will not mind. It is recommended to gather to eat" translation="Anas b. Malik reported: I visited Allah's Messenger (ﷺ) one day and found him sitting in the company of his Companions and talking to them, and he had tied his belly with a bandage. Usama said: I am in doubt whether there was stone on that (his belly) or not. I asked some of his Companions why Allah's Messenger (ﷺ) had bandaged his belly. They said: (He has done that to relieve) his hunger. I went to Abu Talha, the husband of Umm Sulaim, the daughter of Milhan, and said to him: Father, I saw Allah's Messenger (ﷺ) having bandaged his belly. I asked some of his Companions (the reason of it) and they said that it was due to hunger. Abu Talha came to mv mother and said: Is there anything? She said: Yes, I have some pieces of bread with me and some dates. If Allah's Messenger (ﷺ) comes to us alone we can feed him to his fill, but if someone comes along with him this would be insufficient for them. The rest of the hadith is the same.">
 <s>
 وحدثني	verb	حَدَث	_	_	وحدثني-v	حَدَث-v
 حرمله	noun_prop	حَرْمَل	_	_	حرمله-o	حَرْمَل-o
@@ -5725,7 +5725,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2218a(138)" id="138" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Amir b. Sa'd b. Abu Waqqas reported on the authority of his father that he asked Usama b. Zaid: What have you heard from Allah's Messenger (ﷺ) about plague? Thereupon Usama said: Allah's Messenger (ﷺ) said: Plague is a calamity which was sent to Bani Isra'il or upon those who were before you. So when you hear that it has broken out in a land, don't go to it, and when it has broken out in the land where you are, don't run out of it. In the narration transmitted on the authority of Abu Nadr there is a slight variation of wording.">
+<p n="39.32.2218a(p138)" id="p138" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Amir b. Sa'd b. Abu Waqqas reported on the authority of his father that he asked Usama b. Zaid: What have you heard from Allah's Messenger (ﷺ) about plague? Thereupon Usama said: Allah's Messenger (ﷺ) said: Plague is a calamity which was sent to Bani Isra'il or upon those who were before you. So when you hear that it has broken out in a land, don't go to it, and when it has broken out in the land where you are, don't run out of it. In the narration transmitted on the authority of Abu Nadr there is a slight variation of wording.">
 <s>
 .	punc	.	_	_	.-x	.-x
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
@@ -5884,7 +5884,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2218b(139)" id="139" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Usama b. Zaid reported that Allah's Messenger (ﷺ) had said: Plague is the sign of a calamity with which Allah, the Exalted and Glorious, affects people from His servants. So when you hear about it, don't enter there (where it has broken out), and when it has broken out in a land and you are there, then don't run away from it.">
+<p n="39.32.2218b(p139)" id="p139" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Usama b. Zaid reported that Allah's Messenger (ﷺ) had said: Plague is the sign of a calamity with which Allah, the Exalted and Glorious, affects people from His servants. So when you hear about it, don't enter there (where it has broken out), and when it has broken out in a land and you are there, then don't run away from it.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -5973,7 +5973,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2218c(140)" id="140" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Usama reported Allah's Messenger (ﷺ) as saying: Plague is a calamity which was inflicted on those who were before you, or upon Bani Isra'il. So when it has broken out in a land, don't run out of it, and when it has spread in a land, then don't enter it.">
+<p n="39.32.2218c(p140)" id="p140" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Usama reported Allah's Messenger (ﷺ) as saying: Plague is a calamity which was inflicted on those who were before you, or upon Bani Isra'il. So when it has broken out in a land, don't run out of it, and when it has spread in a land, then don't enter it.">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -6041,7 +6041,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2218d(141)" id="141" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Amir b. Sa'd reported that a person asked Sa'd b. Abu Waqqas about the plague, whereupon Usama b. Zaid said: I would inform you about it. The Messenger of Allah (ﷺ) said: It is a calamity or a disease which Allah sent to a group of Bani Isra'il, or to the people who were before you; so when you hear of it in land, don't enter it and when it has broken out in your land, don't run away from it.">
+<p n="39.32.2218d(p141)" id="p141" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Amir b. Sa'd reported that a person asked Sa'd b. Abu Waqqas about the plague, whereupon Usama b. Zaid said: I would inform you about it. The Messenger of Allah (ﷺ) said: It is a calamity or a disease which Allah sent to a group of Bani Isra'il, or to the people who were before you; so when you hear of it in land, don't enter it and when it has broken out in your land, don't run away from it.">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -6127,7 +6127,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2218h(142)" id="142" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Shu'ba reported from Habib: While we were in Medina we heard of plague having broken out in Kufa. 'Ata b. Yasir and others said to me that Allah's Messenger (ﷺ) had said. If you are in a land where it (this scourge) has broken out, don't get out of it, and if you were to know that it had broken (in another land, then don't enter it. I said to him: From whom (did you hear it)? They said: 'Amir b. Sa'd has narrated it. So I came to him. They said that he was not present there. So I met his brother Ibrahim b. Sa'd and asked him. He said: I bear testimony to the fact that Usama narrated it to Sa'd saying: I heard Allah's Messenger (ﷺ) as saying that it is a God-sent punishment from the calamity or from the remnant of the calamity with which people were afflicted before you. So when it is in a land and you are there, don't get out of it, and if (this news reaches you) that it has broken out in a land, then don't enter therein. Habib said: I said to Ibrahim: Did you hear Usama narrating it to Sa'd and he was not denying it. He said: Yes.">
+<p n="39.32.2218h(p142)" id="p142" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="Shu'ba reported from Habib: While we were in Medina we heard of plague having broken out in Kufa. 'Ata b. Yasir and others said to me that Allah's Messenger (ﷺ) had said. If you are in a land where it (this scourge) has broken out, don't get out of it, and if you were to know that it had broken (in another land, then don't enter it. I said to him: From whom (did you hear it)? They said: 'Amir b. Sa'd has narrated it. So I came to him. They said that he was not present there. So I met his brother Ibrahim b. Sa'd and asked him. He said: I bear testimony to the fact that Usama narrated it to Sa'd saying: I heard Allah's Messenger (ﷺ) as saying that it is a God-sent punishment from the calamity or from the remnant of the calamity with which people were afflicted before you. So when it is in a land and you are there, don't get out of it, and if (this news reaches you) that it has broken out in a land, then don't enter therein. Habib said: I said to Ibrahim: Did you hear Usama narrating it to Sa'd and he was not denying it. He said: Yes.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -6271,7 +6271,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.32.2219a(143)" id="143" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Abdullah b. 'Abbas reported: Umar b. Khattab set out for Syria. As he came at Sargh (a town by the side of Hijaz on the way to Syria), there met him the commander of the forces, Abu Ubaida b. Jandb, and his companions. They informed him that a scourge had broken out in Syria. Ibn 'Abbas further reported that 'Umar said: Call to me tile earliest emigrants. So I called them. He (Hadrat 'Umar) sought their advice, and they told him that the scourge had broker, out in Syria. There was a difference of opinion (whether they should proceed further or go back to their homes in such a situation). Some of them said: You ('Umar) have set forth for a task, and, therefore, we would not advise you to go back, whereas some of them said: You have along with you the remnants (of the sacred galaxy) of men and (the blessed) Companions of Allah's Messenger (ﷺ), so we would not advise you to go forth towards this calamity (with such eminent persons and thus expose them deliberately to a danger). He (Hadrat 'Umar) said: You can now go away. He said: Call to me the Ansar. So I called them to him, and he consulted them, and they trod the same path as was trodden by the Muhajirin, and they differed in their opinions as they had differed. He said: Now, you can go. He again said: Call to me the old persons of the Quraish who had migrated before the Victory (that is the Victory of Mecca), so I called them (and Hadrat 'Umar consulted them) and not even two persons differed (from the opinion held by the earlier delegates). They said: Our opinion is that you better go back along with the people and do not make them go to this scourge, So 'Umar made announcement to the people: In the morning I would be on the back of my side. So they (set forth in the morning), whereupon Abu 'Ubaida b. Jarrah said: Are you going to run away from the Divine Decree? Thereupon 'Umar said: Had it been someone else to say this besides you! 'Umar (in fact) did not approve of his opposing (this decision) and he said: Yes, we are running from the Divine Decree (to the) Divine Decree. You should think if there had been camels for you and you happened to get down in a valley having two sides, one of them covered with verdure and the other being barren, would you not (be doing) according to the Divine Decree if you graze them in verdure? And in case you graze them in the barren land (even then you would be grazing them) according to the Divine Decree. There happened to come 'Abd al-Rahman b. 'Auf and he had been absent in connection with some of his needs. He said: I have with me a knowledge of it, that I heard Allah's Messenger (ﷺ) as saying: If you hear of its presence (the presence of plague) in a land, don't enter it, but if it spreads in the land where you are, don't fly from it. Thereupon 'Umar b. Khattab praised Allah and then went back?">
+<p n="39.32.2219a(p143)" id="p143" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Greetings" chapter_title="The Plague, Ill Omens, Soothsaying And The Like" translation="'Abdullah b. 'Abbas reported: Umar b. Khattab set out for Syria. As he came at Sargh (a town by the side of Hijaz on the way to Syria), there met him the commander of the forces, Abu Ubaida b. Jandb, and his companions. They informed him that a scourge had broken out in Syria. Ibn 'Abbas further reported that 'Umar said: Call to me tile earliest emigrants. So I called them. He (Hadrat 'Umar) sought their advice, and they told him that the scourge had broker, out in Syria. There was a difference of opinion (whether they should proceed further or go back to their homes in such a situation). Some of them said: You ('Umar) have set forth for a task, and, therefore, we would not advise you to go back, whereas some of them said: You have along with you the remnants (of the sacred galaxy) of men and (the blessed) Companions of Allah's Messenger (ﷺ), so we would not advise you to go forth towards this calamity (with such eminent persons and thus expose them deliberately to a danger). He (Hadrat 'Umar) said: You can now go away. He said: Call to me the Ansar. So I called them to him, and he consulted them, and they trod the same path as was trodden by the Muhajirin, and they differed in their opinions as they had differed. He said: Now, you can go. He again said: Call to me the old persons of the Quraish who had migrated before the Victory (that is the Victory of Mecca), so I called them (and Hadrat 'Umar consulted them) and not even two persons differed (from the opinion held by the earlier delegates). They said: Our opinion is that you better go back along with the people and do not make them go to this scourge, So 'Umar made announcement to the people: In the morning I would be on the back of my side. So they (set forth in the morning), whereupon Abu 'Ubaida b. Jarrah said: Are you going to run away from the Divine Decree? Thereupon 'Umar said: Had it been someone else to say this besides you! 'Umar (in fact) did not approve of his opposing (this decision) and he said: Yes, we are running from the Divine Decree (to the) Divine Decree. You should think if there had been camels for you and you happened to get down in a valley having two sides, one of them covered with verdure and the other being barren, would you not (be doing) according to the Divine Decree if you graze them in verdure? And in case you graze them in the barren land (even then you would be grazing them) according to the Divine Decree. There happened to come 'Abd al-Rahman b. 'Auf and he had been absent in connection with some of his needs. He said: I have with me a knowledge of it, that I heard Allah's Messenger (ﷺ) as saying: If you hear of its presence (the presence of plague) in a land, don't enter it, but if it spreads in the land where you are, don't fly from it. Thereupon 'Umar b. Khattab praised Allah and then went back?">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -6570,7 +6570,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="45.14.2572a(144)" id="144" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship" chapter_title="The Reward Of The Believer For Whatever Befalls Him Of Sickness, Grief And The Like, Even A Thorn That Pricks Him" translation="Aswad reported that some young men from the Quraish visited 'A'isha as she was in Mina and they were laughing. She said: What makes you laugh? They said: Such and such person stumbled against the rope of the tent and he was about to break his neck or lose his eyes. She said: Don't laugh for I heard Allah's Messenger (ﷺ) as saying: If a Muslim runs a thorn or (gets into trouble) severe than this, there is assured for him (a higher) rank and his sins are obliterated.">
+<p n="45.14.2572a(p144)" id="p144" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship" chapter_title="The Reward Of The Believer For Whatever Befalls Him Of Sickness, Grief And The Like, Even A Thorn That Pricks Him" translation="Aswad reported that some young men from the Quraish visited 'A'isha as she was in Mina and they were laughing. She said: What makes you laugh? They said: Such and such person stumbled against the rope of the tent and he was about to break his neck or lose his eyes. She said: Don't laugh for I heard Allah's Messenger (ﷺ) as saying: If a Muslim runs a thorn or (gets into trouble) severe than this, there is assured for him (a higher) rank and his sins are obliterated.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 زهير	noun_prop	زُهَيْر	_	_	زهير-o	زُهَيْر-o
@@ -6659,7 +6659,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="51.2782(145)" id="145" book_title="Ṣaḥīḥ Muslim" section_title="Characteristics of The Hypocrites And Rulings Concerning Them" chapter_title="(no chapter)" translation="Jabir reported that Allah's Messenger (ﷺ) came back from a journey and as he was near Medina, there was such a violent gale that the mountain seemed to be pressed. Allah's Messenger (ﷺ) said: This wind has perhaps been made to blow for the death of a hypocrite, and as he reached Medina a notorious hypocrite from amongst the hypocrites had died.">
+<p n="51.2782(p145)" id="p145" book_title="Ṣaḥīḥ Muslim" section_title="Characteristics of The Hypocrites And Rulings Concerning Them" chapter_title="(no chapter)" translation="Jabir reported that Allah's Messenger (ﷺ) came back from a journey and as he was near Medina, there was such a violent gale that the mountain seemed to be pressed. Allah's Messenger (ﷺ) said: This wind has perhaps been made to blow for the death of a hypocrite, and as he reached Medina a notorious hypocrite from amongst the hypocrites had died.">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -6737,7 +6737,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="52.7.2798b(146)" id="146" book_title="Ṣaḥīḥ Muslim" section_title="Characteristics of the Day of Judgment, Paradise, and Hell" chapter_title="'The Smoke (Ad-Dukhan)'" translation="Masruq reported that there came to Abdullah a person and said: I have left behind in the mosque a man who explains the Qur'an according to his personal discretion and he explained this verse:' So wait for the day when the Heaven brings a clear smoke.' He says that a smoke would come to the people on the Day of Resurrection anl it will withhold breath and they would be inflicted with cold. 'Abdullah said: He who has knowledge should say something and he who has no knowledge should simply say: Allah is best aware. This reflects the understanding of a person that he should say about that which he does not know that it is Allah who knows best. The fact is that when the Quraish disobeyed Allah's Apostle (ﷺ) he supplicated Allah that they should be afflicted with famine and starvation as was done in case of Yusuf. And they were so much hard pressed that a person would ace the sky and he would see between him and the sky something like smoke and they were so much hard pressed that they began to cat the bones, and a person came to Allah's Apostle (ﷺ) and said: Allah's Messenger. seek forgiveness for the tribe of Mudar for (its people) have been undone. The Messenger (ﷺ) said: For Mudar? You are overbold, but he supplicated Allah for them. It was upon this that this verse was revealed:' We shall remove the chastisement a little, but they will surely return to evil' (xliv. 15). lie (the narrator) said: There was a downpoor of rain upon them. When there was some relief for them they returned to the same position as they had been before, and Allah, the Exalted and Glorious, revealed this verse:' So wait for the day when the heaven brings a clear smoke enveloping people. This is a grievous torment on the day when We seize them with the most violent seizing; surely, We shall exact retribution.' And this (seizing) implied (Battle) of Badr.">
+<p n="52.7.2798b(p146)" id="p146" book_title="Ṣaḥīḥ Muslim" section_title="Characteristics of the Day of Judgment, Paradise, and Hell" chapter_title="'The Smoke (Ad-Dukhan)'" translation="Masruq reported that there came to Abdullah a person and said: I have left behind in the mosque a man who explains the Qur'an according to his personal discretion and he explained this verse:' So wait for the day when the Heaven brings a clear smoke.' He says that a smoke would come to the people on the Day of Resurrection anl it will withhold breath and they would be inflicted with cold. 'Abdullah said: He who has knowledge should say something and he who has no knowledge should simply say: Allah is best aware. This reflects the understanding of a person that he should say about that which he does not know that it is Allah who knows best. The fact is that when the Quraish disobeyed Allah's Apostle (ﷺ) he supplicated Allah that they should be afflicted with famine and starvation as was done in case of Yusuf. And they were so much hard pressed that a person would ace the sky and he would see between him and the sky something like smoke and they were so much hard pressed that they began to cat the bones, and a person came to Allah's Apostle (ﷺ) and said: Allah's Messenger. seek forgiveness for the tribe of Mudar for (its people) have been undone. The Messenger (ﷺ) said: For Mudar? You are overbold, but he supplicated Allah for them. It was upon this that this verse was revealed:' We shall remove the chastisement a little, but they will surely return to evil' (xliv. 15). lie (the narrator) said: There was a downpoor of rain upon them. When there was some relief for them they returned to the same position as they had been before, and Allah, the Exalted and Glorious, revealed this verse:' So wait for the day when the heaven brings a clear smoke enveloping people. This is a grievous torment on the day when We seize them with the most violent seizing; surely, We shall exact retribution.' And this (seizing) implied (Battle) of Badr.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -6995,7 +6995,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.10.2899a(147)" id="147" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Yusair b. Jabir reported: Once there blew a red storm in Kufah that there came a person who had nothing to say but (these words): `Abdullah b. Mas`ud, the Last Hour has come. He (`Abdullah b. Mas`ud) was sitting reclining against something, and he said: The Last Hour would not come until shares of inheritance are not distributed and there is no rejoicing over spoils of war. Then he said pointing towards Syria, with the gesture of his hand like this: The enemy shall muster strength against Muslims and the Muslims will muster strength against them (Syrians). I said: You mean Rome? And he said: Yes, and there would be a terrible fight and the Muslims would prepare a detachment (for fighting unto death) which would not return but victorious. They will fight until night will intervene them; both the sides will return without being victorious and both will be wiped out. The Muslims will again prepare a detachment for fighting unto death so that they may not return but victorious. When it would be the fourth day, a new detachment out of the remnant of the Muslims would be prepared and Allah will decree that the enemy should be routed. And they would fight such a fight the like of which would not be seen, so much so that even if a bird were to pass their flanks, it would fall down dead before reaching the end of them. (There would be such a large scale massacre) that when counting would be done, (only) one out of a hundred men related to one another would be found alive. So what can be the joy at the spoils of such war and what inheritance would be divided! They would be in this very state that they would hear of a calamity more horrible than this. And a cry would reach them: The Dajjal has taken your place among your offspring. They will, therefore, throw away what would be in their hands and go forward sending ten horsemen, as a scouting party. Allah's Messenger (ﷺ) said: I know their names and the names of their forefathers and the color of their horses. They will be the best horsemen on the surface of the earth on that day or amongst the best horsemen on the surface of the earth on that day.">
+<p n="54.10.2899a(p147)" id="p147" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Yusair b. Jabir reported: Once there blew a red storm in Kufah that there came a person who had nothing to say but (these words): `Abdullah b. Mas`ud, the Last Hour has come. He (`Abdullah b. Mas`ud) was sitting reclining against something, and he said: The Last Hour would not come until shares of inheritance are not distributed and there is no rejoicing over spoils of war. Then he said pointing towards Syria, with the gesture of his hand like this: The enemy shall muster strength against Muslims and the Muslims will muster strength against them (Syrians). I said: You mean Rome? And he said: Yes, and there would be a terrible fight and the Muslims would prepare a detachment (for fighting unto death) which would not return but victorious. They will fight until night will intervene them; both the sides will return without being victorious and both will be wiped out. The Muslims will again prepare a detachment for fighting unto death so that they may not return but victorious. When it would be the fourth day, a new detachment out of the remnant of the Muslims would be prepared and Allah will decree that the enemy should be routed. And they would fight such a fight the like of which would not be seen, so much so that even if a bird were to pass their flanks, it would fall down dead before reaching the end of them. (There would be such a large scale massacre) that when counting would be done, (only) one out of a hundred men related to one another would be found alive. So what can be the joy at the spoils of such war and what inheritance would be divided! They would be in this very state that they would hear of a calamity more horrible than this. And a cry would reach them: The Dajjal has taken your place among your offspring. They will, therefore, throw away what would be in their hands and go forward sending ten horsemen, as a scouting party. Allah's Messenger (ﷺ) said: I know their names and the names of their forefathers and the color of their horses. They will be the best horsemen on the surface of the earth on that day or amongst the best horsemen on the surface of the earth on that day.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -7299,7 +7299,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.10.2898a(148)" id="148" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Mustaurid al-Qurashi reported: I heard Allah's Messenger (ﷺ) as saying: The Last Hour would come (when) the Romans would form a majority amongst people. 'Amr said to him (Mustaurid Qurashi): See what you are saying? He said: I say what I heard from Allah's Messenger (ﷺ). Thereupon he said: If you say that, it is a fact for they have four qualities. They have the patience to undergo a trial and immediately restore themselves to sanity after trouble and attack again after flight. They (have the quality) of being good to the destitute and the orphans, to the weak and, fifthly, the good quality in them is that they put resistance against the oppression of kings.">
+<p n="54.10.2898a(p148)" id="p148" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Mustaurid al-Qurashi reported: I heard Allah's Messenger (ﷺ) as saying: The Last Hour would come (when) the Romans would form a majority amongst people. 'Amr said to him (Mustaurid Qurashi): See what you are saying? He said: I say what I heard from Allah's Messenger (ﷺ). Thereupon he said: If you say that, it is a fact for they have four qualities. They have the patience to undergo a trial and immediately restore themselves to sanity after trouble and attack again after flight. They (have the quality) of being good to the destitute and the orphans, to the weak and, fifthly, the good quality in them is that they put resistance against the oppression of kings.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -7405,7 +7405,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.10.2898b(149)" id="149" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Mustaurid Qurashi reported: I heard Allah's Messenger (ﷺ) as saying: The Last Hour would come when the Romans would form a majority amongst people. This reached 'Amr b. al-'As and he said: What are these ahadith which are being transmitted from you and which you claim to have heard from Allah's Messenger (ﷺ)? Mustaurid said to him: I stated only that which I heard from Allah's Messenger (ﷺ). Thereupon 'Amr said: If you state this (it is true), for they have the power of tolerance amongst people at the time of turmoil and restore themselves to sanity after trouble, and are good amongst people so far as the destitute and the weak are concerned.">
+<p n="54.10.2898b(p149)" id="p149" book_title="Ṣaḥīḥ Muslim" section_title="The Book of Tribulations and Portents of the Last Hour" chapter_title="The Hour Will Begin When The Byzantines Are The Most Prevalent Of People" translation="Mustaurid Qurashi reported: I heard Allah's Messenger (ﷺ) as saying: The Last Hour would come when the Romans would form a majority amongst people. This reached 'Amr b. al-'As and he said: What are these ahadith which are being transmitted from you and which you claim to have heard from Allah's Messenger (ﷺ)? Mustaurid said to him: I stated only that which I heard from Allah's Messenger (ﷺ). Thereupon 'Amr said: If you state this (it is true), for they have the power of tolerance amongst people at the time of turmoil and restore themselves to sanity after trouble, and are good amongst people so far as the destitute and the weak are concerned.">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 حرمله	noun_prop	حَرْمَل	_	_	حرمله-o	حَرْمَل-o
@@ -7509,7 +7509,7 @@
 </p>
 </book>
 <text type="book" book_type="religious" n="3" book_title="Ṣaḥīḥ al-Bukhārī">
-<p n="10.32.652/653/654(150)" id="150" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Call to prayers (adhaan)" chapter_title="The superiority of offering the Zuhr prayer early" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'While a man was going on a way, he saw a thorny branch and removed it from the way and Allah became pleased by his action and forgave him for that.' Then the Prophet (ﷺ) said, 'Five are martyrs: One who dies of plague, one who dies of an Abdominal disease, one who dies of drowning, one who is buried alive (and) dies and one who is killed in Allah's cause.' (The Prophet (ﷺ) further said, 'If the people knew the reward for pronouncing the Adhan and for standing in the first row (in the congregational prayer) and found no other way to get it except by drawing lots they would do so, and if they knew the reward of offering the Zuhr prayer early (in its stated time), they would race for it and if they knew the reward for `Isha' and Fajr prayers in congregation, they would attend them even if they were to crawl.">
+<p n="10.32.652/653/654(p150)" id="p150" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Call to prayers (adhaan)" chapter_title="The superiority of offering the Zuhr prayer early" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'While a man was going on a way, he saw a thorny branch and removed it from the way and Allah became pleased by his action and forgave him for that.' Then the Prophet (ﷺ) said, 'Five are martyrs: One who dies of plague, one who dies of an Abdominal disease, one who dies of drowning, one who is buried alive (and) dies and one who is killed in Allah's cause.' (The Prophet (ﷺ) further said, 'If the people knew the reward for pronouncing the Adhan and for standing in the first row (in the congregational prayer) and found no other way to get it except by drawing lots they would do so, and if they knew the reward of offering the Zuhr prayer early (in its stated time), they would race for it and if they knew the reward for `Isha' and Fajr prayers in congregation, they would attend them even if they were to crawl.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 قتيبه	noun_prop	قتيبه	_	_	قتيبه-o	قتيبه-o
@@ -7622,7 +7622,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.73.720/721(151)" id="151" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Call to prayers (adhaan)" chapter_title="The First Row" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'Martyrs are those who die because of drowning, plague, an Abdominal disease, or of being buried alive by a falling building.' And then he added, 'If the people knew the Reward for the Zuhr prayer in its early time, they would race for it. If they knew the reward for the `Isha' and the Fajr prayers in congregation, they would join them even if they had to crawl. If they knew the reward for the first row, they would draw lots for it.">
+<p n="10.73.720/721(p151)" id="p151" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Call to prayers (adhaan)" chapter_title="The First Row" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'Martyrs are those who die because of drowning, plague, an Abdominal disease, or of being buried alive by a falling building.' And then he added, 'If the people knew the Reward for the Zuhr prayer in its early time, they would race for it. If they knew the reward for the `Isha' and the Fajr prayers in congregation, they would join them even if they had to crawl. If they knew the reward for the first row, they would draw lots for it.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -7689,7 +7689,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.3.1007(152)" id="152" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated Masruq: We were with `Abdullah and he said, 'When the Prophet (ﷺ) saw the refusal of the people to accept Islam he said, 'O Allah! Send (famine) years on them for (seven years) like the seven years (of famine during the time) of (Prophet) Joseph.' So famine overtook them for one year and destroyed every kind of life to such an extent that the people started eating hides, carcasses and rotten dead animals. Whenever one of them looked towards the sky, he would (imagine himself to) see smoke because of hunger. So Abu Sufyan went to the Prophet (ﷺ) and said, 'O Muhammad! You order people to obey Allah and to keep good relations with kith and kin. No doubt the people of your tribe are dying, so please pray to Allah for them.' So Allah revealed: 'Then watch you For the day that The sky will bring forth a kind Of smoke Plainly visible ... Verily! You will return (to disbelief) On the day when We shall seize You with a mighty grasp. (44.10-16) Ibn Mas`ud added, 'Al-Batsha (i.e. grasp) happened in the battle of Badr and no doubt smoke, Al-Batsha, Al-Lizam, and the verse of Surat Ar-Rum have all passed .">
+<p n="15.3.1007(p152)" id="p152" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated Masruq: We were with `Abdullah and he said, 'When the Prophet (ﷺ) saw the refusal of the people to accept Islam he said, 'O Allah! Send (famine) years on them for (seven years) like the seven years (of famine during the time) of (Prophet) Joseph.' So famine overtook them for one year and destroyed every kind of life to such an extent that the people started eating hides, carcasses and rotten dead animals. Whenever one of them looked towards the sky, he would (imagine himself to) see smoke because of hunger. So Abu Sufyan went to the Prophet (ﷺ) and said, 'O Muhammad! You order people to obey Allah and to keep good relations with kith and kin. No doubt the people of your tribe are dying, so please pray to Allah for them.' So Allah revealed: 'Then watch you For the day that The sky will bring forth a kind Of smoke Plainly visible ... Verily! You will return (to disbelief) On the day when We shall seize You with a mighty grasp. (44.10-16) Ibn Mas`ud added, 'Al-Batsha (i.e. grasp) happened in the battle of Badr and no doubt smoke, Al-Batsha, Al-Lizam, and the verse of Surat Ar-Rum have all passed .">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عثمان	noun_prop	عُثْمان	_	_	عثمان-o	عُثْمان-o
@@ -7812,7 +7812,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.3.1008/1009(153)" id="153" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated `Abdullah bin Dinar: My father said, 'I heard Ibn `Umar reciting the poetic verses of Abu Talib: And a white (person) (i.e. the Prophet) who is requested to pray for rain and who takes care of the orphans and is the guardian of widows.' Salim's father (Ibn `Umar) said, 'The following poetic verse occurred to my mind while I was looking at the face of the Prophet (p.b.u.h) while he was praying for rain. He did not get down till the rain water flowed profusely from every roof-gutter: And a white (person) who is requested to pray for rain and who takes care of the orphans and is the guardian of widows . . . And these were the words of Abu Talib.'">
+<p n="15.3.1008/1009(p153)" id="p153" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated `Abdullah bin Dinar: My father said, 'I heard Ibn `Umar reciting the poetic verses of Abu Talib: And a white (person) (i.e. the Prophet) who is requested to pray for rain and who takes care of the orphans and is the guardian of widows.' Salim's father (Ibn `Umar) said, 'The following poetic verse occurred to my mind while I was looking at the face of the Prophet (p.b.u.h) while he was praying for rain. He did not get down till the rain water flowed profusely from every roof-gutter: And a white (person) who is requested to pray for rain and who takes care of the orphans and is the guardian of widows . . . And these were the words of Abu Talib.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عمرو	noun_prop	عَمْرو	_	_	عمرو-o	عَمْرو-o
@@ -7902,7 +7902,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.3.1010(154)" id="154" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated Anas: Whenever drought threatened them, `Umar bin Al-Khattab, used to ask Al-Abbas bin `Abdul Muttalib to invoke Allah for rain. He used to say, 'O Allah! We used to ask our Prophet to invoke You for rain, and You would bless us with rain, and now we ask his uncle to invoke You for rain. O Allah ! Bless us with rain.'(1) And so it would rain.">
+<p n="15.3.1010(p154)" id="p154" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Request of the people to the Imam to offer the Istisqa' prayer" translation="Narrated Anas: Whenever drought threatened them, `Umar bin Al-Khattab, used to ask Al-Abbas bin `Abdul Muttalib to invoke Allah for rain. He used to say, 'O Allah! We used to ask our Prophet to invoke You for rain, and You would bless us with rain, and now we ask his uncle to invoke You for rain. O Allah ! Bless us with rain.'(1) And so it would rain.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 الحسن	noun_prop	حَسَن	_	_	الحسن-o	حَسَن-o
@@ -7972,7 +7972,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.8.1015(155)" id="155" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Istisqa' (to invoke Allah for the rain) on the pulpit" translation="Narrated Qatada:Anas I said, 'While Allah's Messenger (ﷺ) (p.b.u.h) was delivering the Friday Khutba (sermon) a man came and said, 'O Allah's Messenger (ﷺ)! Rain is scarce; please ask Allah to bless us with rain.' So he invoked Allah for it, and it rained so much that we could hardly reach our homes and it continued raining till the next Friday.' Anas further said, 'Then the same or some other person stood up and said, 'O Allah's Apostle! Invoke Allah to withhold the rain.' On that, Allah's Messenger (ﷺ) I said, 'O Allah! Round about us and not on us.' ' Anas added, 'I saw the clouds dispersing right and left and it continued to rain but not over Medina.'">
+<p n="15.8.1015(p155)" id="p155" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="Istisqa' (to invoke Allah for the rain) on the pulpit" translation="Narrated Qatada:Anas I said, 'While Allah's Messenger (ﷺ) (p.b.u.h) was delivering the Friday Khutba (sermon) a man came and said, 'O Allah's Messenger (ﷺ)! Rain is scarce; please ask Allah to bless us with rain.' So he invoked Allah for it, and it rained so much that we could hardly reach our homes and it continued raining till the next Friday.' Anas further said, 'Then the same or some other person stood up and said, 'O Allah's Apostle! Invoke Allah to withhold the rain.' On that, Allah's Messenger (ﷺ) I said, 'O Allah! Round about us and not on us.' ' Anas added, 'I saw the clouds dispersing right and left and it continued to rain but not over Medina.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 مسدد	noun_prop	مسدد	_	_	مسدد-o	مسدد-o
@@ -8076,7 +8076,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.14.1021(156)" id="156" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="To say, Around us and not on us, when it rains excessively" translation="Narrated Anas: Allah's Messenger (ﷺ) I was delivering the Khutba (sermon) on a Friday when the people stood up, shouted and said, 'O Allah's Messenger (ﷺ)! There is no rain (drought), the trees have dried and the livestock are destroyed; Please pray to Allah for rain.' So Allah's Messenger (ﷺ) said twice, 'O Allah! Bless us with rain.' By Allah, there was no trace of cloud in the sky and suddenly the sky became overcast with clouds and it started raining. The Prophet (ﷺ) came down the pulpit and offered the prayer. When he came back from the prayer (to his house) it was raining and it rained continuously till the next Friday. When the Prophet started delivering the Friday Khutba (sermon), the people started shouting and said to him, 'The houses have collapsed and the roads are cut off; so please pray to Allah to withhold the rain.' So the Prophet (ﷺ) smiled and said, 'O Allah! Round about us and not on us.' So the sky became clear over Medina but it kept on raining over the outskirts (of Medina) and not a single drop of rain fell over Median. I looked towards the sky which was as bright and clear as a crown.">
+<p n="15.14.1021(p156)" id="p156" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="To say, Around us and not on us, when it rains excessively" translation="Narrated Anas: Allah's Messenger (ﷺ) I was delivering the Khutba (sermon) on a Friday when the people stood up, shouted and said, 'O Allah's Messenger (ﷺ)! There is no rain (drought), the trees have dried and the livestock are destroyed; Please pray to Allah for rain.' So Allah's Messenger (ﷺ) said twice, 'O Allah! Bless us with rain.' By Allah, there was no trace of cloud in the sky and suddenly the sky became overcast with clouds and it started raining. The Prophet (ﷺ) came down the pulpit and offered the prayer. When he came back from the prayer (to his house) it was raining and it rained continuously till the next Friday. When the Prophet started delivering the Friday Khutba (sermon), the people started shouting and said to him, 'The houses have collapsed and the roads are cut off; so please pray to Allah to withhold the rain.' So the Prophet (ﷺ) smiled and said, 'O Allah! Round about us and not on us.' So the sky became clear over Medina but it kept on raining over the outskirts (of Medina) and not a single drop of rain fell over Median. I looked towards the sky which was as bright and clear as a crown.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -8220,7 +8220,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.25.1034(157)" id="157" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="If the wind blows (what should one do or say?)" translation="Narrated Anas: Whenever a strong wind blew, anxiety appeared on the face of the Prophet (fearing that wind might be a sign of Allah's wrath).">
+<p n="15.25.1034(p157)" id="p157" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invoking Allah for Rain (Istisqaa)" chapter_title="If the wind blows (what should one do or say?)" translation="Narrated Anas: Whenever a strong wind blew, anxiety appeared on the face of the Prophet (fearing that wind might be a sign of Allah's wrath).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 سعيد	noun_prop	سَعِيد	_	_	سعيد-o	سَعِيد-o
@@ -8260,7 +8260,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="29.9.1880(158)" id="158" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues of Medina" chapter_title="Ad-Dajjal will not be able to enter Al-Madina" translation="Narrated Abu Bakra: The Prophet (ﷺ) said, 'The terror caused by Al-Masih Ad-Dajjal will not enter Medina and at that time Medina will have seven gates and there will be two angels at each gate guarding them.'">
+<p n="29.9.1880(p158)" id="p158" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues of Medina" chapter_title="Ad-Dajjal will not be able to enter Al-Madina" translation="Narrated Abu Bakra: The Prophet (ﷺ) said, 'The terror caused by Al-Masih Ad-Dajjal will not enter Medina and at that time Medina will have seven gates and there will be two angels at each gate guarding them.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -8315,7 +8315,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="29.9.1881(159)" id="159" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues of Medina" chapter_title="Ad-Dajjal will not be able to enter Al-Madina" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'There will be no town which Ad-Dajjal will not enter except Mecca and Medina, and there will be no entrance (road) (of both Mecca and Medina) but the angels will be standing in rows guarding it against him, and then Medina will shake with its inhabitants thrice (i.e. three earthquakes will take place) and Allah will expel all the non-believers and the hypocrites from it.'">
+<p n="29.9.1881(p159)" id="p159" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues of Medina" chapter_title="Ad-Dajjal will not be able to enter Al-Madina" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'There will be no town which Ad-Dajjal will not enter except Mecca and Medina, and there will be no entrance (road) (of both Mecca and Medina) but the angels will be standing in rows guarding it against him, and then Medina will shake with its inhabitants thrice (i.e. three earthquakes will take place) and Allah will expel all the non-believers and the hypocrites from it.'">
 <s>
 15	digit	15	_	_	15-0	15-0
 .	punc	.	_	_	.-x	.-x
@@ -8388,7 +8388,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="47.3.2488(160)" id="160" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Partnership" chapter_title="Division of sheep" translation="Narrated 'Abaya bin Rafa'a bin Raft' bin Khadij: My grandfather said, 'We were in the company of the Prophet (ﷺ) at Dhul-Hulaifa. The people felt hungry and captured some camels and sheep (as booty). The Prophet (ﷺ) was behind the people. They hurried and slaughtered the animals and put their meat in pots and started cooking it. (When the Prophet came) he ordered the pots to be upset and then he distributed the animals (of the booty), regarding ten sheep as equal to one camel. One of the camels fled and the people ran after it till they were exhausted. At that time there were few horses. A man threw an arrow at the camel, and Allah stopped the camel with it. The Prophet (ﷺ) said, 'Some of these animals are like wild animals, so if you lose control over one of these animals, treat it in this way (i.e. shoot it with an arrow).' Before distributing them among the soldiers my grandfather said, 'We may meet the enemies in the future and have no knives; can we slaughter the animals with reeds?' The Prophet (ﷺ) said, 'Use whatever causes blood to flow, and eat the animals if the name of Allah has been mentioned on slaughtering them. Do not slaughter with teeth or fingernails and I will tell you why: It is because teeth are bones (i.e. cannot cut properly) and fingernails are the tools used by the Ethiopians (whom we should not imitate for they are infidels).">
+<p n="47.3.2488(p160)" id="p160" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Partnership" chapter_title="Division of sheep" translation="Narrated 'Abaya bin Rafa'a bin Raft' bin Khadij: My grandfather said, 'We were in the company of the Prophet (ﷺ) at Dhul-Hulaifa. The people felt hungry and captured some camels and sheep (as booty). The Prophet (ﷺ) was behind the people. They hurried and slaughtered the animals and put their meat in pots and started cooking it. (When the Prophet came) he ordered the pots to be upset and then he distributed the animals (of the booty), regarding ten sheep as equal to one camel. One of the camels fled and the people ran after it till they were exhausted. At that time there were few horses. A man threw an arrow at the camel, and Allah stopped the camel with it. The Prophet (ﷺ) said, 'Some of these animals are like wild animals, so if you lose control over one of these animals, treat it in this way (i.e. shoot it with an arrow).' Before distributing them among the soldiers my grandfather said, 'We may meet the enemies in the future and have no knives; can we slaughter the animals with reeds?' The Prophet (ﷺ) said, 'Use whatever causes blood to flow, and eat the animals if the name of Allah has been mentioned on slaughtering them. Do not slaughter with teeth or fingernails and I will tell you why: It is because teeth are bones (i.e. cannot cut properly) and fingernails are the tools used by the Ethiopians (whom we should not imitate for they are infidels).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 على	prep	عَلَى	_	_	على-p	عَلَى-p
@@ -8546,7 +8546,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.30.2829(161)" id="161" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="There are seven martyrs other than killed in Jihad" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'Five are regarded as martyrs: They are those who die because of plague, Abdominal disease, drowning or a falling building etc., and the martyrs in Allah's Cause.'">
+<p n="56.30.2829(p161)" id="p161" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="There are seven martyrs other than killed in Jihad" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'Five are regarded as martyrs: They are those who die because of plague, Abdominal disease, drowning or a falling building etc., and the martyrs in Allah's Cause.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -8597,7 +8597,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.30.2830(162)" id="162" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="There are seven martyrs other than killed in Jihad" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'Plague is the cause of martyrdom of every Muslim (who dies because of it).">
+<p n="56.30.2830(p162)" id="p162" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="There are seven martyrs other than killed in Jihad" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'Plague is the cause of martyrdom of every Muslim (who dies because of it).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 بشر	noun	شَرّ	_	_	بشر-n	شَرّ-n
@@ -8639,7 +8639,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.3075(163)" id="163" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="''" translation="Narrated Abaya bin Rifaa: My grandfather, Rafi` said, 'We were in the company of the Prophet (ﷺ) at DhulHulaifa, and the people suffered from hunger. We got some camels and sheep (as booty) and the Prophet (ﷺ) was still behind the people. They hurried and put the cooking pots on the fire. (When he came) he ordered that the cooking pots should be upset and then he distributed the booty (amongst the people) regarding ten sheep as equal to one camel then a camel fled and the people chased it till they got tired, as they had a few horses (for chasing it). So a man threw an arrow at it and caused it to stop (with Allah's Permission). On that the Prophet (ﷺ) said, 'Some of these animals behave like wild beasts, so, if any animal flee from you, deal with it in the same way.' My grandfather asked (the Prophet (ﷺ) ), 'We hope (or are afraid) that we may meet the enemy tomorrow and we have no knives. Can we slaughter our animals with canes?' Allah's Messenger (ﷺ) replied, 'If the instrument used for killing causes the animal to bleed profusely and if Allah's Name is mentioned on killing it, then eat its meat (i.e. it is lawful) but won't use a tooth or a nail and I am telling you the reason: A tooth is a bone (and slaughtering with a bone is forbidden ), and a nail is the slaughtering instrument of the Ethiopians.'">
+<p n="56.3075(p163)" id="p163" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Fighting for the Cause of Allah (Jihaad)" chapter_title="''" translation="Narrated Abaya bin Rifaa: My grandfather, Rafi` said, 'We were in the company of the Prophet (ﷺ) at DhulHulaifa, and the people suffered from hunger. We got some camels and sheep (as booty) and the Prophet (ﷺ) was still behind the people. They hurried and put the cooking pots on the fire. (When he came) he ordered that the cooking pots should be upset and then he distributed the booty (amongst the people) regarding ten sheep as equal to one camel then a camel fled and the people chased it till they got tired, as they had a few horses (for chasing it). So a man threw an arrow at it and caused it to stop (with Allah's Permission). On that the Prophet (ﷺ) said, 'Some of these animals behave like wild beasts, so, if any animal flee from you, deal with it in the same way.' My grandfather asked (the Prophet (ﷺ) ), 'We hope (or are afraid) that we may meet the enemy tomorrow and we have no knives. Can we slaughter our animals with canes?' Allah's Messenger (ﷺ) replied, 'If the instrument used for killing causes the animal to bleed profusely and if Allah's Name is mentioned on killing it, then eat its meat (i.e. it is lawful) but won't use a tooth or a nail and I am telling you the reason: A tooth is a bone (and slaughtering with a bone is forbidden ), and a nail is the slaughtering instrument of the Ethiopians.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -8789,7 +8789,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="58.1.3159/3160(164)" id="164" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Jizyah and Mawaada'ah" chapter_title="Al-Jizya taken from the Dhimmi" translation="Narrated Jubair bin Haiya: `Umar sent the Muslims to the great countries to fight the pagans. When Al-Hurmuzan embraced Islam, `Umar said to him. 'I would like to consult you regarding these countries which I intend to invade.' Al-Hurmuzan said, 'Yes, the example of these countries and their inhabitants who are the enemies. of the Muslims, is like a bird with a head, two wings and two legs; If one of its wings got broken, it would get up over its two legs, with one wing and the head; and if the other wing got broken, it would get up with two legs and a head, but if its head got destroyed, then the two legs, two wings and the head would become useless. The head stands for Khosrau, and one wing stands for Caesar and the other wing stands for Faris. So, order the Muslims to go towards Khosrau.' So, `Umar sent us (to Khosrau) appointing An-Nu`man bin Muqrin as our commander. When we reached the land of the enemy, the representative of Khosrau came out with forty-thousand warriors, and an interpreter got up saying, 'Let one of you talk to me!' Al-Mughira replied, 'Ask whatever you wish.' The other asked, 'Who are you?' Al-Mughira replied, 'We are some people from the Arabs; we led a hard, miserable, disastrous life: we used to suck the hides and the date stones from hunger; we used to wear clothes made up of fur of camels and hair of goats, and to worship trees and stones. While we were in this state, the Lord of the Heavens and the Earths, Elevated is His Remembrance and Majestic is His Highness, sent to us from among ourselves a Prophet whose father and mother are known to us. Our Prophet, the Messenger of our Lord, has ordered us to fight you till you worship Allah Alone or give Jizya (i.e. tribute); and our Prophet has informed us that our Lord says:-- 'Whoever amongst us is killed (i.e. martyred), shall go to Paradise to lead such a luxurious life as he has never seen, and whoever amongst us remain alive, shall become your master.' (Al-Mughira, then blamed An-Nu`man for delaying the attack and) An-Nu' man said to Al-Mughira, 'If you had participated in a similar battle, in the company of Allah's Messenger (ﷺ) he would not have blamed you for waiting, nor would he have disgraced you. But I accompanied Allah's Apostle in many battles and it was his custom that if he did not fight early by daytime, he would wait till the wind had started blowing and the time for the prayer was due (i.e. after midday).">
+<p n="58.1.3159/3160(p164)" id="p164" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Jizyah and Mawaada'ah" chapter_title="Al-Jizya taken from the Dhimmi" translation="Narrated Jubair bin Haiya: `Umar sent the Muslims to the great countries to fight the pagans. When Al-Hurmuzan embraced Islam, `Umar said to him. 'I would like to consult you regarding these countries which I intend to invade.' Al-Hurmuzan said, 'Yes, the example of these countries and their inhabitants who are the enemies. of the Muslims, is like a bird with a head, two wings and two legs; If one of its wings got broken, it would get up over its two legs, with one wing and the head; and if the other wing got broken, it would get up with two legs and a head, but if its head got destroyed, then the two legs, two wings and the head would become useless. The head stands for Khosrau, and one wing stands for Caesar and the other wing stands for Faris. So, order the Muslims to go towards Khosrau.' So, `Umar sent us (to Khosrau) appointing An-Nu`man bin Muqrin as our commander. When we reached the land of the enemy, the representative of Khosrau came out with forty-thousand warriors, and an interpreter got up saying, 'Let one of you talk to me!' Al-Mughira replied, 'Ask whatever you wish.' The other asked, 'Who are you?' Al-Mughira replied, 'We are some people from the Arabs; we led a hard, miserable, disastrous life: we used to suck the hides and the date stones from hunger; we used to wear clothes made up of fur of camels and hair of goats, and to worship trees and stones. While we were in this state, the Lord of the Heavens and the Earths, Elevated is His Remembrance and Majestic is His Highness, sent to us from among ourselves a Prophet whose father and mother are known to us. Our Prophet, the Messenger of our Lord, has ordered us to fight you till you worship Allah Alone or give Jizya (i.e. tribute); and our Prophet has informed us that our Lord says:-- 'Whoever amongst us is killed (i.e. martyred), shall go to Paradise to lead such a luxurious life as he has never seen, and whoever amongst us remain alive, shall become your master.' (Al-Mughira, then blamed An-Nu`man for delaying the attack and) An-Nu' man said to Al-Mughira, 'If you had participated in a similar battle, in the company of Allah's Messenger (ﷺ) he would not have blamed you for waiting, nor would he have disgraced you. But I accompanied Allah's Apostle in many battles and it was his custom that if he did not fight early by daytime, he would wait till the wind had started blowing and the time for the prayer was due (i.e. after midday).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 الفضل	noun	فَضْل	_	_	الفضل-n	فَضْل-n
@@ -9098,7 +9098,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="60.54.3473(165)" id="165" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophets" chapter_title="Chapter" translation="Narrated Usama bin Zaid: Allah's Messenger (ﷺ) said, 'Plague was a means of torture sent on a group of Israelis (or on some people before you). So if you hear of its spread in a land, don't approach it, and if a plague should appear in a land where you are present, then don't leave that land in order to run away from it (i.e. plague).">
+<p n="60.54.3473(p165)" id="p165" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophets" chapter_title="Chapter" translation="Narrated Usama bin Zaid: Allah's Messenger (ﷺ) said, 'Plague was a means of torture sent on a group of Israelis (or on some people before you). So if you hear of its spread in a land, don't approach it, and if a plague should appear in a land where you are present, then don't leave that land in order to run away from it (i.e. plague).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -9211,7 +9211,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="60.54.3471(166)" id="166" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophets" chapter_title="Chapter" translation="Narrated `Aisha: (the wife of the Prophet) I asked Allah's Messenger (ﷺ) about the plague. He told me that it was a Punishment sent by Allah on whom he wished, and Allah made it a source of mercy for the believers, for if one in the time of an epidemic plague stays in his country patiently hoping for Allah's Reward and believing that nothing will befall him except what Allah has written for him, he will get the reward of a martyr.'">
+<p n="60.54.3471(p166)" id="p166" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophets" chapter_title="Chapter" translation="Narrated `Aisha: (the wife of the Prophet) I asked Allah's Messenger (ﷺ) about the plague. He told me that it was a Punishment sent by Allah on whom he wished, and Allah made it a source of mercy for the believers, for if one in the time of an epidemic plague stays in his country patiently hoping for Allah's Reward and believing that nothing will befall him except what Allah has written for him, he will get the reward of a martyr.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -9304,7 +9304,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="61.25.3578(167)" id="167" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues and Merits of the Prophet (pbuh) and his Companions" chapter_title="The signs of Prophethood in Islam" translation="Narrated Anas bin Malik: Abu Talha said to Um Sulaim, 'I have noticed feebleness in the voice of Allah's Messenger (ﷺ) which I think, is caused by hunger. Have you got any food?' She said, 'Yes.' She brought out some loaves of barley and took out a veil belonging to her, and wrapped the bread in part of it and put it under my arm and wrapped part of the veil round me and sent me to Allah's Messenger (ﷺ). I went carrying it and found Allah's Messenger (ﷺ) in the Mosque sitting with some people. When I stood there, Allah's Messenger (ﷺ) asked, 'Has Abu Talha sent you?' I said, 'Yes'. He asked, 'With some food? I said, 'Yes' Allah's Apostle then said to the men around him, 'Get up!' He set out (accompanied by them) and I went ahead of them till I reached Abu Talha and told him (of the Prophet's visit). Abu Talha said, 'O Um Sulaim! Allah's Messenger (ﷺ) is coming with the people and we have no food to feed them.' She said, 'Allah and His Apostle know better.' So Abu Talha went out to receive Allah's Messenger (ﷺ). Allah's Apostle came along with Abu Talha. Allah's Messenger (ﷺ) said, 'O Um Sulaim! Bring whatever you have.' She brought the bread which Allah's Messenger (ﷺ) ordered to be broken into pieces. Um Sulaim poured on them some butter from an oilskin. Then Allah's Messenger (ﷺ) recited what Allah wished him to recite, and then said, 'Let ten persons come (to share the meal).' Ten persons were admitted, ate their fill and went out. Then he again said, 'Let another ten do the same.' They were admitted, ate their fill and went out. Then he again said, '''Let another ten persons (do the same.)' They were admitted, ate their fill and went out. Then he said, 'Let another ten persons come.' In short, all of them ate their fill, and they were seventy or eighty men.">
+<p n="61.25.3578(p167)" id="p167" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues and Merits of the Prophet (pbuh) and his Companions" chapter_title="The signs of Prophethood in Islam" translation="Narrated Anas bin Malik: Abu Talha said to Um Sulaim, 'I have noticed feebleness in the voice of Allah's Messenger (ﷺ) which I think, is caused by hunger. Have you got any food?' She said, 'Yes.' She brought out some loaves of barley and took out a veil belonging to her, and wrapped the bread in part of it and put it under my arm and wrapped part of the veil round me and sent me to Allah's Messenger (ﷺ). I went carrying it and found Allah's Messenger (ﷺ) in the Mosque sitting with some people. When I stood there, Allah's Messenger (ﷺ) asked, 'Has Abu Talha sent you?' I said, 'Yes'. He asked, 'With some food? I said, 'Yes' Allah's Apostle then said to the men around him, 'Get up!' He set out (accompanied by them) and I went ahead of them till I reached Abu Talha and told him (of the Prophet's visit). Abu Talha said, 'O Um Sulaim! Allah's Messenger (ﷺ) is coming with the people and we have no food to feed them.' She said, 'Allah and His Apostle know better.' So Abu Talha went out to receive Allah's Messenger (ﷺ). Allah's Apostle came along with Abu Talha. Allah's Messenger (ﷺ) said, 'O Um Sulaim! Bring whatever you have.' She brought the bread which Allah's Messenger (ﷺ) ordered to be broken into pieces. Um Sulaim poured on them some butter from an oilskin. Then Allah's Messenger (ﷺ) recited what Allah wished him to recite, and then said, 'Let ten persons come (to share the meal).' Ten persons were admitted, ate their fill and went out. Then he again said, 'Let another ten do the same.' They were admitted, ate their fill and went out. Then he again said, '''Let another ten persons (do the same.)' They were admitted, ate their fill and went out. Then he said, 'Let another ten persons come.' In short, all of them ate their fill, and they were seventy or eighty men.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -9619,7 +9619,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="61.25.3582(168)" id="168" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues and Merits of the Prophet (pbuh) and his Companions" chapter_title="The signs of Prophethood in Islam" translation="Narrated Anas:Once during the lifetime of Allah's Messenger (ﷺ), the people of Medina suffered from drought. So while the Prophet was delivering a sermon on a Friday a man got up saying, 'O Allah's Messenger (ﷺ)! The horses and sheep have perished. Will you invoke Allah to bless us with rain?' The Prophet (ﷺ) lifted both his hands and invoked. The sky at that time was as clear as glass. Suddenly a wind blew, raising clouds that gathered together, and it started raining heavily. We came out (of the Mosque) wading through the flowing water till we reached our homes. It went on raining till the next Friday, when the same man or some other man stood up and said, 'O Allah's Messenger (ﷺ)! The houses have collapsed; please invoke Allah to withhold the rain.' On that the Prophet (ﷺ) smiled and said, 'O Allah, (let it rain) around us and not on us.' I then looked at the clouds to see them separating forming a sort of a crown round Medina.">
+<p n="61.25.3582(p168)" id="p168" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Virtues and Merits of the Prophet (pbuh) and his Companions" chapter_title="The signs of Prophethood in Islam" translation="Narrated Anas:Once during the lifetime of Allah's Messenger (ﷺ), the people of Medina suffered from drought. So while the Prophet was delivering a sermon on a Friday a man got up saying, 'O Allah's Messenger (ﷺ)! The horses and sheep have perished. Will you invoke Allah to bless us with rain?' The Prophet (ﷺ) lifted both his hands and invoked. The sky at that time was as clear as glass. Suddenly a wind blew, raising clouds that gathered together, and it started raining heavily. We came out (of the Mosque) wading through the flowing water till we reached our homes. It went on raining till the next Friday, when the same man or some other man stood up and said, 'O Allah's Messenger (ﷺ)! The houses have collapsed; please invoke Allah to withhold the rain.' On that the Prophet (ﷺ) smiled and said, 'O Allah, (let it rain) around us and not on us.' I then looked at the clouds to see them separating forming a sort of a crown round Medina.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 مسدد	noun_prop	مسدد	_	_	مسدد-o	مسدد-o
@@ -9755,7 +9755,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="62.11.3710(169)" id="169" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Companions of the Prophet" chapter_title="The mention of Al-'Abbas رضي الله عنه" translation="Narrated Anas: Whenever there was drought, `Umar bin Al-Khattab used to ask Allah for rain through Al-`Abbas bin `Abdul Muttalib, saying, 'O Allah! We used to request our Prophet to ask You for rain, and You would give us. Now we request the uncle of our Prophet to ask You for rain, so give us rain.' And they would be given rain.'">
+<p n="62.11.3710(p169)" id="p169" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Companions of the Prophet" chapter_title="The mention of Al-'Abbas رضي الله عنه" translation="Narrated Anas: Whenever there was drought, `Umar bin Al-Khattab used to ask Allah for rain through Al-`Abbas bin `Abdul Muttalib, saying, 'O Allah! We used to request our Prophet to ask You for rain, and You would give us. Now we request the uncle of our Prophet to ask You for rain, so give us rain.' And they would be given rain.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 الحسن	noun_prop	حَسَن	_	_	الحسن-o	حَسَن-o
@@ -9828,7 +9828,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="64.54.4091(170)" id="170" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Military Expeditions led by the Prophet" chapter_title="Chapter" translation="Narrated Anas:That the Prophet (ﷺ) sent his uncle, the brother of Um Sulaim at the head of seventy riders. The chief of the pagans, 'Amir bin at-Tufail proposed three suggestions (to the Prophet (ﷺ) ) saying, 'Choose one of three alternatives: (1) that the bedouins will be under your command and the townspeople will be under my command; (2) or that I will be your successor, (3) or otherwise I will attack you with two thousand from Bani Ghatafan.' But 'Amir was infected with plague in the House of Um so-and-so. He said, 'Shall I stay in the house of a lady from the family of so-and-so after having a (swelled) gland like that she-camel? Get me my horse.' So he died on the back of his horse. Then Haram, the brother of Um Sulaim and a lame man along with another man from so-and-so (tribe) went towards the pagans (i.e. the tribe of 'Amir). Haram said (to his companions), 'Stay near to me, for I will go to them. If they (i.e. infidels) should give me protection, you will be near to me, and if they should kill me, then you should go back to your companions. Then Haram went to them and said, 'Will you give me protection so as to convey the message of Allah's Messenger (ﷺ) ?' So, he started talking to them' but they signalled to a man (to kill him) and he went behind him and stabbed him (with a spear). He (i.e. Haram) said, 'Allahu Akbar! I have succeeded, by the Lord of the Ka`ba!' The companion of Haram was pursued by the infidels, and then they (i.e. Haram's companions) were all killed except the lame man who was at the top of a mountain. Then Allah revealed to us a verse that was among the cancelled ones later on. It was: 'We have met our Lord and He is pleased with us and has made us pleased.' (After this event) the Prophet (ﷺ) invoked evil on the infidels every morning for 30 days. He invoked evil upon the (tribes of) Ril, Dhakwan, Bani Lihyan and Usaiya who disobeyed Allah and His Apostle.">
+<p n="64.54.4091(p170)" id="p170" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Military Expeditions led by the Prophet" chapter_title="Chapter" translation="Narrated Anas:That the Prophet (ﷺ) sent his uncle, the brother of Um Sulaim at the head of seventy riders. The chief of the pagans, 'Amir bin at-Tufail proposed three suggestions (to the Prophet (ﷺ) ) saying, 'Choose one of three alternatives: (1) that the bedouins will be under your command and the townspeople will be under my command; (2) or that I will be your successor, (3) or otherwise I will attack you with two thousand from Bani Ghatafan.' But 'Amir was infected with plague in the House of Um so-and-so. He said, 'Shall I stay in the house of a lady from the family of so-and-so after having a (swelled) gland like that she-camel? Get me my horse.' So he died on the back of his horse. Then Haram, the brother of Um Sulaim and a lame man along with another man from so-and-so (tribe) went towards the pagans (i.e. the tribe of 'Amir). Haram said (to his companions), 'Stay near to me, for I will go to them. If they (i.e. infidels) should give me protection, you will be near to me, and if they should kill me, then you should go back to your companions. Then Haram went to them and said, 'Will you give me protection so as to convey the message of Allah's Messenger (ﷺ) ?' So, he started talking to them' but they signalled to a man (to kill him) and he went behind him and stabbed him (with a spear). He (i.e. Haram) said, 'Allahu Akbar! I have succeeded, by the Lord of the Ka`ba!' The companion of Haram was pursued by the infidels, and then they (i.e. Haram's companions) were all killed except the lame man who was at the top of a mountain. Then Allah revealed to us a verse that was among the cancelled ones later on. It was: 'We have met our Lord and He is pleased with us and has made us pleased.' (After this event) the Prophet (ﷺ) invoked evil on the infidels every morning for 30 days. He invoked evil upon the (tribes of) Ril, Dhakwan, Bani Lihyan and Usaiya who disobeyed Allah and His Apostle.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -10042,7 +10042,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="65.30.4774(171)" id="171" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Surat ar-Rum (The Romans)" translation="Narrated Masruq: While a man was delivering a speech in the tribe of Kinda, he said, 'Smoke will prevail on the Day of Resurrection and will deprive the hypocrites their faculties of hearing and seeing. The believers will be afflicted with something like cold only thereof.' That news scared us, so I went to (Abdullah) Ibn Mas`ud while he was reclining (and told him the story) whereupon he became angry, sat up and said, 'He who knows a thing can say, it, but if he does not know, he should say, 'Allah knows best,' for it is an aspect of knowledge to say, 'I do not know,' if you do not know a certain thing. Allah said to His prophet. 'Say (O Muhammad): No wage do I ask of you for this (Qur'an), nor I am one of the pretenders (a person who pretends things which do not exist.)' (38.86) The Qur'aish delayed in embracing Islam for a period, so the Prophet (ﷺ) invoked evil on them, saying, 'O Allah! Help me against them by sending seven years of (famine) like those of Joseph.' So they were afflicted with such a severe year of famine that they were destroyed therein and ate dead animals and bones. They started seeing something like smoke between the sky and the earth (because of severe hunger). Abu Sufyan then came (to the Prophet) and said, 'O Muhammad! You came to order us for to keep good relations with Kith and kin, and your kinsmen have now perished, so please invoke Allah (to relieve them).' Then Ibn Mas`ud recited:-- 'Then watch you for the day that the sky will bring forth a kind of smoke plainly visible....but truly you will return! (to disbelief) (44.10-15) Ibn Mas`ud added, Then the punishment was stopped, but truly, they reverted to heathenism (their old way). So Allah (threatened them thus): 'On the day when we shall seize you with a mighty grasp.' (44.16) And that was the day of the Battle of Badr. Allah's saying- 'Lizama' (the punishment) refers to the day of Badr Allah's Statement: Alif-Lam-Mim, the Romans have been defeated, and they, after their defeat, will be victorious,' (30.1- 3) (This verse): Indicates that the defeat of Byzantine has already passed.">
+<p n="65.30.4774(p171)" id="p171" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Surat ar-Rum (The Romans)" translation="Narrated Masruq: While a man was delivering a speech in the tribe of Kinda, he said, 'Smoke will prevail on the Day of Resurrection and will deprive the hypocrites their faculties of hearing and seeing. The believers will be afflicted with something like cold only thereof.' That news scared us, so I went to (Abdullah) Ibn Mas`ud while he was reclining (and told him the story) whereupon he became angry, sat up and said, 'He who knows a thing can say, it, but if he does not know, he should say, 'Allah knows best,' for it is an aspect of knowledge to say, 'I do not know,' if you do not know a certain thing. Allah said to His prophet. 'Say (O Muhammad): No wage do I ask of you for this (Qur'an), nor I am one of the pretenders (a person who pretends things which do not exist.)' (38.86) The Qur'aish delayed in embracing Islam for a period, so the Prophet (ﷺ) invoked evil on them, saying, 'O Allah! Help me against them by sending seven years of (famine) like those of Joseph.' So they were afflicted with such a severe year of famine that they were destroyed therein and ate dead animals and bones. They started seeing something like smoke between the sky and the earth (because of severe hunger). Abu Sufyan then came (to the Prophet) and said, 'O Muhammad! You came to order us for to keep good relations with Kith and kin, and your kinsmen have now perished, so please invoke Allah (to relieve them).' Then Ibn Mas`ud recited:-- 'Then watch you for the day that the sky will bring forth a kind of smoke plainly visible....but truly you will return! (to disbelief) (44.10-15) Ibn Mas`ud added, Then the punishment was stopped, but truly, they reverted to heathenism (their old way). So Allah (threatened them thus): 'On the day when we shall seize you with a mighty grasp.' (44.16) And that was the day of the Battle of Badr. Allah's saying- 'Lizama' (the punishment) refers to the day of Badr Allah's Statement: Alif-Lam-Mim, the Romans have been defeated, and they, after their defeat, will be victorious,' (30.1- 3) (This verse): Indicates that the defeat of Byzantine has already passed.">
 <s>
 296	digit	296	_	_	296-0	296-0
 .	punc	.	_	_	.-x	.-x
@@ -10256,7 +10256,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="65.2.4821(172)" id="172" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: It (i.e., the imagined smoke) was because, when the Quraish refused to obey the Prophet, he asked Allah to afflict them with years of famine similar to those of (Prophet) Joseph. So they were stricken with famine and fatigue, so much so that they ate even bones. A man would look towards the sky and imagine seeing something like smoke between him and the sky because of extreme fatigue. So Allah revealed:-- 'Then watch you for the Day that the sky will bring forth a kind of smoke plainly visible, covering the people; this is a painfull of torment.' (44.10-11) Then someone (Abu Sufyan) came to Allah's Messenger (ﷺ) and said, 'O Allah's Messenger (ﷺ)! Invoke Allah to send rain for the tribes of Mudar for they are on the verge of destruction.' On that the Prophet (ﷺ) said (astonishingly) 'Shall I invoke Allah) for the tribes of Mudar? Verily, you are a brave man!' But the Prophet prayed for rain and it rained for them. Then the Verse was revealed. 'But truly you will return (to disbelief).' (44.15) (When the famine was over and) they restored prosperity and welfare, they reverted to their ways (of heathenism) whereupon Allah revealed: 'On the Day when We shall seize you with a Mighty Grasp. We will indeed (then) exact retribution.' (44.16) The narrator said, 'That was the day of the Battle of Badr.'">
+<p n="65.2.4821(p172)" id="p172" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: It (i.e., the imagined smoke) was because, when the Quraish refused to obey the Prophet, he asked Allah to afflict them with years of famine similar to those of (Prophet) Joseph. So they were stricken with famine and fatigue, so much so that they ate even bones. A man would look towards the sky and imagine seeing something like smoke between him and the sky because of extreme fatigue. So Allah revealed:-- 'Then watch you for the Day that the sky will bring forth a kind of smoke plainly visible, covering the people; this is a painfull of torment.' (44.10-11) Then someone (Abu Sufyan) came to Allah's Messenger (ﷺ) and said, 'O Allah's Messenger (ﷺ)! Invoke Allah to send rain for the tribes of Mudar for they are on the verge of destruction.' On that the Prophet (ﷺ) said (astonishingly) 'Shall I invoke Allah) for the tribes of Mudar? Verily, you are a brave man!' But the Prophet prayed for rain and it rained for them. Then the Verse was revealed. 'But truly you will return (to disbelief).' (44.15) (When the famine was over and) they restored prosperity and welfare, they reverted to their ways (of heathenism) whereupon Allah revealed: 'On the Day when We shall seize you with a Mighty Grasp. We will indeed (then) exact retribution.' (44.16) The narrator said, 'That was the day of the Battle of Badr.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -10399,7 +10399,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="65.2.4822(173)" id="173" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: It is a sign of having knowledge that, when you do not know something, you say: 'Allah knows better.' Allah said to his Prophet: 'Say: No wage do I ask of you for this (Qur'an), nor am I one of the pretenders (a person who pretends things which do not exist)' (38.86) When the Quraish troubled and stood against the Prophet (ﷺ) he said, 'O Allah! Help me against them by afflicting them with seven years of famine like the seven years of Joseph.' So they were stricken with a year of famine during which they ate bones and dead animals because of too much suffering, and one of them would see something like smoke between him and the sky because of hunger. Then they said: Our Lord! Remove the torment from us, really we are believers. (44.12) And then it was said to the Prophet (by Allah), 'If we remove it from them. they will revert to their ways (of heathenism).' So the Prophet (ﷺ) invoked his Lord, who removed the punishment from them, but later they reverted (to heathenism), whereupon Allah punished them on the day of the Battle of Badr, and that is what Allah's Statement indicates: 'Then watch for the day that the sky will bring forth a kind of smoke plainly visible...we will indeed (then) exact retribution.' (44.10).">
+<p n="65.2.4822(p173)" id="p173" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: It is a sign of having knowledge that, when you do not know something, you say: 'Allah knows better.' Allah said to his Prophet: 'Say: No wage do I ask of you for this (Qur'an), nor am I one of the pretenders (a person who pretends things which do not exist)' (38.86) When the Quraish troubled and stood against the Prophet (ﷺ) he said, 'O Allah! Help me against them by afflicting them with seven years of famine like the seven years of Joseph.' So they were stricken with a year of famine during which they ate bones and dead animals because of too much suffering, and one of them would see something like smoke between him and the sky because of hunger. Then they said: Our Lord! Remove the torment from us, really we are believers. (44.12) And then it was said to the Prophet (by Allah), 'If we remove it from them. they will revert to their ways (of heathenism).' So the Prophet (ﷺ) invoked his Lord, who removed the punishment from them, but later they reverted (to heathenism), whereupon Allah punished them on the day of the Battle of Badr, and that is what Allah's Statement indicates: 'Then watch for the day that the sky will bring forth a kind of smoke plainly visible...we will indeed (then) exact retribution.' (44.10).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -10533,7 +10533,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="65.2.4824(174)" id="174" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: Allah sent (the Prophet) Muhammad and said:-- 'Say, No wage do I ask of you for this (Qur'an) nor am I one of the pretenders (i.e. a person who pretends things which do not exist). (38.68) When Allah's Messenger (ﷺ) saw Quraish standing against him, he said, 'O Allah! Help me against them by afflicting them with seven years of famine similar to the seven years (of famine) of Joseph. So they were afflicted with a year of drought that destroyed everything, and they ate bones and hides. (One of them said), 'And they ate hides and dead animals, and (it seemed to them that) something like smoke was coming out of the earth. So Abu Sufyan came to the Prophet (ﷺ) and said, 'O Muhammad! Your people are on the verge of destruction! Please invoke Allah to relieve them.' So the Prophet (ﷺ) invoked Allah for them (and the famine disappeared). He said to them. 'You will revert (to heathenism) after that.' `Abdullah then recited: 'Then watch you for the Day that the sky will bring forth a kind of smoke plainly visible.......but truly you will revert (to disbelief).' He added, 'Will the punishment be removed from them in the Hereafter? The smoke and the grasp and the Al-Lizam have all passed.' One of the sub-narrater said, 'The splitting of the moon.' And another said, 'The defeat of the Romans (has passed).">
+<p n="65.2.4824(p174)" id="p174" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="Covering the people, this is a painful torment.(V.44:11)" translation="Narrated `Abdullah: Allah sent (the Prophet) Muhammad and said:-- 'Say, No wage do I ask of you for this (Qur'an) nor am I one of the pretenders (i.e. a person who pretends things which do not exist). (38.68) When Allah's Messenger (ﷺ) saw Quraish standing against him, he said, 'O Allah! Help me against them by afflicting them with seven years of famine similar to the seven years (of famine) of Joseph. So they were afflicted with a year of drought that destroyed everything, and they ate bones and hides. (One of them said), 'And they ate hides and dead animals, and (it seemed to them that) something like smoke was coming out of the earth. So Abu Sufyan came to the Prophet (ﷺ) and said, 'O Muhammad! Your people are on the verge of destruction! Please invoke Allah to relieve them.' So the Prophet (ﷺ) invoked Allah for them (and the famine disappeared). He said to them. 'You will revert (to heathenism) after that.' `Abdullah then recited: 'Then watch you for the Day that the sky will bring forth a kind of smoke plainly visible.......but truly you will revert (to disbelief).' He added, 'Will the punishment be removed from them in the Hereafter? The smoke and the grasp and the Al-Lizam have all passed.' One of the sub-narrater said, 'The splitting of the moon.' And another said, 'The defeat of the Romans (has passed).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 بشر	noun	شَرّ	_	_	بشر-n	شَرّ-n
@@ -10685,7 +10685,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="65.4828/4829(175)" id="175" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="(2)The Statement of Allah the Most High: 'Then, when they saw it as a dense cloud coming towards their valleys...' (V.46:24)" translation="Narrated `Aisha: (the wife of the Prophet), I never saw Allah's Messenger (ﷺ) laughing loudly enough to enable me to see his uvula, but he used to smile only. And whenever he saw clouds or winds, signs of deep concern would appear on his face. I said, 'O Allah's Messenger (ﷺ)! When people see clouds they usually feel happy, hoping that it would rain, while I see that when you see clouds, one could notice signs of dissatisfaction on your face.' He said, 'O `Aisha! What is the guarantee for me that there will be no punishment in it, since some people were punished with a wind? Verily, some people saw (received) the punishment, but (while seeing the cloud) they said, 'This cloud will give us rain.' '">
+<p n="65.4828/4829(p175)" id="p175" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))" chapter_title="(2)The Statement of Allah the Most High: 'Then, when they saw it as a dense cloud coming towards their valleys...' (V.46:24)" translation="Narrated `Aisha: (the wife of the Prophet), I never saw Allah's Messenger (ﷺ) laughing loudly enough to enable me to see his uvula, but he used to smile only. And whenever he saw clouds or winds, signs of deep concern would appear on his face. I said, 'O Allah's Messenger (ﷺ)! When people see clouds they usually feel happy, hoping that it would rain, while I see that when you see clouds, one could notice signs of dissatisfaction on your face.' He said, 'O `Aisha! What is the guarantee for me that there will be no punishment in it, since some people were punished with a wind? Verily, some people saw (received) the punishment, but (while seeing the cloud) they said, 'This cloud will give us rain.' '">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أحمد	noun_prop	أَحْمَد	_	_	أحمد-o	أَحْمَد-o
@@ -10800,7 +10800,7 @@
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="75.1.5640(176)" id="176" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Patients" chapter_title="'Sickness is expiation for sins'" translation="Narrated `Aisha: (the wife of the Prophet) Allah's Messenger (ﷺ) said, 'No calamity befalls a Muslim but that Allah expiates some of his sins because of it, even though it were the prick he receives from a thorn.'">
+<p n="75.1.5640(p176)" id="p176" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Patients" chapter_title="'Sickness is expiation for sins'" translation="Narrated `Aisha: (the wife of the Prophet) Allah's Messenger (ﷺ) said, 'No calamity befalls a Muslim but that Allah expiates some of his sins because of it, even though it were the prick he receives from a thorn.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -10859,7 +10859,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="75.1.5644(177)" id="177" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Patients" chapter_title="'Sickness is expiation for sins'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'The example of a believer is that of a fresh tender plant; from whatever direction the wind comes, it bends it, but when the wind becomes quiet, it becomes straight again. Similarly, a believer is afflicted with calamities (but he remains patient till Allah removes his difficulties.) And an impious wicked person is like a pine tree which keeps hard and straight till Allah cuts (breaks) it down when He wishes.'">
+<p n="75.1.5644(p177)" id="p177" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Patients" chapter_title="'Sickness is expiation for sins'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'The example of a believer is that of a fresh tender plant; from whatever direction the wind comes, it bends it, but when the wind becomes quiet, it becomes straight again. Similarly, a believer is afflicted with calamities (but he remains patient till Allah removes his difficulties.) And an impious wicked person is like a pine tree which keeps hard and straight till Allah cuts (breaks) it down when He wishes.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إبراهيم	noun_prop	إِبْراهِيم	_	_	إبراهيم-o	إِبْراهِيم-o
@@ -10936,7 +10936,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5728(178)" id="178" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Saud: The Prophet (ﷺ) said, 'If you hear of an outbreak of plague in a land, do not enter it; but if the plague breaks out in a place while you are in it, do not leave that place.'">
+<p n="76.30.5728(p178)" id="p178" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Saud: The Prophet (ﷺ) said, 'If you hear of an outbreak of plague in a land, do not enter it; but if the plague breaks out in a place while you are in it, do not leave that place.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 حفص	noun_prop	حفص	_	_	حفص-o	حفص-o
@@ -11004,7 +11004,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5729(179)" id="179" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated `Abdullah bin `Abbas: `Umar bin Al-Khattab departed for Sham and when he reached Sargh, the commanders of the (Muslim) army, Abu 'Ubaida bin Al-Jarrah and his companions met him and told him that an epidemic had broken out in Sham. `Umar said, 'Call for me the early emigrants.' So `Umar called them, consulted them and informed them that an epidemic had broken out in Sham. Those people differed in their opinions. Some of them said, 'We have come out for a purpose and we do not think that it is proper to give it up,' while others said (to `Umar), 'You have along with you. other people and the companions of Allah's Messenger (ﷺ) so do not advise that we take them to this epidemic.' `Umar said to them, 'Leave me now.' Then he said, 'Call the Ansar for me.' I called them and he consulted them and they followed the way of the emigrants and differed as they did. He then said to them, Leave me now,' and added, 'Call for me the old people of Quraish who emigrated in the year of the Conquest of Mecca.' I called them and they gave a unanimous opinion saying, 'We advise that you should return with the people and do not take them to that (place) of epidemic.' So `Umar made an announcement, 'I will ride back to Medina in the morning, so you should do the same.' Abu 'Ubaida bin Al-Jarrah said (to `Umar), 'Are you running away from what Allah had ordained?' `Umar said, 'Would that someone else had said such a thing, O Abu 'Ubaida! Yes, we are running from what Allah had ordained to what Allah has ordained. Don't you agree that if you had camels that went down a valley having two places, one green and the other dry, you would graze them on the green one only if Allah had ordained that, and you would graze them on the dry one only if Allah had ordained that?' At that time `Abdur-Rahman bin `Auf, who had been absent because of some job, came and said, 'I have some knowledge about this. I have heard Allah's Messenger (ﷺ) saying, 'If you hear about it (an outbreak of plague) in a land, do not go to it; but if plague breaks out in a country where you are staying, do not run away from it.' ' `Umar thanked Allah and returned to Medina.">
+<p n="76.30.5729(p179)" id="p179" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated `Abdullah bin `Abbas: `Umar bin Al-Khattab departed for Sham and when he reached Sargh, the commanders of the (Muslim) army, Abu 'Ubaida bin Al-Jarrah and his companions met him and told him that an epidemic had broken out in Sham. `Umar said, 'Call for me the early emigrants.' So `Umar called them, consulted them and informed them that an epidemic had broken out in Sham. Those people differed in their opinions. Some of them said, 'We have come out for a purpose and we do not think that it is proper to give it up,' while others said (to `Umar), 'You have along with you. other people and the companions of Allah's Messenger (ﷺ) so do not advise that we take them to this epidemic.' `Umar said to them, 'Leave me now.' Then he said, 'Call the Ansar for me.' I called them and he consulted them and they followed the way of the emigrants and differed as they did. He then said to them, Leave me now,' and added, 'Call for me the old people of Quraish who emigrated in the year of the Conquest of Mecca.' I called them and they gave a unanimous opinion saying, 'We advise that you should return with the people and do not take them to that (place) of epidemic.' So `Umar made an announcement, 'I will ride back to Medina in the morning, so you should do the same.' Abu 'Ubaida bin Al-Jarrah said (to `Umar), 'Are you running away from what Allah had ordained?' `Umar said, 'Would that someone else had said such a thing, O Abu 'Ubaida! Yes, we are running from what Allah had ordained to what Allah has ordained. Don't you agree that if you had camels that went down a valley having two places, one green and the other dry, you would graze them on the green one only if Allah had ordained that, and you would graze them on the dry one only if Allah had ordained that?' At that time `Abdur-Rahman bin `Auf, who had been absent because of some job, came and said, 'I have some knowledge about this. I have heard Allah's Messenger (ﷺ) saying, 'If you hear about it (an outbreak of plague) in a land, do not go to it; but if plague breaks out in a country where you are staying, do not run away from it.' ' `Umar thanked Allah and returned to Medina.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -11314,7 +11314,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5730(180)" id="180" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated `Abdullah bin 'Amir: `Umar went to Sham and when he reached Sargh, he got the news that an epidemic (of plague) had broken out in Sham. `Abdur-Rahman bin `Auf told him that Allah's Messenger (ﷺ) said, 'If you hear that it (plague) has broken out in a land, do not go to it; but if it breaks out in a land where you are present, do not go out escaping from it.'">
+<p n="76.30.5730(p180)" id="p180" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated `Abdullah bin 'Amir: `Umar went to Sham and when he reached Sargh, he got the news that an epidemic (of plague) had broken out in Sham. `Abdur-Rahman bin `Auf told him that Allah's Messenger (ﷺ) said, 'If you hear that it (plague) has broken out in a land, do not go to it; but if it breaks out in a land where you are present, do not go out escaping from it.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -11386,7 +11386,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5731(181)" id="181" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'Neither Messiah (Ad-Dajjal) nor plague will enter Medina.'">
+<p n="76.30.5731(p181)" id="p181" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'Neither Messiah (Ad-Dajjal) nor plague will enter Medina.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -11426,7 +11426,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5732(182)" id="182" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Anas bin Malik: Allah's Messenger (ﷺ) said, '(Death from) plague is martyrdom for every Muslim.'">
+<p n="76.30.5732(p182)" id="p182" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Anas bin Malik: Allah's Messenger (ﷺ) said, '(Death from) plague is martyrdom for every Muslim.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -11478,7 +11478,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.30.5733(183)" id="183" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'He (a Muslim) who dies of an abdominal disease is a martyr, and he who dies of plague is a martyr.'">
+<p n="76.30.5733(p183)" id="p183" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'What has been mentioned about the plague'" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'He (a Muslim) who dies of an abdominal disease is a martyr, and he who dies of plague is a martyr.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -11515,7 +11515,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.31.5734(184)" id="184" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'The reward of a person who suffers from plague and remains patient'" translation="Narrated `Aisha: (the wife of the Prophet) that she asked Allah's Messenger (ﷺ) about plague, and Allah's Messenger (ﷺ) informed her saying, 'Plague was a punishment which Allah used to send on whom He wished, but Allah made it a blessing for the believers. None (among the believers) remains patient in a land in which plague has broken out and considers that nothing will befall him except what Allah has ordained for him, but that Allah will grant him a reward similar to that of a martyr.'">
+<p n="76.31.5734(p184)" id="p184" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Medicine" chapter_title="'The reward of a person who suffers from plague and remains patient'" translation="Narrated `Aisha: (the wife of the Prophet) that she asked Allah's Messenger (ﷺ) about plague, and Allah's Messenger (ﷺ) informed her saying, 'Plague was a punishment which Allah used to send on whom He wished, but Allah made it a blessing for the believers. None (among the believers) remains patient in a land in which plague has broken out and considers that nothing will befall him except what Allah has ordained for him, but that Allah will grant him a reward similar to that of a martyr.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إسحاق	noun_prop	إِسْحاق	_	_	إسحاق-o	إِسْحاق-o
@@ -11618,7 +11618,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="78.68.6093(185)" id="185" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Good Manners and Form (Al-Adab)" chapter_title="Smiling and laughing" translation="Narrated Anas: A man came to the Prophet (ﷺ) on a Friday while he (the Prophet) was delivering a sermon at Medina, and said, 'There is lack of rain, so please invoke your Lord to bless us with the rain.' The Prophet (ﷺ) looked at the sky when no cloud could be detected. Then he invoked Allah for rain. Clouds started gathering together and it rained till the Medina valleys started flowing with water. It continued raining till the next Friday. Then that man (or some other man) stood up while the Prophet (ﷺ) was delivering the Friday sermon, and said, 'We are drowned; Please invoke your Lord to withhold it (rain) from us' The Prophet smiled and said twice or thrice, 'O Allah! Please let it rain round about us and not upon us.' The clouds started dispersing over Medina to the right and to the left, and it rained round about Medina and not upon Medina. Allah showed them (the people) the miracle of His Prophet and His response to his invocation.">
+<p n="78.68.6093(p185)" id="p185" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Good Manners and Form (Al-Adab)" chapter_title="Smiling and laughing" translation="Narrated Anas: A man came to the Prophet (ﷺ) on a Friday while he (the Prophet) was delivering a sermon at Medina, and said, 'There is lack of rain, so please invoke your Lord to bless us with the rain.' The Prophet (ﷺ) looked at the sky when no cloud could be detected. Then he invoked Allah for rain. Clouds started gathering together and it rained till the Medina valleys started flowing with water. It continued raining till the next Friday. Then that man (or some other man) stood up while the Prophet (ﷺ) was delivering the Friday sermon, and said, 'We are drowned; Please invoke your Lord to withhold it (rain) from us' The Prophet smiled and said twice or thrice, 'O Allah! Please let it rain round about us and not upon us.' The clouds started dispersing over Medina to the right and to the left, and it rained round about Medina and not upon Medina. Allah showed them (the people) the miracle of His Prophet and His response to his invocation.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -11769,7 +11769,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="80.28.6347(186)" id="186" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invocations" chapter_title="To seek refuge with Allah from a calamity" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies. Sufyan said, 'This narration contained three items only, but I added one. I do not know which one that was.'">
+<p n="80.28.6347(p186)" id="p186" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Invocations" chapter_title="To seek refuge with Allah from a calamity" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies. Sufyan said, 'This narration contained three items only, but I added one. I do not know which one that was.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 على	prep	عَلَى	_	_	على-p	عَلَى-p
@@ -11827,7 +11827,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="82.13.6616(187)" id="187" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Divine Will (al-Qadar)" chapter_title="Refuge with Allah from having an evil end of the worldly life and having a bad fate" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'Take refuge with Allah from the difficulties of severe calamities, from having an evil end and a bad fate and from the malicious joy of your enemies.'">
+<p n="82.13.6616(p187)" id="p187" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Divine Will (al-Qadar)" chapter_title="Refuge with Allah from having an evil end of the worldly life and having a bad fate" translation="Narrated Abu Huraira: The Prophet (ﷺ) said, 'Take refuge with Allah from the difficulties of severe calamities, from having an evil end and a bad fate and from the malicious joy of your enemies.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 مسدد	noun_prop	مسدد	_	_	مسدد-o	مسدد-o
@@ -11872,7 +11872,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="82.15.6619(188)" id="188" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Divine Will (al-Qadar)" chapter_title="'Nothing shall ever happen to us except what Allah has ordained for us ...'" translation="Narrated `Aisha: I asked Allah's Messenger (ﷺ) about the plague. He said, 'That was a means of torture which Allah used to send upon whom-so-ever He wished, but He made it a source of mercy for the believers, for anyone who is residing in a town in which this disease is present, and remains there and does not leave that town, but has patience and hopes for Allah's reward, and knows that nothing will befall him except what Allah has written for him, then he will get such reward as that of a martyr.'">
+<p n="82.15.6619(p188)" id="p188" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Divine Will (al-Qadar)" chapter_title="'Nothing shall ever happen to us except what Allah has ordained for us ...'" translation="Narrated `Aisha: I asked Allah's Messenger (ﷺ) about the plague. He said, 'That was a means of torture which Allah used to send upon whom-so-ever He wished, but He made it a source of mercy for the believers, for anyone who is residing in a town in which this disease is present, and remains there and does not leave that town, but has patience and hopes for Allah's reward, and knows that nothing will befall him except what Allah has written for him, then he will get such reward as that of a martyr.'">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 إسحاق	noun_prop	إِسْحاق	_	_	إسحاق-o	إِسْحاق-o
@@ -11972,7 +11972,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="90.13.6973(189)" id="189" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Tricks" chapter_title="'Playing tricks to run from the disease of plague'" translation="Narrated `Abdullah bin 'Amir bin Rabi`a: `Umar bin Al-Khattab left for Sham, and when he reached a placed called Sargh, he came to know that there was an outbreak of an epidemic (of plague) in Sham. Then `AbdurRahman bin `Auf told him that Allah's Messenger (ﷺ) said, 'If you hear the news of an outbreak of an epidemic (plague) in a certain place, do not enter that place: and if the epidemic falls in a place while you are present in it, do not leave that place to escape from the epidemic.' So `Umar returned from Sargh.">
+<p n="90.13.6973(p189)" id="p189" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Tricks" chapter_title="'Playing tricks to run from the disease of plague'" translation="Narrated `Abdullah bin 'Amir bin Rabi`a: `Umar bin Al-Khattab left for Sham, and when he reached a placed called Sargh, he came to know that there was an outbreak of an epidemic (of plague) in Sham. Then `AbdurRahman bin `Auf told him that Allah's Messenger (ﷺ) said, 'If you hear the news of an outbreak of an epidemic (plague) in a certain place, do not enter that place: and if the epidemic falls in a place while you are present in it, do not leave that place to escape from the epidemic.' So `Umar returned from Sargh.">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -12070,7 +12070,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="90.13.6974(190)" id="190" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Tricks" chapter_title="'Playing tricks to run from the disease of plague'" translation="Narrated 'Amir bin Sa`d bin Abi Waqqas: That he heard Usama bin Zaid speaking to Sa`d, saying, 'Allah's Messenger (ﷺ) mentioned the plague and said, 'It is a means of punishment with which some nations were punished and some of it has remained, and it appears now and then. So whoever hears that there is an outbreak of plague in some land, he should not go to that land, and if the plague breaks out in the land where one is already present, one should not run away from that land, escaping from the plague.'">
+<p n="90.13.6974(p190)" id="p190" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Tricks" chapter_title="'Playing tricks to run from the disease of plague'" translation="Narrated 'Amir bin Sa`d bin Abi Waqqas: That he heard Usama bin Zaid speaking to Sa`d, saying, 'Allah's Messenger (ﷺ) mentioned the plague and said, 'It is a means of punishment with which some nations were punished and some of it has remained, and it appears now and then. So whoever hears that there is an outbreak of plague in some land, he should not go to that land, and if the plague breaks out in the land where one is already present, one should not run away from that land, escaping from the plague.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -12148,7 +12148,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="91.41.6983(191)" id="191" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'If one sees in a dream that he takes something and places it at another place'" translation="The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling at Mahai'a, i.e., Al-Juhfa. I interpreted that as a symbol of epidemic of Medina being transferred to that place (Al-Juhfa).">
+<p n="91.41.6983(p191)" id="p191" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'If one sees in a dream that he takes something and places it at another place'" translation="The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling at Mahai'a, i.e., Al-Juhfa. I interpreted that as a symbol of epidemic of Medina being transferred to that place (Al-Juhfa).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إسماعيل	noun_prop	إِسْماعِيل	_	_	إسماعيل-o	إِسْماعِيل-o
@@ -12214,7 +12214,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="91.41.7038(192)" id="192" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'If one sees in a dream that he takes something and places it at another place'" translation="Narrated `Abdullah: The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling at Mahai'a, i.e., Al-Juhfa. I interpreted that as a symbol of epidemic of Medina being transferred to that place (Al-Juhfa).">
+<p n="91.41.7038(p192)" id="p192" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'If one sees in a dream that he takes something and places it at another place'" translation="Narrated `Abdullah: The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling at Mahai'a, i.e., Al-Juhfa. I interpreted that as a symbol of epidemic of Medina being transferred to that place (Al-Juhfa).">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إسماعيل	noun_prop	إِسْماعِيل	_	_	إسماعيل-o	إِسْماعِيل-o
@@ -12281,7 +12281,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="91.43.7040(193)" id="193" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'A lady with unkempt hair (in a dream)'" translation="Narrated Salim's father: The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling in Mahai'a. I interpreted that as (a symbol of) epidemic of Medina being transferred to Mahai'a, namely, Al-Juhfa.'">
+<p n="91.43.7040(p193)" id="p193" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Interpretation of Dreams" chapter_title="'A lady with unkempt hair (in a dream)'" translation="Narrated Salim's father: The Prophet (ﷺ) said, 'I saw (in a dream) a black woman with unkempt hair going out of Medina and settling in Mahai'a. I interpreted that as (a symbol of) epidemic of Medina being transferred to Mahai'a, namely, Al-Juhfa.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إبراهيم	noun_prop	إِبْراهِيم	_	_	إبراهيم-o	إِبْراهِيم-o
@@ -12344,7 +12344,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="92.17.7097(194)" id="194" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Al-Fitnah that will move like the waves of the sea'" translation="Narrated Abu Musa Al-Ash`ari: The Prophet (ﷺ) went out to one of the gardens of Medina for some business and I went out to follow him. When he entered the garden, I sat at its gate and said to myself, 'To day I will be the gatekeeper of the Prophet though he has not ordered me.' The Prophet (ﷺ) went and finished his need and went to sit on the constructed edge of the well and uncovered his legs and hung them in the well. In the meantime Abu Bakr came and asked permission to enter. I said (to him), 'Wait till I get you permission.' Abu Bakr waited outside and I went to the Prophet (ﷺ) and said, 'O Allah's Prophet! Abu Bakr asks your permission to enter.' He said, 'Admit him, and give him the glad tidings of entering Paradise.' So Abu Bakr entered and sat on the right side of the Prophet (ﷺ) and uncovered his legs and hung them in the well. Then `Umar came and I said (to him), 'Wait till I get you permission.' The Prophet (ﷺ) said, 'Admit him and give him the glad tidings of entering Paradise.' So `Umar entered and sat on the left side of the Prophet and uncovered his legs and hung them in the well so that one side of the well became fully occupied and there remained no place for any-one to sit. Then `Uthman came and I said (to him), 'Wait till I get permission for you.' The Prophet (ﷺ) said, 'Admit him and give him the glad tidings of entering Paradise with a calamity which will befall him.' When he entered, he could not find any place to sit with them so he went to the other edge of the well opposite them and uncovered his legs and hung them in the well. I wished that a brother of mine would come, so I invoked Allah for his coming. (Ibn Al-Musaiyab said, 'I interpreted that (narration) as indicating their graves. The first three are together and the grave of `Uthman is separate from theirs.')">
+<p n="92.17.7097(p194)" id="p194" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Al-Fitnah that will move like the waves of the sea'" translation="Narrated Abu Musa Al-Ash`ari: The Prophet (ﷺ) went out to one of the gardens of Medina for some business and I went out to follow him. When he entered the garden, I sat at its gate and said to myself, 'To day I will be the gatekeeper of the Prophet though he has not ordered me.' The Prophet (ﷺ) went and finished his need and went to sit on the constructed edge of the well and uncovered his legs and hung them in the well. In the meantime Abu Bakr came and asked permission to enter. I said (to him), 'Wait till I get you permission.' Abu Bakr waited outside and I went to the Prophet (ﷺ) and said, 'O Allah's Prophet! Abu Bakr asks your permission to enter.' He said, 'Admit him, and give him the glad tidings of entering Paradise.' So Abu Bakr entered and sat on the right side of the Prophet (ﷺ) and uncovered his legs and hung them in the well. Then `Umar came and I said (to him), 'Wait till I get you permission.' The Prophet (ﷺ) said, 'Admit him and give him the glad tidings of entering Paradise.' So `Umar entered and sat on the left side of the Prophet and uncovered his legs and hung them in the well so that one side of the well became fully occupied and there remained no place for any-one to sit. Then `Uthman came and I said (to him), 'Wait till I get permission for you.' The Prophet (ﷺ) said, 'Admit him and give him the glad tidings of entering Paradise with a calamity which will befall him.' When he entered, he could not find any place to sit with them so he went to the other edge of the well opposite them and uncovered his legs and hung them in the well. I wished that a brother of mine would come, so I invoked Allah for his coming. (Ibn Al-Musaiyab said, 'I interpreted that (narration) as indicating their graves. The first three are together and the grave of `Uthman is separate from theirs.')">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 سعيد	noun_prop	سَعِيد	_	_	سعيد-o	سَعِيد-o
@@ -12602,7 +12602,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="92.19.7108(195)" id="195" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'If Allah sends a punishment upon a nation'" translation="Narrated Ibn `Umar: Allah's Messenger (ﷺ) said, 'If Allah sends punishment upon a nation then it befalls upon the whole population indiscriminately and then they will be resurrected (and judged) according to their deeds. '">
+<p n="92.19.7108(p195)" id="p195" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'If Allah sends a punishment upon a nation'" translation="Narrated Ibn `Umar: Allah's Messenger (ﷺ) said, 'If Allah sends punishment upon a nation then it befalls upon the whole population indiscriminately and then they will be resurrected (and judged) according to their deeds. '">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -12664,7 +12664,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="92.26.7124(196)" id="196" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Information about Ad-Dajjal'" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'Ad-Dajjal will come and encamp at a place close to Medina and then Medina will shake thrice whereupon every Kafir (disbeliever) and hypocrite will go out (of Medina) towards him.'">
+<p n="92.26.7124(p196)" id="p196" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Information about Ad-Dajjal'" translation="Narrated Anas bin Malik: The Prophet (ﷺ) said, 'Ad-Dajjal will come and encamp at a place close to Medina and then Medina will shake thrice whereupon every Kafir (disbeliever) and hypocrite will go out (of Medina) towards him.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 سعد	noun_prop	سَعْد	_	_	سعد-o	سَعْد-o
@@ -12722,7 +12722,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="92.27.7133(197)" id="197" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Ad-Dajjal will not be able to enter Al-Madina'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'There are angels at the mountain passes of Medina (so that) neither plague nor Ad-Dajjal can enter it.'">
+<p n="92.27.7133(p197)" id="p197" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Ad-Dajjal will not be able to enter Al-Madina'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'There are angels at the mountain passes of Medina (so that) neither plague nor Ad-Dajjal can enter it.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -12767,7 +12767,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="92.27.7134(198)" id="198" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Ad-Dajjal will not be able to enter Al-Madina'" translation="Narrated Anas bin Malik:The Prophet (ﷺ) said, 'Ad-Dajjal will come to Medina and find the angels guarding it. So Allah willing, neither Ad-Dajjal, nor plague will be able to come near it.'">
+<p n="92.27.7134(p198)" id="p198" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Afflictions and the End of the world" chapter_title="'Ad-Dajjal will not be able to enter Al-Madina'" translation="Narrated Anas bin Malik:The Prophet (ﷺ) said, 'Ad-Dajjal will come to Medina and find the angels guarding it. So Allah willing, neither Ad-Dajjal, nor plague will be able to come near it.'">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يحيى	noun_prop	يَحْيَى	_	_	يحيى-o	يَحْيَى-o
@@ -12820,7 +12820,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="93.48.7212(199)" id="199" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Judgments (Ahkaam)" chapter_title="'The person who gives Bai'a just for worldly benefits'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'There will be three types of people whom Allah will neither speak to them on the Day of Resurrection nor will purify them from sins, and they will have a painful punishment: They are, (1) a man possessed superfluous water (more than he needs) on a way and he withholds it from the travelers. (2) a man who gives a pledge of allegiance to an Imam (ruler) and gives it only for worldly benefits, if the Imam gives him what he wants, he abides by his pledge, otherwise he does not fulfill his pledge; (3) and a man who sells something to another man after the `Asr prayer and swears by Allah (a false oath) that he has been offered so much for it whereupon the buyer believes him and buys it although in fact, the seller has not been offered such a price.'">
+<p n="93.48.7212(p199)" id="p199" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Judgments (Ahkaam)" chapter_title="'The person who gives Bai'a just for worldly benefits'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'There will be three types of people whom Allah will neither speak to them on the Day of Resurrection nor will purify them from sins, and they will have a painful punishment: They are, (1) a man possessed superfluous water (more than he needs) on a way and he withholds it from the travelers. (2) a man who gives a pledge of allegiance to an Imam (ruler) and gives it only for worldly benefits, if the Imam gives him what he wants, he abides by his pledge, otherwise he does not fulfill his pledge; (3) and a man who sells something to another man after the `Asr prayer and swears by Allah (a false oath) that he has been offered so much for it whereupon the buyer believes him and buys it although in fact, the seller has not been offered such a price.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 عبدان	noun	عَبْد	_	_	عبدان-n	عَبْد-n
@@ -12916,7 +12916,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="97.31.7466(200)" id="200" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Oneness, Uniqueness of Allah (Tawheed)" chapter_title="'(Allah’s) Wish and Will'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'The example of a believer is that of a fresh green plant the leaves of which move in whatever direction the wind forces them to move and when the wind becomes still, it stand straight. Such is the similitude of the believer: He is disturbed by calamities (but is like the fresh plant he regains his normal state soon). And the example of a disbeliever is that of a pine tree (which remains) hard and straight till Allah cuts it down when He will.'">
+<p n="97.31.7466(p200)" id="p200" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Oneness, Uniqueness of Allah (Tawheed)" chapter_title="'(Allah’s) Wish and Will'" translation="Narrated Abu Huraira: Allah's Messenger (ﷺ) said, 'The example of a believer is that of a fresh green plant the leaves of which move in whatever direction the wind forces them to move and when the wind becomes still, it stand straight. Such is the similitude of the believer: He is disturbed by calamities (but is like the fresh plant he regains his normal state soon). And the example of a disbeliever is that of a pine tree (which remains) hard and straight till Allah cuts it down when He will.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -12989,7 +12989,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="97.31.7473(201)" id="201" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Oneness, Uniqueness of Allah (Tawheed)" chapter_title="'(Allah’s) Wish and Will'" translation="Narrated Anas bin Malik: Allah's Messenger (ﷺ) said, 'Ad-Dajjal will come to Medina and find the angels guarding it. If Allah will, neither Ad-Dajjal nor plague will be able to come near it.'">
+<p n="97.31.7473(p201)" id="p201" book_title="Ṣaḥīḥ al-Bukhārī" section_title="Oneness, Uniqueness of Allah (Tawheed)" chapter_title="'(Allah’s) Wish and Will'" translation="Narrated Anas bin Malik: Allah's Messenger (ﷺ) said, 'Ad-Dajjal will come to Medina and find the angels guarding it. If Allah will, neither Ad-Dajjal nor plague will be able to come near it.'">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 إسحاق	noun_prop	إِسْحاق	_	_	إسحاق-o	إِسْحاق-o
@@ -13044,7 +13044,7 @@
 </p>
 </book>
 <text type="book" book_type="history" n="4" book_title="Tārīḫ al-Rasūl wa-l-Mulūk">
-<p n="1.(202)" id="202" pages="74" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="القول في ابتداء الخلق ما كان اوله" subchapter_title="القول في الليل والنهار أيهما خلق قبل صاحبه">
+<p n="1.(p202)" id="p202" pages="74" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="القول في ابتداء الخلق ما كان اوله" subchapter_title="القول في الليل والنهار أيهما خلق قبل صاحبه">
 <s>
 فإذا	conj	إِذا	_	_	فإذا-c	إِذا-c
 نفخ	verb	نَفَخ	_	_	نفخ-v	نَفَخ-v
@@ -13137,7 +13137,7 @@
 !	punc	!	_	_	!-x	!-x
 </s>
 </p>
-<p n="1.(203)" id="203" pages="225" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="ذكر الاحداث التي كانت في عهد نوح ع" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
+<p n="1.(p203)" id="p203" pages="225" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="ذكر الاحداث التي كانت في عهد نوح ع" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -13292,7 +13292,7 @@
 ،	punc	،	_	_	،-x	،-x
 </s>
 </p>
-<p n="1.(204)" id="204" pages="380,381,382" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="منوشهر وأسبابه والحوادث الكائنة في زمانه" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
+<p n="1.(p204)" id="p204" pages="380,381,382" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="منوشهر وأسبابه والحوادث الكائنة في زمانه" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
 <s>
 وقيل	verb	قال	_	_	وقيل-v	قال-v
 أنه	conj_sub	أَنَّ	_	_	أنه-k	أَنَّ-k
@@ -13845,7 +13845,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(205)" id="205" pages="484,485" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="ذكر خبر داود بن ايشى بن عويد بن باعز بن سلمون بن نحشون بن عمى نادب بن رام بن حصرون بن فارص بن يهوذا بن يعقوب بن إسحاق بن ابراهيم" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
+<p n="1.(p205)" id="p205" pages="484,485" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الأول" chapter_title="ذكر خبر داود بن ايشى بن عويد بن باعز بن سلمون بن نحشون بن عمى نادب بن رام بن حصرون بن فارص بن يهوذا بن يعقوب بن إسحاق بن ابراهيم" subchapter_title="ذكر الاحداث التي كانت بين نوح وابراهيم خليل الرحمن ع">
 <s>
 ويزعم	verb	زَعَم	_	_	ويزعم-v	زَعَم-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -14365,7 +14365,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(206)" id="206" pages="95,96,97" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="ذكر ملك قباذ بن فيروز" subchapter_title="ذكر ما كان من الحوادث التي كانت بين العرب في ايام قباذ في مملكته وبين عماله">
+<p n="2.(p206)" id="p206" pages="95,96,97" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="ذكر ملك قباذ بن فيروز" subchapter_title="ذكر ما كان من الحوادث التي كانت بين العرب في ايام قباذ في مملكته وبين عماله">
 <s>
 وحدثت	verb	حَدَث	_	_	وحدثت-v	حَدَث-v
 عن	prep	عَن	_	_	عن-p	عَن-p
@@ -15145,7 +15145,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(207)" id="207" pages="284,285" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="القول في السيرة النبوية" subchapter_title="ذكر باقى الاخبار عن الكائن من امر رسول الله ص قبل ان ينبأ، وما كان بين مولده ووقت نبوته من الاحداث في بلده">
+<p n="2.(p207)" id="p207" pages="284,285" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="القول في السيرة النبوية" subchapter_title="ذكر باقى الاخبار عن الكائن من امر رسول الله ص قبل ان ينبأ، وما كان بين مولده ووقت نبوته من الاحداث في بلده">
 <s>
 فكان	verb	كان	_	_	فكان-v	كان-v
 أول	adj	أَوَّل	_	_	أول-a	أَوَّل-a
@@ -15440,7 +15440,7 @@
 وملحد	noun	مُلْحِد	_	_	وملحد-n	مُلْحِد-n
 </s>
 </p>
-<p n="2.(208)" id="208" pages="363,364" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="القول في السيرة النبوية" subchapter_title="ذكر الخبر عما كان من امر نبى الله ص عند ابتداء الله تعالى ذكره اياه بإكرامه بإرسال جبريل ع اليه بوحيه'&gt;">
+<p n="2.(p208)" id="p208" pages="363,364" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="القول في السيرة النبوية" subchapter_title="ذكر الخبر عما كان من امر نبى الله ص عند ابتداء الله تعالى ذكره اياه بإكرامه بإرسال جبريل ع اليه بوحيه'&gt;">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -15599,7 +15599,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(209)" id="209" pages="475" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="ذكر بقية ما كان في السنه الثانيه من سنى الهجره'&gt;" subchapter_title="ذكر وقعه بدر الكبرى'&gt;">
+<p n="2.(p209)" id="p209" pages="475" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="ذكر بقية ما كان في السنه الثانيه من سنى الهجره'&gt;" subchapter_title="ذكر وقعه بدر الكبرى'&gt;">
 <s>
 فلما	conj	لَمّا	_	_	فلما-c	لَمّا-c
 كان	verb	كان	_	_	كان-v	كان-v
@@ -15701,7 +15701,7 @@
 »	punc	»	_	_	»-x	»-x
 </s>
 </p>
-<p n="2.(210)" id="210" pages="531,532,533" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="السنه الثالثه من الهجره" subchapter_title="غزوه احد">
+<p n="2.(p210)" id="p210" pages="531,532,533" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثاني" chapter_title="السنه الثالثه من الهجره" subchapter_title="غزوه احد">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -16267,7 +16267,7 @@
 والرسول	noun	رَسُول	_	_	والرسول-n	رَسُول-n
 </s>
 </p>
-<p n="3.(211)" id="211" pages="32,33" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثمان من الهجره" subchapter_title="غزوه الخبط">
+<p n="3.(p211)" id="p211" pages="32,33" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثمان من الهجره" subchapter_title="غزوه الخبط">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 الواقدي	noun_prop	الواقدي	_	_	الواقدي-o	الواقدي-o
@@ -16538,7 +16538,7 @@
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(212)" id="212" pages="276,277,278,279,280" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر البطاح وخبره">
+<p n="3.(p212)" id="p212" pages="276,277,278,279,280" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر البطاح وخبره">
 <s>
 كتب	verb	كَتَب	_	_	كتب-v	كَتَب-v
 إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
@@ -17950,7 +17950,7 @@
 الأزور	noun	أَزْوَر	_	_	الأزور-n	أَزْوَر-n
 </s>
 </p>
-<p n="3.(213)" id="213" pages="281,282,283,284,285,286,287 ,288,289,290" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
+<p n="3.(p213)" id="p213" pages="281,282,283,284,285,286,287 ,288,289,290" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
 <s>
 كتب	verb	كَتَب	_	_	كتب-v	كَتَب-v
 إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
@@ -20915,7 +20915,7 @@
 !	punc	!	_	_	!-x	!-x
 </s>
 </p>
-<p n="3.(214)" id="214" pages="291,292,293,294,295,296,297" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
+<p n="3.(p214)" id="p214" pages="291,292,293,294,295,296,297" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -22902,7 +22902,7 @@
 أعلم	verb	عَلِم	_	_	أعلم-v	عَلِم-v
 </s>
 </p>
-<p n="3.(215)" id="215" pages="297,298" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
+<p n="3.(p215)" id="p215" pages="297,298" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="حوادث السنة الحادية العشرة بعد وفاة رسول الله" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -23319,7 +23319,7 @@
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
 </s>
 </p>
-<p n="3.(216)" id="216" pages="413,414" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثلاث عشره" subchapter_title="ذكر بقية خبر مسيلمه الكذاب وقومه من اهل اليمامه">
+<p n="3.(p216)" id="p216" pages="413,414" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثلاث عشره" subchapter_title="خبر اليرموك">
 <s>
 وملكت	verb	مَلَك	_	_	وملكت-v	مَلَك-v
 ازرميدخت	noun_prop	ازرميدخت	_	_	ازرميدخت-o	ازرميدخت-o
@@ -23474,7 +23474,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(217)" id="217" pages="460,461,462,463,464,465,466,467,468,469,470,471,472" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثلاث عشره" subchapter_title="البويب">
+<p n="3.(p217)" id="p217" pages="460,461,462,463,464,465,466,467,468,469,470,471,472" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه ثلاث عشره" subchapter_title="البويب">
 <s>
 كتب	verb	كَتَب	_	_	كتب-v	كَتَب-v
 إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
@@ -27478,7 +27478,7 @@ l	foreign	l	_	_	l-2	l-2
 حارثه	noun	حارِث	_	_	حارثه-n	حارِث-n
 </s>
 </p>
-<p n="3.(218)" id="218" pages="542,543,544,545,546,547,548,549,550" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه اربع عشره" subchapter_title="‌‌يوم أغواث">
+<p n="3.(p218)" id="p218" pages="542,543,544,545,546,547,548,549,550" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه اربع عشره" subchapter_title="‌‌يوم أغواث">
 <s>
 كتب	verb	كَتَب	_	_	كتب-v	كَتَب-v
 إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
@@ -29790,7 +29790,7 @@ l	foreign	l	_	_	l-2	l-2
 أبدا	noun	أَبَد	_	_	أبدا-n	أَبَد-n
 </s>
 </p>
-<p n="3.(219)" id="219" pages="613,614,615,616,617,618,619" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه خمس عشره" subchapter_title="‌‌ذكر فرض العطاء وعمل الديوان">
+<p n="3.(p219)" id="p219" pages="613,614,615,616,617,618,619" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الثالث" chapter_title="سنه خمس عشره" subchapter_title="‌‌ذكر فرض العطاء وعمل الديوان">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -31594,7 +31594,7 @@ l	foreign	l	_	_	l-2	l-2
 ولجب	adj	لَجِب	_	_	ولجب-a	لَجِب-a
 </s>
 </p>
-<p n="4.(220)" id="220" pages="56,57,58,59,60,61,62,63" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه سبع عشرة" subchapter_title=".‌‌ خروج عمر بن الخطاب الى">
+<p n="4.(p220)" id="p220" pages="56,57,58,59,60,61,62,63" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه سبع عشرة" subchapter_title=".‌‌ خروج عمر بن الخطاب الى">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -33902,7 +33902,7 @@ l	foreign	l	_	_	l-2	l-2
 ذكره	verb	ذَكَر	_	_	ذكره-v	ذَكَر-v
 </s>
 </p>
-<p n="4.(221)" id="221" pages="96,97,98,99,100,101" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ثمان عشرة" subchapter_title="ذكر القحط وعام الرمادة">
+<p n="4.(p221)" id="p221" pages="96,97,98,99,100,101" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ثمان عشرة" subchapter_title="ذكر القحط وعام الرمادة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -35587,7 +35587,7 @@ l	foreign	l	_	_	l-2	l-2
 عشره	noun	عَشَرَة	_	_	عشره-n	عَشَرَة-n
 </s>
 </p>
-<p n="4.(222)" id="222" pages="142" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنة احدى وعشرين" subchapter_title="ذكر الخبر عن أصبهان">
+<p n="4.(p222)" id="p222" pages="142" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنة احدى وعشرين" subchapter_title="ذكر الخبر عن أصبهان">
 <s>
 فدخل	verb	دَخَل	_	_	فدخل-v	دَخَل-v
 عمر	noun_prop	عُمَر	_	_	عمر-o	عُمَر-o
@@ -35824,7 +35824,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(223)" id="223" pages="477,478,479,480,481,482,483,484,485,486,487" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ست وثلاثين" subchapter_title="ذكر الخبر عن مسير علي بن أبي طالب نحو البصرة">
+<p n="4.(p223)" id="p223" pages="477,478,479,480,481,482,483,484,485,486,487" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ست وثلاثين" subchapter_title="ذكر الخبر عن مسير علي بن أبي طالب نحو البصرة">
 <s>
 مما	prep	مِن	_	_	مما-p	مِن-p
 كتب	verb	كَتَب	_	_	كتب-v	كَتَب-v
@@ -37177,7 +37177,7 @@ l	foreign	l	_	_	l-2	l-2
 ما	pron_rel	ما	_	_	ما-g	ما-g
 أصاب	verb	أَصاب	_	_	أصاب-v	أَصاب-v
 من	prep	مِن	_	_	من-p	مِن-p
-مصيبة	noun	مُصِيبَة	catastrophe:divine, unspecified	calamity	مصيبة-n	مُصِيبَة-n
+مصيبة	noun	مُصِيبَة	catastrophe:divine,unspecified	calamity	مصيبة-n	مُصِيبَة-n
 في	prep	فِي	_	_	في-p	فِي-p
 الأرض	noun	أَرْض	_	_	الأرض-n	أَرْض-n
 ولا	part_neg	لا	_	_	ولا-e	لا-e
@@ -39392,7 +39392,7 @@ l	foreign	l	_	_	l-2	l-2
 عنه	prep	عَن	_	_	عنه-p	عَن-p
 </s>
 </p>
-<p n="4.(224)" id="224" pages="538" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ست وثلاثين" subchapter_title="يوم ارماث">
+<p n="4.(p224)" id="p224" pages="538" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الرابع" chapter_title="سنه ست وثلاثين" subchapter_title="يوم ارماث">
 <s>
 قول	noun	قَوْل	_	_	قول-n	قَوْل-n
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -39475,7 +39475,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="(225)" id="225" pages="84,85" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه سبع وثلاثين" subchapter_title="ذكر ما كان من خبر الخوارج عند توجيه على الحكم للحكومة وخبر يوم النهر">
+<p n="(p225)" id="p225" pages="84,85" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه سبع وثلاثين" subchapter_title="ذكر ما كان من خبر الخوارج عند توجيه على الحكم للحكومة وخبر يوم النهر">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -40018,7 +40018,7 @@ l	foreign	l	_	_	l-2	l-2
 07	digit	07	_	_	07-0	07-0
 </s>
 </p>
-<p n="(226)" id="226" pages="103,104" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه ثمان وثلاثين" subchapter_title="ذكر ما كان فيها من الاحداث">
+<p n="(p226)" id="p226" pages="103,104" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه ثمان وثلاثين" subchapter_title="ذكر ما كان فيها من الاحداث">
 <s>
 واستقبل	verb	ٱِسْتَقْبَل	_	_	واستقبل-v	ٱِسْتَقْبَل-v
 عمرو	noun_prop	عَمْرو	_	_	عمرو-o	عَمْرو-o
@@ -40341,7 +40341,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="(227)" id="227" pages="461" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه احدى وستين" subchapter_title="مقتل الحسين رضوان الله عليه">
+<p n="(p227)" id="p227" pages="461" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه احدى وستين" subchapter_title="مقتل الحسين رضوان الله عليه">
 <s>
 «	punc	«	_	_	«-x	«-x
 ما	pron_rel	ما	_	_	ما-g	ما-g
@@ -40443,7 +40443,7 @@ l	foreign	l	_	_	l-2	l-2
 هكذا	conj	هٰكَذا	_	_	هكذا-c	هٰكَذا-c
 </s>
 </p>
-<p n="(228)" id="228" pages="464" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه احدى وستين" subchapter_title="مقتل الحسين رضوان الله عليه">
+<p n="(p228)" id="p228" pages="464" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه احدى وستين" subchapter_title="مقتل الحسين رضوان الله عليه">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 أنهن	conj_sub	أَنَّ	_	_	أنهن-k	أَنَّ-k
@@ -40604,11 +40604,11 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="(229)" id="229" pages="514" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه اربع وستين" subchapter_title="ذكر الخبر عما كان من امر عبيد الله بن زياد وامر اهل البصره معه بها بعد موت يزيد">
+<p n="(p229)" id="p229" pages="514" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل الخامس" chapter_title="سنه اربع وستين" subchapter_title="ذكر الخبر عما كان من امر عبيد الله بن زياد وامر اهل البصره معه بها بعد موت يزيد">
 <s>
 </s>
 </p>
-<p n="6.(230)" id="230" pages="13" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ست وستين" subchapter_title="ذكر الخبر عما كان من امرهما في ذلك وظهور المختار للدعوة إلى ما دعا اليه الشيعة بالكوفه:">
+<p n="6.(p230)" id="p230" pages="13" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ست وستين" subchapter_title="ذكر الخبر عما كان من امرهما في ذلك وظهور المختار للدعوة إلى ما دعا اليه الشيعة بالكوفه:">
 <s>
 فأجمع	verb	جَمَع	_	_	فأجمع-v	جَمَع-v
 رأيهم	noun	رَأْي	_	_	رأيهم-n	رَأْي-n
@@ -40825,7 +40825,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(231)" id="231" pages="98,99" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه سبع وستين" subchapter_title="ذكر خبر قتل مصعب المختار بن ابى عبيد">
+<p n="6.(p231)" id="p231" pages="98,99" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه سبع وستين" subchapter_title="ذكر خبر قتل مصعب المختار بن ابى عبيد">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -41160,7 +41160,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(232)" id="232" pages="166,167,168" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه احدى وسبعين" subchapter_title="خطبه عبد الله بن الزبير بعد مقتل مصعب">
+<p n="6.(p232)" id="p232" pages="166,167,168" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه احدى وسبعين" subchapter_title="خطبه عبد الله بن الزبير بعد مقتل مصعب">
 <s>
 وذكر	verb	ذَكَر	_	_	وذكر-v	ذَكَر-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -41640,7 +41640,7 @@ l	foreign	l	_	_	l-2	l-2
 دخلت	verb	دَخَل	_	_	دخلت-v	دَخَل-v
 </s>
 </p>
-<p n="6.(233)" id="233" pages="211,212,213" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه خمس وسبعين" subchapter_title="نفى المهلب وابن مخنف الأزارقة عن رامهرمز">
+<p n="6.(p233)" id="p233" pages="211,212,213" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه خمس وسبعين" subchapter_title="نفى المهلب وابن مخنف الأزارقة عن رامهرمز">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -42423,7 +42423,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(234)" id="234" pages="325" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ثمانين" subchapter_title="(ذكر الأحداث الجليلة التي كانت في هذه السنة)">
+<p n="6.(p234)" id="p234" pages="325" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ثمانين" subchapter_title="(ذكر الأحداث الجليلة التي كانت في هذه السنة)">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -42535,7 +42535,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(235)" id="235" pages="393,394,395,396,397" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه خمس وثمانين" subchapter_title="عزل يزيد بن المهلب عن">
+<p n="6.(p235)" id="p235" pages="393,394,395,396,397" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه خمس وثمانين" subchapter_title="عزل يزيد بن المهلب عن">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -43848,7 +43848,7 @@ l	foreign	l	_	_	l-2	l-2
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
 </s>
 </p>
-<p n="6.(236)" id="236" pages="437,438" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ثمان وثمانين" subchapter_title="ذكر ما عمل الوليد من المعروف">
+<p n="6.(p236)" id="p236" pages="437,438" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السادس" chapter_title="سنه ثمان وثمانين" subchapter_title="ذكر ما عمل الوليد من المعروف">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -44220,7 +44220,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(237)" id="237" pages="32,33,34,35" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه ست ومائ ه" subchapter_title="خبر غزو مسلم بن سعيد الترك">
+<p n="7.(p237)" id="p237" pages="32,33,34,35" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه ست ومائ ه" subchapter_title="خبر غزو مسلم بن سعيد الترك">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -45232,7 +45232,7 @@ l	foreign	l	_	_	l-2	l-2
 توبة	noun	تَوْبَة	_	_	توبة-n	تَوْبَة-n
 </s>
 </p>
-<p n="7.(238)" id="238" pages="40" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع ومائه" subchapter_title="(ذكر الخبر عما كان فيها من الأحداث)">
+<p n="7.(p238)" id="p238" pages="40" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع ومائه" subchapter_title="(ذكر الخبر عما كان فيها من الأحداث)">
 <s>
 فمن	prep	مِن	_	_	فمن-p	مِن-p
 ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
@@ -45489,7 +45489,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(239)" id="239" pages="43,44,45" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع ومائه" subchapter_title="‌‌غزو الختل">
+<p n="7.(p239)" id="p239" pages="43,44,45" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع ومائه" subchapter_title="‌‌غزو الختل">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 غزا	verb	غَزا	_	_	غزا-v	غَزا-v
@@ -46049,7 +46049,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(240)" id="240" pages="92" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه ست عشره ومائه" subchapter_title="(ذكر الأخبار عما كَانَ فِيهَا من الأحداث)">
+<p n="7.(p240)" id="p240" pages="92" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه ست عشره ومائه" subchapter_title="(ذكر الأخبار عما كَانَ فِيهَا من الأحداث)">
 <s>
 (	punc	(	_	_	(-x	(-x
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
@@ -46277,7 +46277,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(241)" id="241" pages="316,317,318,319" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع وعشرين ومائه" subchapter_title="ذكر الاخبار عن خروج الضحاك محكما ودخوله الكوفه، ومن اين كان اقباله إليها">
+<p n="7.(p241)" id="p241" pages="316,317,318,319" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه سبع وعشرين ومائه" subchapter_title="ذكر الاخبار عن خروج الضحاك محكما ودخوله الكوفه، ومن اين كان اقباله إليها">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 في	prep	فِي	_	_	في-p	فِي-p
@@ -47261,7 +47261,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(242)" id="242" pages="571" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه خمس واربعين ومائه" subchapter_title="ذكر الخبر عن مخرج محمد بن عبد الله ومقتله">
+<p n="7.(p242)" id="p242" pages="571" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الفصل السابع" chapter_title="سنه خمس واربعين ومائه" subchapter_title="ذكر الخبر عن مخرج محمد بن عبد الله ومقتله">
 <s>
 وظننت	verb	ظَنّ	_	_	وظننت-v	ظَنّ-v
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
@@ -47451,7 +47451,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(243)" id="243" pages="62,63" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="ذكر الخبر عن وفاه ابى جعفر المنصور" subchapter_title="‌‌ذكر الخبر عن بعض سيره">
+<p n="8.(p243)" id="p243" pages="62,63" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="ذكر الخبر عن وفاه ابى جعفر المنصور" subchapter_title="‌‌ذكر الخبر عن بعض سيره">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 عن	prep	عَن	_	_	عن-p	عَن-p
@@ -47625,7 +47625,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(244)" id="244" pages="266" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه ثمانين ومائه" subchapter_title="ذكر الخبر عن العصبية التي هاجت">
+<p n="8.(p244)" id="p244" pages="266" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه ثمانين ومائه" subchapter_title="ذكر الخبر عن العصبية التي هاجت">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 هدم	noun	هَدْم	_	_	هدم-n	هَدْم-n
@@ -47695,7 +47695,7 @@ l	foreign	l	_	_	l-2	l-2
 العقيلي	noun_prop	عَقِيلِيّ	_	_	العقيلي-o	عَقِيلِيّ-o
 </s>
 </p>
-<p n="8.(245)" id="245" pages="307,308,309,310" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه سبع وثمانين ومائه" subchapter_title="‌‌ذكر الخبر عن نقض الروم الصلح">
+<p n="8.(p245)" id="p245" pages="307,308,309,310" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه سبع وثمانين ومائه" subchapter_title="‌‌ذكر الخبر عن نقض الروم الصلح">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -48523,7 +48523,7 @@ l	foreign	l	_	_	l-2	l-2
 والإياب	noun	إِياب	_	_	والإياب-n	إِياب-n
 </s>
 </p>
-<p n="8.(246)" id="246" pages="310,311,312" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه سبع وثمانين ومائه" subchapter_title="‌‌خبر مقتل ابراهيم بن عثمان بن نهيك">
+<p n="8.(p246)" id="p246" pages="310,311,312" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الثامن" chapter_title="سنه سبع وثمانين ومائه" subchapter_title="‌‌خبر مقتل ابراهيم بن عثمان بن نهيك">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 قتل	verb	قَتَل	_	_	قتل-v	قَتَل-v
@@ -49044,7 +49044,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(247)" id="247" pages="207" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه اثنتين واربعين ومائتين" subchapter_title="ذكر احداث الزلازل بالبلاد">
+<p n="9.(p247)" id="p247" pages="207" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه اثنتين واربعين ومائتين" subchapter_title="ذكر احداث الزلازل بالبلاد">
 <s>
 فمما	prep	مِن	_	_	فمما-p	مِن-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -49116,7 +49116,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(248)" id="248" pages="213" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه خمس واربعين ومائتين" subchapter_title="ذكر خبر بناء الماحوزه">
+<p n="9.(p248)" id="p248" pages="213" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه خمس واربعين ومائتين" subchapter_title="ذكر خبر بناء الماحوزه">
 <s>
 وذكر	verb	ذَكَر	_	_	وذكر-v	ذَكَر-v
 أنه	conj_sub	أَنَّ	_	_	أنه-k	أَنَّ-k
@@ -49266,7 +49266,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(249)" id="249" pages="265" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه تسع واربعين ومائتين" subchapter_title="مقتل على بن الجهم">
+<p n="9.(p249)" id="p249" pages="265" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه تسع واربعين ومائتين" subchapter_title="مقتل على بن الجهم">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 أصاب	verb	أَصاب	_	_	أصاب-v	أَصاب-v
@@ -49360,7 +49360,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(250)" id="250" pages="577,578" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه سبع وستين ومائتين" subchapter_title="ذكر الخبر عن سبب دخول ابى احمد واصحابه طهيثا ومقتل الجبائي">
+<p n="9.(p250)" id="p250" pages="577,578" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء التاسع" chapter_title="سنه سبع وستين ومائتين" subchapter_title="ذكر الخبر عن سبب دخول ابى احمد واصحابه طهيثا ومقتل الجبائي">
 <s>
 وأمر	noun	أَمَرّ	_	_	وأمر-n	أَمَرّ-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -49633,7 +49633,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.(251)" id="251" pages="10" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء العاشر" chapter_title="سنه اثنتين وسبعين ومائتين" subchapter_title="ذكر الخبر عن سبب دخول ابى احمد واصحابه طهيثا ومقتل الجبائي">
+<p n="10.(p251)" id="p251" pages="10" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء العاشر" chapter_title="سنه اثنتين وسبعين ومائتين" subchapter_title="ذكر الخبر عن سبب دخول ابى احمد واصحابه طهيثا ومقتل الجبائي">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 قبض	verb	قَبَض	_	_	قبض-v	قَبَض-v
@@ -49723,7 +49723,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.(252)" id="252" pages="115,116" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء العاشر" chapter_title="سنه احدى وتسعين ومائتين" subchapter_title="خبار متفرقة">
+<p n="10.(p252)" id="p252" pages="115,116" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء العاشر" chapter_title="سنه احدى وتسعين ومائتين" subchapter_title="خبار متفرقة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -49946,7 +49946,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(253)" id="253" pages="43" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه احدى وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
+<p n="11.(p253)" id="p253" pages="43" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه احدى وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
 <s>
 ففيها	prep	فِي	_	_	ففيها-p	فِي-p
 وأفي	verb	وَفَى	_	_	وأفي-v	وَفَى-v
@@ -50214,7 +50214,7 @@ l	foreign	l	_	_	l-2	l-2
 أمله	noun	أَمَل	_	_	أمله-n	أَمَل-n
 </s>
 </p>
-<p n="11.(254)" id="254" pages="100,101" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه احدى عشره وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
+<p n="11.(p254)" id="p254" pages="100,101" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه احدى عشره وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -50495,7 +50495,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(255)" id="255" pages="135,136,137,138" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه تسع عشره وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
+<p n="11.(p255)" id="p255" pages="135,136,137,138" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه تسع عشره وثلاثمائة" subchapter_title="ذكر ما دار في هذه السنه من اخبار بنى العباس">
 <s>
 [	punc	[	_	_	[-x	[-x
 أخبار	noun	خَبَر	_	_	أخبار-n	خَبَر-n
@@ -51122,7 +51122,7 @@ l	foreign	l	_	_	l-2	l-2
 ورد	verb	رَدّ	_	_	ورد-v	رَدّ-v
 إليه	prep	إِلَى	_	_	إليه-p	إِلَى-p
 عمل	noun	عَمَل	_	_	عمل-n	عَمَل-n
-الرمله	noun_prop	رمله	place	_	الرمله-o	رمله-o
+الرمله	noun_prop	رمله	place	Ramla	الرمله-o	رمله-o
 ونفذ	verb	نَفَّذ	_	_	ونفذ-v	نَفَّذ-v
 كتاب	noun	كِتاب	_	_	كتاب-n	كِتاب-n
 الخليفة	noun	خَلِيفَة	_	_	الخليفة-n	خَلِيفَة-n
@@ -51541,7 +51541,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(256)" id="256" pages="410,411,412,413" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه ست وخمسين وثلاثمائة" subchapter_title="اماره عز الدولة ابى منصور بختيار بن معز الدولة">
+<p n="11.(p256)" id="p256" pages="410,411,412,413" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="سنه ست وخمسين وثلاثمائة" subchapter_title="اماره عز الدولة ابى منصور بختيار بن معز الدولة">
 <s>
 كانت	verb	كان	_	_	كانت-v	كان-v
 إمارته	noun_prop	إِمارَة	_	_	إمارته-o	إِمارَة-o
@@ -52400,7 +52400,7 @@ l	foreign	l	_	_	l-2	l-2
 تهون	verb	هان	_	_	تهون-v	هان-v
 </s>
 </p>
-<p n="11.(257)" id="257" pages="455,456,457,458" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="تكملة تاريخ الطبري لمحمد بن عبد الملك الهمذاني" subchapter_title="سنه ست وستين وثلاثمائة" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="11.(p257)" id="p257" pages="455,456,457,458" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="تكملة تاريخ الطبري لمحمد بن عبد الملك الهمذاني" subchapter_title="سنه ست وستين وثلاثمائة" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 كانت	verb	كان	_	_	كانت-v	كان-v
 تسعه	verb	سَعَى	_	_	تسعه-v	سَعَى-v
@@ -53321,7 +53321,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(258)" id="258" pages="527" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="القول في تاريخ وفات الصحابة والتابعين" subchapter_title="ذكر من مات او قتل سنه ثمانين" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="11.(p258)" id="p258" pages="527" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="القول في تاريخ وفات الصحابة والتابعين" subchapter_title="ذكر من مات او قتل سنه ثمانين" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 منهم	prep	مِن	_	_	منهم-p	مِن-p
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -53445,7 +53445,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(259)" id="259" pages="548,549" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="المنتخب من كتاب ذيل المذيل من تاريخ الصحابة والتابعين تصنيف محمد بن جرير الطبري" subchapter_title="القول في من عاش بعد رسول الله ص وروى من الصحابة والتابعين" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="11.(p259)" id="p259" pages="548,549" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="المنتخب من كتاب ذيل المذيل من تاريخ الصحابة والتابعين تصنيف محمد بن جرير الطبري" subchapter_title="القول في من عاش بعد رسول الله ص وروى من الصحابة والتابعين" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 أسماء	noun	ٱِسْم	_	_	أسماء-n	ٱِسْم-n
@@ -53789,7 +53789,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(260)" id="260" pages="590" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="القول في من عاش بعد رسول الله ص وروى من الصحابة والتابعين" subchapter_title="ومن همدان" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="11.(p260)" id="p260" pages="590" book_title="Tārīḫ al-Rasūl wa-l-Mulūk" section_title="الجزء الحادي عشر" chapter_title="القول في من عاش بعد رسول الله ص وروى من الصحابة والتابعين" subchapter_title="ومن همدان" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -53931,7 +53931,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="history" n="5" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira">
-<p n="1.(261)" id="261" pages="54" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ما قيل فى سبب تسمية" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p261)" id="p261" pages="54" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ما قيل فى سبب تسمية" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فأيده	verb	أَيَّد	_	_	فأيده-v	أَيَّد-v
 «	punc	«	_	_	«-x	«-x
@@ -54151,7 +54151,7 @@ l	foreign	l	_	_	l-2	l-2
 العزيز	noun_prop	عَزِيز	_	_	العزيز-o	عَزِيز-o
 </s>
 </p>
-<p n="1.(262)" id="262" pages="140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية مسلمة بن مخلد على" subchapter_title="السنة الثالثة من ولاية مسلمة بن مخلد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p262)" id="p262" pages="140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية مسلمة بن مخلد على" subchapter_title="السنة الثالثة من ولاية مسلمة بن مخلد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -54314,7 +54314,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(263)" id="263" pages="178,179" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد الرحمن بن جحدم على" subchapter_title="السنة الأولى من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p263)" id="p263" pages="178,179" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد الرحمن بن جحدم على" subchapter_title="السنة الأولى من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
@@ -54641,7 +54641,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(264)" id="264" pages="182,183,184" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الرابعة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p264)" id="p264" pages="182,183,184" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الرابعة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -55318,7 +55318,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(265)" id="265" pages="185" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الخامسة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p265)" id="p265" pages="185" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الخامسة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -55538,7 +55538,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(266)" id="266" pages="199,200,201" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الرابعة عشرة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p266)" id="p266" pages="199,200,201" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة الرابعة عشرة من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الرابعة	adj	رابِع	_	_	الرابعة-a	رابِع-a
@@ -56116,7 +56116,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(267)" id="267" pages="209" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة العشرون من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p267)" id="p267" pages="209" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد العزيز بن مروان على" subchapter_title="السنة العشرون من ولاية عبد العزيز بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -56223,7 +56223,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(268)" id="268" pages="212" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد الله بن عبد الملك على" subchapter_title="السنة الأولى من ولاية عبد الله بن عبد الملك بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p268)" id="p268" pages="212" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية عبد الله بن عبد الملك على" subchapter_title="السنة الأولى من ولاية عبد الله بن عبد الملك بن مروان على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -56273,7 +56273,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(269)" id="269" pages="227,228,229" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية قرة بن شريك على" subchapter_title="السنة الخامسة من ولاية قرة بن شريك على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p269)" id="p269" pages="227,228,229" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية قرة بن شريك على" subchapter_title="السنة الخامسة من ولاية قرة بن شريك على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 غزا	verb	غَزا	_	_	غزا-v	غَزا-v
@@ -56992,7 +56992,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(270)" id="270" pages="229,230,231" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية قرة بن شريك على" subchapter_title="السنة السادسة من ولاية قرة بن شريك على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p270)" id="p270" pages="229,230,231" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية قرة بن شريك على" subchapter_title="السنة السادسة من ولاية قرة بن شريك على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 وفد	noun	وَفْد	_	_	وفد-n	وَفْد-n
@@ -57309,7 +57309,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(271)" id="271" pages="242,243" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية أيوب بن شرحبيل على" subchapter_title="السنة الثانية من ولاية أيوب بن شرحبيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p271)" id="p271" pages="242,243" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية أيوب بن شرحبيل على" subchapter_title="السنة الثانية من ولاية أيوب بن شرحبيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 حج	noun	حَجّ	_	_	حج-n	حَجّ-n
@@ -57836,7 +57836,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(272)" id="272" pages="257,258" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="‌‌ذكر ولاية محمد بن عبد الملك على" subchapter_title="السنة الثانية من ولاية أيوب بن شرحبيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p272)" id="p272" pages="257,258" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="‌‌ذكر ولاية محمد بن عبد الملك على" subchapter_title="السنة الثانية من ولاية أيوب بن شرحبيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 هو	pron	هُوَ	_	_	هو-f	هُوَ-f
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -58241,7 +58241,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(273)" id="273" pages="261,262" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية الحر بن يوسف على" subchapter_title="السنة الثانية من ولاية الحر بن يوسف على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p273)" id="p273" pages="261,262" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية الحر بن يوسف على" subchapter_title="السنة الثانية من ولاية الحر بن يوسف على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
@@ -58457,7 +58457,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(274)" id="274" pages="274,275" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية الوليد بن رفاعة على" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p274)" id="p274" pages="274,275" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية الوليد بن رفاعة على" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 خرج	verb	خَرَج	_	_	خرج-v	خَرَج-v
@@ -58595,7 +58595,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(275)" id="275" pages="281,282" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p275)" id="p275" pages="281,282" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وذكر	verb	ذَكَر	_	_	وذكر-v	ذَكَر-v
 صاحب	noun	صاحِب	_	_	صاحب-n	صاحِب-n
@@ -58789,7 +58789,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(276)" id="276" pages="300,301,302" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="‌‌ذكر ولاية حسان بن عتاهية على" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p276)" id="p276" pages="300,301,302" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="‌‌ذكر ولاية حسان بن عتاهية على" subchapter_title="السنة السابعة من ولاية الوليد بن رفاعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 هو	pron	هُوَ	_	_	هو-f	هُوَ-f
 حسان	noun	حَسَن	_	_	حسان-n	حَسَن-n
@@ -59285,7 +59285,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(277)" id="277" pages="310,311,312" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة الثالثة من ولاية حوثرة بن سهيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p277)" id="p277" pages="310,311,312" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة الثالثة من ولاية حوثرة بن سهيل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 أصطلح	verb	ٱِصْطَلَح	_	_	أصطلح-v	ٱِصْطَلَح-v
@@ -59849,7 +59849,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(278)" id="278" pages="312,313" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة الرابعة من ولاية الحوثرة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="1.(p278)" id="p278" pages="312,313" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الأول" chapter_title="ذكر ولاية" subchapter_title="السنة الرابعة من ولاية الحوثرة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -60171,7 +60171,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(279)" id="279" pages="52,53" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ١٦٧" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p279)" id="p279" pages="52,53" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ١٦٧" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الثالثة	adj	ثالِث	_	_	الثالثة-a	ثالِث-a
@@ -60330,7 +60330,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(280)" id="280" pages="173,174,175" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة 203" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p280)" id="p280" pages="173,174,175" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة 203" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الثانية	adj	ثانِي	_	_	الثانية-a	ثانِي-a
@@ -60820,7 +60820,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(281)" id="281" pages="270,271,272,273,274" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٣٣" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p281)" id="p281" pages="270,271,272,273,274" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٣٣" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 التي	pron_rel	الَّذِي	_	_	التي-g	الَّذِي-g
@@ -61829,7 +61829,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(282)" id="282" pages="274,275,276,277,278" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٣٤" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p282)" id="p282" pages="274,275,276,277,278" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٣٤" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 التي	pron_rel	الَّذِي	_	_	التي-g	الَّذِي-g
@@ -62701,7 +62701,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(283)" id="283" pages="301,302,303,304" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٠" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p283)" id="p283" pages="301,302,303,304" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٠" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الثانية	adj	ثانِي	_	_	الثانية-a	ثانِي-a
@@ -63381,7 +63381,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(284)" id="284" pages="307,308" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٢" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p284)" id="p284" pages="307,308" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٢" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الرابعة	adj	رابِع	_	_	الرابعة-a	رابِع-a
@@ -63755,7 +63755,256 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(285)" id="285" pages="309,310,311,312,313,314" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="‌‌ذكر أوّل من قاس النّيل" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(-)" id="-" pages="308,309" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="‌‌ذكر ولاية يزيد بن عبد الله على" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<s>
+هو	pron	هُوَ	_	_	هو-f	هُوَ-f
+يزيد	verb	زاد	_	_	يزيد-v	زاد-v
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
+الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+دينار	noun	دِينار	_	_	دينار-n	دِينار-n
+الأمير	noun	أَمِير	_	_	الأمير-n	أَمِير-n
+أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
+خالد	noun_prop	خالِد	_	_	خالد-o	خالِد-o
+،	punc	،	_	_	،-x	،-x
+كان	verb	كان	_	_	كان-v	كان-v
+من	prep	مِن	_	_	من-p	مِن-p
+الموالي	noun	مُوالِي	_	_	الموالي-n	مُوالِي-n
+،	punc	،	_	_	،-x	،-x
+ولى	verb	وَلَّى	_	_	ولى-v	وَلَّى-v
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+بعد	noun	بُعْد	_	_	بعد-n	بُعْد-n
+عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
+عنبسه	noun_prop	عنبسه	_	_	عنبسه-o	عنبسه-o
+عنها	prep	عَن	_	_	عنها-p	عَن-p
+،	punc	،	_	_	،-x	،-x
+في	prep	فِي	_	_	في-p	فِي-p
+شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
+رجب	noun_prop	رَجَب	_	_	رجب-o	رَجَب-o
+سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
+اثنتين	adj	ٱِثْنَتانِ	_	_	اثنتين-a	ٱِثْنَتانِ-a
+وأربعين	noun	أَرْبَع	_	_	وأربعين-n	أَرْبَع-n
+ومايتين	noun	مائِت	_	_	ومايتين-n	مائِت-n
+،	punc	،	_	_	،-x	،-x
+ولاة	noun	والِي	_	_	ولاة-n	والِي-n
+المنتصر	adj	مُنْتَصِر	_	_	المنتصر-a	مُنْتَصِر-a
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+الصلاة	noun	صَلاة	_	_	الصلاة-n	صَلاة-n
+.	punc	.	_	_	.-x	.-x
+فلما	conj	لَمّا	_	_	فلما-c	لَمّا-c
+ولى	verb	وَلَّى	_	_	ولى-v	وَلَّى-v
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+أرسل	verb	أَرْسَل	_	_	أرسل-v	أَرْسَل-v
+أخاه	noun	أَخ	_	_	أخاه-n	أَخ-n
+العباس	noun_prop	عَبّاس	_	_	العباس-o	عَبّاس-o
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
+الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+دينار	noun	دِينار	_	_	دينار-n	دِينار-n
+أمامه	noun	أَمام	_	_	أمامه-n	أَمام-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+خليفة	noun	خَلِيفَة	_	_	خليفة-n	خَلِيفَة-n
+له	prep	لِ	_	_	له-p	لِ-p
+؛	punc	؛	_	_	؛-x	؛-x
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
+يزيد	verb	زاد	_	_	يزيد-v	زاد-v
+هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
+بعده	noun	بُعْد	_	_	بعده-n	بُعْد-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+لعشر	noun	عَشَرَة	_	_	لعشر-n	عَشَرَة-n
+بقين	verb	بَقِي	_	_	بقين-v	بَقِي-v
+من	prep	مِن	_	_	من-p	مِن-p
+شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
+رجب	noun_prop	رَجَب	_	_	رجب-o	رَجَب-o
+سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
+اثنتين	adj	ٱِثْنَتانِ	_	_	اثنتين-a	ٱِثْنَتانِ-a
+وأربعين	noun	أَرْبَع	_	_	وأربعين-n	أَرْبَع-n
+ومايتين	noun	مائِت	_	_	ومايتين-n	مائِت-n
+المذكورة	adj	مَذْكُور	_	_	المذكورة-a	مَذْكُور-a
+؛	punc	؛	_	_	؛-x	؛-x
+وسكن	noun	سَكَن	_	_	وسكن-n	سَكَن-n
+المعسكر	noun	مُعَسْكَر	_	_	المعسكر-n	مُعَسْكَر-n
+،	punc	،	_	_	،-x	،-x
+وأقام	verb	أَقام	_	_	وأقام-v	أَقام-v
+الحرمة	noun	حُرْمَة	_	_	الحرمة-n	حُرْمَة-n
+ومهد	verb	مَهَّد	_	_	ومهد-v	مَهَّد-v
+أمور	noun	أَمْر	_	_	أمور-n	أَمْر-n
+الديار	noun	دار	_	_	الديار-n	دار-n
+المصرية	adj	مِصْرِيّ	_	_	المصرية-a	مِصْرِيّ-a
+،	punc	،	_	_	،-x	،-x
+وأخرج	verb	أَخْرَج	_	_	وأخرج-v	أَخْرَج-v
+المونثين	noun_prop	المونثين	_	_	المونثين-o	المونثين-o
+منها	prep	مِن	_	_	منها-p	مِن-p
+وضربهم	noun	ضَرْب	_	_	وضربهم-n	ضَرْب-n
+وطاف	verb	طاف	_	_	وطاف-v	طاف-v
+بهم	prep	بِ	_	_	بهم-p	بِ-p
+،	punc	،	_	_	،-x	،-x
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+منع	noun	مَنْع	_	_	منع-n	مَنْع-n
+النداء	noun	نِداء	_	_	النداء-n	نِداء-n
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+الجنايز	noun_prop	الجنايز	_	_	الجنايز-o	الجنايز-o
+،	punc	،	_	_	،-x	،-x
+وضرب	noun	ضَرْب	_	_	وضرب-n	ضَرْب-n
+جماعة	noun	جَماعَة	_	_	جماعة-n	جَماعَة-n
+بسبب	noun	سَبَب	_	_	بسبب-n	سَبَب-n
+ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
+؛	punc	؛	_	_	؛-x	؛-x
+وفعل	noun	فِعْل	_	_	وفعل-n	فِعْل-n
+أشياء	noun	شَيْء	_	_	أشياء-n	شَيْء-n
+من	prep	مِن	_	_	من-p	مِن-p
+هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
+المقولة	noun	مَقُولَة	_	_	المقولة-n	مَقُولَة-n
+؛	punc	؛	_	_	؛-x	؛-x
+ودام	verb	دام	_	_	ودام-v	دام-v
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+المحرم	adj	مُحَرَّم	_	_	المحرم-a	مُحَرَّم-a
+سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
+خمس	adj	خَمْس	_	_	خمس-a	خَمْس-a
+وأربعين	noun	أَرْبَع	_	_	وأربعين-n	أَرْبَع-n
+ومايتين	noun	مائِت	_	_	ومايتين-n	مائِت-n
+.	punc	.	_	_	.-x	.-x
+خرج	verb	خَرَج	_	_	خرج-v	خَرَج-v
+من	prep	مِن	_	_	من-p	مِن-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+دمياط	noun_prop	دُمْياط	_	_	دمياط-o	دُمْياط-o
+لما	pron_rel	ما	_	_	لما-g	ما-g
+بلغه	verb	بَلَغ	_	_	بلغه-v	بَلَغ-v
+نزول	verb	زال	_	_	نزول-v	زال-v
+«	punc	«	_	_	«-x	«-x
+3	digit	3	_	_	3-0	3-0
+»	punc	»	_	_	»-x	»-x
+الروم	noun_prop	رُوم	_	_	الروم-o	رُوم-o
+عليها	prep	عَلَى	_	_	عليها-p	عَلَى-p
+فأقام	verb	أَقام	_	_	فأقام-v	أَقام-v
+بها	prep	بِ	_	_	بها-p	بِ-p
+مدة	noun	مُدَّة	_	_	مدة-n	مُدَّة-n
+لم	part_neg	لَم	_	_	لم-e	لَم-e
+يلق	verb	لَقِي	_	_	يلق-v	لَقِي-v
+حربا	noun	حَرْب	_	_	حربا-n	حَرْب-n
+ورجع	verb	رَجَع	_	_	ورجع-v	رَجَع-v
+في	prep	فِي	_	_	في-p	فِي-p
+شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
+ربيع	noun_prop	رَبِيع	_	_	ربيع-o	رَبِيع-o
+الأول	adj	أَوَّل	_	_	الأول-a	أَوَّل-a
+من	prep	مِن	_	_	من-p	مِن-p
+السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+؛	punc	؛	_	_	؛-x	؛-x
+وعند	noun	عِنْد	_	_	وعند-n	عِنْد-n
+حضوره	noun	حُضُور	_	_	حضوره-n	حُضُور-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+بلغه	verb	بَلَغ	_	_	بلغه-v	بَلَغ-v
+ثانيا	adj	ثانِي	_	_	ثانيا-a	ثانِي-a
+نزول	verb	زال	_	_	نزول-v	زال-v
+الروم	noun_prop	رُوم	_	_	الروم-o	رُوم-o
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+دمياط	noun_prop	دُمْياط	_	_	دمياط-o	دُمْياط-o
+،	punc	،	_	_	،-x	،-x
+فخرج	verb	خَرَج	_	_	فخرج-v	خَرَج-v
+أيضا	noun	أَيْض	_	_	أيضا-n	أَيْض-n
+من	prep	مِن	_	_	من-p	مِن-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+لوقته	noun	وَقْت	_	_	لوقته-n	وَقْت-n
+وتوجه	verb	تَوَجَّه	_	_	وتوجه-v	تَوَجَّه-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+دمياط	noun_prop	دُمْياط	_	_	دمياط-o	دُمْياط-o
+فلم	part_neg	لَم	_	_	فلم-e	لَم-e
+يلقهم	verb	أَلْقَى	_	_	يلقهم-v	أَلْقَى-v
+،	punc	،	_	_	،-x	،-x
+فأقام	verb	أَقام	_	_	فأقام-v	أَقام-v
+بالثغر	noun	ثَغْر	_	_	بالثغر-n	ثَغْر-n
+مدة	noun	مُدَّة	_	_	مدة-n	مُدَّة-n
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+عاد	verb	عاد	_	_	عاد-v	عاد-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+.	punc	.	_	_	.-x	.-x
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+بدا	verb	بَدا	_	_	بدا-v	بَدا-v
+له	prep	لِ	_	_	له-p	لِ-p
+تعطيل	noun	تَعْطِيل	_	_	تعطيل-n	تَعْطِيل-n
+الرهان	noun	رِهان	_	_	الرهان-n	رِهان-n
+الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
+كان	verb	كان	_	_	كان-v	كان-v
+لسباق	noun	سِباق	_	_	لسباق-n	سِباق-n
+الخيل	noun	خَيْل	_	_	الخيل-n	خَيْل-n
+بمصر	noun_prop	مِصْر	place	Egypt	بمصر-o	مِصْر-o
+وباع	verb	باع	_	_	وباع-v	باع-v
+الخيل	noun	خَيْل	_	_	الخيل-n	خَيْل-n
+التي	pron_rel	الَّذِي	_	_	التي-g	الَّذِي-g
+كانت	verb	كان	_	_	كانت-v	كان-v
+تتخذ	verb	ٱِتَّخَذ	_	_	تتخذ-v	ٱِتَّخَذ-v
+للسباق	noun	سِباق	_	_	للسباق-n	سِباق-n
+بمصر	noun_prop	مِصْر	place	Egypt	بمصر-o	مِصْر-o
+.	punc	.	_	_	.-x	.-x
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+تتبع	verb	تَبِع	_	_	تتبع-v	تَبِع-v
+الروافض	noun	رافِضَة	_	_	الروافض-n	رافِضَة-n
+بمصر	noun_prop	مِصْر	place	Egypt	بمصر-o	مِصْر-o
+وآبادهم	noun	آباد	_	_	وآبادهم-n	آباد-n
+وعاقبهم	verb	عاقَب	_	_	وعاقبهم-v	عاقَب-v
+وأمتحنهم	verb	ٱِمْتَحَن	_	_	وأمتحنهم-v	ٱِمْتَحَن-v
+وقمع	noun	قَمْع	_	_	وقمع-n	قَمْع-n
+أكابرهم	verb	كابَر	_	_	أكابرهم-v	كابَر-v
+،	punc	،	_	_	،-x	،-x
+[	punc	[	_	_	[-x	[-x
+وحمل	verb	حَمَل	_	_	وحمل-v	حَمَل-v
+منهم	prep	مِن	_	_	منهم-p	مِن-p
+«	punc	«	_	_	«-x	«-x
+1	digit	1	_	_	1-0	1-0
+»	punc	»	_	_	»-x	»-x
+جماعة	noun	جَماعَة	_	_	جماعة-n	جَماعَة-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+العراق	noun_prop	عِراق	place	Iraq	العراق-o	عِراق-o
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+أقبح	noun	أَقْبَح	_	_	أقبح-n	أَقْبَح-n
+وجه	noun	وَجْه	_	_	وجه-n	وَجْه-n
+]	punc	]	_	_	]-x	]-x
+؛	punc	؛	_	_	؛-x	؛-x
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+التفت	verb	ٱِلْتَفَت	_	_	التفت-v	ٱِلْتَفَت-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+العلويين	adj	عَلَوِيّ	_	_	العلويين-a	عَلَوِيّ-a
+،	punc	،	_	_	،-x	،-x
+فجرت	verb	فَجَّر	_	_	فجرت-v	فَجَّر-v
+عليهم	prep	عَلَى	_	_	عليهم-p	عَلَى-p
+منه	prep	مِن	_	_	منه-p	مِن-p
+شدايد	noun_prop	شدايد	_	_	شدايد-o	شدايد-o
+من	prep	مِن	_	_	من-p	مِن-p
+الضيق	noun	ضِيق	_	_	الضيق-n	ضِيق-n
+عليهم	prep	عَلَى	_	_	عليهم-p	عَلَى-p
+وأخرجهم	verb	أَخْرَج	_	_	وأخرجهم-v	أَخْرَج-v
+من	prep	مِن	_	_	من-p	مِن-p
+مصر	noun_prop	مِصْر	place	Egypt	مصر-o	مِصْر-o
+.	punc	.	_	_	.-x	.-x
+وفى	verb	وَفَى	_	_	وفى-v	وَفَى-v
+أيامه	noun	يَوْم	_	_	أيامه-n	يَوْم-n
+في	prep	فِي	_	_	في-p	فِي-p
+سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
+سبع	noun	سَبْع	_	_	سبع-n	سَبْع-n
+وأربعين	noun	أَرْبَع	_	_	وأربعين-n	أَرْبَع-n
+ومايتين	noun	مائِت	_	_	ومايتين-n	مائِت-n
+بنى	noun	بِنْيَة	_	_	بنى-n	بِنْيَة-n
+مقياس	noun	مِقْياس	_	_	مقياس-n	مِقْياس-n
+النيل	noun_prop	نِيل	_	_	النيل-o	نِيل-o
+بالجزيرة	noun	جَزِيرَة	_	_	بالجزيرة-n	جَزِيرَة-n
+المنعوتة	adj	مَنْعُوت	_	_	المنعوتة-a	مَنْعُوت-a
+بالروضة	noun	رَوْضَة	_	_	بالروضة-n	رَوْضَة-n
+.	punc	.	_	_	.-x	.-x
+</s>
+</p>
+<p n="2.(p285)" id="p285" pages="309,310,311,312,313,314" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="‌‌ذكر أوّل من قاس النّيل" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 أول	adj	أَوَّل	_	_	أول-a	أَوَّل-a
 من	prep	مِن	_	_	من-p	مِن-p
@@ -65139,7 +65388,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(286)" id="286" pages="329,330" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٩" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="2.(p286)" id="p286" pages="329,330" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى" chapter_title="ما وقع من الحوادث سنة ٢٤٩" subchapter_title="السنة الثالثة من ولاية إبراهيم بن صالح الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 السابعة	adj	سابِع	_	_	السابعة-a	سابِع-a
@@ -65454,7 +65703,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(287)" id="287" pages="28,29,30" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٥٨" subchapter_title="السنة الرابعة- من ولاية أحمد بن طولون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p287)" id="p287" pages="28,29,30" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٥٨" subchapter_title="السنة الرابعة- من ولاية أحمد بن طولون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 عقد	noun	عَقْد	_	_	عقد-n	عَقْد-n
@@ -65905,7 +66154,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(288)" id="288" pages="115,116,117,118" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٥" subchapter_title="السنة الثانية من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p288)" id="p288" pages="115,116,117,118" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٥" subchapter_title="السنة الثانية من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -66420,7 +66669,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(289)" id="289" pages="123,124,125" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٨" subchapter_title="السنة الخامسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p289)" id="p289" pages="123,124,125" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٨" subchapter_title="السنة الخامسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 وقع	verb	وَقَع	_	_	وقع-v	وَقَع-v
@@ -66740,7 +66989,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(290)" id="290" pages="126" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٩" subchapter_title="السنة السادسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p290)" id="p290" pages="126" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٩" subchapter_title="السنة السادسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -66768,7 +67017,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(291)" id="291" pages="125,126,127,128,129,130" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٩" subchapter_title="السنة السادسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p291)" id="p291" pages="125,126,127,128,129,130" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٢٨٩" subchapter_title="السنة السادسة من ولاية هارون على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 فاض	verb	فاض	_	_	فاض-v	فاض-v
@@ -67700,7 +67949,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(292)" id="292" pages="179,180,181" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٠٠" subchapter_title="السنة الثالثة من ولاية تكين الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p292)" id="p292" pages="179,180,181" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٠٠" subchapter_title="السنة الثالثة من ولاية تكين الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 تتبع	verb	تَبِع	_	_	تتبع-v	تَبِع-v
@@ -68205,7 +68454,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(293)" id="293" pages="215,216" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣١٤" subchapter_title="السنة الثالثة من ولاية تكين الرابعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p293)" id="p293" pages="215,216" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣١٤" subchapter_title="السنة الثالثة من ولاية تكين الرابعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 جمدت	verb	جَمَّد	_	_	جمدت-v	جَمَّد-v
@@ -68505,7 +68754,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(294)" id="294" pages="227,228" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣١٨" subchapter_title="السنة السابعة من ولاية تكين الرابعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p294)" id="p294" pages="227,228" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣١٨" subchapter_title="السنة السابعة من ولاية تكين الرابعة على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السميع	noun	سَمِيع	_	_	السميع-n	سَمِيع-n
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -68935,7 +69184,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(295)" id="295" pages="242,243,244" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٢١" subchapter_title="ذكر ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p295)" id="p295" pages="242,243,244" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٢١" subchapter_title="ذكر ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 ولى	verb	وَلَّى	_	_	ولى-v	وَلَّى-v
 أحمد	noun_prop	أَحْمَد	_	_	أحمد-o	أَحْمَد-o
@@ -69619,7 +69868,7 @@ l	foreign	l	_	_	l-2	l-2
 حبيب	noun_prop	حَبِيب	_	_	حبيب-o	حَبِيب-o
 </s>
 </p>
-<p n="3.(296)" id="296" pages="248,249,250,251" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٢٣" subchapter_title="السنة الثالثة من ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p296)" id="p296" pages="248,249,250,251" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٢٣" subchapter_title="السنة الثالثة من ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 تمكن	verb	تَمَكَّن	_	_	تمكن-v	تَمَكَّن-v
@@ -70404,7 +70653,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(297)" id="297" pages="312,313,314" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٤٤" subchapter_title="السنة الثالثة من ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p297)" id="p297" pages="312,313,314" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٤٤" subchapter_title="السنة العاشرة من ولاية أنوجور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 تحرك	noun	تَحَرُّك	_	_	تحرك-n	تَحَرُّك-n
@@ -70896,7 +71145,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(298)" id="298" pages="317,318" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٤٦" subchapter_title="السنة الثالثة من ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p298)" id="p298" pages="317,318" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٤٦" subchapter_title="السنة العاشرة من ولاية أنوجور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الثانية	adj	ثانِي	_	_	الثانية-a	ثانِي-a
@@ -71294,7 +71543,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(299)" id="299" pages="333" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٥١" subchapter_title="السنة الثالثة من ولاية أحمد بن كيغلغ الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="3.(p299)" id="p299" pages="333" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث" chapter_title="ما وقع من الحوادث سنة ٣٥١" subchapter_title="السنة العاشرة من ولاية أنوجور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 أسرت	verb	أَسَر	_	_	أسرت-v	أَسَر-v
@@ -71328,7 +71577,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(300)" id="300" pages="152,153" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٣٧٨" subchapter_title="السنة الثالثة عشرة من ولاية العزيز نزار على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p300)" id="p300" pages="152,153" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٣٧٨" subchapter_title="السنة الثالثة عشرة من ولاية العزيز نزار على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -71621,7 +71870,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(301)" id="301" pages="169,170,171,172,173,174" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٣٦٧" subchapter_title="السنة العشرون من ولاية العزيز نزار على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p301)" id="p301" pages="169,170,171,172,173,174" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٣٦٧" subchapter_title="السنة العشرون من ولاية العزيز نزار على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 تحركت	verb	تَحَرَّك	_	_	تحركت-v	تَحَرَّك-v
@@ -72669,7 +72918,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(302)" id="302" pages="229,230,231,232" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة 402" subchapter_title="السنة السادسة عشرة من ولاية الحاكم منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p302)" id="p302" pages="229,230,231,232" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة 402" subchapter_title="السنة السادسة عشرة من ولاية الحاكم منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -73270,7 +73519,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(303)" id="303" pages="239,240" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٠٦" subchapter_title="السنة العشرون من ولاية الحاكم منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p303)" id="p303" pages="239,240" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٠٦" subchapter_title="السنة العشرون من ولاية الحاكم منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 منع	noun	مَنْع	_	_	منع-n	مَنْع-n
@@ -73490,7 +73739,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(304)" id="304" pages="270,271,272" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٢٠" subchapter_title="السنة التاسعة من ولاية الظاهر لإعزاز دين الله على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p304)" id="p304" pages="270,271,272" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٢٠" subchapter_title="السنة التاسعة من ولاية الظاهر لإعزاز دين الله على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 وقع	verb	وَقَع	_	_	وقع-v	وَقَع-v
@@ -73799,7 +74048,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(305)" id="305" pages="279,280,281" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٢٥" subchapter_title="السنة الرابعة عشرة من ولاية الظاهر لإعزاز دين الله على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="4.(p305)" id="p305" pages="279,280,281" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع" chapter_title="ما وقع من الحوادث سنة ٤٢٥" subchapter_title="السنة الرابعة عشرة من ولاية الظاهر لإعزاز دين الله على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 هبت	verb	هَبّ	_	_	هبت-v	هَبّ-v
@@ -74226,7 +74475,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(306)" id="306" pages="35,36" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٣٤" subchapter_title="السنة السابعة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p306)" id="p306" pages="35,36" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٣٤" subchapter_title="السنة السابعة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 ورد	verb	رَدّ	_	_	ورد-v	رَدّ-v
@@ -74520,7 +74769,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(307)" id="307" pages="41,42" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٣٨" subchapter_title="السنة السابعة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p307)" id="p307" pages="41,42" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٣٨" subchapter_title="السنة السابعة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الحادية	noun	حادِي	_	_	الحادية-n	حادِي-n
@@ -74770,7 +75019,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(308)" id="308" pages="47,48" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٤١" subchapter_title="السنة الرابعة عشرة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p308)" id="p308" pages="47,48" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٤١" subchapter_title="السنة الرابعة عشرة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -75049,7 +75298,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(309)" id="309" pages="52,53,54" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٤٤" subchapter_title="السنة الرابعة عشرة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p309)" id="p309" pages="52,53,54" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٤٤" subchapter_title="السنة الرابعة عشرة من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 السابعة	adj	سابِع	_	_	السابعة-a	سابِع-a
@@ -75348,7 +75597,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(310)" id="310" pages="120" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٧٨" subchapter_title="السنة الحادية والخمسون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p310)" id="p310" pages="120" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٧٨" subchapter_title="السنة الحادية والخمسون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 وقع	verb	وَقَع	_	_	وقع-v	وَقَع-v
@@ -75528,7 +75777,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(311)" id="311" pages="131,132,133" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٤" subchapter_title="السنة السابعة والخمسون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p311)" id="p311" pages="131,132,133" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٤" subchapter_title="السنة السابعة والخمسون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -75987,7 +76236,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(312)" id="312" pages="139,140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٧" subchapter_title="السنة الستون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p312)" id="p312" pages="139,140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٧" subchapter_title="السنة الستون من ولاية المستنصر معدّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 أيضا	noun	أَيْض	_	_	أيضا-n	أَيْض-n
@@ -76698,7 +76947,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(313)" id="313" pages="158" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٩" subchapter_title="السنة الثانية من ولاية المستعلى أحمد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p313)" id="p313" pages="158" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٤٨٩" subchapter_title="السنة الثانية من ولاية المستعلى أحمد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 حكم	noun	حُكْم	_	_	حكم-n	حُكْم-n
@@ -76849,7 +77098,7 @@ l	foreign	l	_	_	l-2	l-2
 الناس	noun	ناس	_	_	الناس-n	ناس-n
 </s>
 </p>
-<p n="5.(314)" id="314" pages="213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٥١١" subchapter_title="السنة السادسة عشرة من ولاية الآمر منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p314)" id="p314" pages="213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٥١١" subchapter_title="السنة السادسة عشرة من ولاية الآمر منصور على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 زلزلت	verb	زَلْزَل	catastrophe	earhquake	زلزلت-v	زَلْزَل-v
@@ -76966,7 +77215,7 @@ l	foreign	l	_	_	l-2	l-2
 الموصل	noun_prop	مَوْصِل	place	Mosul	الموصل-o	مَوْصِل-o
 </s>
 </p>
-<p n="5.(315)" id="315" pages="264,265" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٥٢٣" subchapter_title="السنة التاسعة من ولاية الحافظ عبد المجيد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p315)" id="p315" pages="264,265" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة ٥٢٣" subchapter_title="السنة التاسعة من ولاية الحافظ عبد المجيد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -77378,7 +77627,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(316)" id="316" pages="325,326,327" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة 552" subchapter_title="السنة التاسعة من ولاية الحافظ عبد المجيد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="5.(p316)" id="p316" pages="325,326,327" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس" chapter_title="ما وقع من الحوادث سنة 552" subchapter_title="السنة التاسعة من ولاية الحافظ عبد المجيد على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الرابعة	adj	رابِع	_	_	الرابعة-a	رابِع-a
@@ -78124,7 +78373,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(317)" id="317" pages="139,140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٥٩٢" subchapter_title="السنة الرابعة من ولاية العزيز عثمان بن صلاح الدين يوسف على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="6.(p317)" id="p317" pages="139,140,141" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٥٩٢" subchapter_title="السنة الرابعة من ولاية العزيز عثمان بن صلاح الدين يوسف على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 بعد	noun	بُعْد	_	_	بعد-n	بُعْد-n
@@ -78662,7 +78911,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(318)" id="318" pages="183,184,185,186,187,188,189,190" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٠٠" subchapter_title="السنة الأولى من ولاية الملك العادل أبى بكر بن أيّوب على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="6.(p318)" id="p318" pages="183,184,185,186,187,188,189,190" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٠٠" subchapter_title="السنة الأولى من ولاية الملك العادل أبى بكر بن أيّوب على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -80022,7 +80271,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(319)" id="319" pages="196,197" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٠٣" subchapter_title="السنة التاسعة من ولاية الملك العادل أبى بكر بن أيّوب على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="6.(p319)" id="p319" pages="196,197" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٠٣" subchapter_title="السنة التاسعة من ولاية الملك العادل أبى بكر بن أيّوب على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 زلزلت	verb	زَلْزَل	catastrophe	earhquake	زلزلت-v	زَلْزَل-v
@@ -80271,7 +80520,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(320)" id="320" pages="364,365,366" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٤٨" subchapter_title="‌‌ذكر سلطنة الملك المعظّم توران شاه على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="6.(p320)" id="p320" pages="364,365,366" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس" chapter_title="ما وقع من الحوادث سنة ٦٤٨" subchapter_title="‌‌ذكر سلطنة الملك المعظّم توران شاه على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 هو	pron	هُوَ	_	_	هو-f	هُوَ-f
 السلطان	noun	سُلْطان	_	_	السلطان-n	سُلْطان-n
@@ -80991,7 +81240,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(321)" id="321" pages="15,16,17,18,19" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السابع" chapter_title="تتمة ما وقع من الحوادث سنة ٦٤٨" subchapter_title="‌‌ذكر سلطنة الملك المعظّم توران شاه على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="7.(p321)" id="p321" pages="15,16,17,18,19" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السابع" chapter_title="تتمة ما وقع من الحوادث سنة ٦٤٨" subchapter_title="‌‌ذكر سلطنة الملك المعظّم توران شاه على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 ونذكر	verb	ذَكَر	_	_	ونذكر-v	ذَكَر-v
 أيضا	noun	أَيْض	_	_	أيضا-n	أَيْض-n
@@ -82117,7 +82366,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(322)" id="322" pages="154" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السابع" chapter_title="ما وقع من الحوادث سنة ٦٥٨" subchapter_title="فتوحاته رحمه الله" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="7.(p322)" id="p322" pages="154" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السابع" chapter_title="ما وقع من الحوادث سنة ٦٥٨" subchapter_title="فتوحاته رحمه الله" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 بلغ	verb	بَلَغ	_	_	بلغ-v	بَلَغ-v
@@ -82256,7 +82505,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(323)" id="323" pages="36,37,38,39,40" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٢" subchapter_title="السنة الثالثة من ولاية الملك الأشرف خليل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p323)" id="p323" pages="36,37,38,39,40" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٢" subchapter_title="السنة الثالثة من ولاية الملك الأشرف خليل على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 حصل	verb	حَصَل	_	_	حصل-v	حَصَل-v
@@ -83165,7 +83414,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(324)" id="324" pages="53" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٣" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p324)" id="p324" pages="53" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٣" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الأولى على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 قتل	verb	قَتَل	_	_	قتل-v	قَتَل-v
@@ -83307,7 +83556,7 @@ l	foreign	l	_	_	l-2	l-2
 انتهى	verb	ٱِنْتَهَى	_	_	انتهى-v	ٱِنْتَهَى-v
 </s>
 </p>
-<p n="8.(325)" id="325" pages="71" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٣" subchapter_title="ذكر سلطنة الملك العادل زين الدين كتبغا على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p325)" id="p325" pages="71" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٣" subchapter_title="ذكر سلطنة الملك العادل زين الدين كتبغا على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
 الأولى	adj	أُولَى	_	_	الأولى-a	أُولَى-a
@@ -83360,7 +83609,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(326)" id="326" pages="79,80,81,82,83,84" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٥" subchapter_title="السنة الثانية من ولاية الملك العادل كتبغا المنصورىّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p326)" id="p326" pages="79,80,81,82,83,84" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٥" subchapter_title="السنة الثانية من ولاية الملك العادل كتبغا المنصورىّ على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -84501,7 +84750,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(327)" id="327" pages="120,121,122" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٨" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p327)" id="p327" pages="120,121,122" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٨" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
 والعساكر	noun	عَسْكَر	_	_	والعساكر-n	عَسْكَر-n
@@ -85033,7 +85282,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(328)" id="328" pages="126,127" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٨" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p328)" id="p328" pages="126,127" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٦٩٨" subchapter_title="ذكر سلطنة الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وبات	verb	بات	_	_	وبات-v	بات-v
 السلطان	noun	سُلْطان	_	_	السلطان-n	سُلْطان-n
@@ -85366,7 +85615,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(329)" id="329" pages="200,201,202,203,204,205,206,207,208" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٧٠٢" subchapter_title="السنة الخامسة من ولاية الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="8.(p329)" id="p329" pages="200,201,202,203,204,205,206,207,208" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثامن" chapter_title="ما وقع من الحوادث سنة ٧٠٢" subchapter_title="السنة الخامسة من ولاية الملك الناصر محمد بن قلاوون الثانية على" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 في	prep	فِي	_	_	في-p	فِي-p
@@ -86649,7 +86898,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(330)" id="330" pages="63,64,65,66,67,68,69,70" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء التاسع" chapter_title="ما وقع من الحوادث سنة ٧١٠" subchapter_title="ذكر عود الملك الناصر محمد بن قلاوون إلى ملك" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
+<p n="9.(p330)" id="p330" pages="63,64,65,66,67,68,69,70" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء التاسع" chapter_title="ما وقع من الحوادث سنة ٧١٠" subchapter_title="ذكر عود الملك الناصر محمد بن قلاوون إلى ملك" subsubchapter_title="‌‌خلافه المطيع لله ابى القاسم الفضل بن المقتدر">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 وقع	verb	وَقَع	_	_	وقع-v	وَقَع-v
@@ -87904,7 +88153,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.(331)" id="331" pages="195,196,9,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء العاشر" chapter_title="ما وقع من الحوادث سنة ٧٤٨" subchapter_title="ذكر سلطنة الملك الناصر حسن الأولى على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="10.(p331)" id="p331" pages="195,196,9,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء العاشر" chapter_title="ما وقع من الحوادث سنة ٧٤٨" subchapter_title="ذكر سلطنة الملك الناصر حسن الأولى على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكانت	verb	كان	_	_	وكانت-v	كان-v
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -91586,7 +91835,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.(332)" id="332" pages="113" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الحادى عشر" chapter_title="ما وقع من الحوادث سنة ٧٧١" subchapter_title="ذكر سلطنة الملك الناصر حسن الأولى على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.(p332)" id="p332" pages="113" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الحادى عشر" chapter_title="ما وقع من الحوادث سنة ٧٧١" subchapter_title="ذكر سلطنة الملك الناصر حسن الأولى على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -91609,7 +91858,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="12.(333)" id="333" pages="33,34" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى عشر" chapter_title="ما وقع من الحوادث سنة ٧٩٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="12.(p333)" id="p333" pages="33,34" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى عشر" chapter_title="ما وقع من الحوادث سنة ٧٩٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
@@ -91779,7 +92028,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="12.(334)" id="334" pages="240,241,242" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى عشر" chapter_title="ما وقع من الحوادث سنة ٨٠٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="12.(p334)" id="p334" pages="240,241,242" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثانى عشر" chapter_title="ما وقع من الحوادث سنة ٨٠٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفى	verb	وَفَى	_	_	وفى-v	وَفَى-v
 الحال	noun	حال	_	_	الحال-n	حال-n
@@ -92273,7 +92522,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.(335)" id="335" pages="290" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث عشر" chapter_title="ما وقع من الحوادث سنة ٨٠٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.(p335)" id="p335" pages="290" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الثالث عشر" chapter_title="ما وقع من الحوادث سنة ٨٠٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وإذا	conj	إِذا	_	_	وإذا-c	إِذا-c
 كان	verb	كان	_	_	كان-v	كان-v
@@ -92428,7 +92677,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(336)" id="336" pages="26,27" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨١٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p336)" id="p336" pages="26,27" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨١٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفى	verb	وَفَى	_	_	وفى-v	وَفَى-v
 ثامن	adj	ثامِن	_	_	ثامن-a	ثامِن-a
@@ -92575,7 +92824,7 @@ l	foreign	l	_	_	l-2	l-2
 الخاصكي	noun_prop	الخاصكي	_	_	الخاصكي-o	الخاصكي-o
 </s>
 </p>
-<p n="14.(337)" id="337" pages="80,81" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p337)" id="p337" pages="80,81" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ولما	conj	لَمّا	_	_	ولما-c	لَمّا-c
 استهل	verb	ٱِسْتَهَلّ	_	_	استهل-v	ٱِسْتَهَلّ-v
@@ -92768,7 +93017,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(338)" id="338" pages="249,250" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٥" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p338)" id="p338" pages="249,250" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٥" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 [	punc	[	_	_	[-x	[-x
@@ -93079,7 +93328,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(339)" id="339" pages="251,252" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٦" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p339)" id="p339" pages="251,252" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٢٦" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -93397,7 +93646,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(340)" id="340" pages="336,337,338,339,340,341,342,343,344,345,346,347,348" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p340)" id="p340" pages="336,337,338,339,340,341,342,343,344,345,346,347,348" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -96905,7 +97154,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(341)" id="341" pages="352,353,354" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٤" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p341)" id="p341" pages="352,353,354" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٤" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -97455,7 +97704,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.(342)" id="342" pages="507" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="فهرس الموضوعات" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.(p342)" id="p342" pages="507" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الرابع عشر" chapter_title="فهرس الموضوعات" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 السلطان	noun	سُلْطان	_	_	السلطان-n	سُلْطان-n
 يبدآ	verb	بَدَأ	_	_	يبدآ-v	بَدَأ-v
@@ -97486,7 +97735,7 @@ l	foreign	l	_	_	l-2	l-2
 السد	noun	سُدّ	_	_	السد-n	سُدّ-n
 </s>
 </p>
-<p n="15.(343)" id="343" pages="65" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p343)" id="p343" pages="65" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -97536,7 +97785,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(344)" id="344" pages="68,69" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p344)" id="p344" pages="68,69" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -97670,7 +97919,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(345)" id="345" pages="107,108,109" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٤١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p345)" id="p345" pages="107,108,109" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٤١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ولما	conj	لَمّا	_	_	ولما-c	لَمّا-c
 انتهى	verb	ٱِنْتَهَى	_	_	انتهى-v	ٱِنْتَهَى-v
@@ -98241,7 +98490,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(346)" id="346" pages="157,158" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p346)" id="p346" pages="157,158" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وتوفي	verb	تَوَفَّى	_	_	وتوفي-v	تَوَفَّى-v
 الأمير	noun	أَمِير	_	_	الأمير-n	أَمِير-n
@@ -98559,7 +98808,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(347)" id="347" pages="166,167" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p347)" id="p347" pages="166,167" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٣٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وتوفي	verb	تَوَفَّى	_	_	وتوفي-v	تَوَفَّى-v
 القاضي	noun	قاضِي	_	_	القاضي-n	قاضِي-n
@@ -98746,7 +98995,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(348)" id="348" pages="210,211,212,213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٤١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p348)" id="p348" pages="210,211,212,213" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٤١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 ما	pron_rel	ما	_	_	ما-g	ما-g
@@ -99647,7 +99896,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.(349)" id="349" pages="538,539" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٥٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.(p349)" id="p349" pages="538,539" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء الخامس عشر" chapter_title="ما وقع من الحوادث سنة ٨٥٣" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 من	prep	مِن	_	_	من-p	مِن-p
 القضاة	noun	قاضِي	_	_	القضاة-n	قاضِي-n
@@ -100016,7 +100265,7 @@ l	foreign	l	_	_	l-2	l-2
 ودارك	noun	دار	_	_	ودارك-n	دار-n
 </s>
 </p>
-<p n="16.(350)" id="350" pages="99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p350)" id="p350" pages="99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦١" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 واستهلت	verb	ٱِسْتَهَلّ	_	_	واستهلت-v	ٱِسْتَهَلّ-v
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
@@ -104204,7 +104453,7 @@ l	foreign	l	_	_	l-2	l-2
 »	punc	»	_	_	»-x	»-x
 </s>
 </p>
-<p n="16.(351)" id="351" pages="119,120,121,122,123,124" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p351)" id="p351" pages="119,120,121,122,123,124" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٢" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -105465,7 +105714,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.(352)" id="352" pages="147,148,149" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٤" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p352)" id="p352" pages="147,148,149" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٤" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 في	prep	فِي	_	_	في-p	فِي-p
@@ -106149,7 +106398,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.(353)" id="353" pages="171" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٥٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p353)" id="p353" pages="171" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٥٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وتوفي	verb	تَوَفَّى	_	_	وتوفي-v	تَوَفَّى-v
 المقام	noun	مَقام	_	_	المقام-n	مَقام-n
@@ -106323,7 +106572,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.(354)" id="354" pages="329,330" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p354)" id="p354" pages="329,330" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٨" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 سيدي	noun_prop	سَيِّد	_	_	سيدي-o	سَيِّد-o
@@ -106569,7 +106818,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.(355)" id="355" pages="340,341,342" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.(p355)" id="p355" pages="340,341,342" book_title="Kitāb al-Nujūm al-Zāhira fī Mulūk Miṣr wa al-Qāhira" section_title="الجزء السادس عشر" chapter_title="ما وقع من الحوادث سنة ٨٦٩" subchapter_title="ذكر سلطنة الملك الظاهر برقوق الثانية على" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 اللباوي	noun_prop	اللباوي	_	_	اللباوي-o	اللباوي-o
@@ -107148,7 +107397,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="history" n="6" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk">
-<p n="1.(356)" id="356" pages="152,153" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="before 568" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p356)" id="p356" pages="152,153" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="before 568" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 شعبان	noun_prop	شَعْبان	_	_	شعبان-o	شَعْبان-o
@@ -107280,7 +107529,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(357)" id="357" pages="193,194,195" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p357)" id="p357" pages="193,194,195" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وأهلت	verb	أَهَلّ	_	_	وأهلت-v	أَهَلّ-v
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
@@ -107776,7 +108025,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(358)" id="358" pages="200" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p358)" id="p358" pages="200" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ثامنه	adj	ثامِن	_	_	ثامنه-a	ثامِن-a
@@ -107818,7 +108067,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(359)" id="359" pages="203,204" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p359)" id="p359" pages="203,204" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 إحدى	noun	أَحَد	_	_	إحدى-n	أَحَد-n
@@ -108191,9 +108440,9 @@ l	foreign	l	_	_	l-2	l-2
 بين	noun	بَيِّن	_	_	بين-n	بَيِّن-n
 الكومين	noun	كَوْم	_	_	الكومين-n	كَوْم-n
 وبجوار	noun	جِوار	_	_	وبجوار-n	جِوار-n
-جامع	noun	جامِع	place	_	جامع-n	جامِع-n
-ابن	noun_prop	ٱِبْن	place	_	ابن-o	ٱِبْن-o
-طولون	noun_prop	طولون	place	_	طولون-o	طولون-o
+جامع	noun	جامِع	place	Ibn Tulun Mosque	جامع-n	جامِع-n
+ابن	noun_prop	ٱِبْن	place	Ibn Tulun Mosque	ابن-o	ٱِبْن-o
+طولون	noun_prop	طولون	place	Ibn Tulun Mosque	طولون-o	طولون-o
 والكبش	noun	كَبْش	_	_	والكبش-n	كَبْش-n
 فعمر	noun	عُمْر	_	_	فعمر-n	عُمْر-n
 أكثر	adj	أَكْثَر	_	_	أكثر-a	أَكْثَر-a
@@ -108236,7 +108485,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(360)" id="360" pages="211,212" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p360)" id="p360" pages="211,212" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنه تسع وسبعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 القوم	noun	قَوْم	_	_	القوم-n	قَوْم-n
@@ -108373,7 +108622,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(361)" id="361" pages="221" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وثمانين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p361)" id="p361" pages="221" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وثمانين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكثر	noun	كُثْر	_	_	وكثر-n	كُثْر-n
 بمصر	noun_prop	مِصْر	place	Egypt	بمصر-o	مِصْر-o
@@ -108431,7 +108680,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(362)" id="362" pages="269,270" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة ست وتسعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p362)" id="p362" pages="269,270" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة ست وتسعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 تعذرت	verb	تَعَذَّر	_	_	تعذرت-v	تَعَذَّر-v
@@ -109097,7 +109346,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(363)" id="363" pages="275,276" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة ست وتسعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p363)" id="p363" pages="275,276" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة ست وتسعين وخمسمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 ستمايه	noun_prop	ستمايه	_	_	ستمايه-o	ستمايه-o
@@ -109386,7 +109635,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(364)" id="364" pages="293,294" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة أربع وستمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p364)" id="p364" pages="293,294" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة أربع وستمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 ثمان	noun	ثَمانِي	_	_	ثمان-n	ثَمانِي-n
@@ -109738,7 +109987,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(365)" id="365" pages="373" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة سبع وعشرين وستمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p365)" id="p365" pages="373" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة سبع وعشرين وستمائة" subchapter_title="السلطان الملك الناصر صلاح الدين" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 ثالث	adj	ثالِث	_	_	ثالث-a	ثالِث-a
@@ -109982,7 +110231,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(366)" id="366" pages="513" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وخمسين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p366)" id="p366" pages="513" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وخمسين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ووصل	verb	وَصَل	_	_	ووصل-v	وَصَل-v
 الملك	noun	مَلِك	_	_	الملك-n	مَلِك-n
@@ -110147,7 +110396,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(367)" id="367" pages="514" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وخمسين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p367)" id="p367" pages="514" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="سنة خمس وخمسين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 رحل	verb	رَحَل	_	_	رحل-v	رَحَل-v
@@ -110512,7 +110761,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(368)" id="368" pages="562" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="تابع سنة إحدى وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p368)" id="p368" pages="562" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ١" chapter_title="تابع سنة إحدى وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 جهز	verb	جَهَّز	_	_	جهز-v	جَهَّز-v
@@ -110683,7 +110932,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(369)" id="369" pages="3,4,5,6" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة اثْنَتَيْنِ وَسِتِّينَ وسِتمِائَة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p369)" id="p369" pages="3,4,5,6" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة اثْنَتَيْنِ وَسِتِّينَ وسِتمِائَة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 اثنتين	adj	ٱِثْنَتانِ	_	_	اثنتين-a	ٱِثْنَتانِ-a
@@ -111779,7 +112028,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(370)" id="370" pages="59" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="تابع سنة خمس وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p370)" id="p370" pages="59" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="تابع سنة خمس وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وورد	verb	وَرَد	_	_	وورد-v	وَرَد-v
 الخبر	noun_prop	خُبَر	_	_	الخبر-o	خُبَر-o
@@ -111808,7 +112057,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(371)" id="371" pages="71,72" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسع وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p371)" id="p371" pages="71,72" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسع وستين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 ورد	verb	رَدّ	_	_	ورد-v	رَدّ-v
@@ -111940,7 +112189,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(372)" id="372" pages="87" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة اثنتين وسبعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p372)" id="p372" pages="87" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة اثنتين وسبعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ليلة	noun	لَيْلَة	_	_	ليلة-n	لَيْلَة-n
@@ -112141,7 +112390,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(373)" id="373" pages="184,185" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة ثلاث وثمانين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p373)" id="p373" pages="184,185" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة ثلاث وثمانين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -112562,7 +112811,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(374)" id="374" pages="239,240" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p374)" id="p374" pages="239,240" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 رابعه	adj	رابِع	_	_	رابعه-a	رابِع-a
@@ -112781,7 +113030,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(375)" id="375" pages="259,260,261,262,263,264" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p375)" id="p375" pages="259,260,261,262,263,264" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة تسعين وستمائة" subchapter_title="وأن ليس للإنسان إلا ما سعى وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 أربع	noun_prop	أَرْبَع	_	_	أربع-o	أَرْبَع-o
@@ -114174,7 +114423,7 @@ l	foreign	l	_	_	l-2	l-2
 بالقاهرة	noun_prop	قاهِرَة	place	Cairo	بالقاهرة-o	قاهِرَة-o
 </s>
 </p>
-<p n="2.(376)" id="376" pages="339" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p376)" id="p376" pages="339" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subchapter_title="فورد الخبر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقدم	verb	قَدَّم	_	_	وقدم-v	قَدَّم-v
 البريد	noun	بَرِيد	_	_	البريد-n	بَرِيد-n
@@ -114364,7 +114613,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(377)" id="377" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p377)" id="p377" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subchapter_title="فورد الخبر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 .	punc	.	_	_	.-x	.-x
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
@@ -114450,7 +114699,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(378)" id="378" pages="362,363,364,365" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p378)" id="p378" pages="362,363,364,365" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة خمس وتسعين وستمائة" subchapter_title="وَفِي هده السّنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 بنابلس	noun_prop	نابُلُس	place	Nablus	بنابلس-o	نابُلُس-o
 صام	verb	صام	_	_	صام-v	صام-v
@@ -115525,7 +115774,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(379)" id="379" pages="383,384" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p379)" id="p379" pages="383,384" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subchapter_title="وَفِي هده السّنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 :	punc	:	_	_	:-x	:-x
@@ -115565,7 +115814,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(380)" id="380" pages="515,516,517" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p380)" id="p380" pages="515,516,517" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subchapter_title="سنة ست عشر وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 سادس	adj	سادِس	_	_	سادس-a	سادِس-a
@@ -116277,7 +116526,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(381)" id="381" pages="523" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p381)" id="p381" pages="523" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subchapter_title="سنة ست عشر وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 أول	adj	أَوَّل	_	_	أول-a	أَوَّل-a
 المحرم	adj	مُحَرَّم	_	_	المحرم-a	مُحَرَّم-a
@@ -116596,7 +116845,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(382)" id="382" pages="524,525,526" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p382)" id="p382" pages="524,525,526" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٢" chapter_title="سنة أربع وسبعمائة" subchapter_title="سنة ست عشر وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ثامن	adj	ثامِن	_	_	ثامن-a	ثامِن-a
@@ -117506,7 +117755,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(383)" id="383" pages="4,5" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p383)" id="p383" pages="4,5" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subchapter_title="سنة ست عشر وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -117963,7 +118212,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(384)" id="384" pages="15" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p384)" id="p384" pages="15" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ليلة	noun	لَيْلَة	_	_	ليلة-n	لَيْلَة-n
@@ -118116,7 +118365,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(385)" id="385" pages="38,39,40,41" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p385)" id="p385" pages="38,39,40,41" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 كأنما	part	كَأَنَّما	_	_	كأنما-h	كَأَنَّما-h
@@ -119037,7 +119286,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(386)" id="386" pages="59" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p386)" id="p386" pages="59" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
 المحرم	adj	مُحَرَّم	_	_	المحرم-a	مُحَرَّم-a
@@ -119301,7 +119550,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(387)" id="387" pages="66" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p387)" id="p387" pages="66" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 قبض	verb	قَبَض	_	_	قبض-v	قَبَض-v
@@ -119381,7 +119630,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(388)" id="388" pages="71,72" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p388)" id="p388" pages="71,72" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -119431,7 +119680,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(389)" id="389" pages="82" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p389)" id="p389" pages="82" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثلاث وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 بعث	verb	بَعَث	_	_	بعث-v	بَعَث-v
@@ -119479,7 +119728,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(390)" id="390" pages="90" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ست وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p390)" id="p390" pages="90" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ست وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
@@ -119588,7 +119837,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(391)" id="391" pages="110,111" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثمان وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p391)" id="p391" pages="110,111" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة ثمان وعشرين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 سافر	verb	سافَر	_	_	سافر-v	سافَر-v
@@ -120025,7 +120274,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(392)" id="392" pages="163,164" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="في ثامن المحرم" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p392)" id="p392" pages="163,164" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="في ثامن المحرم" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فلما	conj	لَمّا	_	_	فلما-c	لَمّا-c
 قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
@@ -120197,7 +120446,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(393)" id="393" pages="179" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p393)" id="p393" pages="179" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subchapter_title="وفي هده السنة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -120219,7 +120468,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(394)" id="394" pages="190,191" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p394)" id="p394" pages="190,191" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subchapter_title="وفي خامس رمضان" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 أمر	noun	أَمْر	_	_	أمر-n	أَمْر-n
@@ -120305,7 +120554,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(395)" id="395" pages="247" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p395)" id="p395" pages="247" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subchapter_title="وفي ثاني عشرى رمضان" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -120510,7 +120759,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(396)" id="396" pages="260" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p396)" id="p396" pages="260" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وثلاثين وسبعمائة" subchapter_title="وفي ثاني عشرى رمضان" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 استقر	verb	ٱِسْتَقَرّ	_	_	استقر-v	ٱِسْتَقَرّ-v
@@ -120540,7 +120789,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(397)" id="397" pages="276,277" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p397)" id="p397" pages="276,277" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 نودى	verb	أَوْدَى	_	_	نودى-v	أَوْدَى-v
@@ -120781,7 +121030,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(398)" id="398" pages="295,296" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p398)" id="p398" pages="295,296" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 أخريات	adj	أُخْرَى	_	_	أخريات-a	أُخْرَى-a
@@ -120967,7 +121216,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(399)" id="399" pages="300" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p399)" id="p399" pages="300" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة إحدى وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فآلما	noun	آلَم	_	_	فآلما-n	آلَم-n
 كان	verb	كان	_	_	كان-v	كان-v
@@ -121018,7 +121267,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(400)" id="400" pages="373" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p400)" id="p400" pages="373" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة اثنتين وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شرف	noun	شَرَف	_	_	شرف-n	شَرَف-n
 الدين	noun	دِين	_	_	الدين-n	دِين-n
@@ -121183,7 +121432,7 @@ l	foreign	l	_	_	l-2	l-2
 منثورا	adj	مَنْثُور	_	_	منثورا-a	مَنْثُور-a
 </s>
 </p>
-<p n="3.(401)" id="401" pages="403,404" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p401)" id="p401" pages="403,404" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة أربع وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 مستهل	noun	مُسْتَهَلّ	_	_	مستهل-n	مُسْتَهَلّ-n
@@ -121339,7 +121588,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(402)" id="402" pages="412" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة خمس وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p402)" id="p402" pages="412" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة خمس وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
@@ -121589,7 +121838,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(403)" id="403" pages="421" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة خمس وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.(p403)" id="p403" pages="421" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٣" chapter_title="سنة خمس وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 عزل	noun	عَزْل	_	_	عزل-n	عَزْل-n
@@ -121853,7 +122102,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(404)" id="404" pages="17,18" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p404)" id="p404" pages="17,18" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
@@ -122441,7 +122690,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(405)" id="405" pages="31" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة سبع وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p405)" id="p405" pages="31" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة سبع وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكتب	verb	كَتَب	_	_	وكتب-v	كَتَب-v
 الكامل	adj	كامِل	_	_	الكامل-a	كامِل-a
@@ -122696,7 +122945,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(406)" id="406" pages="64" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ثمان وأربعين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p406)" id="p406" pages="64" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ثمان وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين تاسعه" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 مستهل	noun	مُسْتَهَلّ	_	_	مستهل-n	مُسْتَهَلّ-n
@@ -122855,7 +123104,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(407)" id="407" pages="78,80,81,82,83,84,85,86,87,88,89,90,91,92,93" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة تسع وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p407)" id="p407" pages="78,80,81,82,83,84,85,86,87,88,89,90,91,92,93" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة تسع وأربعين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 توجه	verb	تَوَجَّه	_	_	توجه-v	تَوَجَّه-v
@@ -127112,7 +127361,7 @@ l	foreign	l	_	_	l-2	l-2
 ماتا	verb	مات	_	_	ماتا-v	مات-v
 </s>
 </p>
-<p n="4.(408)" id="408" pages="101,102" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة خمسين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p408)" id="p408" pages="101,102" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة خمسين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 (	punc	(	_	_	(-x	(-x
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
@@ -127412,7 +127661,7 @@ l	foreign	l	_	_	l-2	l-2
 كذلك	pron_dem	ذٰلِكَ	_	_	كذلك-t	ذٰلِكَ-t
 </s>
 </p>
-<p n="4.(409)" id="409" pages="136" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة اثنتين في خمسين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p409)" id="p409" pages="136" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة اثنتين في خمسين وسبعمائة" subchapter_title="وفي يوم الإثنين خامس عشر ربيع الآخر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
@@ -127503,7 +127752,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(410)" id="410" pages="166,167,168" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ثلاث وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p410)" id="p410" pages="166,167,168" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ثلاث وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 (	punc	(	_	_	(-x	(-x
 وفي	prep	فِي	_	_	وفي-p	فِي-p
@@ -128281,7 +128530,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(411)" id="411" pages="222" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p411)" id="p411" pages="222" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 خامس	adj	خامِس	_	_	خامس-a	خامِس-a
@@ -128352,7 +128601,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(412)" id="412" pages="227" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p412)" id="p412" pages="227" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة ست وخمسين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
@@ -128410,7 +128659,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(413)" id="413" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة أربع وسبعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p413)" id="p413" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٤" chapter_title="سنة أربع وسبعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 تزايد	noun	تَزايُد	_	_	تزايد-n	تَزايُد-n
@@ -128591,7 +128840,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(414)" id="414" pages="120" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثلاث وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p414)" id="p414" pages="120" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثلاث وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 هبت	verb	هَبّ	_	_	هبت-v	هَبّ-v
@@ -128611,7 +128860,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(415)" id="415" pages="163" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثلاث وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p415)" id="p415" pages="163" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثلاث وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 ست	noun	سِتّ	_	_	ست-n	سِتّ-n
@@ -128801,7 +129050,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(416)" id="416" pages="179,180,181" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p416)" id="p416" pages="179,180,181" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -129277,7 +129526,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(417)" id="417" pages="186" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثمان وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p417)" id="p417" pages="186" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة ثمان وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -129295,7 +129544,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(418)" id="418" pages="205" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p418)" id="p418" pages="205" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 سنة	noun	سَنَة	_	_	سنة-n	سَنَة-n
 تسعين	verb	سَعَى	_	_	تسعين-v	سَعَى-v
@@ -129421,7 +129670,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(419)" id="419" pages="206" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p419)" id="p419" pages="206" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -129458,7 +129707,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(420)" id="420" pages="207" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p420)" id="p420" pages="207" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -129534,7 +129783,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(421)" id="421" pages="218,219" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p421)" id="p421" pages="218,219" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 رابع	adj	رابِع	_	_	رابع-a	رابِع-a
@@ -129720,7 +129969,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(422)" id="422" pages="221" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p422)" id="p422" pages="221" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 سابع	adj	سابِع	_	_	سابع-a	سابِع-a
@@ -129781,7 +130030,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(423)" id="423" pages="268,269" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p423)" id="p423" pages="268,269" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة إحدى وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
 حادثة	noun	حادِث	_	_	حادثة-n	حادِث-n
@@ -130090,7 +130339,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(424)" id="424" pages="299" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة اثنتين وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p424)" id="p424" pages="299" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة اثنتين وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -130167,7 +130416,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(425)" id="425" pages="325" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة أربع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p425)" id="p425" pages="325" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة أربع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -130221,7 +130470,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(426)" id="426" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p426)" id="p426" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة سبع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 رابع	adj	رابِع	_	_	رابع-a	رابِع-a
@@ -130395,7 +130644,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(427)" id="427" pages="410" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة تسع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p427)" id="p427" pages="410" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٥" chapter_title="سنة تسع وتسعين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -130469,7 +130718,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(428)" id="428" pages="16" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثْنَتَيْنِ وَثَمَانمِائَة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p428)" id="p428" pages="16" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثْنَتَيْنِ وَثَمَانمِائَة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ليلة	noun	لَيْلَة	_	_	ليلة-n	لَيْلَة-n
@@ -130522,7 +130771,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(429)" id="429" pages="103,104" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="وفي خامس عشرينه" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p429)" id="p429" pages="103,104" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="وفي خامس عشرينه" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 عاشره	verb	عاشَر	_	_	عاشره-v	عاشَر-v
@@ -131099,7 +131348,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(430)" id="430" pages="146" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثمان وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p430)" id="p430" pages="146" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثمان وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وجهز	verb	جَهَّز	_	_	وجهز-v	جَهَّز-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -131184,7 +131433,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(431)" id="431" pages="155" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p431)" id="p431" pages="155" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 العباد	noun_prop	عَبّاد	_	_	العباد-o	عَبّاد-o
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
@@ -131281,7 +131530,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(432)" id="432" pages="213,214" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p432)" id="p432" pages="213,214" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع وثمانين وسبعمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
 شعبان	noun_prop	شَعْبان	_	_	شعبان-o	شَعْبان-o
@@ -131615,7 +131864,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(433)" id="433" pages="230" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتي عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p433)" id="p433" pages="230" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتي عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 سابعه	adj	سابِع	_	_	سابعه-a	سابِع-a
@@ -131891,7 +132140,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(434)" id="434" pages="279" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاث عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p434)" id="p434" pages="279" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاث عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 في	prep	فِي	_	_	في-p	فِي-p
@@ -131938,7 +132187,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(435)" id="435" pages="292" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p435)" id="p435" pages="292" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وحج	noun	حَجّ	_	_	وحج-n	حَجّ-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -131999,7 +132248,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(436)" id="436" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ست عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p436)" id="p436" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ست عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -132081,7 +132330,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(437)" id="437" pages="361" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p437)" id="p437" pages="361" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ثالثه	adj	ثالِث	_	_	ثالثه-a	ثالِث-a
@@ -132138,7 +132387,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(438)" id="438" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p438)" id="p438" pages="368" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة سبع عشرة وثمانمائة" subchapter_title="سنة ثلاث وخمسين وسبعمائة" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -132212,7 +132461,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(439)" id="439" pages="423" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p439)" id="p439" pages="423" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فكانت	verb	كان	_	_	فكانت-v	كان-v
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -132258,7 +132507,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(440)" id="440" pages="449" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاثين وأربعين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p440)" id="p440" pages="449" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة ثلاثين وأربعين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -132351,7 +132600,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(441)" id="441" pages="456" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة عشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p441)" id="p441" pages="456" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة عشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -132469,7 +132718,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(442)" id="442" pages="463" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة عشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p442)" id="p442" pages="463" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة عشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 ثامن	adj	ثامِن	_	_	ثامن-a	ثامِن-a
@@ -132520,7 +132769,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(443)" id="443" pages="492" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p443)" id="p443" pages="492" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 تاسع	adj	تاسِع	_	_	تاسع-a	تاسِع-a
@@ -132671,7 +132920,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(444)" id="444" pages="497,498,499,500" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.(p444)" id="p444" pages="497,498,499,500" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٦" chapter_title="سنة اثنتين وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فيه	prep	فِي	_	_	فيه-p	فِي-p
 وأصبح	verb	أَصْبَح	_	_	وأصبح-v	أَصْبَح-v
@@ -133929,7 +134178,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(445)" id="445" pages="52" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p445)" id="p445" pages="52" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="وفي يوم الإثنين سادس عشره" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 قبض	verb	قَبَض	_	_	قبض-v	قَبَض-v
@@ -133992,7 +134241,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(446)" id="446" pages="69" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p446)" id="p446" pages="69" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 -	punc	-	_	_	--x	--x
 (	punc	(	_	_	(-x	(-x
@@ -134145,7 +134394,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(447)" id="447" pages="76,77,78" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p447)" id="p447" pages="76,77,78" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة خمس وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 خامس	adj	خامِس	_	_	خامس-a	خامِس-a
@@ -134535,7 +134784,7 @@ l	foreign	l	_	_	l-2	l-2
 تنبك	verb	ناب	_	_	تنبك-v	ناب-v
 البجاسي	noun_prop	البجاسي	_	_	البجاسي-o	البجاسي-o
 إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
-حلب	noun_prop	حَلَب	place	_	حلب-o	حَلَب-o
+حلب	noun_prop	حَلَب	place	Aleppo	حلب-o	حَلَب-o
 على	prep	عَلَى	_	_	على-p	عَلَى-p
 نيابته	noun	نِيابَة	_	_	نيابته-n	نِيابَة-n
 .	punc	.	_	_	.-x	.-x
@@ -134830,7 +135079,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(448)" id="448" pages="86" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="إن الله يرزق من يشاء بغير حساب" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p448)" id="p448" pages="86" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="إن الله يرزق من يشاء بغير حساب" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 خامس	adj	خامِس	_	_	خامس-a	خامِس-a
@@ -135106,7 +135355,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(449)" id="449" pages="87" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="إن الله يرزق من يشاء بغير حساب" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p449)" id="p449" pages="87" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="إن الله يرزق من يشاء بغير حساب" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 في	prep	فِي	_	_	في-p	فِي-p
 ثالثه	adj	ثالِث	_	_	ثالثه-a	ثالِث-a
@@ -135277,7 +135526,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(450)" id="450" pages="97,98" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة سبع وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p450)" id="p450" pages="97,98" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة سبع وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 تاسع	adj	تاسِع	_	_	تاسع-a	تاسِع-a
@@ -135634,7 +135883,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(451)" id="451" pages="118" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p451)" id="p451" pages="118" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وعشرين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفيه	prep	فِي	_	_	وفيه-p	فِي-p
 جاء	verb	جاء	_	_	جاء-v	جاء-v
@@ -135821,7 +136070,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(452)" id="452" pages="146" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p452)" id="p452" pages="146" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -135866,7 +136115,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(453)" id="453" pages="155" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p453)" id="p453" pages="155" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -135995,7 +136244,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(454)" id="454" pages="193" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p454)" id="p454" pages="193" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 حادي	adj	حادِي	_	_	حادي-a	حادِي-a
@@ -136131,7 +136380,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(455)" id="455" pages="202" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p455)" id="p455" pages="202" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -136169,7 +136418,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(456)" id="456" pages="203,204,205,206" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p456)" id="p456" pages="203,204,205,206" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
 ربيع	noun_prop	رَبِيع	_	_	ربيع-o	رَبِيع-o
@@ -137573,7 +137822,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(457)" id="457" pages="208" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p457)" id="p457" pages="208" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -137979,7 +138228,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(458)" id="458" pages="213" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p458)" id="p458" pages="213,214" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاث وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فكانت	verb	كان	_	_	فكانت-v	كان-v
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -138093,9 +138342,157 @@ l	foreign	l	_	_	l-2	l-2
 مال	noun	مال	_	_	مال-n	مال-n
 عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
 .	punc	.	_	_	.-x	.-x
+وفي	prep	فِي	_	_	وفي-p	فِي-p
+مدة	noun	مُدَّة	_	_	مدة-n	مُدَّة-n
+هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
+الحروب	noun	حَرْب	_	_	الحروب-n	حَرْب-n
+ثأر	noun	ثَأْر	_	_	ثأر-n	ثَأْر-n
+اصبهان	noun_prop	اصبهان	_	_	اصبهان-o	اصبهان-o
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+قرآ	verb	قَرَأ	_	_	قرآ-v	قَرَأ-v
+يوسف	noun_prop	يُوسِف	_	_	يوسف-o	يُوسِف-o
+ونزل	verb	نَزَل	_	_	ونزل-v	نَزَل-v
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+الموصل	noun_prop	مَوْصِل	place	Mosul	الموصل-o	مَوْصِل-o
+ونهب	noun	نَهْب	_	_	ونهب-n	نَهْب-n
+تلك	pron_dem	ذٰلِكَ	_	_	تلك-t	ذٰلِكَ-t
+الأعمال	noun	عَمَل	_	_	الأعمال-n	عَمَل-n
+وقتل	verb	قَتَل	_	_	وقتل-v	قَتَل-v
+وأفسد	verb	أَفْسَد	_	_	وأفسد-v	أَفْسَد-v
+فسادا	verb	ساد	_	_	فسادا-v	ساد-v
+كبيرا	adj	كَبِير	_	_	كبيرا-a	كَبِير-a
+وكانت	verb	كان	_	_	وكانت-v	كان-v
+بعراقي	noun_prop	عِراق	_	_	بعراقي-o	عِراق-o
+العرب	noun	عَرَب	_	_	العرب-n	عَرَب-n
+والعجم	noun	عَجَم	_	_	والعجم-n	عَجَم-n
+نهوب	noun_prop	نهوب	_	_	نهوب-o	نهوب-o
+وغارات	noun	غارَة	_	_	وغارات-n	غارَة-n
+ومقاتل	noun	مَقْتَل	_	_	ومقاتل-n	مَقْتَل-n
+بحيث	conj	حَيْثُ	_	_	بحيث-c	حَيْثُ-c
+أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
+شاه	noun_prop	شاه	_	_	شاه-o	شاه-o
+محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
+بن	noun_prop	بِن	_	_	بن-o	بِن-o
+قرآ	verb	قَرَأ	_	_	قرآ-v	قَرَأ-v
+يوسف	noun_prop	يُوسِف	_	_	يوسف-o	يُوسِف-o
+-	punc	-	_	_	--x	--x
+متملك	noun_prop	متملك	_	_	متملك-o	متملك-o
+بغداد	noun_prop	بَغْداد	place	Baghdad	بغداد-o	بَغْداد-o
+-	punc	-	_	_	--x	--x
+من	prep	مِن	_	_	من-p	مِن-p
+عجزه	noun	عَجْز	_	_	عجزه-n	عَجْز-n
+لا	part_neg	لا	_	_	لا-e	لا-e
+يتجاسر	verb	تَجاسَر	_	_	يتجاسر-v	تَجاسَر-v
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
+يتجاوز	verb	تَجاوَز	_	_	يتجاوز-v	تَجاوَز-v
+سور	noun	سُور	_	_	سور-n	سُور-n
+بغداد	noun_prop	بَغْداد	place	Baghdad	بغداد-o	بَغْداد-o
+وخلا	verb	خَلا	_	_	وخلا-v	خَلا-v
+أحد	noun	أَحَد	_	_	أحد-n	أَحَد-n
+جانبي	noun	جانِب	_	_	جانبي-n	جانِب-n
+بغداد	noun_prop	بَغْداد	place	Baghdad	بغداد-o	بَغْداد-o
+من	prep	مِن	_	_	من-p	مِن-p
+السكان	noun	ساكِن	_	_	السكان-n	ساكِن-n
+وزال	verb	زال	_	_	وزال-v	زال-v
+عن	prep	عَن	_	_	عن-p	عَن-p
+بغداد	noun_prop	بَغْداد	place	Baghdad	بغداد-o	بَغْداد-o
+اسم	noun	ٱِسْم	_	_	اسم-n	ٱِسْم-n
+التمدن	noun	تَمَدُّن	_	_	التمدن-n	تَمَدُّن-n
+ورحل	verb	رَحَل	_	_	ورحل-v	رَحَل-v
+عنها	prep	عَن	_	_	عنها-p	عَن-p
+حتى	prep	حَتَّى	_	_	حتى-p	حَتَّى-p
+ألحياك	noun	أَلْحَى	_	_	ألحياك-n	أَلْحَى-n
+وجف	verb	جَفّ	_	_	وجف-v	جَفّ-v
+أكثر	adj	أَكْثَر	_	_	أكثر-a	أَكْثَر-a
+النخل	noun_prop	نَخْل	_	_	النخل-o	نَخْل-o
+من	prep	مِن	_	_	من-p	مِن-p
+أعمالها	noun	عَمَل	_	_	أعمالها-n	عَمَل-n
+ومع	prep	مَع	_	_	ومع-p	مَع-p
+هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
+كله	noun	كُلّ	_	_	كله-n	كُلّ-n
+فوضع	noun	وَضْع	_	_	فوضع-n	وَضْع-n
+شاه	noun_prop	شاه	_	_	شاه-o	شاه-o
+رخ	noun	رَخّ	_	_	رخ-n	رَخّ-n
+على	prep	عَلَى	_	_	على-p	عَلَى-p
+أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
+توريز	noun_prop	توريز	_	_	توريز-o	توريز-o
+مال	noun	مال	_	_	مال-n	مال-n
+الأمان	noun	أَمان	_	_	الأمان-n	أَمان-n
+حتى	prep	حَتَّى	_	_	حتى-p	حَتَّى-p
+ذهبت	verb	ذَهَب	_	_	ذهبت-v	ذَهَب-v
+في	prep	فِي	_	_	في-p	فِي-p
+جبايته	noun	جِبايَة	_	_	جبايته-n	جِبايَة-n
+نعمهم	noun	نِعْمَة	_	_	نعمهم-n	نِعْمَة-n
+ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
+جلاهم	verb	جَلَى	_	_	جلاهم-v	جَلَى-v
+بأجمعهم	noun	أَجْمَع	_	_	بأجمعهم-n	أَجْمَع-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+بلاده	noun	بَلَد	_	_	بلاده-n	بَلَد-n
+وكثر	noun	كُثْر	_	_	وكثر-n	كُثْر-n
+الإرجاف	noun	إِرْجاف	_	_	الإرجاف-n	إِرْجاف-n
+بقدومه	noun	قُدُوم	_	_	بقدومه-n	قُدُوم-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+الشام	noun_prop	شام	place	Sham	الشام-o	شام-o
+فأوقع	verb	وَقَّع	_	_	فأوقع-v	وَقَّع-v
+الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
+في	prep	فِي	_	_	في-p	فِي-p
+عسكره	noun	عَسْكَر	_	_	عسكره-n	عَسْكَر-n
+الغلاء	noun	غَلاء	_	_	الغلاء-n	غَلاء-n
+والوباء	noun	وَباء	catastrophe	pestilence	والوباء-n	وَباء-n
+حتى	prep	حَتَّى	_	_	حتى-p	حَتَّى-p
+عاد	verb	عاد	_	_	عاد-v	عاد-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+جهة	noun	جِهَة	_	_	جهة-n	جِهَة-n
+بلاده	noun	بَلَد	_	_	بلاده-n	بَلَد-n
+وعاد	verb	عاد	_	_	وعاد-v	عاد-v
+قرآ	verb	قَرَأ	_	_	قرآ-v	قَرَأ-v
+يلك	verb	وَلِي	_	_	يلك-v	وَلِي-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+ماردين	noun	مارِد	place	Mardin	ماردين-n	مارِد-n
+فنهبها	noun	نَهْب	_	_	فنهبها-n	نَهْب-n
+ونهب	noun	نَهْب	_	_	ونهب-n	نَهْب-n
+ملطيه	noun_prop	ملطيه	_	_	ملطيه-o	ملطيه-o
+وما	pron_rel	ما	_	_	وما-g	ما-g
+حولها	noun	حَوْل	_	_	حولها-n	حَوْل-n
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+عينتاب	noun_prop	عينتاب	_	_	عينتاب-o	عينتاب-o
+وحرقها	noun	حَرْق	_	_	وحرقها-n	حَرْق-n
+.	punc	.	_	_	.-x	.-x
+وكان	verb	كان	_	_	وكان-v	كان-v
+ببلاد	noun	بَلَد	_	_	ببلاد-n	بَلَد-n
+السراي	noun	سَراي	_	_	السراي-n	سَراي-n
+والدشت	noun	دَشْت	_	_	والدشت-n	دَشْت-n
+وصحارى	noun	صَحْراء	_	_	وصحارى-n	صَحْراء-n
+في	prep	فِي	_	_	في-p	فِي-p
+هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
+السنة	noun	سَنَة	_	_	السنة-n	سَنَة-n
+والتي	pron_rel	الَّذِي	_	_	والتي-g	الَّذِي-g
+قبلها	noun	قِبَل	_	_	قبلها-n	قِبَل-n
+قحط	verb	قَحَط	catastrophe	drought	قحط-v	قَحَط-v
+شديد	noun_prop	شَدِيد	_	_	شديد-o	شَدِيد-o
+ووباء	noun	وَباء	catastrophe	pestilence	ووباء-n	وَباء-n
+عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
+جدا	noun	جِدّ	_	_	جدا-n	جِدّ-n
+هلك	verb	هَلَك	_	_	هلك-v	هَلَك-v
+فيه	prep	فِي	_	_	فيه-p	فِي-p
+عالم	noun	عالَم	_	_	عالم-n	عالَم-n
+كبير	adj	كَبِير	_	_	كبير-a	كَبِير-a
+بحيث	conj	حَيْثُ	_	_	بحيث-c	حَيْثُ-c
+لم	part_neg	لَم	_	_	لم-e	لَم-e
+يبق	verb	بَقِي	_	_	يبق-v	بَقِي-v
+منهم	prep	مِن	_	_	منهم-p	مِن-p
+ولا	part_neg	لا	_	_	ولا-e	لا-e
+من	prep	مِن	_	_	من-p	مِن-p
+أنعامهم	noun	أَنْعام	_	_	أنعامهم-n	أَنْعام-n
+إلا	part	إِلّا	_	_	إلا-h	إِلّا-h
+أقل	noun	أَقَلّ	_	_	أقل-n	أَقَلّ-n
+من	prep	مِن	_	_	من-p	مِن-p
+القليل	adj	قَلِيل	_	_	القليل-a	قَلِيل-a
+.	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(459)" id="459" pages="226,227,228" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربع وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p459)" id="p459" pages="226,227,228" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربع وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
 رجب	noun_prop	رَجَب	_	_	رجب-o	رَجَب-o
@@ -138645,7 +139042,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(460)" id="460" pages="281" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p460)" id="p460" pages="281" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
 ربيع	noun_prop	رَبِيع	_	_	ربيع-o	رَبِيع-o
@@ -138678,7 +139075,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(461)" id="461" pages="292" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p461)" id="p461" pages="292" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثمان وثلاثين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وحج	noun	حَجّ	_	_	وحج-n	حَجّ-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -138786,7 +139183,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(462)" id="462" pages="309,310" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="نكالا من الله والله عزيز حكيم" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p462)" id="p462" pages="309,310" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="نكالا من الله والله عزيز حكيم" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 سابع	adj	سابِع	_	_	سابع-a	سابِع-a
@@ -138987,7 +139384,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(463)" id="463" pages="347" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p463)" id="p463" pages="347" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -139170,7 +139567,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(464)" id="464" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p464)" id="p464" pages="348" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 سابع	adj	سابِع	_	_	سابع-a	سابِع-a
@@ -139305,7 +139702,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(465)" id="465" pages="352,353" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p465)" id="p465" pages="352,353" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 شهر	noun	شَهْر	_	_	شهر-n	شَهْر-n
 شوال	noun_prop	شَوّال	_	_	شوال-o	شَوّال-o
@@ -139531,7 +139928,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(466)" id="466" pages="354" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p466)" id="p466" pages="354" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -139824,7 +140221,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(467)" id="467" pages="355,356,357,358,359" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p467)" id="p467" pages="355,356,357,358,359" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة أربعين وثمانمائة" subchapter_title="إن الله يرزق من يشاء بغير حساب" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 يوم	noun	يَوْم	_	_	يوم-n	يَوْم-n
@@ -141081,7 +141478,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(468)" id="468" pages="384" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p468)" id="p468" pages="384" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 قد	part_verb	قَدْ	_	_	قد-l	قَدْ-l
@@ -141185,7 +141582,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(469)" id="469" pages="423" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="وفي يوم الإثنين سادس عشره" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p469)" id="p469" pages="423" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="وفي يوم الإثنين سادس عشره" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فكانت	verb	كان	_	_	فكانت-v	كان-v
 هذه	pron_dem	هٰذا	_	_	هذه-t	هٰذا-t
@@ -141421,7 +141818,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(470)" id="470" pages="449" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p470)" id="p470" pages="449" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة ثلاثين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -141469,7 +141866,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(471)" id="471" pages="471" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p471)" id="p471" pages="471" book_title="Al-Sulūk li-Maʿrifat Duwal al-Mulūk" section_title="الجزء ٧" chapter_title="سنة اثنتين وأربعين وثمانمائة" subchapter_title="تحسبهم جميعا وقلوبهمشتى ذلك بأنهم قوم لا يعقلون" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 تاسعه	adj	تاسِع	_	_	تاسعه-a	تاسِع-a
@@ -141622,7 +142019,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="tafsir" n="7" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)">
-<p n="2.113.(472)" id="472" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١١٣ وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.113.(p472)" id="p472" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١١٣ وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 وقالت	verb	قال	_	_	وقالت-v	قال-v
@@ -142076,7 +142473,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(473)" id="473" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p473)" id="p473" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -142640,7 +143037,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(474)" id="474" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p474)" id="p474" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وأنزل	verb	نَزَل	_	_	وأنزل-v	نَزَل-v
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -143091,7 +143488,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(475)" id="475" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p475)" id="p475" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -143577,7 +143974,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(476)" id="476" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p476)" id="p476" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وجايز	noun_prop	وجايز	_	_	وجايز-o	وجايز-o
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -144066,7 +144463,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(477)" id="477" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p477)" id="p477" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فكنست	verb	كَنَس	_	_	فكنست-v	كَنَس-v
 لهما	prep	لِ	_	_	لهما-p	لِ-p
@@ -144580,7 +144977,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(478)" id="478" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p478)" id="p478" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 من	prep	مِن	_	_	من-p	مِن-p
@@ -145080,7 +145477,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.127.(479)" id="479" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.127.(p479)" id="p479" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ ١٢٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقد	part_verb	قَدْ	_	_	وقد-l	قَدْ-l
 كان	verb	كان	_	_	كان-v	كان-v
@@ -145614,7 +146011,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.155.(480)" id="480" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١٥٥ وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.155.(p480)" id="p480" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١٥٥ وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وهذا	pron_dem	هٰذا	_	_	وهذا-t	هٰذا-t
 أخبار	noun	خَبَر	_	_	أخبار-n	خَبَر-n
@@ -146096,7 +146493,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.155.(481)" id="481" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١٥٥ وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.155.(p481)" id="p481" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="١٥٥ وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -146219,7 +146616,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.156.(482)" id="482" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.156.(p482)" id="p482" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -146307,7 +146704,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.173.(483)" id="483" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.173.(p483)" id="p483" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -146833,7 +147230,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="2.173.(484)" id="484" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.173.(p484)" id="p484" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ظلم	noun	ظُلْم	_	_	ظلم-n	ظُلْم-n
 البطاح	noun	بَطْحاء	_	_	البطاح-n	بَطْحاء-n
@@ -147325,7 +147722,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.173.(485)" id="485" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.173.(p485)" id="p485" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 القول	noun	قَوْل	_	_	القول-n	قَوْل-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -147852,7 +148249,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.173.(486)" id="486" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.173.(p486)" id="p486" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 هناد	noun_prop	هناد	_	_	هناد-o	هناد-o
@@ -148509,7 +148906,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.173.(487)" id="487" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.173.(p487)" id="p487" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ١٧٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
@@ -148725,7 +149122,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.214.(488)" id="488" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.214.(p488)" id="p488" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 قوله	noun	قَوْل	_	_	قوله-n	قَوْل-n
@@ -149224,7 +149621,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.214.(489)" id="489" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.214.(p489)" id="p489" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="البقرة" chapter_title="أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 معنى	noun	مَعْنَى	_	_	معنى-n	مَعْنَى-n
@@ -149647,7 +150044,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.117.(490)" id="490" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.117.(p490)" id="p490" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بذلك	pron_dem	ذٰلِكَ	_	_	بذلك-t	ذٰلِكَ-t
@@ -150128,7 +150525,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.117.(491)" id="491" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.117.(p491)" id="p491" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 القاسم	noun_prop	قاسِم	_	_	القاسم-o	قاسِم-o
@@ -150581,7 +150978,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.165.(492)" id="492" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.165.(p492)" id="p492" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -151086,7 +151483,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.165.(493)" id="493" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.165.(p493)" id="p493" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فقال	verb	قال	_	_	فقال-v	قال-v
 رسول	noun	رَسُول	_	_	رسول-n	رَسُول-n
@@ -151553,7 +151950,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.165.(494)" id="494" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.165.(p494)" id="p494" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="١٦٥ أَوَلَمَّآ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -152086,7 +152483,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.172.(495)" id="495" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.172.(p495)" id="p495" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بذلك	pron_dem	ذٰلِكَ	_	_	بذلك-t	ذٰلِكَ-t
@@ -152534,7 +152931,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.172.(496)" id="496" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.172.(p496)" id="p496" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -153030,7 +153427,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.172.(497)" id="497" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="3.172.(p497)" id="p497" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="آل عمران" chapter_title="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ١٧٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يعقوب	noun_prop	يَعْقُوب	_	_	يعقوب-o	يَعْقُوب-o
@@ -153336,7 +153733,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.62.(498)" id="498" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="فَكَيْفَ إِذَآ أَصَـٰبَتْهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.62.(p498)" id="p498" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="فَكَيْفَ إِذَآ أَصَـٰبَتْهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بذلك	pron_dem	ذٰلِكَ	_	_	بذلك-t	ذٰلِكَ-t
@@ -153471,7 +153868,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(499)" id="499" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p499)" id="p499" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وهذا	pron_dem	هٰذا	_	_	وهذا-t	هٰذا-t
 نعت	noun	نَعْت	_	_	نعت-n	نَعْت-n
@@ -153894,7 +154291,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="4.(500)" id="500" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p500)" id="p500" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بذلك	pron_dem	ذٰلِكَ	_	_	بذلك-t	ذٰلِكَ-t
@@ -154411,7 +154808,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(501)" id="501" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p501)" id="p501" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 المثني	adj	مَثْنِيّ	_	_	المثني-a	مَثْنِيّ-a
@@ -154909,7 +155306,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(502)" id="502" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.(p502)" id="p502" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا ٧٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 القاسم	noun_prop	قاسِم	_	_	القاسم-o	قاسِم-o
@@ -155352,7 +155749,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="4.79.(503)" id="503" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ٧٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.79.(p503)" id="p503" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ٧٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 جل	noun	جَلّ	_	_	جل-n	جَلّ-n
@@ -155882,7 +156279,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.79.(504)" id="504" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ٧٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="4.79.(p504)" id="p504" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النساء" chapter_title="مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ٧٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -156358,7 +156755,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="5.3.(505)" id="505" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.3.(p505)" id="p505" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -156854,7 +157251,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.3.(506)" id="506" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.3.(p506)" id="p506" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 آخرون	adj	آخَر	_	_	آخرون-a	آخَر-a
@@ -157371,7 +157768,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.3.(507)" id="507" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.3.(p507)" id="p507" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 غير	noun	غَيْر	_	_	غير-n	غَيْر-n
@@ -157978,7 +158375,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.49.(508)" id="508" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ ٤٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.49.(p508)" id="p508" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ ٤٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -158488,7 +158885,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.52.(509)" id="509" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَ ةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ ٥٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.52.(p509)" id="p509" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَ ةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ ٥٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -159015,7 +159412,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.52.(510)" id="510" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَ ةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ ٥٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.52.(p510)" id="p510" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَ ةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ ٥٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ويعني	verb	عَنَى	_	_	ويعني-v	عَنَى-v
 بالدايره	noun_prop	بالدايره	_	_	بالدايره-o	بالدايره-o
@@ -159513,7 +159910,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(511)" id="511" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p511)" id="p511" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -160070,7 +160467,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(512)" id="512" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p512)" id="p512" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 واختلفوا	verb	ٱِخْتَلَف	_	_	واختلفوا-v	ٱِخْتَلَف-v
 في	prep	فِي	_	_	في-p	فِي-p
@@ -160538,7 +160935,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(513)" id="513" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p513)" id="p513" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وأختلف	verb	ٱِخْتَلَف	_	_	وأختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -161088,7 +161485,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(514)" id="514" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p514)" id="p514" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يعقوب	noun_prop	يَعْقُوب	_	_	يعقوب-o	يَعْقُوب-o
@@ -161626,7 +162023,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(515)" id="515" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p515)" id="p515" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -162178,7 +162575,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(516)" id="516" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p516)" id="p516" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يونس	noun_prop	يُونِس	_	_	يونس-o	يُونِس-o
@@ -162810,7 +163207,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(517)" id="517" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p517)" id="p517" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 أعجبهم	noun	أَعْجَب	_	_	أعجبهم-n	أَعْجَب-n
@@ -163189,7 +163586,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(518)" id="518" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p518)" id="p518" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 القول	noun	قَوْل	_	_	القول-n	قَوْل-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -163709,7 +164106,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(519)" id="519" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p519)" id="p519" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 .	punc	.	_	_	.-x	.-x
 .	punc	.	_	_	.-x	.-x
@@ -164230,7 +164627,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(520)" id="520" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p520)" id="p520" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقوله	noun	قَوْل	_	_	وقوله-n	قَوْل-n
 :	punc	:	_	_	:-x	:-x
@@ -164705,7 +165102,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(521)" id="521" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p521)" id="p521" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 من	prep	مِن	_	_	من-p	مِن-p
@@ -165204,7 +165601,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.106.(522)" id="522" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.106.(p522)" id="p522" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 القول	noun	قَوْل	_	_	القول-n	قَوْل-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -165531,7 +165928,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(523)" id="523" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَـٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَآ أَحَقُّ مِن شَهَـٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّـٰلِمِينَ ١٠٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="5.(p523)" id="p523" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المائدة" chapter_title="فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَـٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَآ أَحَقُّ مِن شَهَـٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّـٰلِمِينَ ١٠٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 يا	part_voc	يا	_	_	يا-m	يا-m
@@ -166044,7 +166441,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.65.(524)" id="524" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنعام" chapter_title="وَلَوْ أَنَّ أَهْلَ ٱلْكِتَـٰبِ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَكَفَّرْنَا عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأَدْخَلْنَـٰهُمْ جَنَّـٰتِ ٱلنَّعِيمِ ٦٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.65.(p524)" id="p524" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنعام" chapter_title="وَلَوْ أَنَّ أَهْلَ ٱلْكِتَـٰبِ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَكَفَّرْنَا عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأَدْخَلْنَـٰهُمْ جَنَّـٰتِ ٱلنَّعِيمِ ٦٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 فأما	part_focus	أَمّا	_	_	فأما-z	أَمّا-z
@@ -166177,7 +166574,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.124.(525)" id="525" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنعام" chapter_title="وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="6.124.(p525)" id="p525" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنعام" chapter_title="وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -166613,7 +167010,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.68.(526)" id="526" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p526)" id="p526" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بقوله	noun	قَوْل	_	_	بقوله-n	قَوْل-n
@@ -167110,7 +167507,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.68.(527)" id="527" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p527)" id="p527" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -167613,7 +168010,7 @@ l	foreign	l	_	_	l-2	l-2
 ،	punc	،	_	_	،-x	،-x
 </s>
 </p>
-<p n="7.68.(528)" id="528" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p528)" id="p528" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 قال	verb	قال	_	_	قال-v	قال-v
@@ -168102,7 +168499,7 @@ l	foreign	l	_	_	l-2	l-2
 والسلاما	noun_prop	والسلاما	_	_	والسلاما-o	والسلاما-o
 </s>
 </p>
-<p n="7.68.(529)" id="529" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p529)" id="p529" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فلما	conj	لَمّا	_	_	فلما-c	لَمّا-c
 قال	verb	قال	_	_	قال-v	قال-v
@@ -168528,7 +168925,7 @@ l	foreign	l	_	_	l-2	l-2
 بها	prep	بِ	_	_	بها-p	بِ-p
 </s>
 </p>
-<p n="7.68.(530)" id="530" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p530)" id="p530" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 وقالوا	verb	قال	_	_	وقالوا-v	قال-v
@@ -169051,7 +169448,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.68.(531)" id="531" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p531)" id="p531" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -169542,7 +169939,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.68.(532)" id="532" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.68.(p532)" id="p532" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ ٦٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -169813,7 +170210,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.78.(533)" id="533" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.78.(p533)" id="p533" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -170154,7 +170551,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.91.(534)" id="534" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.91.(p534)" id="p534" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -170664,7 +171061,7 @@ l	foreign	l	_	_	l-2	l-2
 كالمضمحلة	adj	مُضْمَحِلّ	_	_	كالمضمحلة-a	مُضْمَحِلّ-a
 </s>
 </p>
-<p n="7.100.(535)" id="535" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ ١٠٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.100.(p535)" id="p535" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ ١٠٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -171003,7 +171400,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(536)" id="536" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَـٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَـٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ ١٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p536)" id="p536" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَـٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَـٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ ١٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -171430,7 +171827,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(537)" id="537" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍۢ مَّوْعِظَةًۭ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ فَخُذْهَا بِقُوَّةٍۢ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَـٰسِقِينَ ١٤٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p537)" id="p537" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍۢ مَّوْعِظَةًۭ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ فَخُذْهَا بِقُوَّةٍۢ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَـٰسِقِينَ ١٤٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -171672,7 +172069,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(538)" id="538" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p538)" id="p538" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -172169,7 +172566,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(539)" id="539" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p539)" id="p539" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 المثني	adj	مَثْنِيّ	_	_	المثني-a	مَثْنِيّ-a
@@ -172704,7 +173101,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(540)" id="540" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p540)" id="p540" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 القاسم	noun_prop	قاسِم	_	_	القاسم-o	قاسِم-o
@@ -173181,7 +173578,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(541)" id="541" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p541)" id="p541" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقد	part_verb	قَدْ	_	_	وقد-l	قَدْ-l
 ذكرنا	verb	ذَكَّر	_	_	ذكرنا-v	ذَكَّر-v
@@ -173704,7 +174101,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(542)" id="542" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p542)" id="p542" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -174086,7 +174483,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(543)" id="543" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p543)" id="p543" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -174657,7 +175054,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(544)" id="544" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p544)" id="p544" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 المثني	adj	مَثْنِيّ	_	_	المثني-a	مَثْنِيّ-a
@@ -175209,7 +175606,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(545)" id="545" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p545)" id="p545" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 القاسم	noun_prop	قاسِم	_	_	القاسم-o	قاسِم-o
@@ -175755,7 +176152,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(546)" id="546" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="7.(p546)" id="p546" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأعراف" chapter_title="۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -176020,7 +176417,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.25.(547)" id="547" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنفال" chapter_title="وَٱتَّقُوا۟ فِتْنَةًۭ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةًۭ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ ٢٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="8.25.(p547)" id="p547" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنفال" chapter_title="وَٱتَّقُوا۟ فِتْنَةًۭ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةًۭ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ ٢٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -176522,7 +176919,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.25.(548)" id="548" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنفال" chapter_title="وَٱتَّقُوا۟ فِتْنَةًۭ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةًۭ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ ٢٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="8.25.(p548)" id="p548" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنفال" chapter_title="وَٱتَّقُوا۟ فِتْنَةًۭ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةًۭ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ ٢٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -176764,7 +177161,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.50.(549)" id="549" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.50.(p549)" id="p549" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -177031,7 +177428,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.51.(550)" id="550" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ ٥١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.51.(p550)" id="p550" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ ٥١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -177123,7 +177520,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.52.(551)" id="551" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.52.(p551)" id="p551" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -177584,7 +177981,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.74.(552)" id="552" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.74.(p552)" id="p552" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -178078,7 +178475,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.74.(553)" id="553" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.74.(p553)" id="p553" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 المثني	adj	مَثْنِيّ	_	_	المثني-a	مَثْنِيّ-a
@@ -178558,7 +178955,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.74.(554)" id="554" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.74.(p554)" id="p554" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وإما	conj	إِمّا	_	_	وإما-c	إِمّا-c
 قوله	noun	قَوْل	_	_	قوله-n	قَوْل-n
@@ -179147,7 +179544,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.74.(555)" id="555" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.74.(p555)" id="p555" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 صالح	noun_prop	صالِح	_	_	صالح-o	صالِح-o
@@ -179507,7 +179904,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.85.(556)" id="556" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ ٨٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.85.(p556)" id="p556" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ ٨٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -179646,7 +180043,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.90.(557)" id="557" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.90.(p557)" id="p557" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -180134,7 +180531,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.90.(558)" id="558" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.90.(p558)" id="p558" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فأما	part_focus	أَمّا	_	_	فأما-z	أَمّا-z
 بالحق	noun	حَقّ	_	_	بالحق-n	حَقّ-n
@@ -180373,7 +180770,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.120.(559)" id="559" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ١٢٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.120.(p559)" id="p559" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ١٢٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -180825,7 +181222,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.120.(560)" id="560" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ١٢٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="9.120.(p560)" id="p560" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التوبة" chapter_title="مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ١٢٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 .	punc	.	_	_	.-x	.-x
 .	punc	.	_	_	.-x	.-x
@@ -181331,7 +181728,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.22.(561)" id="561" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يونس" chapter_title="هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="10.22.(p561)" id="p561" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يونس" chapter_title="هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -181853,7 +182250,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.107.(562)" id="562" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يونس" chapter_title="وَإِن يَمْسَسْكَ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="10.107.(p562)" id="p562" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يونس" chapter_title="وَإِن يَمْسَسْكَ ٱللَّهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -181985,7 +182382,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.67.(563)" id="563" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.67.(p563)" id="p563" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -182171,7 +182568,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.81.(564)" id="564" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.81.(p564)" id="p564" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -182690,7 +183087,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.81.(565)" id="565" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.81.(p565)" id="p565" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -183237,7 +183634,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.81.(566)" id="566" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.81.(p566)" id="p566" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 الحسن	noun_prop	حَسَن	_	_	الحسن-o	حَسَن-o
@@ -183703,7 +184100,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.81.(567)" id="567" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.81.(p567)" id="p567" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فأدخل	verb	دَخَل	_	_	فأدخل-v	دَخَل-v
 ميكاييل	noun_prop	ميكاييل	_	_	ميكاييل-o	ميكاييل-o
@@ -184173,7 +184570,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.81.(568)" id="568" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.81.(p568)" id="p568" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ ٨١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 أمر	noun	أَمْر	_	_	أمر-n	أَمْر-n
@@ -184571,7 +184968,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.89.(569)" id="569" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَيَـٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَـٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ ٨٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.89.(p569)" id="p569" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَيَـٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَـٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ ٨٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -184887,7 +185284,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="11.94.(570)" id="570" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="11.94.(p570)" id="p570" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="هود" chapter_title="وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -184977,7 +185374,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="12.90.(571)" id="571" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يوسف" chapter_title="قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ٩٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="12.90.(p571)" id="p571" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يوسف" chapter_title="قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ٩٠" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -185253,7 +185650,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.13.(572)" id="572" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.13.(p572)" id="p572" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -185789,7 +186186,7 @@ l	foreign	l	_	_	l-2	l-2
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="13.13.(573)" id="573" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.13.(p573)" id="p573" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أحمد	noun_prop	أَحْمَد	_	_	أحمد-o	أَحْمَد-o
@@ -186343,7 +186740,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.13.(574)" id="574" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.13.(p574)" id="p574" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 المثني	adj	مَثْنِيّ	_	_	المثني-a	مَثْنِيّ-a
@@ -186851,7 +187248,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="13.13.(575)" id="575" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.13.(p575)" id="p575" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 أعطيك	verb	أَعْطَى	_	_	أعطيك-v	أَعْطَى-v
@@ -187323,7 +187720,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.13.(576)" id="576" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.13.(p576)" id="p576" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 قتاده	noun	قَتاد	_	_	قتاده-n	قَتاد-n
@@ -187560,7 +187957,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.31.(577)" id="577" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p577)" id="p577" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -188074,7 +188471,7 @@ l	foreign	l	_	_	l-2	l-2
 مدفعا	noun	مِدْفَع	_	_	مدفعا-n	مِدْفَع-n
 </s>
 </p>
-<p n="13.31.(578)" id="578" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p578)" id="p578" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 من	prep	مِن	_	_	من-p	مِن-p
@@ -188570,7 +188967,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.31.(579)" id="579" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p579)" id="p579" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -189144,7 +189541,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.31.(580)" id="580" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p580)" id="p580" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يونس	noun_prop	يُونِس	_	_	يونس-o	يُونِس-o
@@ -189635,7 +190032,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.31.(581)" id="581" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p581)" id="p581" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 أو	conj	أَو	_	_	أو-c	أَو-c
@@ -190213,7 +190610,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.31.(582)" id="582" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.31.(p582)" id="p582" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أحمد	noun_prop	أَحْمَد	_	_	أحمد-o	أَحْمَد-o
@@ -190531,7 +190928,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="13.39.(583)" id="583" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ ٣٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="13.39.(p583)" id="p583" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الرعد" chapter_title="يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ ٣٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -191032,7 +191429,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.18.(584)" id="584" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="إبراهيم" chapter_title="مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.18.(p584)" id="p584" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="إبراهيم" chapter_title="مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -191554,7 +191951,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="14.18.(585)" id="585" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="إبراهيم" chapter_title="مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="14.18.(p585)" id="p585" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="إبراهيم" chapter_title="مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -191658,7 +192055,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.73.(586)" id="586" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحجر" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.73.(p586)" id="p586" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحجر" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -192243,7 +192640,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="15.83.(587)" id="587" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحجر" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="15.83.(p587)" id="p587" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحجر" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -192348,7 +192745,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.34.(588)" id="588" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النحل" chapter_title="فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ ٣٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="16.34.(p588)" id="p588" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النحل" chapter_title="فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ ٣٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -192415,7 +192812,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="17.68.(589)" id="589" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإسراء" chapter_title="أَفَأَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ ٱلْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="17.68.(p589)" id="p589" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإسراء" chapter_title="أَفَأَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ ٱلْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -192468,7 +192865,7 @@ l	foreign	l	_	_	l-2	l-2
 بكم	prep	بِ	_	_	بكم-p	بِ-p
 </s>
 </p>
-<p n="17.69.(590)" id="590" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإسراء" chapter_title="أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًۭا مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="17.69.(p590)" id="p590" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإسراء" chapter_title="أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًۭا مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -192932,7 +193329,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="21.81.(591)" id="591" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنبياء" chapter_title="وَلِسُلَيْمَـٰنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="21.81.(p591)" id="p591" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأنبياء" chapter_title="وَلِسُلَيْمَـٰنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -193417,7 +193814,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.1.(592)" id="592" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.1.(p592)" id="p592" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -194014,7 +194411,7 @@ l	foreign	l	_	_	l-2	l-2
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="22.1.(593)" id="593" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.1.(p593)" id="p593" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 رسول	noun	رَسُول	_	_	رسول-n	رَسُول-n
@@ -194415,7 +194812,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.1.(594)" id="594" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.1.(p594)" id="p594" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وحدثنا	noun	حَدَث	_	_	وحدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -194899,7 +195296,7 @@ l	foreign	l	_	_	l-2	l-2
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="22.1.(595)" id="595" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.1.(p595)" id="p595" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
@@ -195423,7 +195820,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.1.(596)" id="596" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.1.(p596)" id="p596" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قالوا	verb	قال	_	_	قالوا-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -196008,7 +196405,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.11.(597)" id="597" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۢ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ ١١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.11.(p597)" id="p597" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۢ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ ١١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 جل	noun	جَلّ	_	_	جل-n	جَلّ-n
@@ -196525,7 +196922,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.11.(598)" id="598" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۢ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ ١١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.11.(p598)" id="p598" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۢ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ ١١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 الحسن	noun_prop	حَسَن	_	_	الحسن-o	حَسَن-o
@@ -196865,7 +197262,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="22.31.(599)" id="599" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="22.31.(p599)" id="p599" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحج" chapter_title="حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -197218,7 +197615,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="23.41.(600)" id="600" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المؤمنون" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="23.41.(p600)" id="p600" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المؤمنون" chapter_title="فَأَخَذَتْهُمُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -197553,7 +197950,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.40.(601)" id="601" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.40.(p601)" id="p601" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 القول	noun	قَوْل	_	_	القول-n	قَوْل-n
 في	prep	فِي	_	_	في-p	فِي-p
@@ -197818,7 +198215,7 @@ l	foreign	l	_	_	l-2	l-2
 ،	punc	،	_	_	،-x	،-x
 </s>
 </p>
-<p n="24.40.(602)" id="602" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.40.(p602)" id="p602" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 .	punc	.	_	_	.-x	.-x
 .	punc	.	_	_	.-x	.-x
@@ -198156,7 +198553,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.43.(603)" id="603" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًۭا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍۢ فِيهَا مِنۢ بَرَدٍۢ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ٤٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.43.(p603)" id="p603" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًۭا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍۢ فِيهَا مِنۢ بَرَدٍۢ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ٤٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -198698,7 +199095,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.43.(604)" id="604" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًۭا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍۢ فِيهَا مِنۢ بَرَدٍۢ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ٤٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.43.(p604)" id="p604" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًۭا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍۢ فِيهَا مِنۢ بَرَدٍۢ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ٤٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 والمعنى	noun	مَعْنَى	_	_	والمعنى-n	مَعْنَى-n
 :	punc	:	_	_	:-x	:-x
@@ -199067,7 +199464,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.63.(605)" id="605" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="لَّا تَجْعَلُوا۟ دُعَآءَ ٱلرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم بَعْضًۭا ۚ قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذًۭا ۚ فَلْيَحْذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِۦٓ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ ٦٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.63.(p605)" id="p605" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="لَّا تَجْعَلُوا۟ دُعَآءَ ٱلرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم بَعْضًۭا ۚ قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذًۭا ۚ فَلْيَحْذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِۦٓ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ ٦٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -199552,7 +199949,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.63.(606)" id="606" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="لَّا تَجْعَلُوا۟ دُعَآءَ ٱلرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم بَعْضًۭا ۚ قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذًۭا ۚ فَلْيَحْذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِۦٓ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ ٦٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="24.63.(p606)" id="p606" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النور" chapter_title="لَّا تَجْعَلُوا۟ دُعَآءَ ٱلرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم بَعْضًۭا ۚ قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذًۭا ۚ فَلْيَحْذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِۦٓ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ ٦٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 من	prep	مِن	_	_	من-p	مِن-p
@@ -199866,7 +200263,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="28.47.(607)" id="607" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القصص" chapter_title="وَلَوْلَآ أَن تُصِيبَهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="28.47.(p607)" id="p607" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القصص" chapter_title="وَلَوْلَآ أَن تُصِيبَهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -199988,7 +200385,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="29.37.(608)" id="608" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="فَكَذَّبُوهُ فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="29.37.(p608)" id="p608" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="فَكَذَّبُوهُ فَأَخَذَتْهُمُ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -200049,7 +200446,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="29.40.(609)" id="609" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="29.40.(p609)" id="p609" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -200652,7 +201049,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="30.36.(610)" id="610" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="30.36.(p610)" id="p610" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -200793,7 +201190,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="30.48.(611)" id="611" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="ٱللَّهُ ٱلَّذِى يُرْسِلُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="30.48.(p611)" id="p611" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="ٱللَّهُ ٱلَّذِى يُرْسِلُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -201141,7 +201538,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="31.32.(612)" id="612" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="لقمان" chapter_title="وَإِذَا غَشِيَهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="31.32.(p612)" id="p612" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="لقمان" chapter_title="وَإِذَا غَشِيَهُم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -201765,7 +202162,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="32.21.(613)" id="613" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="32.21.(p613)" id="p613" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلف	verb	ٱِخْتَلَف	_	_	اختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -202311,7 +202708,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="32.21.(614)" id="614" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="32.21.(p614)" id="p614" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 آخرون	adj	آخَر	_	_	آخرون-a	آخَر-a
@@ -202862,7 +203259,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="32.21.(615)" id="615" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="32.21.(p615)" id="p615" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="السجدة" chapter_title="وَلَنُذِيقَنَّهُم مِّنَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقوله	noun	قَوْل	_	_	وقوله-n	قَوْل-n
 :	punc	:	_	_	:-x	:-x
@@ -203210,7 +203607,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.9.(616)" id="616" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.9.(p616)" id="p616" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -203723,7 +204120,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="33.9.(617)" id="617" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.9.(p617)" id="p617" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 من	prep	مِن	_	_	من-p	مِن-p
@@ -204238,7 +204635,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="33.9.(618)" id="618" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.9.(p618)" id="p618" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 إذ	conj	إِذ	_	_	إذ-c	إِذ-c
@@ -204462,7 +204859,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.11.(619)" id="619" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p619)" id="p619" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -205215,7 +205612,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.11.(620)" id="620" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p620)" id="p620" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -205496,7 +205893,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.11.(621)" id="621" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p621)" id="p621" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فخرجوا	verb	خَرَج	_	_	فخرجوا-v	خَرَج-v
 حتى	prep	حَتَّى	_	_	حتى-p	حَتَّى-p
@@ -205952,7 +206349,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.11.(622)" id="622" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p622)" id="p622" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 بشر	noun	شَرّ	_	_	بشر-n	شَرّ-n
@@ -206386,7 +206783,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.11.(623)" id="623" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p623)" id="p623" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وبنحو	noun	نَحْو	_	_	وبنحو-n	نَحْو-n
 ما	pron_rel	ما	_	_	ما-g	ما-g
@@ -206982,7 +207379,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="33.11.(624)" id="624" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p624)" id="p624" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 سلمان	noun_prop	سَلْمان	_	_	سلمان-o	سَلْمان-o
@@ -207463,7 +207860,7 @@ l	foreign	l	_	_	l-2	l-2
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="33.11.(625)" id="625" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="33.11.(p625)" id="p625" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحزاب" chapter_title="هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فأستبشر	verb	ٱِسْتَبْشَر	_	_	فأستبشر-v	ٱِسْتَبْشَر-v
 المسلمون	noun	مُسْلِم	_	_	المسلمون-n	مُسْلِم-n
@@ -207556,7 +207953,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.12.(626)" id="626" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.12.(p626)" id="p626" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 اختلفت	verb	ٱِخْتَلَف	_	_	اختلفت-v	ٱِخْتَلَف-v
 القراء	noun	قارِئ	_	_	القراء-n	قارِئ-n
@@ -208086,7 +208483,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.12.(627)" id="627" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.12.(p627)" id="p627" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -208268,7 +208665,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.16.(628)" id="628" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.16.(p628)" id="p628" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -208780,7 +209177,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.16.(629)" id="629" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.16.(p629)" id="p629" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 بشر	noun	شَرّ	_	_	بشر-n	شَرّ-n
@@ -209287,7 +209684,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.16.(630)" id="630" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.16.(p630)" id="p630" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يونس	noun_prop	يُونِس	_	_	يونس-o	يُونِس-o
@@ -209849,7 +210246,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.16.(631)" id="631" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="34.16.(p631)" id="p631" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="سبأ" chapter_title="فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 واختلفت	verb	ٱِخْتَلَف	_	_	واختلفت-v	ٱِخْتَلَف-v
 القراء	noun	قارِئ	_	_	القراء-n	قارِئ-n
@@ -210431,7 +210828,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.29.(632)" id="632" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="36.29.(p632)" id="p632" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -210956,7 +211353,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.49.(633)" id="633" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="مَا يَنظُرُونَ إِلَّا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="36.49.(p633)" id="p633" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="مَا يَنظُرُونَ إِلَّا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -211461,7 +211858,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.53.(634)" id="634" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ ٥٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="36.53.(p634)" id="p634" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ ٥٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -211994,7 +212391,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.53.(635)" id="635" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ ٥٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="36.53.(p635)" id="p635" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="يس" chapter_title="إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ ٥٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 قوله	noun	قَوْل	_	_	قوله-n	قَوْل-n
@@ -212427,7 +212824,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.15.(636)" id="636" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.15.(p636)" id="p636" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -212941,7 +213338,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.15.(637)" id="637" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.15.(p637)" id="p637" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ومعنى	noun	مَعْنَى	_	_	ومعنى-n	مَعْنَى-n
 الكلام	noun	كَلام	_	_	الكلام-n	كَلام-n
@@ -213442,7 +213839,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.15.(638)" id="638" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.15.(p638)" id="p638" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ ١٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -214003,7 +214400,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.36.(639)" id="639" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.36.(p639)" id="p639" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -214550,7 +214947,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.36.(640)" id="640" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.36.(p640)" id="p640" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقوله	noun	قَوْل	_	_	وقوله-n	قَوْل-n
 :	punc	:	_	_	:-x	:-x
@@ -215124,7 +215521,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.36.(641)" id="641" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.36.(p641)" id="p641" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 ذكر	verb	ذَكَر	_	_	ذكر-v	ذَكَر-v
 من	prep	مِن	_	_	من-p	مِن-p
@@ -215651,7 +216048,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.36.(642)" id="642" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.36.(p642)" id="p642" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 آخرون	adj	آخَر	_	_	آخرون-a	آخَر-a
@@ -216139,7 +216536,7 @@ l	foreign	l	_	_	l-2	l-2
 }	punc	}	_	_	}-x	}-x
 </s>
 </p>
-<p n="38.36.(643)" id="643" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="38.36.(p643)" id="p643" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ص" chapter_title="فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ ٣٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فقال	verb	قال	_	_	فقال-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -216333,7 +216730,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.51.(644)" id="644" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الزمر" chapter_title="فَأَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ ۚ وَٱلَّذِينَ ظَلَمُوا۟ مِنْ هَـٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَمَا هُم بِمُعْجِزِينَ ٥١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="39.51.(p644)" id="p644" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الزمر" chapter_title="فَأَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ ۚ وَٱلَّذِينَ ظَلَمُوا۟ مِنْ هَـٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَمَا هُم بِمُعْجِزِينَ ٥١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -216656,7 +217053,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="41.13.(645)" id="645" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةًۭ مِّثْلَ صَـٰعِقَةِ عَادٍۢ وَثَمُودَ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="41.13.(p645)" id="p645" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةًۭ مِّثْلَ صَـٰعِقَةِ عَادٍۢ وَثَمُودَ ١٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -217080,7 +217477,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="41.16.(646)" id="646" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="41.16.(p646)" id="p646" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -217635,7 +218032,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="41.16.(647)" id="647" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="41.16.(p647)" id="p647" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="فَأَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 آخرون	adj	آخَر	_	_	آخرون-a	آخَر-a
@@ -218023,7 +218420,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="41.17.(648)" id="648" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="41.17.(p648)" id="p648" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -218548,7 +218945,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="41.17.(649)" id="649" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="41.17.(p649)" id="p649" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="فصلت" chapter_title="وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 وكذلك	pron_dem	ذٰلِكَ	_	_	وكذلك-t	ذٰلِكَ-t
@@ -218724,7 +219121,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="42.30.(650)" id="650" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="وَمَآ أَصَـٰبَكُم مِّن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="42.30.(p650)" id="p650" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="وَمَآ أَصَـٰبَكُم مِّن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -219290,7 +219687,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="42.33.(651)" id="651" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="إِن يَشَأْ يُسْكِنِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="42.33.(p651)" id="p651" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="إِن يَشَأْ يُسْكِنِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -219748,7 +220145,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="42.48.(652)" id="652" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَـٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةًۭ فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَـٰنَ كَفُورٌۭ ٤٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="42.48.(p652)" id="p652" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الشورى" chapter_title="فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَـٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةًۭ فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَـٰنَ كَفُورٌۭ ٤٨" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -219960,7 +220357,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="44.1.(653)" id="653" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="44.1.(p653)" id="p653" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 *	punc	*	_	_	*-x	*-x
 {	punc	{	_	_	{-x	{-x
@@ -220007,7 +220404,7 @@ l	foreign	l	_	_	l-2	l-2
 }	punc	}	_	_	}-x	}-x
 </s>
 </p>
-<p n="44.1.(654)" id="654" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="44.1.(p654)" id="p654" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قد	part_verb	قَدْ	_	_	قد-l	قَدْ-l
 تقدم	verb	تَقَدَّم	_	_	تقدم-v	تَقَدَّم-v
@@ -220503,7 +220900,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="44.1.(655)" id="655" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="44.1.(p655)" id="p655" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 يونس	noun_prop	يُونِس	_	_	يونس-o	يُونِس-o
@@ -221032,7 +221429,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="44.1.(656)" id="656" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="44.1.(p656)" id="p656" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الدخان" chapter_title="حمٓ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 عبيد	noun_prop	عُبَيْد	_	_	عبيد-o	عُبَيْد-o
@@ -221442,7 +221839,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="46.24.(657)" id="657" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحقاف" chapter_title="فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَـٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="46.24.(p657)" id="p657" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الأحقاف" chapter_title="فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَـٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -222008,7 +222405,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="50.42.(658)" id="658" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ق" chapter_title="يَوْمَ يَسْمَعُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="50.42.(p658)" id="p658" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="ق" chapter_title="يَوْمَ يَسْمَعُونَ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -222361,7 +222758,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="51.41.(659)" id="659" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ٤١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="51.41.(p659)" id="p659" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ٤١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 وفي	prep	فِي	_	_	وفي-p	فِي-p
@@ -222967,7 +223364,7 @@ l	foreign	l	_	_	l-2	l-2
 وقرآ	verb	قَرَأ	_	_	وقرآ-v	قَرَأ-v
 </s>
 </p>
-<p n="51.41.(660)" id="660" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ٤١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="51.41.(p660)" id="p660" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ٤١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 وفي	prep	فِي	_	_	وفي-p	فِي-p
@@ -223186,7 +223583,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="51.44.(661)" id="661" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ ٤٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="51.44.(p661)" id="p661" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الذاريات" chapter_title="فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ ٤٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -223497,7 +223894,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.19.(662)" id="662" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.19.(p662)" id="p662" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -224054,7 +224451,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.19.(663)" id="663" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.19.(p663)" id="p663" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وحدثت	verb	حَدَث	_	_	وحدثت-v	حَدَث-v
 عن	prep	عَن	_	_	عن-p	عَن-p
@@ -224623,7 +225020,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.19.(664)" id="664" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.19.(p664)" id="p664" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقيل	verb	قال	_	_	وقيل-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -224802,7 +225199,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.31.(665)" id="665" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ ٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.31.(p665)" id="p665" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ ٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -225316,7 +225713,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.31.(666)" id="666" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ ٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.31.(p666)" id="p666" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ ٣١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 آخرون	adj	آخَر	_	_	آخرون-a	آخَر-a
@@ -225600,7 +225997,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="54.34.(667)" id="667" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="54.34.(p667)" id="p667" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القمر" chapter_title="إِنَّآ أَرْسَلْنَا عَلَيْهِمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -225794,7 +226191,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.1.(668)" id="668" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="56.1.(p668)" id="p668" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 إذا	conj	إِذا	_	_	إذا-c	إِذا-c
@@ -226381,7 +226778,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.1.(669)" id="669" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="56.1.(p669)" id="p669" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وبنحو	noun	نَحْو	_	_	وبنحو-n	نَحْو-n
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
@@ -226946,7 +227343,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="56.1.(670)" id="670" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="56.1.(p670)" id="p670" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الواقعة" chapter_title="إِذَا وَقَعَتِ ٱلْوَاقِعَةُ ١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -227235,7 +227632,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="57.22.(671)" id="671" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="57.22.(p671)" id="p671" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -227764,7 +228161,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="57.22.(672)" id="672" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="57.22.(p672)" id="p672" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وأختلف	verb	ٱِخْتَلَف	_	_	وأختلف-v	ٱِخْتَلَف-v
 أهل	noun	أَهْل	_	_	أهل-n	أَهْل-n
@@ -227884,7 +228281,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="57.23.(673)" id="673" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍ ٢٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="57.23.(p673)" id="p673" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحديد" chapter_title="لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍ ٢٣" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -228409,7 +228806,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="60.12.(674)" id="674" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="60.12.(p674)" id="p674" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -228936,7 +229333,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="60.12.(675)" id="675" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="60.12.(p675)" id="p675" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 قل	verb	قال	_	_	قل-v	قال-v
@@ -229410,7 +229807,7 @@ l	foreign	l	_	_	l-2	l-2
 "	punc	"	_	_	"-x	"-x
 </s>
 </p>
-<p n="60.12.(676)" id="676" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="60.12.(p676)" id="p676" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فقلنا	verb	قال	_	_	فقلنا-v	قال-v
 :	punc	:	_	_	:-x	:-x
@@ -229941,7 +230338,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="60.12.(677)" id="677" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="60.12.(p677)" id="p677" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الممتحنة" chapter_title="يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ١٢" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -230489,7 +230886,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="63.4.(678)" id="678" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المنافقون" chapter_title="۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="63.4.(p678)" id="p678" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="المنافقون" chapter_title="۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 جل	noun	جَلّ	_	_	جل-n	جَلّ-n
@@ -230868,7 +231265,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="64.11.(679)" id="679" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التغابن" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="64.11.(p679)" id="p679" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="التغابن" chapter_title="مَآ أَصَابَ مِن" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -231238,7 +231635,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="67.17.(680)" id="680" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الملك" chapter_title="أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="67.17.(p680)" id="p680" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الملك" chapter_title="أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -231314,7 +231711,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="68.19.(681)" id="681" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القلم" chapter_title="فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ ١٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="68.19.(p681)" id="p681" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="القلم" chapter_title="فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ ١٩" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -231681,7 +232078,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.4.(682)" id="682" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="كَذَّبَتْ ثَمُودُ وَعَادٌۢ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.4.(p682)" id="p682" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="كَذَّبَتْ ثَمُودُ وَعَادٌۢ" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -232282,7 +232679,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.5.(683)" id="683" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.5.(p683)" id="p683" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -232820,7 +233217,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="69.5.(684)" id="684" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.5.(p684)" id="p684" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
@@ -233359,7 +233756,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.5.(685)" id="685" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.5.(p685)" id="p685" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ ٥" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 نصر	noun_prop	نَصْر	_	_	نصر-o	نَصْر-o
@@ -234012,7 +234409,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.6.(686)" id="686" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.6.(p686)" id="p686" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -234550,7 +234947,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="69.6.(687)" id="687" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.6.(p687)" id="p687" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
@@ -235089,7 +235486,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.6.(688)" id="688" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.6.(p688)" id="p688" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ ٦" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 نصر	noun_prop	نَصْر	_	_	نصر-o	نَصْر-o
@@ -235742,7 +236139,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.7.(689)" id="689" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.7.(p689)" id="p689" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 فأما	part_focus	أَمّا	_	_	فأما-z	أَمّا-z
@@ -236321,7 +236718,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="69.7.(690)" id="690" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.7.(p690)" id="p690" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 أنا	pron	أَنا	_	_	أنا-f	أَنا-f
@@ -236860,7 +237257,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="69.7.(691)" id="691" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="69.7.(p691)" id="p691" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الحاقة" chapter_title="سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ ٧" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 نصر	noun_prop	نَصْر	_	_	نصر-o	نَصْر-o
@@ -237513,7 +237910,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.21.(692)" id="692" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإنسان" chapter_title="عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا ٢١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="76.21.(p692)" id="p692" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإنسان" chapter_title="عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا ٢١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 {	punc	{	_	_	{-x	{-x
 عاليهم	noun	عالِي	_	_	عاليهم-n	عالِي-n
@@ -238053,7 +238450,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="76.21.(693)" id="693" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإنسان" chapter_title="عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا ٢١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="76.21.(p693)" id="p693" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الإنسان" chapter_title="عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا ٢١" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
@@ -238414,7 +238811,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="79.34.(694)" id="694" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النازعات" chapter_title="فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ ٣٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="79.34.(p694)" id="p694" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="النازعات" chapter_title="فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ ٣٤" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -238620,7 +239017,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="89.13.(695)" id="695" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الفجر" chapter_title="فَصَبَّ عَلَيْهِمْ رَبُّكَ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="89.13.(p695)" id="p695" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" section_title="الفجر" chapter_title="فَصَبَّ عَلَيْهِمْ رَبُّكَ ‌" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -239260,7 +239657,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="99.1-8.(696)" id="696" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p696)" id="p696" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -239806,7 +240203,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="99.1-8.(697)" id="697" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p697)" id="p697" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 الحارث	noun_prop	حارِث	_	_	الحارث-o	حارِث-o
@@ -240358,7 +240755,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="99.1-8.(698)" id="698" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p698)" id="p698" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وبنحو	noun	نَحْو	_	_	وبنحو-n	نَحْو-n
 الذي	pron_rel	الَّذِي	_	_	الذي-g	الَّذِي-g
@@ -240889,7 +241286,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="99.1-8.(699)" id="699" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p699)" id="p699" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -241368,7 +241765,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="99.1-8.(700)" id="700" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p700)" id="p700" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 "	punc	"	_	_	"-x	"-x
 لا	part_neg	لا	_	_	لا-e	لا-e
@@ -241861,7 +242258,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="99.1-8.(701)" id="701" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="99.1-8.(p701)" id="p701" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" chapter_title="إِذَا" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثنا	noun	حَدَث	_	_	حدثنا-n	حَدَث-n
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -242012,7 +242409,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="101.1-11.(702)" id="702" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="101.1-11.(p702)" id="p702" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يقول	verb	قال	_	_	يقول-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -242544,7 +242941,7 @@ l	foreign	l	_	_	l-2	l-2
 ميزانه	noun	مِيزان	_	_	ميزانه-n	مِيزان-n
 </s>
 </p>
-<p n="101.1-11.(703)" id="703" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="101.1-11.(p703)" id="p703" book_title="Jāmi‘ al-Bayān ‘an Ta’wīl Āy al-Qur’ān (Tafsīr al-Ṭabarī)" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 يعني	verb	عَنَى	_	_	يعني-v	عَنَى-v
 بقوله	noun	قَوْل	_	_	بقوله-n	قَوْل-n
@@ -243043,7 +243440,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="history" n="8" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām">
-<p n="1.(704)" id="704" pages="123" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأول (السيرة النبوية)" chapter_title="ذكر مبعثه صلى الله عليه وسلم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p704)" id="p704" pages="123" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأول (السيرة النبوية)" chapter_title="ذكر مبعثه صلى الله عليه وسلم" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 حدثني	verb	حَدَث	_	_	حدثني-v	حَدَث-v
 [	punc	[	_	_	[-x	[-x
@@ -243252,7 +243649,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(705)" id="705" pages="461" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأول (السيرة النبوية)" chapter_title="باب هيبته صلى الله عليه وسلم وجلاله وحبه وشجاعته وقوته وفصاحته" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="1.(p705)" id="p705" pages="461" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأول (السيرة النبوية)" chapter_title="باب هيبته صلى الله عليه وسلم وجلاله وحبه وشجاعته وقوته وفصاحته" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 تعالى	verb	تَعالَى	_	_	تعالى-v	تَعالَى-v
@@ -243293,7 +243690,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(706)" id="706" pages="66,67" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="سنة اثنتين في صفرها:" subchapter_title="[غزوة بدر الكبرى]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p706)" id="p706" pages="66,67" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="سنة اثنتين في صفرها:" subchapter_title="[غزوة بدر الكبرى]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وعن	prep	عَن	_	_	وعن-p	عَن-p
 أبي	noun_prop	أَبِي	_	_	أبي-o	أَبِي-o
@@ -243706,7 +244103,7 @@ l	foreign	l	_	_	l-2	l-2
 :	punc	:	_	_	:-x	:-x
 </s>
 </p>
-<p n="2.(707)" id="707" pages="108" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="سنة اثنتين في صفرها:" subchapter_title="ذكر غزوة بدر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p707)" id="p707" pages="108" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="سنة اثنتين في صفرها:" subchapter_title="ذكر غزوة بدر" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فتسارع	verb	سارَع	_	_	فتسارع-v	سارَع-v
 المسلمون	noun	مُسْلِم	_	_	المسلمون-n	مُسْلِم-n
@@ -243775,7 +244172,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(708)" id="708" pages="266,267,268" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة الخامسة" subchapter_title="تزويج رسول الله صلى الله عليه وسلم بجويرية «رضي الله عنها»" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p708)" id="p708" pages="266,267,268" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة الخامسة" subchapter_title="تزويج رسول الله صلى الله عليه وسلم بجويرية «رضي الله عنها»" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 اسراييل	noun_prop	اسراييل	_	_	اسراييل-o	اسراييل-o
@@ -244263,7 +244660,7 @@ l	foreign	l	_	_	l-2	l-2
 صحبنا	verb	صَحِب	_	_	صحبنا-v	صَحِب-v
 </s>
 </p>
-<p n="2.(709)" id="709" pages="279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة الخامسة" subchapter_title="الإفك «وكان في هذه الغزوة»" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p709)" id="p709" pages="279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة الخامسة" subchapter_title="الإفك «وكان في هذه الغزوة»" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 يونس	noun_prop	يُونِس	_	_	يونس-o	يُونِس-o
@@ -244645,7 +245042,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(710)" id="710" pages="517,518,519" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="ثم دخلت سنة ثمان من الهجرة" subchapter_title="غزوة سيف البحر [٥]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p710)" id="p710" pages="517,518,519" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="ثم دخلت سنة ثمان من الهجرة" subchapter_title="غزوة سيف البحر [٥]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -245203,7 +245600,7 @@ l	foreign	l	_	_	l-2	l-2
 ثمان	noun	ثَمانِي	_	_	ثمان-n	ثَمانِي-n
 </s>
 </p>
-<p n="2.(711)" id="711" pages="603" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="ثم دخلت سنة ثمان من الهجرة" subchapter_title="قسم غنائم حنين وغير ذلك" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p711)" id="p711" pages="603" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="ثم دخلت سنة ثمان من الهجرة" subchapter_title="قسم غنائم حنين وغير ذلك" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 فقال	verb	قال	_	_	فقال-v	قال-v
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -245366,7 +245763,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="2.(712)" id="712" pages="634,635" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة التاسعة" subchapter_title="غزوة تبوك [١]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
+<p n="2.(p712)" id="p712" pages="634,635" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني (المغازى)" chapter_title="السنة التاسعة" subchapter_title="غزوة تبوك [١]" subsubchapter_title="أعنى سنة تسع وأربعين وسبعمائة">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 الأعمش	noun	أَعْمَش	_	_	الأعمش-n	أَعْمَش-n
@@ -245693,7 +246090,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(713)" id="713" pages="146" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة خمس عشرة" subchapter_title="المتوفون فيها" subsubchapter_title="الحارث بْن هشام">
+<p n="3.(p713)" id="p713" pages="146" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة خمس عشرة" subchapter_title="المتوفون فيها" subsubchapter_title="الحارث بْن هشام">
 <s>
 يقال	verb	قال	_	_	يقال-v	قال-v
 توفي	verb	تَوَفَّى	_	_	توفي-v	تَوَفَّى-v
@@ -245708,7 +246105,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="3.(714)" id="714" pages="170" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثماني عشرة" subchapter_title="المتوفون فيها" subsubchapter_title="الحارث بْن هشام">
+<p n="3.(p714)" id="p714" pages="170" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثماني عشرة" subchapter_title="المتوفون فيها" subsubchapter_title="الحارث بْن هشام">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -245738,7 +246135,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(715)" id="715" pages="175,176,177,178,179" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثماني عشرة" subchapter_title="‌‌ ذكر من توفي بهذا الطاعون بخ [١] أبو عبيدة [٢]" subsubchapter_title="ع معاذ بن جبل [١]">
+<p n="3.(p715)" id="p715" pages="175,176,177,178,179" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثماني عشرة" subchapter_title="‌‌ ذكر من توفي بهذا الطاعون بخ [١] أبو عبيدة [٢]" subsubchapter_title="ع معاذ بن جبل [١]">
 <s>
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
 عمرو	noun_prop	عَمْرو	_	_	عمرو-o	عَمْرو-o
@@ -246155,7 +246552,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="3.(716)" id="716" pages="273,274" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثلاث وعشرين" subchapter_title="الوفيات" subsubchapter_title="(ع) عمر بن الخطاب رضي الله عنه">
+<p n="3.(p716)" id="p716" pages="273,274" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="سنة ثلاث وعشرين" subchapter_title="الوفيات" subsubchapter_title="(ع) عمر بن الخطاب رضي الله عنه">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 الأعمش	noun	أَعْمَش	_	_	الأعمش-n	أَعْمَش-n
@@ -246428,7 +246825,7 @@ l	foreign	l	_	_	l-2	l-2
 يموت	verb	مات	_	_	يموت-v	مات-v
 </s>
 </p>
-<p n="3.(717)" id="717" pages="377" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="الطبقة الرابعة" subchapter_title="سنة اثنتين وثلاثين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
+<p n="3.(p717)" id="p717" pages="377" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث (عهد الخلفاء الراشدين)" chapter_title="الطبقة الرابعة" subchapter_title="سنة اثنتين وثلاثين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
 <s>
 هشام	noun_prop	هِشام	_	_	هشام-o	هِشام-o
 [	punc	[	_	_	[-x	[-x
@@ -246498,7 +246895,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="4.(718)" id="718" pages="264" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع (عهد معاوية)" chapter_title="الطبقة السادسة" subchapter_title="[حرف العين]" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
+<p n="4.(p718)" id="p718" pages="264" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع (عهد معاوية)" chapter_title="الطبقة السادسة" subchapter_title="[حرف العين]" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
 <s>
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -246671,7 +247068,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(719)" id="719" pages="53" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة ست وستين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
+<p n="5.(p719)" id="p719" pages="53" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة ست وستين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 وقع	verb	وَقَع	_	_	وقع-v	وَقَع-v
@@ -246684,7 +247081,7 @@ l	foreign	l	_	_	l-2	l-2
 أهلها	noun	أَهْل	_	_	أهلها-n	أَهْل-n
 </s>
 </p>
-<p n="5.(720)" id="720" pages="66,67" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة تسع وستين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
+<p n="5.(p720)" id="p720" pages="66,67" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة تسع وستين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
 <s>
 وكان	verb	كان	_	_	وكان-v	كان-v
 في	prep	فِي	_	_	في-p	فِي-p
@@ -246990,7 +247387,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(721)" id="721" pages="69" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة سبعين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
+<p n="5.(p721)" id="p721" pages="69" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="[حوادث] سنة سبعين" subsubchapter_title="العباس بن عبد المطلب [١] ع (الرمز ساقط من النسخ، والإثبات من مصادر الترجمة.)">
 <s>
 توفي	verb	تَوَفَّى	_	_	توفي-v	تَوَفَّى-v
 فيها	prep	فِي	_	_	فيها-p	فِي-p
@@ -247097,7 +247494,7 @@ l	foreign	l	_	_	l-2	l-2
 والحرس	noun	حَرَس	_	_	والحرس-n	حَرَس-n
 </s>
 </p>
-<p n="5.121(722)" id="722" pages="268,269" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="ذكر أهل هذه الطبقة" subsubchapter_title="[حرف الياء]">
+<p n="5.121(p722)" id="p722" pages="268,269" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="ذكر أهل هذه الطبقة" subsubchapter_title="[حرف الياء]">
 <s>
 يزيد	verb	زاد	_	_	يزيد-v	زاد-v
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -247237,7 +247634,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.124(723)" id="723" pages="276,277,278,279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="ذكر أهل هذه الطبقة" subsubchapter_title="[الكنى]">
+<p n="5.124(p723)" id="p723" pages="276,277,278,279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة السابعة" subchapter_title="ذكر أهل هذه الطبقة" subsubchapter_title="[الكنى]">
 <s>
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
 الأسود	noun	أَسْوَد	_	_	الأسود-n	أَسْوَد-n
@@ -248007,7 +248404,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(724)" id="724" pages="342" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="[الكنى]">
+<p n="5.(p724)" id="p724" pages="342" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="[الكنى]">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 توفي	verb	تَوَفَّى	_	_	توفي-v	تَوَفَّى-v
@@ -248130,7 +248527,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(725)" id="725" pages="440" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="تراجم أهل هذه الطبقة">
+<p n="5.(p725)" id="p725" pages="440" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="تراجم أهل هذه الطبقة">
 <s>
 وروى	verb	رَوَى	_	_	وروى-v	رَوَى-v
 ليث	noun_prop	لَيْث	_	_	ليث-o	لَيْث-o
@@ -248166,7 +248563,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="5.(726)" id="726" pages="538,539" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="تراجم أهل هذه الطبقة">
+<p n="5.(p726)" id="p726" pages="538,539,540" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس (سنة ٦١- ٨٠)" chapter_title="الطبقة الثامنة" subchapter_title="حوادث [سنة ثمانين]" subsubchapter_title="تراجم أهل هذه الطبقة">
 <s>
 ٢٦٠	digit	٢٦٠	_	_	٢٦٠-0	٢٦٠-0
 -	punc	-	_	_	--x	--x
@@ -248619,7 +249016,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(727)" id="727" pages="25" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة التاسعة" subchapter_title="سنة ست وثمانين" subsubchapter_title="تراجم أهل هذه الطبقة">
+<p n="6.(p727)" id="p727" pages="25" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة التاسعة" subchapter_title="سنة ست وثمانين" subsubchapter_title="تراجم أهل هذه الطبقة">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 كان	verb	كان	_	_	كان-v	كان-v
@@ -248639,7 +249036,7 @@ l	foreign	l	_	_	l-2	l-2
 وبالبصرة	noun_prop	بَصْرَة	place	Basra	وبالبصرة-o	بَصْرَة-o
 </s>
 </p>
-<p n="6.7(728)" id="728" pages="43,44" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة التاسعة" subchapter_title="تراجم رجال هذه الطبقة" subsubchapter_title="[حرف الألف]">
+<p n="6.7(p728)" id="p728" pages="43,44" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة التاسعة" subchapter_title="تراجم رجال هذه الطبقة" subsubchapter_title="[حرف الألف]">
 <s>
 أيوب	noun_prop	أَيُّوب	_	_	أيوب-o	أَيُّوب-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -248961,7 +249358,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.212(729)" id="729" pages="288,289,290,291,292,293,294,295,296" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة العاشرة" subchapter_title="تراجم رجال أهل هذه الطبقة" subsubchapter_title="[حرف الألف]">
+<p n="6.212(p729)" id="p729" pages="288,289,290,291,292,293,294,295,296" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة العاشرة" subchapter_title="تراجم رجال أهل هذه الطبقة" subsubchapter_title="[حرف الألف]">
 <s>
 أنس	noun_prop	أَنَس	_	_	أنس-o	أَنَس-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -250982,7 +251379,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="6.(730)" id="730" pages="485,486,487,488,489,490" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة العاشرة" subchapter_title="تراجم رجال أهل هذه الطبقة" subsubchapter_title="[حرف الميم]">
+<p n="6.(p730)" id="p730" pages="485,486,487,488,489,490" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس (سنة ٨١- ١٠٠)" chapter_title="الطبقة العاشرة" subchapter_title="تراجم رجال أهل هذه الطبقة" subsubchapter_title="[حرف الميم]">
 <s>
 -	punc	-	_	_	--x	--x
 موسى	noun_prop	مُوسَى	_	_	موسى-o	مُوسَى-o
@@ -252368,7 +252765,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(731)" id="731" pages="203,204" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="تراجم أعيان هذه الطبقة على حروف المعجم" subchapter_title="[حرف العين]" subsubchapter_title="[حرف الميم]">
+<p n="7.(p731)" id="p731" pages="203,204" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="تراجم أعيان هذه الطبقة على حروف المعجم" subchapter_title="[حرف العين]" subsubchapter_title="[حرف الميم]">
 <s>
 حماد	noun_prop	حَمّاد	_	_	حماد-o	حَمّاد-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -252447,7 +252844,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.228(732)" id="732" pages="250,251,252,23,254" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="تراجم أعيان هذه الطبقة على حروف المعجم" subchapter_title="[حرف الميم]" subsubchapter_title="[حرف الميم]">
+<p n="7.228(p732)" id="p732" pages="250,251,252,23,254" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="تراجم أعيان هذه الطبقة على حروف المعجم" subchapter_title="[حرف الميم]" subsubchapter_title="[حرف الميم]">
 <s>
 محمد	noun_prop	مُحَمَّد	_	_	محمد-o	مُحَمَّد-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -253348,7 +253745,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="7.(733)" id="733" pages="303" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="الطبقة الثانية عشرة" subchapter_title="‌‌ذكر سنة إحدى عشرة ومائة" subsubchapter_title="[حرف الميم]">
+<p n="7.(p733)" id="p733" pages="303" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع (سنة ١٠١ - ١٢٠)" chapter_title="الطبقة الثانية عشرة" subchapter_title="‌‌ذكر سنة إحدى عشرة ومائة" subsubchapter_title="[حرف الميم]">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 توفي	verb	تَوَفَّى	_	_	توفي-v	تَوَفَّى-v
@@ -253475,7 +253872,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(734)" id="734" pages="240" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الثالثة عشرة" subchapter_title="تراجم رجال هذه الطبقة" subsubchapter_title="[حرف الميم]">
+<p n="8.(p734)" id="p734" pages="240" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الثالثة عشرة" subchapter_title="تراجم رجال هذه الطبقة" subsubchapter_title="[حرف الميم]">
 <s>
 وروى	verb	رَوَى	_	_	وروى-v	رَوَى-v
 سفيان	noun_prop	سُفْيان	_	_	سفيان-o	سُفْيان-o
@@ -253589,7 +253986,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(735)" id="735" pages="335,336,337,338,339,340,341,342,343" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="سنة اثنتين وثلاثين ومائة" subsubchapter_title="‌‌بيعة السفاح">
+<p n="8.(p735)" id="p735" pages="335,336,337,338,339,340,341,342,343" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="سنة اثنتين وثلاثين ومائة" subsubchapter_title="‌‌بيعة السفاح">
 <s>
 في	prep	فِي	_	_	في-p	فِي-p
 ثالث	adj	ثالِث	_	_	ثالث-a	ثالِث-a
@@ -256003,7 +256400,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(736)" id="736" pages="379,380,381,382,383" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="ذكر الطبقة على المعجم" subsubchapter_title="[حرف الحاء]">
+<p n="8.(p736)" id="p736" pages="379,380,381,382,383" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="ذكر الطبقة على المعجم" subsubchapter_title="[حرف الحاء]">
 <s>
 أيوب	noun_prop	أَيُّوب	_	_	أيوب-o	أَيُّوب-o
 السختياني	noun_prop	السختياني	_	_	السختياني-o	السختياني-o
@@ -256989,7 +257386,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="8.(737)" id="737" pages="393" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="ذكر الطبقة على المعجم" subsubchapter_title="[حرف الحاء]">
+<p n="8.(p737)" id="p737" pages="393" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن (سنة ١٢١- ١٤٠)" chapter_title="الطبقة الرابعة عشرة" subchapter_title="ذكر الطبقة على المعجم" subsubchapter_title="[حرف الحاء]">
 <s>
 [	punc	[	_	_	[-x	[-x
 حرف	noun	حَرْف	_	_	حرف-n	حَرْف-n
@@ -257151,7 +257548,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="9.(738)" id="738" pages="371" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع (سنة ١٤١ - ١٦٠)" chapter_title="الطبقة السادسة عشرة" subchapter_title="سنة ستين ومائة" subsubchapter_title="[حرف الحاء]">
+<p n="9.(p738)" id="p738" pages="371" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع (سنة ١٤١ - ١٦٠)" chapter_title="الطبقة السادسة عشرة" subchapter_title="سنة ستين ومائة" subsubchapter_title="[حرف الحاء]">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 نازل	noun	نازِل	_	_	نازل-n	نازِل-n
@@ -257241,7 +257638,7 @@ l	foreign	l	_	_	l-2	l-2
 الأمر	noun	أَمْر	_	_	الأمر-n	أَمْر-n
 </s>
 </p>
-<p n="9.(739)" id="739" pages="491" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع (سنة ١٤١ - ١٦٠)" chapter_title="الطبقة السادسة عشرة" subchapter_title="تراجم أهل هذه الطبقة على الحروف" subsubchapter_title="[حرف العين]">
+<p n="9.(p739)" id="p739" pages="491" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع (سنة ١٤١ - ١٦٠)" chapter_title="الطبقة السادسة عشرة" subchapter_title="تراجم أهل هذه الطبقة على الحروف" subsubchapter_title="[حرف العين]">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -257396,7 +257793,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="10.(740)" id="740" pages="50" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العاشر (سنة ١٦١ - ١٧٠)" chapter_title="الطبقة السابعة عشرة" subchapter_title="رجال هذه الطبقة مرتبون على الحروف" subsubchapter_title="[حرف الألف]">
+<p n="10.(p740)" id="p740" pages="50" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العاشر (سنة ١٦١ - ١٧٠)" chapter_title="الطبقة السابعة عشرة" subchapter_title="رجال هذه الطبقة مرتبون على الحروف" subsubchapter_title="[حرف الألف]">
 <s>
 عصام	noun_prop	عِصام	_	_	عصام-o	عِصام-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -257540,7 +257937,7 @@ l	foreign	l	_	_	l-2	l-2
 ساعته	noun	ساعَة	_	_	ساعته-n	ساعَة-n
 </s>
 </p>
-<p n="10.(741)" id="741" pages="439" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العاشر (سنة ١٦١ - ١٧٠)" chapter_title="الطبقة السابعة عشرة" subchapter_title="رجال هذه الطبقة مرتبون على الحروف" subsubchapter_title="[حرف الميم]">
+<p n="10.(p741)" id="p741" pages="439" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العاشر (سنة ١٦١ - ١٧٠)" chapter_title="الطبقة السابعة عشرة" subchapter_title="رجال هذه الطبقة مرتبون على الحروف" subsubchapter_title="[حرف الميم]">
 <s>
 وعن	prep	عَن	_	_	وعن-p	عَن-p
 يوسف	noun_prop	يُوسِف	_	_	يوسف-o	يُوسِف-o
@@ -257643,7 +258040,7 @@ l	foreign	l	_	_	l-2	l-2
 انجلت	verb	ٱِنْجَلَى	_	_	انجلت-v	ٱِنْجَلَى-v
 </s>
 </p>
-<p n="13.(742)" id="742" pages="409,410,411,412,413,414" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث عشر (سنة ١٩١ - ٢٠٠)" chapter_title="الطبقة العشرون" subchapter_title="تراجم الأعيان في هذا العشر" subsubchapter_title="حرف الميم">
+<p n="13.(p742)" id="p742" pages="409,410,411,412,413,414" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث عشر (سنة ١٩١ - ٢٠٠)" chapter_title="الطبقة العشرون" subchapter_title="تراجم الأعيان في هذا العشر" subsubchapter_title="حرف الميم">
 <s>
 -	punc	-	_	_	--x	--x
 منصور	noun_prop	مَنْصُور	_	_	منصور-o	مَنْصُور-o
@@ -258850,7 +259247,7 @@ l	foreign	l	_	_	l-2	l-2
 منصور	noun_prop	مَنْصُور	_	_	منصور-o	مَنْصُور-o
 </s>
 </p>
-<p n="16.(743)" id="743" pages="22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="ومن سنة خمس وعشرين ومائتين" subsubchapter_title="ذِكر الزلزلة بالأهواز">
+<p n="16.(p743)" id="p743" pages="22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="ومن سنة خمس وعشرين ومائتين" subsubchapter_title="ذِكر الزلزلة بالأهواز">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 زلزلت	verb	زَلْزَل	catastrophe	earhquake	زلزلت-v	زَلْزَل-v
@@ -258876,7 +259273,7 @@ l	foreign	l	_	_	l-2	l-2
 منها	prep	مِن	_	_	منها-p	مِن-p
 </s>
 </p>
-<p n="16.211(744)" id="744" pages="229,230,231,232,233,234" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="رجال هذه الطبقة على المعجم" subsubchapter_title="حرف العين -">
+<p n="16.211(p744)" id="p744" pages="229,230,231,232,233,234" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="رجال هذه الطبقة على المعجم" subsubchapter_title="حرف العين -">
 <s>
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
 الله	noun_prop	اللَّه	_	_	الله-o	اللَّه-o
@@ -260030,7 +260427,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="16.(745)" id="745" pages="395" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="رجال هذه الطبقة على المعجم" subsubchapter_title="حرف الميم -">
+<p n="16.(p745)" id="p745" pages="395" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس عشر (سنة ٢٢١- ٢٣٠)" chapter_title="الطبقة الثالثة والعشرون" subchapter_title="رجال هذه الطبقة على المعجم" subsubchapter_title="حرف الميم -">
 <s>
 وبلغنا	verb	بَلَغ	_	_	وبلغنا-v	بَلَغ-v
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -260130,7 +260527,7 @@ l	foreign	l	_	_	l-2	l-2
 غرب	noun	غَرْب	_	_	غرب-n	غَرْب-n
 </s>
 </p>
-<p n="17.(746)" id="746" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة ثلاث وثلاثين ومائتين" subsubchapter_title="[الزلزلة">
+<p n="17.(p746)" id="p746" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة ثلاث وثلاثين ومائتين" subsubchapter_title="[الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -260270,7 +260667,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="17.(747)" id="747" pages="12,13" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربع وثلاثين ومائتين" subsubchapter_title="خبر هبوب الريح">
+<p n="17.(p747)" id="p747" pages="12,13" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربع وثلاثين ومائتين" subsubchapter_title="خبر هبوب الريح">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -260342,7 +260739,7 @@ l	foreign	l	_	_	l-2	l-2
 ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
 </s>
 </p>
-<p n="17.(748)" id="748" pages="30" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربعين ومائتين" subsubchapter_title="الصَّيْحة في خلاط">
+<p n="17.(p748)" id="p748" pages="30" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربعين ومائتين" subsubchapter_title="الصَّيْحة في خلاط">
 <s>
 [	punc	[	_	_	[-x	[-x
 الصيحة	noun	صَيْحَة	catastrophe	explosion;great cry	الصيحة-n	صَيْحَة-n
@@ -260364,7 +260761,7 @@ l	foreign	l	_	_	l-2	l-2
 خلق	noun	خَلْق	_	_	خلق-n	خَلْق-n
 </s>
 </p>
-<p n="17.(749)" id="749" pages="30" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربعين ومائتين" subsubchapter_title="[وقوع البرد">
+<p n="17.(p749)" id="p749" pages="30" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع عشر (سنة ٢٣١ - ٢٤٠)" chapter_title="الطبقة الرابعة والعشرون" subchapter_title="سنة أربعين ومائتين" subsubchapter_title="[وقوع البرد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -260383,7 +260780,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="18.(750)" id="750" pages="7,8" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن عشر (سنة ٢٤١- ٢٥٠)" chapter_title="الطبقة الخامسة والعشرون" subchapter_title="سنة اثنتين وأربعين ومائتين" subsubchapter_title="خبر زلازل عدة">
+<p n="18.(p750)" id="p750" pages="7,8" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن عشر (سنة ٢٤١- ٢٥٠)" chapter_title="الطبقة الخامسة والعشرون" subchapter_title="سنة اثنتين وأربعين ومائتين" subsubchapter_title="خبر زلازل عدة">
 <s>
 [	punc	[	_	_	[-x	[-x
 خبر	noun	خَبَر	_	_	خبر-n	خَبَر-n
@@ -260464,7 +260861,7 @@ l	foreign	l	_	_	l-2	l-2
 أرطال	noun	رَطْل	_	_	أرطال-n	رَطْل-n
 </s>
 </p>
-<p n="18.(751)" id="751" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن عشر (سنة ٢٤١- ٢٥٠)" chapter_title="الطبقة الخامسة والعشرون" subchapter_title="سنة تسع وأربعين ومائتين" subsubchapter_title="‌‌[خبر الزلزلة في الري]">
+<p n="18.(p751)" id="p751" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن عشر (سنة ٢٤١- ٢٥٠)" chapter_title="الطبقة الخامسة والعشرون" subchapter_title="سنة تسع وأربعين ومائتين" subsubchapter_title="‌‌[خبر الزلزلة في الري]">
 <s>
 وجاءت	verb	جاء	_	_	وجاءت-v	جاء-v
 زلزلة	noun	زَلْزَلَة	catastrophe	earthquake	زلزلة-n	زَلْزَلَة-n
@@ -260479,7 +260876,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="19.(752)" id="752" pages="273,274" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع عشر (سنة ٢٥١ - ٢٦٠)" chapter_title="الطبقة السادسة والعشرون" subchapter_title="رجال هذه الطبقة على الترتيب" subsubchapter_title="- حرف الميم -">
+<p n="19.(p752)" id="p752" pages="273,274" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع عشر (سنة ٢٥١ - ٢٦٠)" chapter_title="الطبقة السادسة والعشرون" subchapter_title="رجال هذه الطبقة على الترتيب" subsubchapter_title="- حرف الميم -">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 سألته	verb	سَأَل	_	_	سألته-v	سَأَل-v
@@ -260675,7 +261072,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="20.184(753)" id="753" pages="203,204,205,206,207,208" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العشرون (سنة ٢٦١ - ٢٨٠)" chapter_title="الطبقة السابعة والعشرون" subchapter_title="تراجم أهل هذه الطبقة" subsubchapter_title="حرف الياء">
+<p n="20.184(p753)" id="p753" pages="203,204,205,206,207,208" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العشرون (سنة ٢٦١ - ٢٨٠)" chapter_title="الطبقة السابعة والعشرون" subchapter_title="تراجم أهل هذه الطبقة" subsubchapter_title="حرف الياء">
 <s>
 يعقوب	noun_prop	يَعْقُوب	_	_	يعقوب-o	يَعْقُوب-o
 بن	noun_prop	بِن	_	_	بن-o	بِن-o
@@ -261934,7 +262331,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="20.(754)" id="754" pages="244" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العشرون (سنة ٢٦١ - ٢٨٠)" chapter_title="الطبقة الثامنة والعشرون" subchapter_title="سنة ثمانين ومائتين" subsubchapter_title="[خبر الزلزلة في بلاد الدبيل]">
+<p n="20.(p754)" id="p754" pages="244" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد العشرون (سنة ٢٦١ - ٢٨٠)" chapter_title="الطبقة الثامنة والعشرون" subchapter_title="سنة ثمانين ومائتين" subsubchapter_title="[خبر الزلزلة في بلاد الدبيل]">
 <s>
 روي	noun	رَوِيّ	_	_	روي-n	رَوِيّ-n
 أن	conj_sub	أَنَّ	_	_	أن-k	أَنَّ-k
@@ -262005,7 +262402,7 @@ l	foreign	l	_	_	l-2	l-2
 ألفا	noun	أَلْف	_	_	ألفا-n	أَلْف-n
 </s>
 </p>
-<p n="21.(755)" id="755" pages="22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة خمس وثمانين ومائتين" subsubchapter_title="الريح الصفراء">
+<p n="21.(p755)" id="p755" pages="22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة خمس وثمانين ومائتين" subsubchapter_title="الريح الصفراء">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -262056,7 +262453,7 @@ l	foreign	l	_	_	l-2	l-2
 وبيضاء	noun	أَبْيَض	_	_	وبيضاء-n	أَبْيَض-n
 </s>
 </p>
-<p n="21.(756)" id="756" pages="32,33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="‌‌سنة ثمان وثمانين ومائتين" subsubchapter_title="الزلزلة في دبيل">
+<p n="21.(p756)" id="p756" pages="32,33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="‌‌سنة ثمان وثمانين ومائتين" subsubchapter_title="الزلزلة في دبيل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earhquake	الزلزلة-n	زَلْزَلَة-n
@@ -262101,7 +262498,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="21.(757)" id="757" pages="33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="‌‌سنة ثمان وثمانين ومائتين" subsubchapter_title="الوباء">
+<p n="21.(p757)" id="p757" pages="33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="‌‌سنة ثمان وثمانين ومائتين" subsubchapter_title="الوباء">
 <s>
 [	punc	[	_	_	[-x	[-x
 الوباء	noun	وَباء	catastrophe	pestilence	الوباء-n	وَباء-n
@@ -262127,7 +262524,7 @@ l	foreign	l	_	_	l-2	l-2
 الطرق	noun	طَرِيق	_	_	الطرق-n	طَرِيق-n
 </s>
 </p>
-<p n="21.(758)" id="758" pages="34" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="[‌فيضان ماء البحر على السواحل]">
+<p n="21.(p758)" id="p758" pages="34" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="[‌فيضان ماء البحر على السواحل]">
 <s>
 فيضان	noun	فَيَضان	catastrophe	flood	فيضان-n	فَيَضان-n
 ماء	noun	ماء	_	_	ماء-n	ماء-n
@@ -262154,7 +262551,7 @@ l	foreign	l	_	_	l-2	l-2
 يعهد	verb	عَهِد	_	_	يعهد-v	عَهِد-v
 </s>
 </p>
-<p n="21.(759)" id="759" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="‌‌[زلزلة">
+<p n="21.(p759)" id="p759" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="‌‌[زلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -262172,7 +262569,7 @@ l	foreign	l	_	_	l-2	l-2
 أياما	noun	يَوْم	_	_	أياما-n	يَوْم-n
 </s>
 </p>
-<p n="21.(760)" id="760" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="ريح">
+<p n="21.(p760)" id="p760" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والعشرون (سنة ٢٨١- ٢٩٠)" chapter_title="الطبقة التاسعة والعشرون" subchapter_title="سنة تسع وثمانين ومائتين" subsubchapter_title="ريح">
 <s>
 [	punc	[	_	_	[-x	[-x
 ريح	noun	رِيح	catastrophe	wind	ريح-n	رِيح-n
@@ -262194,7 +262591,7 @@ l	foreign	l	_	_	l-2	l-2
 ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
 </s>
 </p>
-<p n="22.(761)" id="761" pages="33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والعشرون (سنة ٢٩١- ٣٠٠)" chapter_title="الطبقة الثلاثون" subchapter_title="[سنة ثمان وتسعين ومائتين]" subsubchapter_title="هبوب">
+<p n="22.(p761)" id="p761" pages="33" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والعشرون (سنة ٢٩١- ٣٠٠)" chapter_title="الطبقة الثلاثون" subchapter_title="[سنة ثمان وتسعين ومائتين]" subsubchapter_title="هبوب">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -262236,7 +262633,7 @@ l	foreign	l	_	_	l-2	l-2
 جماعة	noun	جَماعَة	_	_	جماعة-n	جَماعَة-n
 </s>
 </p>
-<p n="22.(762)" id="762" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والعشرون (سنة ٢٩١- ٣٠٠)" chapter_title="الطبقة الثلاثون" subchapter_title="سنة ثلاثمائة" subsubchapter_title="الوباء">
+<p n="22.(p762)" id="p762" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والعشرون (سنة ٢٩١- ٣٠٠)" chapter_title="الطبقة الثلاثون" subchapter_title="سنة ثلاثمائة" subsubchapter_title="الوباء">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -262254,7 +262651,7 @@ l	foreign	l	_	_	l-2	l-2
 الخلق	noun	خُلْق	_	_	الخلق-n	خُلْق-n
 </s>
 </p>
-<p n="23.(763)" id="763" pages="387" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والعشرون (سنة ٣٠١ - ٣٢٠)" chapter_title="وقائع الطبقة الثانية والثلاثين" subchapter_title="سنة ثمان عشرة" subsubchapter_title="ريح عظيمة">
+<p n="23.(p763)" id="p763" pages="387" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والعشرون (سنة ٣٠١ - ٣٢٠)" chapter_title="وقائع الطبقة الثانية والثلاثين" subchapter_title="سنة ثمان عشرة" subsubchapter_title="ريح عظيمة">
 <s>
 ريح	noun	رِيح	catastrophe	wind	ريح-n	رِيح-n
 عظيمة	adj	عَظِيم	_	_	عظيمة-a	عَظِيم-a
@@ -262282,7 +262679,7 @@ l	foreign	l	_	_	l-2	l-2
 والأسطحة	noun	سَطْح	_	_	والأسطحة-n	سَطْح-n
 </s>
 </p>
-<p n="23.(764)" id="764" pages="388" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والعشرون (سنة ٣٠١ - ٣٢٠)" chapter_title="وقائع الطبقة الثانية والثلاثين" subchapter_title="سنة ثمان عشرة" subsubchapter_title="‌‌الوباء المهول">
+<p n="23.(p764)" id="p764" pages="388" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والعشرون (سنة ٣٠١ - ٣٢٠)" chapter_title="وقائع الطبقة الثانية والثلاثين" subchapter_title="سنة ثمان عشرة" subsubchapter_title="‌‌الوباء المهول">
 <s>
 الوباء	noun	وَباء	catastrophe	pestilence	الوباء-n	وَباء-n
 المهول	noun	مُهَوِّل	_	_	المهول-n	مُهَوِّل-n
@@ -262293,7 +262690,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="24.(765)" id="765" pages="31" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والعشرون (سنة ٣٢١- ٣٣٠)" chapter_title="الطبقة الثالثة والثلاثون" subchapter_title="سنة ثلاث وعشرين وثلاثمائة" subsubchapter_title="هبوب الريح">
+<p n="24.(p765)" id="p765" pages="31" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والعشرون (سنة ٣٢١- ٣٣٠)" chapter_title="الطبقة الثالثة والثلاثون" subchapter_title="سنة ثلاث وعشرين وثلاثمائة" subsubchapter_title="هبوب الريح">
 <s>
 [	punc	[	_	_	[-x	[-x
 هبوب	noun	هُبُوب	_	_	هبوب-n	هُبُوب-n
@@ -262318,7 +262715,7 @@ l	foreign	l	_	_	l-2	l-2
 وبرق	noun	بَرْق	_	_	وبرق-n	بَرْق-n
 </s>
 </p>
-<p n="25.(766)" id="766" pages="219" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة أربع وأربعين وثلاثمائة" subsubchapter_title="‌‌[الوباء بالري]">
+<p n="25.(p766)" id="p766" pages="219" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة أربع وأربعين وثلاثمائة" subsubchapter_title="‌‌[الوباء بالري]">
 <s>
 [	punc	[	_	_	[-x	[-x
 الوباء	noun	وَباء	catastrophe	pestilence	الوباء-n	وَباء-n
@@ -262344,7 +262741,7 @@ l	foreign	l	_	_	l-2	l-2
 الوباء	noun	وَباء	catastrophe	pestilence	الوباء-n	وَباء-n
 </s>
 </p>
-<p n="25.(767)" id="767" pages="220" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة أربع وأربعين وثلاثمائة" subsubchapter_title="الزلزلة فِي">
+<p n="25.(p767)" id="p767" pages="220" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة أربع وأربعين وثلاثمائة" subsubchapter_title="الزلزلة فِي">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earhquake	الزلزلة-n	زَلْزَلَة-n
@@ -262372,7 +262769,7 @@ l	foreign	l	_	_	l-2	l-2
 بالدعاء	noun	دُعاء	_	_	بالدعاء-n	دُعاء-n
 </s>
 </p>
-<p n="25.(768)" id="768" pages="223" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة ست وأربعين وثلاثمائة" subsubchapter_title="[[الزلازل بالري]]">
+<p n="25.(p768)" id="p768" pages="223" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="سنة ست وأربعين وثلاثمائة" subsubchapter_title="[[الزلازل بالري]]">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -262391,7 +262788,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="25.(769)" id="769" pages="443,444,445,446" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="المتوفون في هذه الطبقة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="25.(p769)" id="p769" pages="443,444,445,446" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والعشرون (سنة ٣٣١ - ٣٥٠)" chapter_title="الوقائع الكائنة في الطبقة الخامسة والثلاثين" subchapter_title="المتوفون في هذه الطبقة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 -	punc	-	_	_	--x	--x
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -263225,7 +263622,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="26.(770)" id="770" pages="43,44" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة السادسة والثلاثون" subchapter_title="[حوادث] سنة ثمان وخمسين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="26.(p770)" id="p770" pages="43,44" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة السادسة والثلاثون" subchapter_title="[حوادث] سنة ثمان وخمسين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 [	punc	[	_	_	[-x	[-x
 حوادث	noun	حادِث	_	_	حوادث-n	حادِث-n
@@ -263457,7 +263854,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="26.(771)" id="771" pages="267,268" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة السابعة والثلاثون" subchapter_title="[حوادث] سنة سبع وستين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="26.(p771)" id="p771" pages="267,268" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة السابعة والثلاثون" subchapter_title="[حوادث] سنة سبع وستين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -263702,7 +264099,7 @@ l	foreign	l	_	_	l-2	l-2
 تحتها	noun	تَحْتَ	_	_	تحتها-n	تَحْتَ-n
 </s>
 </p>
-<p n="26.(772)" id="772" pages="483" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة الثامنة والثلاثون" subchapter_title="[حوادث] سنة ثمان وسبعين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="26.(p772)" id="p772" pages="483" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة الثامنة والثلاثون" subchapter_title="[حوادث] سنة ثمان وسبعين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 زاد	verb	زاد	_	_	زاد-v	زاد-v
 غلاء	noun	غَلاء	_	_	غلاء-n	غَلاء-n
@@ -263823,7 +264220,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="26.(773)" id="773" pages="484,485" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة الثامنة والثلاثون" subchapter_title="[حوادث] سنة تسع وسبعين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="26.(p773)" id="p773" pages="484,485" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والعشرون (سنة ٣٥١ - ٣٨٠)" chapter_title="الطبقة الثامنة والثلاثون" subchapter_title="[حوادث] سنة تسع وسبعين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 جاء	verb	جاء	_	_	جاء-v	جاء-v
 الخبر	noun_prop	خُبَر	_	_	الخبر-o	خُبَر-o
@@ -264249,7 +264646,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="27.(774)" id="774" pages="107,108" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة التاسعة والثلاثون" subchapter_title="[حوادث] سنة ثمان وثمانين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
+<p n="27.(p774)" id="p774" pages="107,108" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة التاسعة والثلاثون" subchapter_title="[حوادث] سنة ثمان وثمانين وثلاثمائة" subsubchapter_title="سنة خمس وأربعين وثلاثمائة [١]">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 قبض	verb	قَبَض	_	_	قبض-v	قَبَض-v
@@ -264609,7 +265006,7 @@ l	foreign	l	_	_	l-2	l-2
 لواضح	adj	واضِح	_	_	لواضح-a	واضِح-a
 </s>
 </p>
-<p n="27.(775)" id="775" pages="134,135" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة التاسعة والثلاثون" subchapter_title="[تراجم وفيات]" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
+<p n="27.(p775)" id="p775" pages="134,135" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة التاسعة والثلاثون" subchapter_title="[تراجم وفيات]" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 شيرويه	noun_prop	شيرويه	_	_	شيرويه-o	شيرويه-o
@@ -264998,7 +265395,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="27.(776)" id="776" pages="235,236" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="‌‌[حوادث] سنة سبع وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
+<p n="27.(p776)" id="p776" pages="235,236" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="‌‌[حوادث] سنة سبع وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
 <s>
 فيها	prep	فِي	_	_	فيها-p	فِي-p
 خروج	noun	خُرُوج	_	_	خروج-n	خُرُوج-n
@@ -265402,7 +265799,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="27.(777)" id="777" pages="238" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة ثمان وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
+<p n="27.(p777)" id="p777" pages="238" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة ثمان وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
 <s>
 وفي	prep	فِي	_	_	وفي-p	فِي-p
 شعبان	noun_prop	شَعْبان	_	_	شعبان-o	شَعْبان-o
@@ -265477,7 +265874,7 @@ l	foreign	l	_	_	l-2	l-2
 دراهم	verb	دَرَى	_	_	دراهم-v	دَرَى-v
 </s>
 </p>
-<p n="27.(778)" id="778" pages="241,242" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة تسع وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
+<p n="27.(p778)" id="p778" pages="241,242" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة تسع وتسعين وثلاثمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 حوادث	noun	حادِث	_	_	حوادث-n	حادِث-n
@@ -265700,7 +266097,7 @@ l	foreign	l	_	_	l-2	l-2
 بالأندلس	noun_prop	أَنْدَلُس	place	Andalusia	بالأندلس-o	أَنْدَلُس-o
 </s>
 </p>
-<p n="27.(779)" id="779" pages="244,245,246" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة أربعمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
+<p n="27.(p779)" id="p779" pages="244,245,246" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[حوادث] سنة أربعمائة" subsubchapter_title="[وفيات] سنة سبع وثمانين وثلاثمائة">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -266305,7 +266702,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="27.(780)" id="780" pages="266" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[وفيات هذه الطبقة]" subsubchapter_title="[وفيات] سنة اثنتين وتسعين وثلاثمائة">
+<p n="27.(p780)" id="p780" pages="266" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والعشرون (سنة ٣٨١ - ٤٠٠)" chapter_title="الطبقة الأربعون" subchapter_title="[وفيات هذه الطبقة]" subsubchapter_title="[وفيات] سنة اثنتين وتسعين وثلاثمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -266352,7 +266749,7 @@ l	foreign	l	_	_	l-2	l-2
 ذراع	noun	ذِراع	_	_	ذراع-n	ذِراع-n
 </s>
 </p>
-<p n="28.(781)" id="781" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الحادية والأربعون" subchapter_title="سنة ست وأربعمائة" subsubchapter_title="[الوباء">
+<p n="28.(p781)" id="p781" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الحادية والأربعون" subchapter_title="سنة ست وأربعمائة" subsubchapter_title="[الوباء">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -266367,7 +266764,7 @@ l	foreign	l	_	_	l-2	l-2
 بالبصرة	noun_prop	بَصْرَة	place	Basra	بالبصرة-o	بَصْرَة-o
 </s>
 </p>
-<p n="28.(782)" id="782" pages="259" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="سنة سبع عشرة وأربعمائة" subsubchapter_title="تجمّد دجلة">
+<p n="28.(p782)" id="p782" pages="259" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="سنة سبع عشرة وأربعمائة" subsubchapter_title="تجمّد دجلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 تجمد	verb	جَمَّد	_	_	تجمد-v	جَمَّد-v
@@ -266389,7 +266786,7 @@ l	foreign	l	_	_	l-2	l-2
 كلها	noun	كُلّ	_	_	كلها-n	كُلّ-n
 </s>
 </p>
-<p n="28.(783)" id="783" pages="260" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة ثمان عشرة وأربعمائة" subsubchapter_title="وقوع البرد في البلاد">
+<p n="28.(p783)" id="p783" pages="260" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة ثمان عشرة وأربعمائة" subsubchapter_title="وقوع البرد في البلاد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -266455,7 +266852,7 @@ l	foreign	l	_	_	l-2	l-2
 البلاد	noun	بَلَد	_	_	البلاد-n	بَلَد-n
 </s>
 </p>
-<p n="28.(784)" id="784" pages="262" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة ثمان عشرة وأربعمائة" subsubchapter_title="البرد والجليد في">
+<p n="28.(p784)" id="p784" pages="262" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة ثمان عشرة وأربعمائة" subsubchapter_title="البرد والجليد في">
 <s>
 [	punc	[	_	_	[-x	[-x
 البرد	noun	بَرْد	catastrophe	hail;cold	البرد-n	بَرْد-n
@@ -266478,7 +266875,7 @@ l	foreign	l	_	_	l-2	l-2
 الدواب	noun	دابَّة	_	_	الدواب-n	دابَّة-n
 </s>
 </p>
-<p n="28.(785)" id="785" pages="266" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة عشرين وأربعمائة‌‌" subsubchapter_title="وقوع البرد بالنعمانية">
+<p n="28.(p785)" id="p785" pages="266" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والعشرون (سنة ٤٠١- ٤٢٠)" chapter_title="الطبقة الثانية والأربعون" subchapter_title="‌‌سنة عشرين وأربعمائة‌‌" subsubchapter_title="وقوع البرد بالنعمانية">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -266525,7 +266922,7 @@ l	foreign	l	_	_	l-2	l-2
 ذراع	noun	ذِراع	_	_	ذراع-n	ذِراع-n
 </s>
 </p>
-<p n="29.(786)" id="786" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة ثلاث وعشرين وأربعمائة" subsubchapter_title="هياج ريح عظيمة">
+<p n="29.(p786)" id="p786" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة ثلاث وعشرين وأربعمائة" subsubchapter_title="هياج ريح عظيمة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -266551,7 +266948,7 @@ l	foreign	l	_	_	l-2	l-2
 ورملا	noun	رَمْل	_	_	ورملا-n	رَمْل-n
 </s>
 </p>
-<p n="29.(787)" id="787" pages="29" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة خمس وعشرين وأربعمائة" subsubchapter_title="هبوب ريح بنصيبين">
+<p n="29.(p787)" id="p787" pages="29" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة خمس وعشرين وأربعمائة" subsubchapter_title="هبوب ريح بنصيبين">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -266602,7 +266999,7 @@ l	foreign	l	_	_	l-2	l-2
 بعضهم	noun	عَضّ	_	_	بعضهم-n	عَضّ-n
 </s>
 </p>
-<p n="29.(788)" id="788" pages="29" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة خمس وعشرين وأربعمائة" subsubchapter_title="الزلازل">
+<p n="29.(p788)" id="p788" pages="29" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الثالثة والأربعون" subchapter_title="سنة خمس وعشرين وأربعمائة" subsubchapter_title="الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 زلازل	noun	زَلْزَلَة	catastrophe	earhquake	زلازل-n	زَلْزَلَة-n
@@ -266655,7 +267052,7 @@ l	foreign	l	_	_	l-2	l-2
 غزة	noun_prop	غَزَّة	place	Gaza	غزة-o	غَزَّة-o
 </s>
 </p>
-<p n="29.(789)" id="789" pages="325,326" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الرابعة والأربعون" subchapter_title="سنة أربع وثلاثين وأربعمائة" subsubchapter_title="الزلزلة بتبريز">
+<p n="29.(p789)" id="p789" pages="325,326" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والعشرون (سنة ٤٢١- ٤٤٠)" chapter_title="الطبقة الرابعة والأربعون" subchapter_title="سنة أربع وثلاثين وأربعمائة" subsubchapter_title="الزلزلة بتبريز">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -266741,7 +267138,7 @@ l	foreign	l	_	_	l-2	l-2
 الترك	noun	تَرْك	_	_	الترك-n	تَرْك-n
 </s>
 </p>
-<p n="30.(790)" id="790" pages="6" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة إحدى وأربعين وأربعمائة">
+<p n="30.(p790)" id="p790" pages="6" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة إحدى وأربعين وأربعمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -266788,7 +267185,7 @@ l	foreign	l	_	_	l-2	l-2
 النخل	noun_prop	نَخْل	_	_	النخل-o	نَخْل-o
 </s>
 </p>
-<p n="30.(791)" id="791" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة ست وأربعين وأربعمائة" subsubchapter_title="نقصان النيل وتزايد الغلاء والوباء">
+<p n="30.(p791)" id="p791" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة ست وأربعين وأربعمائة" subsubchapter_title="نقصان النيل وتزايد الغلاء والوباء">
 <s>
 [	punc	[	_	_	[-x	[-x
 نقصان	noun	نُقْصان	_	_	نقصان-n	نُقْصان-n
@@ -266829,7 +267226,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="30.(792)" id="792" pages="227" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة تسع وأربعين وأربعمائة" subsubchapter_title="حرف الألف -">
+<p n="30.(p792)" id="p792" pages="227" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة الخامسة والَأربعون" subchapter_title="سنة تسع وأربعين وأربعمائة" subsubchapter_title="حرف الألف -">
 <s>
 وقال	verb	قال	_	_	وقال-v	قال-v
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
@@ -267001,7 +267398,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="30.(793)" id="793" pages="279" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة أربع وخمسين وأربعمائة" subsubchapter_title="غرق">
+<p n="30.(p793)" id="p793" pages="279" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة أربع وخمسين وأربعمائة" subsubchapter_title="غرق">
 <s>
 [	punc	[	_	_	[-x	[-x
 غرق	noun	غَرَق	_	_	غرق-n	غَرَق-n
@@ -267061,7 +267458,7 @@ l	foreign	l	_	_	l-2	l-2
 كلفة	noun	كُلْفَة	_	_	كلفة-n	كُلْفَة-n
 </s>
 </p>
-<p n="30.(794)" id="794" pages="282" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة خمس وخمسين وأربعمائة" subsubchapter_title="الزلزلة بالشّام">
+<p n="30.(p794)" id="p794" pages="282" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة خمس وخمسين وأربعمائة" subsubchapter_title="الزلزلة بالشّام">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -267078,7 +267475,7 @@ l	foreign	l	_	_	l-2	l-2
 طرابلس	noun_prop	طَرابُلُس	place	tripoli	طرابلس-o	طَرابُلُس-o
 </s>
 </p>
-<p n="30.(795)" id="795" pages="292" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة ثمان وخمسين وأربعمائة" subsubchapter_title="الزلزلة">
+<p n="30.(p795)" id="p795" pages="292" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثلاثون (سنة ٤٤١- ٤٦٠)" chapter_title="الطبقة السادسة والأربعين" subchapter_title="سنة ثمان وخمسين وأربعمائة" subsubchapter_title="الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -267113,7 +267510,7 @@ l	foreign	l	_	_	l-2	l-2
 الأثير	noun	أَثِير	_	_	الأثير-n	أَثِير-n
 </s>
 </p>
-<p n="31.(796)" id="796" pages="32" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والثلاثون (سنة ٤٦١- ٤٧٠)" chapter_title="الطبقة السابعة والأربعون" subchapter_title="سنة ثمان وستين وأربعمائة" subsubchapter_title="عودة أَتْسِز إلى">
+<p n="31.(p796)" id="p796" pages="32" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والثلاثون (سنة ٤٦١- ٤٧٠)" chapter_title="الطبقة السابعة والأربعون" subchapter_title="سنة ثمان وستين وأربعمائة" subsubchapter_title="عودة أَتْسِز إلى">
 <s>
 [	punc	[	_	_	[-x	[-x
 عودة	noun	عَوْدَة	_	_	عودة-n	عَوْدَة-n
@@ -267221,7 +267618,7 @@ l	foreign	l	_	_	l-2	l-2
 الديار	noun	دار	_	_	الديار-n	دار-n
 </s>
 </p>
-<p n="32.(797)" id="797" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والثلاثون (سنة ٤٧١- ٤٨٠)" chapter_title="الطبقة الثامنة والأربعون" subchapter_title="سنة ثمان وسبعين وأربعمائة" subsubchapter_title="‌‌الزلزلة بأرجان">
+<p n="32.(p797)" id="p797" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والثلاثون (سنة ٤٧١- ٤٨٠)" chapter_title="الطبقة الثامنة والأربعون" subchapter_title="سنة ثمان وسبعين وأربعمائة" subsubchapter_title="‌‌الزلزلة بأرجان">
 <s>
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
 بارجان	noun_prop	بارجان	_	_	بارجان-o	بارجان-o
@@ -267237,7 +267634,7 @@ l	foreign	l	_	_	l-2	l-2
 الردم	noun	رَدْم	_	_	الردم-n	رَدْم-n
 </s>
 </p>
-<p n="32.(798)" id="798" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والثلاثون (سنة ٤٧١- ٤٨٠)" chapter_title="الطبقة الثامنة والأربعون" subchapter_title="سنة ثمان وسبعين وأربعمائة" subsubchapter_title="‌‌‌‌الريح والرعد والبرق">
+<p n="32.(p798)" id="p798" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والثلاثون (سنة ٤٧١- ٤٨٠)" chapter_title="الطبقة الثامنة والأربعون" subchapter_title="سنة ثمان وسبعين وأربعمائة" subsubchapter_title="‌‌‌‌الريح والرعد والبرق">
 <s>
 الريح	noun	رِيح	catastrophe	wind	الريح-n	رِيح-n
 والرعد	noun	رَعْد	_	_	والرعد-n	رَعْد-n
@@ -267310,7 +267707,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.(799)" id="799" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة ثلاث وثمانين وأربعمائة" subsubchapter_title="القحط">
+<p n="33.(p799)" id="p799" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة ثلاث وثمانين وأربعمائة" subsubchapter_title="القحط">
 <s>
 [	punc	[	_	_	[-x	[-x
 القحط	noun	قَحْط	catastrophe	drought	القحط-n	قَحْط-n
@@ -267332,7 +267729,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="33.(800)" id="800" pages="20" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة أربع وثمانين وأربعمائة" subsubchapter_title="[الزّلزلة بالشّام]">
+<p n="33.(p800)" id="p800" pages="20" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة أربع وثمانين وأربعمائة" subsubchapter_title="[الزّلزلة بالشّام]">
 <s>
 وفيها	prep	فِي	_	_	وفيها-p	فِي-p
 كانت	verb	كان	_	_	كانت-v	كان-v
@@ -267369,7 +267766,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="33.(801)" id="801" pages="28" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة خمس وثمانين وأربعمائة" subsubchapter_title="وقوع البَرَد">
+<p n="33.(p801)" id="p801" pages="28" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة خمس وثمانين وأربعمائة" subsubchapter_title="وقوع البَرَد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -267397,7 +267794,7 @@ l	foreign	l	_	_	l-2	l-2
 أرطال	noun	رَطْل	_	_	أرطال-n	رَطْل-n
 </s>
 </p>
-<p n="33.(802)" id="802" pages="43" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة تسع وثمانين وأربعمائة" subsubchapter_title="[اجتماع الكواكب السبعة وغرق الحجّاج]">
+<p n="33.(p802)" id="p802" pages="43" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والثلاثون (سنة ٤٨١- ٤٩٠)" chapter_title="الطبقة التاسعة والأربعون" subchapter_title="سنة تسع وثمانين وأربعمائة" subsubchapter_title="[اجتماع الكواكب السبعة وغرق الحجّاج]">
 <s>
 [	punc	[	_	_	[-x	[-x
 اجتماع	noun	ٱِجْتِماع	_	_	اجتماع-n	ٱِجْتِماع-n
@@ -267465,7 +267862,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="34.(803)" id="803" pages="69" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والثلاثون (سنة ٤٩١- ٥٠٠)" chapter_title="الطبقة الخمسون" subchapter_title="سنة ثمان وتسعين وأربعمائة" subsubchapter_title="الْجُدَريّ والوباء في">
+<p n="34.(p803)" id="p803" pages="69" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والثلاثون (سنة ٤٩١- ٥٠٠)" chapter_title="الطبقة الخمسون" subchapter_title="سنة ثمان وتسعين وأربعمائة" subsubchapter_title="الْجُدَريّ والوباء في">
 <s>
 [	punc	[	_	_	[-x	[-x
 الجدري	adj	جُدَرِيّ	_	_	الجدري-a	جُدَرِيّ-a
@@ -267492,7 +267889,7 @@ l	foreign	l	_	_	l-2	l-2
 عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
 </s>
 </p>
-<p n="35.(804)" id="804" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الحادية والخمسون" subchapter_title="وفي سنة أربع وخمسمائة">
+<p n="35.(p804)" id="p804" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الحادية والخمسون" subchapter_title="وفي سنة أربع وخمسمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -267540,7 +267937,7 @@ l	foreign	l	_	_	l-2	l-2
 المغرب	noun_prop	مَغْرِب	_	_	المغرب-o	مَغْرِب-o
 </s>
 </p>
-<p n="35.(805)" id="805" pages="32" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الحادية والخمسون" subchapter_title="سنة ثمان وخمسمائة" subsubchapter_title="الزلزلة بالجزيرة">
+<p n="35.(p805)" id="p805" pages="32" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الحادية والخمسون" subchapter_title="سنة ثمان وخمسمائة" subsubchapter_title="الزلزلة بالجزيرة">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -267565,7 +267962,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="35.(806)" id="806" pages="269" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="حوادث سنة إحدى عشر وخمسمائة" subsubchapter_title="الزلزلة">
+<p n="35.(p806)" id="p806" pages="269" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="حوادث سنة إحدى عشر وخمسمائة" subsubchapter_title="الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -267590,7 +267987,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="35.(807)" id="807" pages="269,270" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="حوادث سنة إحدى عشر وخمسمائة" subsubchapter_title="‌‌[غرق سنجار بالسيل]">
+<p n="35.(p807)" id="p807" pages="269,270" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="حوادث سنة إحدى عشر وخمسمائة" subsubchapter_title="‌‌[غرق سنجار بالسيل]">
 <s>
 [	punc	[	_	_	[-x	[-x
 غرق	noun	غَرَق	_	_	غرق-n	غَرَق-n
@@ -267652,7 +268049,7 @@ l	foreign	l	_	_	l-2	l-2
 وكبر	verb	كَبَر	_	_	وكبر-v	كَبَر-v
 </s>
 </p>
-<p n="35.(808)" id="808" pages="276,277" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="سنة ثلاث عشرة وخمسمائة" subsubchapter_title="الوقعة بين السّلطان سنجر وابن أخيه">
+<p n="35.(p808)" id="p808" pages="276,277" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والثلاثون (سنة ٥٠١ - ٥٢٠)" chapter_title="الطبقة الثانية والخمسون" subchapter_title="سنة ثلاث عشرة وخمسمائة" subsubchapter_title="الوقعة بين السّلطان سنجر وابن أخيه">
 <s>
 [	punc	[	_	_	[-x	[-x
 الوقعة	noun	وَقْعَة	_	_	الوقعة-n	وَقْعَة-n
@@ -268095,7 +268492,7 @@ l	foreign	l	_	_	l-2	l-2
 الخليفة	noun	خَلِيفَة	_	_	الخليفة-n	خَلِيفَة-n
 </s>
 </p>
-<p n="36.(809)" id="809" pages="49" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الثالثة والخمسون" subchapter_title="سنة تسع وعشرين وخمسمائة" subsubchapter_title="[زلزلة">
+<p n="36.(p809)" id="p809" pages="49" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الثالثة والخمسون" subchapter_title="سنة تسع وعشرين وخمسمائة" subsubchapter_title="[زلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 زلزلة	noun	زَلْزَلَة	catastrophe	earthquake	زلزلة-n	زَلْزَلَة-n
@@ -268138,7 +268535,7 @@ l	foreign	l	_	_	l-2	l-2
 يستغيثون	verb	ٱِسْتَغاث	_	_	يستغيثون-v	ٱِسْتَغاث-v
 </s>
 </p>
-<p n="36.(810)" id="810" pages="62" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الثالثة والخمسون" subchapter_title="سنة ثلاثين وخمسمائة" subsubchapter_title="السيل العظيم">
+<p n="36.(p810)" id="p810" pages="62" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الثالثة والخمسون" subchapter_title="سنة ثلاثين وخمسمائة" subsubchapter_title="السيل العظيم">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -268182,7 +268579,7 @@ l	foreign	l	_	_	l-2	l-2
 الموقدة	adj	مُوقِد	_	_	الموقدة-a	مُوقِد-a
 </s>
 </p>
-<p n="36.(811)" id="811" pages="208" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة ثلاث وثلاثين وخمسمائة" subsubchapter_title="[الزلزلة بجنزة]">
+<p n="36.(p811)" id="p811" pages="208" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة ثلاث وثلاثين وخمسمائة" subsubchapter_title="[الزلزلة بجنزة]">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -268302,7 +268699,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.(812)" id="812" pages="211" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة ثلاث وثلاثين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
+<p n="36.(p812)" id="p812" pages="211" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة ثلاث وثلاثين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -268373,7 +268770,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="36.(813)" id="813" pages="222" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة سبع وثلاثين وخمسمائة">
+<p n="36.(p813)" id="p813" pages="222" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والثلاثون (سنة ٥٢١- ٥٤٠)" chapter_title="الطبقة الرابعة والخمسون" subchapter_title="سنة سبع وثلاثين وخمسمائة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -268391,7 +268788,7 @@ l	foreign	l	_	_	l-2	l-2
 الناس	noun	ناس	_	_	الناس-n	ناس-n
 </s>
 </p>
-<p n="37.(814)" id="814" pages="20" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="سنة أربع وأربعين وخمسمائة" subsubchapter_title="[الزلزلة">
+<p n="37.(p814)" id="p814" pages="20" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="سنة أربع وأربعين وخمسمائة" subsubchapter_title="[الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -268424,7 +268821,7 @@ l	foreign	l	_	_	l-2	l-2
 التركمان	noun_prop	تُرْكُمان	_	_	التركمان-o	تُرْكُمان-o
 </s>
 </p>
-<p n="37.(815)" id="815" pages="25" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="ومن حوادث سنة أربع وأربعين وخمسمائة" subsubchapter_title="عودة الحُجّاج وما أصابهم">
+<p n="37.(p815)" id="p815" pages="25" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="ومن حوادث سنة أربع وأربعين وخمسمائة" subsubchapter_title="عودة الحُجّاج وما أصابهم">
 <s>
 ثم	adv	ثُمَّ	_	_	ثم-r	ثُمَّ-r
 قدم	verb	قَدَّم	_	_	قدم-v	قَدَّم-v
@@ -268471,7 +268868,7 @@ l	foreign	l	_	_	l-2	l-2
 والعطش	noun	عَطَش	catastrophe	thirst	والعطش-n	عَطَش-n
 </s>
 </p>
-<p n="37.(816)" id="816" pages="47" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="سنة تسع وأربعين وخمسمائة" subsubchapter_title="[زلزلة">
+<p n="37.(p816)" id="p816" pages="47" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والثلاثون (سنة ٥٤١ - ٥٥٠)" chapter_title="الطبقة الخامسة والخمسون" subchapter_title="سنة تسع وأربعين وخمسمائة" subsubchapter_title="[زلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -268510,7 +268907,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="38.(817)" id="817" pages="6" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="حوادث سنة إحدى وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
+<p n="38.(p817)" id="p817" pages="6" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="حوادث سنة إحدى وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -268579,7 +268976,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.(818)" id="818" pages="13,14" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
+<p n="38.(p818)" id="p818" pages="13,14" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -268793,7 +269190,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.(819)" id="819" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
+<p n="38.(p819)" id="p819" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -268811,7 +269208,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.(820)" id="820" pages="17,18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌‌‌[خراب المدن بالزلازل]">
+<p n="38.(p820)" id="p820" pages="17,18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة اثنتين وخمسين وخمسمائة" subsubchapter_title="‌‌‌‌[خراب المدن بالزلازل]">
 <s>
 [	punc	[	_	_	[-x	[-x
 خراب	noun	خَراب	_	_	خراب-n	خَراب-n
@@ -268887,7 +269284,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.(821)" id="821" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة ثلاث وخمسين وخمسمائة" subsubchapter_title="السَّيْل الأحمر">
+<p n="38.(p821)" id="p821" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة ثلاث وخمسين وخمسمائة" subsubchapter_title="السَّيْل الأحمر">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -268910,7 +269307,7 @@ l	foreign	l	_	_	l-2	l-2
 منه	prep	مِن	_	_	منه-p	مِن-p
 </s>
 </p>
-<p n="38.(822)" id="822" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة أربع وخمسين وخمسمائة" subsubchapter_title="وقوع البَرد">
+<p n="38.(p822)" id="p822" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة أربع وخمسين وخمسمائة" subsubchapter_title="وقوع البَرد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -268935,7 +269332,7 @@ l	foreign	l	_	_	l-2	l-2
 ذلك	pron_dem	ذٰلِكَ	_	_	ذلك-t	ذٰلِكَ-t
 </s>
 </p>
-<p n="38.(823)" id="823" pages="26" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة أربع وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
+<p n="38.(p823)" id="p823" pages="26" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="الطبقة السادسة والخمسين" subchapter_title="سنة أربع وخمسين وخمسمائة" subsubchapter_title="‌‌[الزلازل">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -268957,7 +269354,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="38.96(824)" id="824" pages="124" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="المتوفون في هذه الطبقة" subchapter_title="سنة ثلاث وخمسين وخمسمائة" subsubchapter_title="حرف العين -">
+<p n="38.96(p824)" id="p824" pages="124" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والثلاثون (سنة ٥٥١- ٥٦٠)" chapter_title="المتوفون في هذه الطبقة" subchapter_title="سنة ثلاث وخمسين وخمسمائة" subsubchapter_title="حرف العين -">
 <s>
 عبد	noun_prop	عَبْد	_	_	عبد-o	عَبْد-o
 الرحمن	noun_prop	رَحْمٰن	_	_	الرحمن-o	رَحْمٰن-o
@@ -269031,7 +269428,7 @@ l	foreign	l	_	_	l-2	l-2
 القلب	noun	قَلْب	_	_	القلب-n	قَلْب-n
 </s>
 </p>
-<p n="39.(825)" id="825" pages="23,24" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والثلاثون (سنة ٥٦١ - ٥٧٠)" chapter_title="الطبقة السابعة والخمسون" subchapter_title="سنة خمس وستين وخمسمائة" subsubchapter_title="‌‌[الزلازل في">
+<p n="39.(p825)" id="p825" pages="23,24" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والثلاثون (سنة ٥٦١ - ٥٧٠)" chapter_title="الطبقة السابعة والخمسون" subchapter_title="سنة خمس وستين وخمسمائة" subsubchapter_title="‌‌[الزلازل في">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلازل	noun	زَلْزَلَة	catastrophe	earthquake	الزلازل-n	زَلْزَلَة-n
@@ -269188,7 +269585,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="39.(826)" id="826" pages="49" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والثلاثون (سنة ٥٦١ - ٥٧٠)" chapter_title="الطبقة السابعة والخمسون" subchapter_title="سنة تسع وستين وخمسمائة" subsubchapter_title="وقوع البَرَد">
+<p n="39.(p826)" id="p826" pages="49" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والثلاثون (سنة ٥٦١ - ٥٧٠)" chapter_title="الطبقة السابعة والخمسون" subchapter_title="سنة تسع وستين وخمسمائة" subsubchapter_title="وقوع البَرَد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -269232,7 +269629,7 @@ l	foreign	l	_	_	l-2	l-2
 كالنارنج	noun	نارَنْج	_	_	كالنارنج-n	نارَنْج-n
 </s>
 </p>
-<p n="40.(827)" id="827" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة اثنتين وسبعين وخمسمائة" subsubchapter_title="البَرَد فِي">
+<p n="40.(p827)" id="p827" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة اثنتين وسبعين وخمسمائة" subsubchapter_title="البَرَد فِي">
 <s>
 [	punc	[	_	_	[-x	[-x
 البرد	noun	بَرْد	catastrophe	hail;cold	البرد-n	بَرْد-n
@@ -269255,7 +269652,7 @@ l	foreign	l	_	_	l-2	l-2
 الحر	adj	حُرّ	catastrophe	heat	الحر-a	حُرّ-a
 </s>
 </p>
-<p n="40.(828)" id="828" pages="13" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة اثنتين وسبعين وخمسمائة" subsubchapter_title="[الزلزلة بالري وقزوين]">
+<p n="40.(p828)" id="p828" pages="13" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة اثنتين وسبعين وخمسمائة" subsubchapter_title="[الزلزلة بالري وقزوين]">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -269271,7 +269668,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="40.(829)" id="829" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة ثلاث وسبعين وخمسمائة" subsubchapter_title="هبوب الريح">
+<p n="40.(p829)" id="p829" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة ثلاث وسبعين وخمسمائة" subsubchapter_title="هبوب الريح">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -269299,7 +269696,7 @@ l	foreign	l	_	_	l-2	l-2
 القيامة	noun	قِيامَة	_	_	القيامة-n	قِيامَة-n
 </s>
 </p>
-<p n="40.(830)" id="830" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة ثلاث وسبعين وخمسمائة" subsubchapter_title="وقوع البَرَد">
+<p n="40.(p830)" id="p830" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة ثلاث وسبعين وخمسمائة" subsubchapter_title="وقوع البَرَد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -269319,7 +269716,7 @@ l	foreign	l	_	_	l-2	l-2
 بعضهم	noun	عَضّ	_	_	بعضهم-n	عَضّ-n
 </s>
 </p>
-<p n="40.(831)" id="831" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة أربع وسبعين وخمسمائة" subsubchapter_title="هبوب ريح وظهور نار">
+<p n="40.(p831)" id="p831" pages="27" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة أربع وسبعين وخمسمائة" subsubchapter_title="هبوب ريح وظهور نار">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -269365,7 +269762,7 @@ l	foreign	l	_	_	l-2	l-2
 السحر	noun	سِحْر	_	_	السحر-n	سِحْر-n
 </s>
 </p>
-<p n="40.(832)" id="832" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة خمس وسبعين وخمسمائة" subsubchapter_title="[الوَباء والغلاء">
+<p n="40.(p832)" id="p832" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة خمس وسبعين وخمسمائة" subsubchapter_title="[الوَباء والغلاء">
 <s>
 [	punc	[	_	_	[-x	[-x
 الوباء	noun	وَباء	catastrophe	pestilence	الوباء-n	وَباء-n
@@ -269390,7 +269787,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="40.(833)" id="833" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة خمس وسبعين وخمسمائة" subsubchapter_title="‌‌[الزلزلة ببلاد الجبل]">
+<p n="40.(p833)" id="p833" pages="38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الأربعون (سنة ٥٧١- ٥٨٠)" chapter_title="الطبقة الثامنة والخمسون" subchapter_title="سنة خمس وسبعين وخمسمائة" subsubchapter_title="‌‌[الزلزلة ببلاد الجبل]">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -269414,7 +269811,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="41.(834)" id="834" pages="5" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والأربعون (سنة ٥٨١- ٥٩٠)" chapter_title="الطبقة التاسعة والخمسون" subchapter_title="ذكر الوقائع الكائنة سنة إحدى وثمانين وخمسمائة" subsubchapter_title="وقوع البَرَد">
+<p n="41.(p834)" id="p834" pages="5" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والأربعون (سنة ٥٨١- ٥٩٠)" chapter_title="الطبقة التاسعة والخمسون" subchapter_title="ذكر الوقائع الكائنة سنة إحدى وثمانين وخمسمائة" subsubchapter_title="وقوع البَرَد">
 <s>
 [	punc	[	_	_	[-x	[-x
 وقوع	noun	وُقُوع	_	_	وقوع-n	وُقُوع-n
@@ -269441,7 +269838,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="42.(835)" id="835" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة اثنتين وتسعين وخمسمائة" subsubchapter_title="هبوب ريح سوداء">
+<p n="42.(p835)" id="p835" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة اثنتين وتسعين وخمسمائة" subsubchapter_title="هبوب ريح سوداء">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -269481,7 +269878,7 @@ l	foreign	l	_	_	l-2	l-2
 مرارا	noun	مِرار	_	_	مرارا-n	مِرار-n
 </s>
 </p>
-<p n="42.(836)" id="836" pages="36,37,38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة سبع وتسعين وخمسمائة" subsubchapter_title="خبر الزلزلة">
+<p n="42.(p836)" id="p836" pages="36,37,38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة سبع وتسعين وخمسمائة" subsubchapter_title="خبر الزلزلة">
 <s>
 خبر	noun	خَبَر	_	_	خبر-n	خَبَر-n
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -270153,7 +270550,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="42.(837)" id="837" pages="42" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة سبع وتسعين وخمسمائة" subsubchapter_title="[خبر الزلزلة بالبلاد الشامية]">
+<p n="42.(p837)" id="p837" pages="42" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة سبع وتسعين وخمسمائة" subsubchapter_title="[خبر الزلزلة بالبلاد الشامية]">
 <s>
 [	punc	[	_	_	[-x	[-x
 خبر	noun	خَبَر	_	_	خبر-n	خَبَر-n
@@ -270210,7 +270607,7 @@ l	foreign	l	_	_	l-2	l-2
 ]	punc	]	_	_	]-x	]-x
 </s>
 </p>
-<p n="42.(838)" id="838" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة ثمان وتسعين وخمسمائة" subsubchapter_title="[الزلزلة فِي">
+<p n="42.(p838)" id="p838" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والأربعون (سنة ٥٩١- ٦٠٠)" chapter_title="الطبقة الستون" subchapter_title="سنة ثمان وتسعين وخمسمائة" subsubchapter_title="[الزلزلة فِي">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -270277,7 +270674,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="43.61.(839)" id="839" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة خمس وستمائة" subsubchapter_title="زلزلة نيسابور">
+<p n="43.61.(p839)" id="p839" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة خمس وستمائة" subsubchapter_title="زلزلة نيسابور">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -270308,7 +270705,7 @@ l	foreign	l	_	_	l-2	l-2
 عظيم	adj	عَظِيم	_	_	عظيم-a	عَظِيم-a
 </s>
 </p>
-<p n="43.61.(840)" id="840" pages="34" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة ثمان وستمائة" subsubchapter_title="[الزلزلة">
+<p n="43.61.(p840)" id="p840" pages="34" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة ثمان وستمائة" subsubchapter_title="[الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
@@ -270343,7 +270740,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="43.61.(841)" id="841" pages="37,38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة تسع وستمائة" subsubchapter_title="نكبة سامة الجبليّ">
+<p n="43.61.(p841)" id="p841" pages="37,38" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثالث والأربعون (سنة ٦٠١ - ٦١٠)" chapter_title="الطبقة الحادية والستون" subchapter_title="سنة تسع وستمائة" subsubchapter_title="نكبة سامة الجبليّ">
 <s>
 [	punc	[	_	_	[-x	[-x
 نكبة	noun	نَكْبَة	catastrophe	catastrophe	نكبة-n	نَكْبَة-n
@@ -270626,7 +271023,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="44.(842)" id="842" pages="14" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والأربعون (سنة ٦١١- ٦٢٠)" chapter_title="الطبقة الثانية والستون" subchapter_title="سنة ثلاث عشرة وستمائة" subsubchapter_title="وقوع البَرَد">
+<p n="44.(p842)" id="p842" pages="14" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الرابع والأربعون (سنة ٦١١- ٦٢٠)" chapter_title="الطبقة الثانية والستون" subchapter_title="سنة ثلاث عشرة وستمائة" subsubchapter_title="وقوع البَرَد">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 ابن	noun_prop	ٱِبْن	_	_	ابن-o	ٱِبْن-o
@@ -270677,7 +271074,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="45.(843)" id="843" pages="16" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="زلزلة">
+<p n="45.(p843)" id="p843" pages="16" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="زلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 زلزلة	noun	زَلْزَلَة	catastrophe	earhquake	زلزلة-n	زَلْزَلَة-n
@@ -270719,7 +271116,7 @@ l	foreign	l	_	_	l-2	l-2
 الناحية	noun	ناحِيَة	_	_	الناحية-n	ناحِيَة-n
 </s>
 </p>
-<p n="45.(844)" id="844" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="‌‌‌برد ماء عين القيارة">
+<p n="45.(p844)" id="p844" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="‌‌‌برد ماء عين القيارة">
 <s>
 برد	noun	رَدّ	catastrophe	hail;cold	برد-n	رَدّ-n
 ماء	noun	ماء	_	_	ماء-n	ماء-n
@@ -270766,7 +271163,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="45.(845)" id="845" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="القحط والجراد">
+<p n="45.(p845)" id="p845" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخامس والأربعون (سنة ٦٢١ - ٦٣٠)" chapter_title="الطبقة الثالثة والستون" subchapter_title="سنة ثلاث وعشرين وستمائة" subsubchapter_title="القحط والجراد">
 <s>
 القحط	noun	قَحْط	catastrophe	drought	القحط-n	قَحْط-n
 والجراد	noun	جَراد	_	_	والجراد-n	جَراد-n
@@ -270799,7 +271196,7 @@ l	foreign	l	_	_	l-2	l-2
 بالموصل	noun_prop	مَوْصِل	place	Mosul	بالموصل-o	مَوْصِل-o
 </s>
 </p>
-<p n="46.(846)" id="846" pages="14,15" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="تعدية الكامل والأشرف إلى الشرق وعودتهما">
+<p n="46.(p846)" id="p846" pages="14,15" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="تعدية الكامل والأشرف إلى الشرق وعودتهما">
 <s>
 [	punc	[	_	_	[-x	[-x
 تعديه	verb	أَعَدّ	_	_	تعديه-v	أَعَدّ-v
@@ -270979,7 +271376,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="46.(847)" id="847" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="نكبة ركب">
+<p n="46.(p847)" id="p847" pages="17" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="نكبة ركب">
 <s>
 وجرى	verb	جَرَى	_	_	وجرى-v	جَرَى-v
 على	prep	عَلَى	_	_	على-p	عَلَى-p
@@ -270997,7 +271394,7 @@ l	foreign	l	_	_	l-2	l-2
 خيبر	noun_prop	خيبر	_	_	خيبر-o	خيبر-o
 </s>
 </p>
-<p n="46.(848)" id="848" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="السيل العرم">
+<p n="46.(p848)" id="p848" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة أربع وثلاثين وستمائة" subsubchapter_title="السيل العرم">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -271031,7 +271428,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="46.(849)" id="849" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة سبع وثلاثين وستمائة" subsubchapter_title="زيادة الأسعار والسيل المخرّب">
+<p n="46.(p849)" id="p849" pages="37" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة سبع وثلاثين وستمائة" subsubchapter_title="زيادة الأسعار والسيل المخرّب">
 <s>
 [	punc	[	_	_	[-x	[-x
 زيادة	noun	زِيادَة	_	_	زيادة-n	زِيادَة-n
@@ -271053,7 +271450,7 @@ l	foreign	l	_	_	l-2	l-2
 وخرب	verb	خَرَّب	_	_	وخرب-v	خَرَّب-v
 </s>
 </p>
-<p n="46.(850)" id="850" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة سبع وثلاثين وستمائة" subsubchapter_title="السيل العرم">
+<p n="46.(p850)" id="p850" pages="18" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السادس والأربعون (سنة ٦٣١ - ٦٤٠)" chapter_title="الطبقة الرابعة والستون" subchapter_title="سنة سبع وثلاثين وستمائة" subsubchapter_title="السيل العرم">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -271087,7 +271484,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="47.(851)" id="851" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والأربعون (سنة ٦٤١ - ٦٥٠)" chapter_title="الطبقة الخامسة والستون" subchapter_title="سنة سبع وأربعين وستمائة" subsubchapter_title="السيل العظيم بالسلامية">
+<p n="47.(p851)" id="p851" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والأربعون (سنة ٦٤١ - ٦٥٠)" chapter_title="الطبقة الخامسة والستون" subchapter_title="سنة سبع وأربعين وستمائة" subsubchapter_title="السيل العظيم بالسلامية">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -271133,7 +271530,7 @@ l	foreign	l	_	_	l-2	l-2
 نفس	noun	نَفْس	_	_	نفس-n	نَفْس-n
 </s>
 </p>
-<p n="47.(852)" id="852" pages="278,279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والأربعون (سنة ٦٤١ - ٦٥٠)" chapter_title="الطبقة الخامسة والستون" subchapter_title="سنة خمس وأربعين وستمائة" subsubchapter_title="حرف العين -">
+<p n="47.(p852)" id="p852" pages="278,279,280" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد السابع والأربعون (سنة ٦٤١ - ٦٥٠)" chapter_title="الطبقة الخامسة والستون" subchapter_title="سنة خمس وأربعين وستمائة" subsubchapter_title="حرف العين -">
 <s>
 الشيخ	noun_prop	شَيْخ	_	_	الشيخ-o	شَيْخ-o
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -271905,7 +272302,7 @@ l	foreign	l	_	_	l-2	l-2
 للرحمن	noun_prop	رَحْمٰن	_	_	للرحمن-o	رَحْمٰن-o
 </s>
 </p>
-<p n="48.(853)" id="853" pages="16" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="الطبقة السادسة والستون" subchapter_title="سنة ثلاث وخمسين وستمائة" subsubchapter_title="السيل">
+<p n="48.(p853)" id="p853" pages="16" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="الطبقة السادسة والستون" subchapter_title="سنة ثلاث وخمسين وستمائة" subsubchapter_title="السيل">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -271929,7 +272326,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="48.(854)" id="854" pages="18,19,21,22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="الطبقة السادسة والستون" subchapter_title="سنة أربع وخمسين وستمائة" subsubchapter_title="ظهور النّار">
+<p n="48.(p854)" id="p854" pages="18,19,20,21,22" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="الطبقة السادسة والستون" subchapter_title="سنة أربع وخمسين وستمائة" subsubchapter_title="ظهور النّار">
 <s>
 قال	verb	قال	_	_	قال-v	قال-v
 أبو	noun_prop	أَبُو	_	_	أبو-o	أَبُو-o
@@ -273293,7 +273690,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="48.(855)" id="855" pages="238,239,240,241,242,243,244,245,246,247,248,249,250" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="المتوفون في هذه الطبقة" subchapter_title="سنة ست وخمسين وخمسمائة" subsubchapter_title="-‌‌ حرف الدال-">
+<p n="48.(p855)" id="p855" pages="238,239,240,241,242,243,244,245,246,247,248,249,250" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثامن والأربعون (سنة ٦٥١ - ٦٦٠)" chapter_title="المتوفون في هذه الطبقة" subchapter_title="سنة ست وخمسين وخمسمائة" subsubchapter_title="-‌‌ حرف الدال-">
 <s>
 -	punc	-	_	_	--x	--x
 داود	noun_prop	داوُد	_	_	داود-o	داوُد-o
@@ -276473,7 +276870,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="49.(856)" id="856" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة اثنتين وستين وستمائة" subsubchapter_title="الزلزلة">
+<p n="49.(p856)" id="p856" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة اثنتين وستين وستمائة" subsubchapter_title="الزلزلة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -276490,7 +276887,7 @@ l	foreign	l	_	_	l-2	l-2
 عظيمة	adj	عَظِيم	_	_	عظيمة-a	عَظِيم-a
 </s>
 </p>
-<p n="49.(857)" id="857" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة سبع وستين وستمائة" subsubchapter_title="هبوب ريح عظيمة">
+<p n="49.(p857)" id="p857" pages="46" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة سبع وستين وستمائة" subsubchapter_title="هبوب ريح عظيمة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -276520,7 +276917,7 @@ l	foreign	l	_	_	l-2	l-2
 الناس	noun	ناس	_	_	الناس-n	ناس-n
 </s>
 </p>
-<p n="49.(858)" id="858" pages="55,56" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة تسع وستين وستمائة" subsubchapter_title="السَّيل">
+<p n="49.(p858)" id="p858" pages="55,56" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة تسع وستين وستمائة" subsubchapter_title="السَّيل">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -276792,7 +277189,7 @@ l	foreign	l	_	_	l-2	l-2
 جواره	noun	جِوار	_	_	جواره-n	جِوار-n
 </s>
 </p>
-<p n="49.(859)" id="859" pages="59" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة تسع وستين وستمائة" subsubchapter_title="‌‌[غرق سفن المسلمين عند قبرس]">
+<p n="49.(p859)" id="p859" pages="59" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد التاسع والأربعون (سنة ٦٦١ - ٦٧٠)" chapter_title="الطبقة السابعة والستون" subchapter_title="سنة تسع وستين وستمائة" subsubchapter_title="‌‌[غرق سفن المسلمين عند قبرس]">
 <s>
 [	punc	[	_	_	[-x	[-x
 غرق	noun	غَرَق	_	_	غرق-n	غَرَق-n
@@ -276901,7 +277298,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="50.(860)" id="860" pages="52" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخمسون (سنة ٦٧١ - ٦٨٠)" chapter_title="الطبقة الثامنة والستين من «تاريخ الإسلام»" subchapter_title="سنة تسع وسبعين وستمائة" subsubchapter_title="البَرَد">
+<p n="50.(p860)" id="p860" pages="52" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخمسون (سنة ٦٧١ - ٦٨٠)" chapter_title="الطبقة الثامنة والستين من «تاريخ الإسلام»" subchapter_title="سنة تسع وسبعين وستمائة" subsubchapter_title="البَرَد">
 <s>
 [	punc	[	_	_	[-x	[-x
 البرد	noun	بَرْد	catastrophe	hail;cold	البرد-n	بَرْد-n
@@ -276925,7 +277322,7 @@ l	foreign	l	_	_	l-2	l-2
 القبلي	adj	قَبَلِيّ	place	Upper Egypt	القبلي-a	قَبَلِيّ-a
 </s>
 </p>
-<p n="50.(861)" id="861" pages="62" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخمسون (سنة ٦٧١ - ٦٨٠)" chapter_title="الطبقة الثامنة والستين من «تاريخ الإسلام»" subchapter_title="سنة ثمانين وستمائة" subsubchapter_title="[جفاف تربة">
+<p n="50.(p861)" id="p861" pages="62" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الخمسون (سنة ٦٧١ - ٦٨٠)" chapter_title="الطبقة الثامنة والستين من «تاريخ الإسلام»" subchapter_title="سنة ثمانين وستمائة" subsubchapter_title="[جفاف تربة">
 <s>
 [	punc	[	_	_	[-x	[-x
 [	punc	[	_	_	[-x	[-x
@@ -276956,7 +277353,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="51.(862)" id="862" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والخمسون (سنة ٦٨١ - ٦٩٠)" chapter_title="الطبقة التاسعة والستون" subchapter_title="سنة ثلاث وثمانين وستمائة" subsubchapter_title="السيل الهائل">
+<p n="51.(p862)" id="p862" pages="11" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والخمسون (سنة ٦٨١ - ٦٩٠)" chapter_title="الطبقة التاسعة والستون" subchapter_title="سنة ثلاث وثمانين وستمائة" subsubchapter_title="السيل الهائل">
 <s>
 [	punc	[	_	_	[-x	[-x
 السيل	noun	سَيْل	catastrophe	flood	السيل-n	سَيْل-n
@@ -277050,7 +277447,63 @@ l	foreign	l	_	_	l-2	l-2
 الغياط	noun	غَوْط	_	_	الغياط-n	غَوْط-n
 </s>
 </p>
-<p n="52.(863)" id="863" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="الطبقة السبعون" subchapter_title="سنة اثنتين وتسعين وستمائة" subsubchapter_title="مشقّة ركْب الحجَّاج">
+<p n="51.(-)" id="-" pages="12" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الحادي والخمسون (سنة ٦٨١ - ٦٩٠)" chapter_title="الطبقة التاسعة والستون" subchapter_title="سنة ثلاث وثمانين وستمائة" subsubchapter_title="زيادة المطر بالصالحية">
+<s>
+[	punc	[	_	_	[-x	[-x
+زيادة	noun	زِيادَة	_	_	زيادة-n	زِيادَة-n
+المطر	noun	مَطَر	_	_	المطر-n	مَطَر-n
+بالصالحيه	noun_prop	بالصالحيه	_	_	بالصالحيه-o	بالصالحيه-o
+]	punc	]	_	_	]-x	]-x
+وجاءت	verb	جاء	_	_	وجاءت-v	جاء-v
+بعدها	noun	بُعْد	_	_	بعدها-n	بُعْد-n
+بأيام	noun	يَوْم	_	_	بأيام-n	يَوْم-n
+يسيره	verb	سار	_	_	يسيره-v	سار-v
+زيادة	noun	زِيادَة	_	_	زيادة-n	زِيادَة-n
+أخرى	adj	أُخْرَى	_	_	أخرى-a	أُخْرَى-a
+بدعت	verb	بَدَع	_	_	بدعت-v	بَدَع-v
+في	prep	فِي	_	_	في-p	فِي-p
+جبل	noun	جَبَل	_	_	جبل-n	جَبَل-n
+الصالحيه	noun_prop	الصالحيه	_	_	الصالحيه-o	الصالحيه-o
+.	punc	.	_	_	.-x	.-x
+وحدث	noun	حَدَث	_	_	وحدث-n	حَدَث-n
+في	prep	فِي	_	_	في-p	فِي-p
+الأرض	noun	أَرْض	_	_	الأرض-n	أَرْض-n
+أودية	noun	وادِي	_	_	أودية-n	وادِي-n
+،	punc	،	_	_	،-x	،-x
+وجرت	verb	جَرَى	_	_	وجرت-v	جَرَى-v
+الحجارة	noun	حَجّار	_	_	الحجارة-n	حَجّار-n
+الجمالية	adj	جَمالِيّ	_	_	الجمالية-a	جَمالِيّ-a
+،	punc	،	_	_	،-x	،-x
+وانطمت	verb	ٱِنْطَمّ	_	_	وانطمت-v	ٱِنْطَمّ-v
+الأنهار	noun	نَهْر	_	_	الأنهار-n	نَهْر-n
+،	punc	،	_	_	،-x	،-x
+وسخروا	verb	سَخَّر	_	_	وسخروا-v	سَخَّر-v
+العامة	adj	عامّ	_	_	العامة-a	عامّ-a
+للعمل	noun	عَمَل	_	_	للعمل-n	عَمَل-n
+في	prep	فِي	_	_	في-p	فِي-p
+الأنهار	noun	نَهْر	_	_	الأنهار-n	نَهْر-n
+عند	noun	عِنْد	_	_	عند-n	عِنْد-n
+الربوة	noun	رَبْوَة	_	_	الربوة-n	رَبْوَة-n
+،	punc	،	_	_	،-x	،-x
+وطلعت	verb	طَلَع	_	_	وطلعت-v	طَلَع-v
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+الربوة	noun	رَبْوَة	_	_	الربوة-n	رَبْوَة-n
+يوميذ	noun_prop	يوميذ	_	_	يوميذ-o	يوميذ-o
+مع	prep	مَع	_	_	مع-p	مَع-p
+أبي	noun_prop	أَبِي	_	_	أبي-o	أَبِي-o
+،	punc	،	_	_	،-x	،-x
+فطلع	verb	طَلَع	_	_	فطلع-v	طَلَع-v
+بنا	prep	بِ	_	_	بنا-p	بِ-p
+إلى	prep	إِلَى	_	_	إلى-p	إِلَى-p
+فوق	noun	فَوْق	_	_	فوق-n	فَوْق-n
+ألجنك	verb	لَجِن	_	_	ألجنك-v	لَجِن-v
+ولم	part_neg	لَم	_	_	ولم-e	لَم-e
+يعمل	verb	عَمِل	_	_	يعمل-v	عَمِل-v
+شييا	noun_prop	شييا	_	_	شييا-o	شييا-o
+.	punc	.	_	_	.-x	.-x
+</s>
+</p>
+<p n="52.(p863)" id="p863" pages="21" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="الطبقة السبعون" subchapter_title="سنة اثنتين وتسعين وستمائة" subsubchapter_title="مشقّة ركْب الحجَّاج">
 <s>
 مشقة	noun	مَشَقَّة	_	_	مشقة-n	مَشَقَّة-n
 ركب	noun	رَكْب	_	_	ركب-n	رَكْب-n
@@ -277067,7 +277520,7 @@ l	foreign	l	_	_	l-2	l-2
 ومشقة	noun	مَشَقَّة	_	_	ومشقة-n	مَشَقَّة-n
 </s>
 </p>
-<p n="52.(864)" id="864" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="الطبقة السبعون" subchapter_title="سنة اثنتين وتسعين وستمائة" subsubchapter_title="‌‌الزلزلة">
+<p n="52.(p864)" id="p864" pages="23" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="الطبقة السبعون" subchapter_title="سنة اثنتين وتسعين وستمائة" subsubchapter_title="‌‌الزلزلة">
 <s>
 الزلزلة	noun	زَلْزَلَة	catastrophe	earthquake	الزلزلة-n	زَلْزَلَة-n
 بفلسطين	noun_prop	فِلَسْطِين	place	Palestine	بفلسطين-o	فِلَسْطِين-o
@@ -277102,7 +277555,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="52.(865)" id="865" pages="82,83" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="المجلد الثاني (المغازى)" subchapter_title="سنة اثنتين في صفرها:" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="52.(p865)" id="p865" pages="82,83" book_title="Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-al-Aʿlām" section_title="المجلد الثاني والخمسون (سنة ٦٩١- ٧٠٠)" chapter_title="المجلد الثاني (المغازى)" subchapter_title="سنة اثنتين في صفرها:" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 وعاد	verb	عاد	_	_	وعاد-v	عاد-v
 الشيخ	noun_prop	شَيْخ	_	_	الشيخ-o	شَيْخ-o
@@ -277236,7 +277689,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="adab" n="9" book_title="al-Mudhish">
-<p n="9.(866)" id="866" pages="32,33,34" book_title="al-Mudhish" section_title="فصل في المقدم والمؤخر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="9.(p866)" id="p866" pages="32,33,34" book_title="al-Mudhish" section_title="فصل في المقدم والمؤخر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 هي	pron	هِيَ	_	_	هي-f	هِيَ-f
 في	prep	فِي	_	_	في-p	فِي-p
@@ -278024,7 +278477,7 @@ l	foreign	l	_	_	l-2	l-2
 }	punc	}	_	_	}-x	}-x
 </s>
 </p>
-<p n="(867)" id="867" pages="70,71,72,73,74,75" book_title="al-Mudhish" section_title="‌‌فصل في الجدوب وعموم الموت" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p867)" id="p867" pages="70,71,72,73,74,75" book_title="al-Mudhish" section_title="‌‌فصل في الجدوب وعموم الموت" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 أجدبت	verb	أَجْدَب	_	_	أجدبت-v	أَجْدَب-v
 الأرض	noun	أَرْض	_	_	الأرض-n	أَرْض-n
@@ -279198,7 +279651,7 @@ l	foreign	l	_	_	l-2	l-2
 بعضه	noun	عَضّ	_	_	بعضه-n	عَضّ-n
 </s>
 </p>
-<p n="(868)" id="868" pages="82,83" book_title="al-Mudhish" section_title="الفصل الرابع في قصة عاد" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p868)" id="p868" pages="82,83" book_title="al-Mudhish" section_title="الفصل الرابع في قصة عاد" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 لما	pron_rel	ما	_	_	لما-g	ما-g
 تجبر	verb	أَجْبَر	_	_	تجبر-v	أَجْبَر-v
@@ -279450,7 +279903,7 @@ l	foreign	l	_	_	l-2	l-2
 كاف	noun	كافِي	_	_	كاف-n	كافِي-n
 </s>
 </p>
-<p n="(869)" id="869" pages="100" book_title="al-Mudhish" section_title="الفصل الثاني عشر في قصة شعيب عليه السلام" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p869)" id="p869" pages="100" book_title="al-Mudhish" section_title="الفصل الثاني عشر في قصة شعيب عليه السلام" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 الفصل	noun	فَصْل	_	_	الفصل-n	فَصْل-n
 الثاني	adj	ثانِي	_	_	الثاني-a	ثانِي-a
@@ -279628,7 +280081,7 @@ l	foreign	l	_	_	l-2	l-2
 أعمالهم	noun	عَمَل	_	_	أعمالهم-n	عَمَل-n
 </s>
 </p>
-<p n="(870)" id="870" pages="121,122" book_title="al-Mudhish" section_title="‌‌الفصل الثاني والعشرون في قصة أهل الكهف" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p870)" id="p870" pages="121,122" book_title="al-Mudhish" section_title="‌‌الفصل الثاني والعشرون في قصة أهل الكهف" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 كان	verb	كان	_	_	كان-v	كان-v
 رقم	noun	رَقْم	_	_	رقم-n	رَقْم-n
@@ -280034,7 +280487,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(871)" id="871" pages="159,160,161,162" book_title="al-Mudhish" section_title="‌‌الفصل السادس" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p871)" id="p871" pages="159,160,161,162" book_title="al-Mudhish" section_title="‌‌الفصل السادس" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 انتبهوا	verb	ٱِنْتَبَه	_	_	انتبهوا-v	ٱِنْتَبَه-v
@@ -280937,7 +281390,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(872)" id="872" pages="185" book_title="al-Mudhish" section_title="الفصل الثاني عشر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p872)" id="p872" pages="185" book_title="al-Mudhish" section_title="الفصل الثاني عشر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 (	punc	(	_	_	(-x	(-x
 لقيس	verb	قَيَّس	_	_	لقيس-v	قَيَّس-v
@@ -281061,7 +281514,7 @@ l	foreign	l	_	_	l-2	l-2
 العوز	noun	عَوَز	_	_	العوز-n	عَوَز-n
 </s>
 </p>
-<p n="(873)" id="873" pages="202,203,204,205" book_title="al-Mudhish" section_title="الفصل السابع عشر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p873)" id="p873" pages="202,203,204,205" book_title="al-Mudhish" section_title="الفصل السابع عشر" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 الدنيا	noun	دُنْيا	_	_	الدنيا-n	دُنْيا-n
 دار	noun	دار	_	_	دار-n	دار-n
@@ -282179,7 +282632,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(874)" id="874" pages="294" book_title="al-Mudhish" section_title="الفصل الأربعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p874)" id="p874" pages="294" book_title="al-Mudhish" section_title="الفصل الأربعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 (	punc	(	_	_	(-x	(-x
 أرضينا	noun	أَرْض	_	_	أرضينا-n	أَرْض-n
@@ -282271,7 +282724,7 @@ l	foreign	l	_	_	l-2	l-2
 نحس	verb	حَسِس	catastrophe	misfortune	نحس-v	حَسِس-v
 </s>
 </p>
-<p n="(875)" id="875" pages="334,335,336,337" book_title="al-Mudhish" section_title="‌‌الفصل الحادي والخمسون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p875)" id="p875" pages="334,335,336,337" book_title="al-Mudhish" section_title="‌‌الفصل الحادي والخمسون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 أين	adv_interrog	أَيْنَ	_	_	أين-i	أَيْنَ-i
 اللاهون	noun	لاهِي	_	_	اللاهون-n	لاهِي-n
@@ -283159,7 +283612,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="82.(876)" id="876" pages="357,358,359,360" book_title="al-Mudhish" section_title="الفصل الثاني والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="82.(p876)" id="p876" pages="357,358,359,360" book_title="al-Mudhish" section_title="الفصل الثاني والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 عجبا	noun	عَجَب	_	_	عجبا-n	عَجَب-n
 لمن	pron_rel	مَن	_	_	لمن-g	مَن-g
@@ -284130,7 +284583,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(877)" id="877" pages="367,368,369,370" book_title="al-Mudhish" section_title="‌‌الفصل الستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p877)" id="p877" pages="367,368,369,370" book_title="al-Mudhish" section_title="‌‌الفصل الستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 تفكروا	verb	فَكَّر	_	_	تفكروا-v	فَكَّر-v
@@ -285102,7 +285555,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(878)" id="878" pages="379,380,381,382" book_title="al-Mudhish" section_title="‌‌الفصل الثالث والستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p878)" id="p878" pages="379,380,381,382" book_title="al-Mudhish" section_title="‌‌الفصل الثالث والستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 يا	part_voc	يا	_	_	يا-m	يا-m
 هذا	pron_dem	هٰذا	_	_	هذا-t	هٰذا-t
@@ -285918,7 +286371,7 @@ l	foreign	l	_	_	l-2	l-2
 }	punc	}	_	_	}-x	}-x
 </s>
 </p>
-<p n="(879)" id="879" pages="481,482,483,484" book_title="al-Mudhish" section_title="الفصل الثامن والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p879)" id="p879" pages="481,482,483,484" book_title="al-Mudhish" section_title="الفصل الثامن والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 أيام	noun	يَوْم	_	_	أيام-n	يَوْم-n
@@ -286786,7 +287239,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(880)" id="880" pages="389" book_title="al-Mudhish" section_title="الفصل الخامس والستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p880)" id="p880" pages="389" book_title="al-Mudhish" section_title="الفصل الخامس والستون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 كان	verb	كان	_	_	كان-v	كان-v
 لبان	verb	بان	_	_	لبان-v	بان-v
@@ -286848,7 +287301,7 @@ l	foreign	l	_	_	l-2	l-2
 أظلم	verb	ٱِظَّلَم	_	_	أظلم-v	ٱِظَّلَم-v
 </s>
 </p>
-<p n="(881)" id="881" pages="473,474,475,476" book_title="al-Mudhish" section_title="الفصل السادس والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p881)" id="p881" pages="473,474,475,476" book_title="al-Mudhish" section_title="الفصل السادس والثمانون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 المفروح	noun_prop	المفروح	_	_	المفروح-o	المفروح-o
@@ -287883,7 +288336,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(882)" id="882" pages="489,490,491,492" book_title="al-Mudhish" section_title="‌‌الفصل التسعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p882)" id="p882" pages="489,490,491,492" book_title="al-Mudhish" section_title="‌‌الفصل التسعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 إلا	part	إِلّا	_	_	إلا-h	إِلّا-h
@@ -288813,7 +289266,7 @@ l	foreign	l	_	_	l-2	l-2
 العفو	noun	عَفْو	_	_	العفو-n	عَفْو-n
 </s>
 </p>
-<p n="(883)" id="883" pages="497" book_title="al-Mudhish" section_title="الفصل الحادي والتسعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p883)" id="p883" pages="497" book_title="al-Mudhish" section_title="الفصل الحادي والتسعون" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 فيقال	verb	قال	_	_	فيقال-v	قال-v
 لو	conj	لَو	_	_	لو-c	لَو-c
@@ -288923,7 +289376,7 @@ l	foreign	l	_	_	l-2	l-2
 الظلم	noun	ظُلْم	_	_	الظلم-n	ظُلْم-n
 </s>
 </p>
-<p n="(884)" id="884" pages="513,514,515,516" book_title="al-Mudhish" section_title="‌‌الفصل السادس والتسعون‌‌" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p884)" id="p884" pages="513,514,515,516" book_title="al-Mudhish" section_title="‌‌الفصل السادس والتسعون‌‌" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 يا	part_voc	يا	_	_	يا-m	يا-m
 من	prep	مِن	_	_	من-p	مِن-p
@@ -290032,7 +290485,7 @@ l	foreign	l	_	_	l-2	l-2
 )	punc	)	_	_	)-x	)-x
 </s>
 </p>
-<p n="(885)" id="885" pages="533,534,535" book_title="al-Mudhish" section_title="‌‌الفصل الأول" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="(p885)" id="p885" pages="533,534,535" book_title="al-Mudhish" section_title="‌‌الفصل الأول" chapter_title="بَاب كلا" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 إخواني	noun	إِخْوَة	_	_	إخواني-n	إِخْوَة-n
 الموت	noun	مَوْت	_	_	الموت-n	مَوْت-n
@@ -290709,7 +291162,7 @@ l	foreign	l	_	_	l-2	l-2
 </p>
 </book>
 <text type="book" book_type="adab" n="10" book_title="Rasāʾil al-Jāḥiẓ">
-<p n="1.(886)" id="886" pages="49,50,51" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 1" chapter_title="الرسالة الأولى مناقب الترك" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="1.(p886)" id="p886" pages="49,50,51" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 1" chapter_title="الرسالة الأولى مناقب الترك" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 وأن	conj_sub	أَنَّ	_	_	وأن-k	أَنَّ-k
 كنت	verb	كان	_	_	كنت-v	كان-v
@@ -291041,7 +291494,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(887)" id="887" pages="206,207,208" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 3" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="1.(p887)" id="p887" pages="206,207,208" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 3" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 ولو	conj	لَو	_	_	ولو-c	لَو-c
 حصلت	verb	حَصَل	_	_	حصلت-v	حَصَل-v
@@ -291535,7 +291988,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(888)" id="888" pages="266,267,268,269" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 3" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="1.(p888)" id="p888" pages="266,267,268,269" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 3" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 فصل	noun	فَصْل	_	_	فصل-n	فَصْل-n
 منه	prep	مِن	_	_	منه-p	مِن-p
@@ -292115,7 +292568,7 @@ l	foreign	l	_	_	l-2	l-2
 .	punc	.	_	_	.-x	.-x
 </s>
 </p>
-<p n="1.(889)" id="889" pages="128,129,130,131" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 4" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
+<p n="1.(p889)" id="p889" pages="128,129,130,131" book_title="Rasāʾil al-Jāḥiẓ" section_title="Book 4" chapter_title="الرسالة السابعة عشرة رسالة الحنين إلى الأوطان" subsubchapter_title="‌‌خيانة شيخ المشايخ">
 <s>
 فصل	noun	فَصْل	_	_	فصل-n	فَصْل-n
 منه	prep	مِن	_	_	منه-p	مِن-p
